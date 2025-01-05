@@ -1,0 +1,5260 @@
+{
+  "data": [
+    {
+      "id": 700121300101001,
+      "value": "Clear B10 of the Chaos of the Corrupted."
+    },
+    {
+      "id": 700121300101002,
+      "value": "Clear B30 of the Chaos of the Corrupted."
+    },
+    {
+      "id": 700121300101003,
+      "value": "Clear B50 of the Chaos of the Corrupted."
+    },
+    {
+      "id": 700121300101004,
+      "value": "Clear B70 of the Chaos of the Corrupted."
+    },
+    {
+      "id": 700121300101005,
+      "value": "Clear B100 of the Chaos of the Corrupted."
+    },
+    {
+      "id": 700121300201001,
+      "value": "Clear B10 of the Chaos of the Corrupted (Brutal)."
+    },
+    {
+      "id": 700121300201002,
+      "value": "Clear B20 of the Chaos of the Corrupted (Brutal)."
+    },
+    {
+      "id": 700121300201003,
+      "value": "Clear B30 of the Chaos of the Corrupted (Brutal)."
+    },
+    {
+      "id": 701000100001001,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000100001002,
+      "value": "Enhance materia {0} time(s)."
+    },
+    {
+      "id": 701000100001003,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000100001004,
+      "value": "Raise Cloud to Lv. {0}."
+    },
+    {
+      "id": 701000100001005,
+      "value": "Raise Barret to Lv. {0}."
+    },
+    {
+      "id": 701000100001006,
+      "value": "Raise Tifa to Lv. {0}."
+    },
+    {
+      "id": 701000100001007,
+      "value": "Raise Aerith to Lv. {0}."
+    },
+    {
+      "id": 701000100001008,
+      "value": "Raise Red XIII to Lv. {0}."
+    },
+    {
+      "id": 701000100001009,
+      "value": "Raise Zack to Lv. {0}."
+    },
+    {
+      "id": 701000100001010,
+      "value": "Unlock {0} node(s) in Cloud's character stream."
+    },
+    {
+      "id": 701000100001011,
+      "value": "Unlock {0} node(s) in Barret's character stream."
+    },
+    {
+      "id": 701000100001012,
+      "value": "Unlock {0} node(s) in Tifa's character stream."
+    },
+    {
+      "id": 701000100001013,
+      "value": "Unlock {0} node(s) in Aerith's character stream."
+    },
+    {
+      "id": 701000100001014,
+      "value": "Unlock {0} node(s) in Red XIII's character stream."
+    },
+    {
+      "id": 701000100001015,
+      "value": "Unlock {0} node(s) in Zack's character stream."
+    },
+    {
+      "id": 701000100001018,
+      "value": "Obtain {0} summon(s) by clearing missions."
+    },
+    {
+      "id": 701000100001019,
+      "value": "Obtain {0} weapon type(s)."
+    },
+    {
+      "id": 701000100001021,
+      "value": "Participate in battle with a total power of {0} or more."
+    },
+    {
+      "id": 701000100001022,
+      "value": "Obtain {0} materia type(s)."
+    },
+    {
+      "id": 701000100001023,
+      "value": "Attempt Criterion Dungeons."
+    },
+    {
+      "id": 701000100001024,
+      "value": "Reach player Lv. {0}."
+    },
+    {
+      "id": 701000100001025,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 701000100001026,
+      "value": "Consume {0} stamina."
+    },
+    {
+      "id": 701000100001027,
+      "value": "Raise characters to reach a total level of {0}."
+    },
+    {
+      "id": 701000100001028,
+      "value": "Enhance weapons to reach a total level of {0}."
+    },
+    {
+      "id": 701000100001029,
+      "value": "Obtain {0} type(s) of Profile Pieces."
+    },
+    {
+      "id": 701000100001030,
+      "value": "Raise Glenn to Lv. {0}."
+    },
+    {
+      "id": 701000100001031,
+      "value": "Raise Matt to Lv. {0}."
+    },
+    {
+      "id": 701000100001032,
+      "value": "Raise Lucia to Lv. {0}."
+    },
+    {
+      "id": 701000100001033,
+      "value": "Unlock {0} node(s) in Glenn's character stream."
+    },
+    {
+      "id": 701000100001034,
+      "value": "Unlock {0} node(s) in Matt s character stream."
+    },
+    {
+      "id": 701000100001035,
+      "value": "Unlock {0} node(s) in Lucia's character stream."
+    },
+    {
+      "id": 701000100001036,
+      "value": "Raise Sephiroth to Lv. {0}."
+    },
+    {
+      "id": 701000100001037,
+      "value": "Unlock {0} node(s) in Sephiroth's character stream."
+    },
+    {
+      "id": 701000100001038,
+      "value": "Raise Yuffie to Lv. {0}."
+    },
+    {
+      "id": 701000100001039,
+      "value": "Unlock {0} node(s) in Yuffie's character stream."
+    },
+    {
+      "id": 701000100001040,
+      "value": "Raise Cait Sith to Lv. {0}."
+    },
+    {
+      "id": 701000100001041,
+      "value": "Unlock {0} node(s) in Cait Sith's character stream."
+    },
+    {
+      "id": 701000100001042,
+      "value": "Raise Vincent to Lv. {0}."
+    },
+    {
+      "id": 701000100001043,
+      "value": "Unlock {0} node(s) in Vincent's character stream."
+    },
+    {
+      "id": 701000100001046,
+      "value": "Raise Angeal to Lv. {0}."
+    },
+    {
+      "id": 701000100001047,
+      "value": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    {
+      "id": 701000100001048,
+      "value": "Obtain a score of {0} or higher in Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=135>)."
+    },
+    {
+      "id": 701000100001049,
+      "value": "Obtain a score of {0} or higher in Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=133>)."
+    },
+    {
+      "id": 701000100001050,
+      "value": "Obtain a score of {0} or higher in Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=131>)."
+    },
+    {
+      "id": 701000100001051,
+      "value": "Obtain a score of {0} or higher in Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=136>)."
+    },
+    {
+      "id": 701000100001052,
+      "value": "Obtain a score of {0} or higher in Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=130>)."
+    },
+    {
+      "id": 701000100001053,
+      "value": "Obtain a score of {0} or higher in Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=129>)."
+    },
+    {
+      "id": 701000100001054,
+      "value": "Obtain a score of {0} or higher in Damage Challenge (Weakness: None)."
+    },
+    {
+      "id": 701000110001007,
+      "value": "Raise Murasame's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110001020,
+      "value": "Raise Maritime Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110001025,
+      "value": "Raise Bandaged Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110001028,
+      "value": "Raise Skysplitter's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110001029,
+      "value": "Raise Zidane's Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110001039,
+      "value": "Raise Holiday Blade's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110002017,
+      "value": "Raise Electrocannon's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110002018,
+      "value": "Raise Heavy Hauser's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110003019,
+      "value": "Raise Lifeguard Wraps's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110003020,
+      "value": "Raise Feathered Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110003025,
+      "value": "Raise Holy Flame Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110003027,
+      "value": "Raise Amarant's Claws's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110003028,
+      "value": "Raise Bunny Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110003031,
+      "value": "Raise Guide Gloves' rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110003033,
+      "value": "Raise Shell Knuckles's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110004007,
+      "value": "Raise Prism Rod's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110004014,
+      "value": "Raise Sun Umbrella's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110004015,
+      "value": "Raise Floral Wand's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110004020,
+      "value": "Raise Snowflake's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110004022,
+      "value": "Raise Garnet's Rod's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110004023,
+      "value": "Raise Egg Staff's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110004028,
+      "value": "Raise Citric Wand's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110005023,
+      "value": "Raise Canyon Collar's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110005024,
+      "value": "Raise Pilot's Collar's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110005028,
+      "value": "Raise Seaside Collar's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110006005,
+      "value": "Raise Hawkeye's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110006014,
+      "value": "Raise Diner Tray's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110006015,
+      "value": "Raise Arctic Star's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110006019,
+      "value": "Raise Little Red Wreath's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110006026,
+      "value": "Raise Striped Moogle Float's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110006030,
+      "value": "Raise Holiday Bell's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110007019,
+      "value": "Raise Witch's Broom's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110007022,
+      "value": "Raise Flower Vase's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110008013,
+      "value": "Raise Kugelblitz's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110008015,
+      "value": "Raise Hugin & Munin's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110008016,
+      "value": "Raise Crow Familiar's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110008022,
+      "value": "Raise Holiday Garm's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110020011,
+      "value": "Raise Ceremonial Sword (Z)'s rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110020014,
+      "value": "Raise Pressure Ridge's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110020018,
+      "value": "Raise Twinkling Star's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110020019,
+      "value": "Raise Black Whiskers's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110049002,
+      "value": "Raise Edged Wings's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110049010,
+      "value": "Raise Tempest's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110049011,
+      "value": "Raise Shinra Military Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110049015,
+      "value": "Raise Dark Heavens's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110049016,
+      "value": "Raise Kuja's Spirit Blade's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110049017,
+      "value": "Raise Radiant Edge's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110049024,
+      "value": "Raise Blue Bramble's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110050016,
+      "value": "Raise Pumpkin Lamppost's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110051009,
+      "value": "Raise Killer Hornet's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110051012,
+      "value": "Raise Syringe Rapier's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110051026,
+      "value": "Raise Luminary Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110052013,
+      "value": "Raise Nightjar's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110052020,
+      "value": "Raise Holiday Revolver's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110052022,
+      "value": "Raise Rose Musket's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110052025,
+      "value": "Raise Marine Shooter's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000190100101,
+      "value": "Send a friend invitation."
+    },
+    {
+      "id": 701000190100201,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 701000190100301,
+      "value": "Participate in battle with a total power of {0} or more."
+    },
+    {
+      "id": 701000190100401,
+      "value": "Obtain a total of {0} gil."
+    },
+    {
+      "id": 701000190100501,
+      "value": "Clear {0} daily mission(s)."
+    },
+    {
+      "id": 701000190100601,
+      "value": "Clear {0} weekly mission(s)."
+    },
+    {
+      "id": 701000190100701,
+      "value": "Reach player Lv. {0}."
+    },
+    {
+      "id": 701000190100801,
+      "value": "Obtain {0} type(s) of Profile Pieces."
+    },
+    {
+      "id": 701000190100900,
+      "value": "Create a Co-op battle lobby."
+    },
+    {
+      "id": 701000190100901,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000190101101,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000190101301,
+      "value": "Successfully interrupt an enemy {0} time(s)."
+    },
+    {
+      "id": 701000190101401,
+      "value": "Deal {0} or more damage with one hit."
+    },
+    {
+      "id": 701000190101501,
+      "value": "Use summons a total of {0} time(s)."
+    },
+    {
+      "id": 701000190101601,
+      "value": "Use limit breaks a total of {0} time(s)."
+    },
+    {
+      "id": 701000190101901,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000190102001,
+      "value": "Obtain {0} materia type(s)."
+    },
+    {
+      "id": 701000190102101,
+      "value": "Create {0} materia of quality 3+."
+    },
+    {
+      "id": 701000190102102,
+      "value": "Create {0} materia of quality 5+."
+    },
+    {
+      "id": 701000190102201,
+      "value": "Obtain {0} weapon type(s)."
+    },
+    {
+      "id": 701000190102301,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000190102401,
+      "value": "Raise the rarity of a weapon to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000190102402,
+      "value": "Raise the rarity of {0} type(s) of weapons to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197>."
+    },
+    {
+      "id": 701000190102403,
+      "value": "Raise the rarity of {0} type(s) of weapons to <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198>."
+    },
+    {
+      "id": 701000190102404,
+      "value": "Perform a total of 20 Overboost+ on any weapon with a Rarity of 5<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> or higher."
+    },
+    {
+      "id": 701000190102501,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000190102701,
+      "value": "Perform any {0} draws."
+    },
+    {
+      "id": 701000190102801,
+      "value": "Obtain {0} type(s) of gear."
+    },
+    {
+      "id": 701000190190101,
+      "value": "Obtain Ace (Silver or Better) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190190201,
+      "value": "Crusher (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190190401,
+      "value": "Destroyer (Silver or Better) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190190501,
+      "value": "Bull's-Eye (Silver or Better) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190190601,
+      "value": "Healer (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190190701,
+      "value": "Medic (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190190801,
+      "value": "Berserker (Silver or Better) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190190901,
+      "value": "Fantasista (Silver or Better) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191001,
+      "value": "War Buddy (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191101,
+      "value": "Switch Hitter (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191201,
+      "value": "Commander (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191301,
+      "value": "Cheerleader (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191401,
+      "value": "Disrupter (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191501,
+      "value": "Iron Heart (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191601,
+      "value": "Intellectual (Silver+) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190191701,
+      "value": "Trickster (Silver or Better) {0} time(s) in Co-op battles."
+    },
+    {
+      "id": 701000190200101,
+      "value": "Clear the Guard Scorpion Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190200301,
+      "value": "Clear the Vajradhara Wu & Tai Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190200501,
+      "value": "Clear the Reno Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190200601,
+      "value": "Clear the Rufus Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190200701,
+      "value": "Clear the Airbuster Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190200801,
+      "value": "Clear the Specimen H0512 Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190200901,
+      "value": "Clear the Motor Ball Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201001,
+      "value": "Clear the Gallonbaloir Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201101,
+      "value": "Clear the Behemoth Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201201,
+      "value": "Clear the Blue Dragon Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201301,
+      "value": "Clear the Red Dragon Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201401,
+      "value": "Clear the Spooky Balloon Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201501,
+      "value": "Clear the Mad Anchor Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201601,
+      "value": "Clear the Mole Crawler Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201701,
+      "value": "Clear the Zetant Ratel Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190201901,
+      "value": "Clear the Armored Scorpion Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190202001,
+      "value": "Clear the Airbuster Prototype Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190202201,
+      "value": "Clear the Baloir King Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190202301,
+      "value": "Clear the Jenova・BIRTH Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190202401,
+      "value": "Clear the Yuffie Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190202501,
+      "value": "Clear the A-Rejector Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190203301,
+      "value": "Clear the Lost Number Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190203401,
+      "value": "Clear the Gi Nattak Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000190310000,
+      "value": "Clear FFVII CHAPTER 1 - MAIN SECTION 3 - EP1."
+    },
+    {
+      "id": 701000190310001,
+      "value": "Clear FFVII CHAPTER 1 - MAIN SECTION 3 - EP4."
+    },
+    {
+      "id": 701000190310002,
+      "value": "Clear FFVII CHAPTER 2 - MAIN SECTION 4 - EP2."
+    },
+    {
+      "id": 701000190310003,
+      "value": "Clear FFVII CHAPTER 3 - MAIN SECTION 3 - EP3."
+    },
+    {
+      "id": 701000190310004,
+      "value": "Clear FFVII CHAPTER 4 - MAIN SECTION 4 - EP1."
+    },
+    {
+      "id": 701000190310005,
+      "value": "Clear FFVII CHAPTER 5 - MAIN SECTION 3 - EP3."
+    },
+    {
+      "id": 701000190310006,
+      "value": "Clear FFVII CHAPTER 6 - MAIN SECTION 6 - EP3."
+    },
+    {
+      "id": 701000190310007,
+      "value": "Clear FFVII CHAPTER 7 - MAIN SECTION 4 - EP5."
+    },
+    {
+      "id": 701000190320000,
+      "value": "Clear CC FFVII CHAPTER 1 - MAIN SECTION 3 - EP3."
+    },
+    {
+      "id": 701000190320001,
+      "value": "Clear CC FFVII CHAPTER 1 - MAIN SECTION 3 - EP6."
+    },
+    {
+      "id": 701000190320003,
+      "value": "Clear CC FFVII CHAPTER 2 - MAIN SECTION 2 - EP6."
+    },
+    {
+      "id": 701000190320005,
+      "value": "Clear CC FFVII CHAPTER 3 - MAIN SECTION 3 - EP4."
+    },
+    {
+      "id": 701000190320007,
+      "value": "Clear CC FFVII CHAPTER 4 - MAIN SECTION 3 - EP2."
+    },
+    {
+      "id": 701000190320009,
+      "value": "Clear CC FFVII CHAPTER 5 - MAIN SECTION 3 - EP7."
+    },
+    {
+      "id": 701000190330000,
+      "value": "Clear FFVII FS CHAPTER 1 - MAIN SECTION 2 - EP1."
+    },
+    {
+      "id": 701000190330001,
+      "value": "Clear FFVII FS CHAPTER 1 - MAIN SECTION 4 - EP1."
+    },
+    {
+      "id": 701000190330002,
+      "value": "Clear FFVII FS CHAPTER 2 - MAIN SECTION 5 - EP1."
+    },
+    {
+      "id": 701000190330003,
+      "value": "Clear FFVII FS CHAPTER 3 - MAIN SECTION 4 - EP2."
+    },
+    {
+      "id": 701000190330004,
+      "value": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6."
+    },
+    {
+      "id": 701000190330009,
+      "value": "Clear FFVII FS CHAPTER 5 - MAIN SECTION 3 - EP3."
+    },
+    {
+      "id": 701000190330011,
+      "value": "Clear FFVII FS CHAPTER 6 - MAIN SECTION 3 - EP1."
+    },
+    {
+      "id": 701000190330013,
+      "value": "Clear FFVII FS CHAPTER 7 - MAIN SECTION 1 - EP4."
+    },
+    {
+      "id": 701000190330015,
+      "value": "Clear FFVII FS CHAPTER 8 - MAIN SECTION 3 - EP1."
+    },
+    {
+      "id": 701000190330017,
+      "value": "Clear FFVII FS2 CHAPTER 1 - BEYOND SECTION - EP3."
+    },
+    {
+      "id": 701000190330019,
+      "value": "Clear FFVII FS2 CHAPTER 2 - BEYOND SECTION - EP3."
+    },
+    {
+      "id": 701000190500001,
+      "value": "Clear Criterion Dungeon: Mako Reactor 1 - Area 1."
+    },
+    {
+      "id": 701000190500002,
+      "value": "Clear Criterion Dungeon: Fort Tamblin - Area 1."
+    },
+    {
+      "id": 701000190500003,
+      "value": "Clear Criterion Dungeon: La'paina Coast - Area 1."
+    },
+    {
+      "id": 701000190500100,
+      "value": "Clear Crisis Dungeon Mako Reactor 1 - Normal."
+    },
+    {
+      "id": 701000190500101,
+      "value": "Clear Crisis Dungeon: Mako Reactor 1 - Very Hard."
+    },
+    {
+      "id": 701000190500200,
+      "value": "Clear Crisis Dungeon Fort Tamblin - Normal."
+    },
+    {
+      "id": 701000190500201,
+      "value": "Clear Crisis Dungeon: Fort Tamblin - Very Hard."
+    },
+    {
+      "id": 701000190500301,
+      "value": "Clear Crisis Dungeon: La'paina Coast - Normal."
+    },
+    {
+      "id": 701000190500302,
+      "value": "Clear Crisis Dungeon: La'paina Coast - Very Hard."
+    },
+    {
+      "id": 701000190500401,
+      "value": "Clear Crisis Dungeon Shinra Building - Very Hard."
+    },
+    {
+      "id": 701000190500501,
+      "value": "Clear Crisis Dungeon Padapili Sea Cave - Very Hard."
+    },
+    {
+      "id": 701000190500601,
+      "value": "Clear Crisis Dungeon Logues Ruins - Very Hard."
+    },
+    {
+      "id": 701000190500701,
+      "value": "Clear Crisis Dungeon Sunsin Cave - Very Hard."
+    },
+    {
+      "id": 701000190500801,
+      "value": "Clear Crisis Dungeon Mt. Nibel - Very Hard."
+    },
+    {
+      "id": 701000190500901,
+      "value": "Clear Crisis Dungeon Cawpine Caverns - Very Hard."
+    },
+    {
+      "id": 701000190501001,
+      "value": "Clear Crisis Dungeon Abandoned Factory - Very Hard."
+    },
+    {
+      "id": 701000190501101,
+      "value": "Clear Crisis Dungeon Mythril Mine - Very Hard."
+    },
+    {
+      "id": 701000190501201,
+      "value": "Clear Crisis Dungeon Grastia Path - Very Hard."
+    },
+    {
+      "id": 701000190501301,
+      "value": "Clear Crisis Dungeon Hanaja Hill - Very Hard."
+    },
+    {
+      "id": 701000190501401,
+      "value": "Clear Crisis Dungeon Corel Prison - Very Hard."
+    },
+    {
+      "id": 701000190501501,
+      "value": "Clear Crisis Dungeon Sector 5 - Very Hard."
+    },
+    {
+      "id": 701000190501601,
+      "value": "Clear Crisis Dungeon Cave of the Gi - Very Hard."
+    },
+    {
+      "id": 701000190501701,
+      "value": "Clear Crisis Dungeon Hojo's Laboratory - Very Hard."
+    },
+    {
+      "id": 701000190501801,
+      "value": "Clear Crisis Dungeon Robio - Very Hard."
+    },
+    {
+      "id": 701000190501901,
+      "value": "Clear Crisis Dungeon Modeoheim - Very Hard."
+    },
+    {
+      "id": 701000190502001,
+      "value": "Clear Crisis Dungeon Igara Forbidden Zone - Very Hard."
+    },
+    {
+      "id": 701000190600101,
+      "value": "Raise Cloud to Lv. {0}."
+    },
+    {
+      "id": 701000190600201,
+      "value": "Raise Barret to Lv. {0}."
+    },
+    {
+      "id": 701000190600301,
+      "value": "Raise Tifa to Lv. {0}."
+    },
+    {
+      "id": 701000190600401,
+      "value": "Raise Aerith to Lv. {0}."
+    },
+    {
+      "id": 701000190600501,
+      "value": "Raise Red XIII to Lv. {0}."
+    },
+    {
+      "id": 701000190602001,
+      "value": "Raise Zack to Lv. {0}."
+    },
+    {
+      "id": 701000190604901,
+      "value": "Raise Sephiroth to Lv. {0}."
+    },
+    {
+      "id": 701000190605001,
+      "value": "Raise Glenn to Lv. {0}."
+    },
+    {
+      "id": 701000190605101,
+      "value": "Raise Matt to Lv. {0}."
+    },
+    {
+      "id": 701000190605201,
+      "value": "Raise Lucia to Lv. {0}."
+    },
+    {
+      "id": 701000190700101,
+      "value": "Acquire Blade Beam from a character stream."
+    },
+    {
+      "id": 701000190700102,
+      "value": "Acquire Climhazzard from a character stream."
+    },
+    {
+      "id": 701000190700201,
+      "value": "Acquire Mindblow from a character stream."
+    },
+    {
+      "id": 701000190700202,
+      "value": "Acquire Satellite Beam from a character stream."
+    },
+    {
+      "id": 701000190700301,
+      "value": "Acquire Waterkick from a character stream."
+    },
+    {
+      "id": 701000190700302,
+      "value": "Acquire Dolphin Blow from a character stream."
+    },
+    {
+      "id": 701000190700401,
+      "value": "Acquire Seal Evil from a character stream."
+    },
+    {
+      "id": 701000190700402,
+      "value": "Acquire Breath of the Earth from a character stream."
+    },
+    {
+      "id": 701000190700501,
+      "value": "Acquire Lunatic High from a character stream."
+    },
+    {
+      "id": 701000190700502,
+      "value": "Acquire Stardust Ray from a character stream."
+    },
+    {
+      "id": 701000190700601,
+      "value": "Acquire Clear Tranquil from a character stream."
+    },
+    {
+      "id": 701000190700602,
+      "value": "Acquire Landscaper from a character stream."
+    },
+    {
+      "id": 701000190700701,
+      "value": "Acquire Toy Box from a character stream."
+    },
+    {
+      "id": 701000190700702,
+      "value": "Acquire Moogle Dance from a character stream."
+    },
+    {
+      "id": 701000190700801,
+      "value": "Acquire Beast Flare from a character stream."
+    },
+    {
+      "id": 701000190700802,
+      "value": "Acquire Chaos Rampage from a character stream."
+    },
+    {
+      "id": 701000190702001,
+      "value": "Acquire Meteor Shots from a character stream."
+    },
+    {
+      "id": 701000190702002,
+      "value": "Acquire Apocalypse from a character stream."
+    },
+    {
+      "id": 701000190704901,
+      "value": "Acquire Ardent Flare from a character stream."
+    },
+    {
+      "id": 701000190704902,
+      "value": "Acquire Heliacal Rising from a character stream."
+    },
+    {
+      "id": 701000190705001,
+      "value": "Acquire Stage of Defeat from a character stream."
+    },
+    {
+      "id": 701000190705002,
+      "value": "Acquire Hell on Wheels from a character stream."
+    },
+    {
+      "id": 701000190705101,
+      "value": "Acquire Gigantic Shield from a character stream."
+    },
+    {
+      "id": 701000190705102,
+      "value": "Acquire Vanquishing X from a character stream."
+    },
+    {
+      "id": 701000190705201,
+      "value": "Acquire Cerulean Raven from a character stream."
+    },
+    {
+      "id": 701000190705202,
+      "value": "Acquire Cheering Shots from a character stream."
+    },
+    {
+      "id": 701000190705601,
+      "value": "Acquire Serit Arbores from a character stream."
+    },
+    {
+      "id": 701000190705602,
+      "value": "Acquire Ad Astra from a character stream."
+    },
+    {
+      "id": 701000190800101,
+      "value": "Unlock {0} node(s) in Ifrit's summon stream."
+    },
+    {
+      "id": 701000190800201,
+      "value": "Unlock {0} node(s) in Shiva's summon stream."
+    },
+    {
+      "id": 701000190800301,
+      "value": "Unlock {0} node(s) in Leviathan's summon stream."
+    },
+    {
+      "id": 701000190800601,
+      "value": "Unlock {0} node(s) in Bahamut's summon stream."
+    },
+    {
+      "id": 701000190801001,
+      "value": "Unlock {0} node(s) in Ramuh's summon stream."
+    },
+    {
+      "id": 701000190801101,
+      "value": "Unlock {0} node(s) in Titan's summon stream."
+    },
+    {
+      "id": 701000190805101,
+      "value": "Unlock {0} node(s) in Ifrit & Bahamut's summon stream."
+    },
+    {
+      "id": 701000190805201,
+      "value": "Acquire Icy Judgment from a summon stream."
+    },
+    {
+      "id": 701000190900101,
+      "value": "Acquire Radiant Plume from a summon stream."
+    },
+    {
+      "id": 701000190900102,
+      "value": "Raise Hellfire to Lv. {0}."
+    },
+    {
+      "id": 701000190900103,
+      "value": "Raise Eligor Gun to Lv. {0}."
+    },
+    {
+      "id": 701000190900104,
+      "value": "Raise Eligor Rifle to Lv. {0}."
+    },
+    {
+      "id": 701000190900201,
+      "value": "Acquire Whiteout from a summon stream."
+    },
+    {
+      "id": 701000190900203,
+      "value": "Raise Diamond Dust to Lv. {0}."
+    },
+    {
+      "id": 701000190900301,
+      "value": "Acquire Briny Bellow from a summon stream."
+    },
+    {
+      "id": 701000190900302,
+      "value": "Raise Tidal Wave to Lv. {0}."
+    },
+    {
+      "id": 701000190900601,
+      "value": "Acquire Megaflare from a summon stream."
+    },
+    {
+      "id": 701000190901001,
+      "value": "Acquire Thunderlance from a summon stream."
+    },
+    {
+      "id": 701000190901002,
+      "value": "Raise Judgment Bolt to Lv. {0}."
+    },
+    {
+      "id": 701000190901101,
+      "value": "Acquire Earthen Fury from a summon stream."
+    },
+    {
+      "id": 701000190901102,
+      "value": "Raise Earthen Fury to Lv. {0}."
+    },
+    {
+      "id": 701000190905101,
+      "value": "Acquire Crimson Flare from a summon stream."
+    },
+    {
+      "id": 701000190905201,
+      "value": "Acquire Thunder Blizzard from a summon stream."
+    },
+    {
+      "id": 701000191000011,
+      "value": "Clear B30 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000191000012,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000191000013,
+      "value": "Clear B70 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000191000014,
+      "value": "Clear B90 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000191000015,
+      "value": "Clear B100 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000191000021,
+      "value": "Clear B{0} of The Amber Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000191000031,
+      "value": "Clear B{0} of The Cerulean Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000191000041,
+      "value": "Clear B{0} of The Emerald Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000191000051,
+      "value": "Clear B{0} of The Golden Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000191000061,
+      "value": "Clear B{0} of The Azure Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000200001001,
+      "value": "Log in every day."
+    },
+    {
+      "id": 701000200001002,
+      "value": "Consume {0} stamina every day."
+    },
+    {
+      "id": 701000200001003,
+      "value": "Enhance any weapon every day."
+    },
+    {
+      "id": 701000200001004,
+      "value": "Enhance a materia every day."
+    },
+    {
+      "id": 701000200001005,
+      "value": "Make use of the shop's services every day."
+    },
+    {
+      "id": 701000200001006,
+      "value": "Synthesize materia every day."
+    },
+    {
+      "id": 701000200001007,
+      "value": "Collect an expedition reward every day."
+    },
+    {
+      "id": 701000200001008,
+      "value": "Log in after 7 PM PST."
+    },
+    {
+      "id": 701000200001009,
+      "value": "Log in after 12 AM PST."
+    },
+    {
+      "id": 701000200001010,
+      "value": "Log in after 4 AM PST."
+    },
+    {
+      "id": 701000200002001,
+      "value": "Log in to the game."
+    },
+    {
+      "id": 701000200002002,
+      "value": "Log in to a guild."
+    },
+    {
+      "id": 701000200002003,
+      "value": "Log in after 7 PM PST."
+    },
+    {
+      "id": 701000200002004,
+      "value": "Log in after 12 AM PST."
+    },
+    {
+      "id": 701000200002005,
+      "value": "Log in after 4 AM PST."
+    },
+    {
+      "id": 701000200002006,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000200002007,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000200002008,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000210000001,
+      "value": "Receive items {0} time(s) from the Felyne at the chocobo farm."
+    },
+    {
+      "id": 701000300001001,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 701000300001002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000300001003,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000300001004,
+      "value": "Enhance any materia {0} time(s)."
+    },
+    {
+      "id": 701000300001005,
+      "value": "Make a purchase at the shop {0} time(s)."
+    },
+    {
+      "id": 701000300001006,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000300001007,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000300001009,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000310000001,
+      "value": "Clear all the panel missions."
+    },
+    {
+      "id": 701000400001001,
+      "value": "Complete {0} Jumpstart mission(s)."
+    },
+    {
+      "id": 701000400001002,
+      "value": "Complete all Jumpstart missions."
+    },
+    {
+      "id": 701000400001004,
+      "value": "Use a Stamina Boost and clear any quest {0} time(s)."
+    },
+    {
+      "id": 701000400001005,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000400001008,
+      "value": "Raise any character to Lv. {0}."
+    },
+    {
+      "id": 701000400001011,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000400001012,
+      "value": "Raise the Buster Sword to Lv. {0}."
+    },
+    {
+      "id": 701000400001015,
+      "value": "Uncap the level of any weapon {0} time(s)."
+    },
+    {
+      "id": 701000400001016,
+      "value": "Raise any materia to Lv. {0}."
+    },
+    {
+      "id": 701000400001018,
+      "value": "Perform synthesis {0} time(s)."
+    },
+    {
+      "id": 701000400001021,
+      "value": "Acquire {0} chocobo(s) at the chocobo medal exchange."
+    },
+    {
+      "id": 701000400001022,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000400001023,
+      "value": "Send a friend invitation."
+    },
+    {
+      "id": 701000400001024,
+      "value": "Set a title."
+    },
+    {
+      "id": 701000400001025,
+      "value": "Edit your profile."
+    },
+    {
+      "id": 701000400001026,
+      "value": "Write a self-introduction."
+    },
+    {
+      "id": 701000500001001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500001002,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500001003,
+      "value": "Enhance any materia {0} time(s)."
+    },
+    {
+      "id": 701000500001004,
+      "value": "Make a purchase at the shop {0} time(s)."
+    },
+    {
+      "id": 701000500001005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000500001006,
+      "value": "Clear {0} Co-op battle(s) with the exception of event."
+    },
+    {
+      "id": 701000500001007,
+      "value": "Clear Criterion Dungeon {0} time(s)."
+    },
+    {
+      "id": 701000500001008,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000500001009,
+      "value": "Clear Crisis Dungeon Mako Reactor 1 - Normal."
+    },
+    {
+      "id": 701000500002001,
+      "value": "Clear {0} battle(s)."
+    },
+    {
+      "id": 701000500002002,
+      "value": "Perform any {0} draws."
+    },
+    {
+      "id": 701000500003001,
+      "value": "Clear Criterion Dungeon {0} time(s)."
+    },
+    {
+      "id": 701000500003002,
+      "value": "Clear Crisis Dungeon {0} time(s)."
+    },
+    {
+      "id": 701000500003003,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500004001,
+      "value": "Raise Sephiroth to Lv. {0}."
+    },
+    {
+      "id": 701000500004002,
+      "value": "Unlock {0} node(s) in Sephiroth's character stream."
+    },
+    {
+      "id": 701000500005001,
+      "value": "Clear the Ifrit Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000500006001,
+      "value": "Perform any {0} draws."
+    },
+    {
+      "id": 701000500006005,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500007001,
+      "value": "Clear the Shiva Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000500008001,
+      "value": "Clear a new floor in the battle tower {0} time(s)."
+    },
+    {
+      "id": 701000500008004,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500008005,
+      "value": "Uncap the level of any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500008006,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500008007,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000500008008,
+      "value": "Clear weapon enhancement quests {0} time(s)."
+    },
+    {
+      "id": 701000500008009,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000500008010,
+      "value": "Clear training quests {0} time(s)."
+    },
+    {
+      "id": 701000500008011,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000500008012,
+      "value": "Clear premium quests {0} time(s)."
+    },
+    {
+      "id": 701000500009001,
+      "value": "Clear Solo battle in Event {0} time(s)."
+    },
+    {
+      "id": 701000500009002,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500009003,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500009004,
+      "value": "Uncap the level of any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500009005,
+      "value": "Clear weapon enhancement quests {0} time(s)."
+    },
+    {
+      "id": 701000500010001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500010009,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000500010012,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000500010015,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 701000500015001,
+      "value": "Clear the Ramuh Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000500023001,
+      "value": "Clear {0} battle(s) with Cloud in the party."
+    },
+    {
+      "id": 701000500023002,
+      "value": "Clear {0} battle(s) with Barret in the party."
+    },
+    {
+      "id": 701000500023003,
+      "value": "Clear {0} battle(s) with Tifa in the party."
+    },
+    {
+      "id": 701000500023004,
+      "value": "Clear {0} battle(s) with Aerith in the party."
+    },
+    {
+      "id": 701000500023005,
+      "value": "Clear {0} battle(s) with Red XIII in the party."
+    },
+    {
+      "id": 701000500023006,
+      "value": "Clear {0} battle(s) with Zack in the party."
+    },
+    {
+      "id": 701000500023007,
+      "value": "Clear {0} battle(s) with Sephiroth in the party."
+    },
+    {
+      "id": 701000500023008,
+      "value": "Clear {0} battle(s) with Glenn in the party."
+    },
+    {
+      "id": 701000500023009,
+      "value": "Clear {0} battle(s) with Matt in the party."
+    },
+    {
+      "id": 701000500023010,
+      "value": "Clear {0} battle(s) with Lucia in the party."
+    },
+    {
+      "id": 701000500027001,
+      "value": "Clear the Bahamut Co-op battle {0} time(s)."
+    },
+    {
+      "id": 701000500028001,
+      "value": "Clear Solo battle in Event {0} time(s)."
+    },
+    {
+      "id": 701000500028003,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500028006,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500028010,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000500028011,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000500028012,
+      "value": "Uncap the level of any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500028013,
+      "value": "Perform any {0} draws."
+    },
+    {
+      "id": 701000500028015,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 701000500030001,
+      "value": "Clear Solo battle in Event {0} time(s)."
+    },
+    {
+      "id": 701000500030003,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000500030006,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500030010,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000500030011,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000500030012,
+      "value": "Uncap the level of any weapon {0} time(s)."
+    },
+    {
+      "id": 701000500030013,
+      "value": "Perform any {0} draws."
+    },
+    {
+      "id": 701000500030014,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 701000500036015,
+      "value": "Raise the level of a type of weapon to Lv. 100+."
+    },
+    {
+      "id": 701000500037006,
+      "value": "Clear {0} battle(s) with Yuffie in the party."
+    },
+    {
+      "id": 701000500038012,
+      "value": "Clear {0} battle(s) with Cait Sith in the party."
+    },
+    {
+      "id": 701000500039002,
+      "value": "Clear {0} Highwind battle(s)."
+    },
+    {
+      "id": 701000500042001,
+      "value": "Clear the Trial of the Summons - Leviathan - Normal {0} time(s)."
+    },
+    {
+      "id": 701000500042002,
+      "value": "Consume {0} stamina in the Trial of the Summons - Leviathan."
+    },
+    {
+      "id": 701000500042003,
+      "value": "Attempt \"Armored Scorpion Trial 1\" in \"Battle Ranking: Fury of Lightning & Wind\"."
+    },
+    {
+      "id": 701000500042004,
+      "value": "Attempt \"Vajradhara Wu & Tai Trial 1\" in \"Battle Ranking: Fury of Lightning & Wind\"."
+    },
+    {
+      "id": 701000500044001,
+      "value": "Clear B{0} of The Amber Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000500044002,
+      "value": "Clear B{0} of The Cerulean Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000500044003,
+      "value": "Clear B{0} of The Emerald Tower in the Colosseum of the Chosen."
+    },
+    {
+      "id": 701000500048001,
+      "value": "Attempt the Battle Ranking {0} time(s)."
+    },
+    {
+      "id": 701000500052001,
+      "value": "Join a guild."
+    },
+    {
+      "id": 701000500052002,
+      "value": "Send a message in guild chat."
+    },
+    {
+      "id": 701000500052003,
+      "value": "Log in to a guild."
+    },
+    {
+      "id": 701000500052004,
+      "value": "Attempt an official match in Guild Battle #1 {0} time(s)."
+    },
+    {
+      "id": 701000500053012,
+      "value": "Clear {0} battle(s) with Vincent in the party."
+    },
+    {
+      "id": 701000500056001,
+      "value": "Attempt any floor in the Sealed Tower of the Cetra {0} time(s)."
+    },
+    {
+      "id": 701000500057008,
+      "value": "Log in to a guild {0} days."
+    },
+    {
+      "id": 701000500057011,
+      "value": "Attempt an official match in Guild Ranking {0} time(s)."
+    },
+    {
+      "id": 701000500058006,
+      "value": "Attempt any floor of The Amber Tower in the Colosseum of the Chosen {0} time(s)."
+    },
+    {
+      "id": 701000500058007,
+      "value": "Attempt any floor of The Cerulean Tower in the Colosseum of the Chosen {0} time(s). "
+    },
+    {
+      "id": 701000500058008,
+      "value": "Attempt any floor of The Emerald Tower in the Colosseum of the Chosen {0} time(s)."
+    },
+    {
+      "id": 701000500061001,
+      "value": "Attempt the Trial of the Summons - Shiva & Ramuh - Normal {0} time(s). *Excl. Retire."
+    },
+    {
+      "id": 701000500063012,
+      "value": "Clear {0} battle(s) with Angeal in the party."
+    },
+    {
+      "id": 701000500063014,
+      "value": "Clear \"Character Memories Angeal 1\" {0} time(s)."
+    },
+    {
+      "id": 701000500063015,
+      "value": "Clear FFVII FS2 CHAPTER 1 - MAIN SECTION 2 - EP1."
+    },
+    {
+      "id": 701000500065001,
+      "value": "Attempt \"Trial of Ifrit\" on any difficulty {0} times."
+    },
+    {
+      "id": 701000600011001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000600011002,
+      "value": "Clear {0} battle(s)."
+    },
+    {
+      "id": 701000600011003,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701000600012001,
+      "value": "Uncap the level of any weapon {0} time(s)."
+    },
+    {
+      "id": 701000600012002,
+      "value": "Clear Crisis Dungeon {0} time(s)."
+    },
+    {
+      "id": 701000600012003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000600012004,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000600012005,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000600012006,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000600012007,
+      "value": "Clear {0} battle(s)."
+    },
+    {
+      "id": 701000600013001,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 701000600013002,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701000600013003,
+      "value": "Uncap the level of any weapon {0} time(s)."
+    },
+    {
+      "id": 701000600013004,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000600142008,
+      "value": "Log in to a guild for 2 days."
+    },
+    {
+      "id": 701000700101001,
+      "value": "Consume {0} stamina with Cloud in the party."
+    },
+    {
+      "id": 701000700101002,
+      "value": "Use Cloud's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700101004,
+      "value": "Deliver Cloud's Memory x{0}."
+    },
+    {
+      "id": 701000700101005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700101008,
+      "value": "Deliver {0} unit(s) of Low-Grade Steel."
+    },
+    {
+      "id": 701000700102001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700102002,
+      "value": "Raise Cloud to Lv. {0}."
+    },
+    {
+      "id": 701000700102003,
+      "value": "Raise Cross-Slash to Lv. {0}."
+    },
+    {
+      "id": 701000700102004,
+      "value": "Raise Blade Beam to Lv. {0}."
+    },
+    {
+      "id": 701000700102005,
+      "value": "Use Cloud's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700201001,
+      "value": "Consume {0} stamina with Barret in the party."
+    },
+    {
+      "id": 701000700201002,
+      "value": "Use Barret's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700201004,
+      "value": "Deliver Barret's Memory x{0}."
+    },
+    {
+      "id": 701000700201005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700201008,
+      "value": "Deliver {0} unit(s) of Low-Grade Steel."
+    },
+    {
+      "id": 701000700202001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700202002,
+      "value": "Raise Barret to Lv. {0}."
+    },
+    {
+      "id": 701000700202003,
+      "value": "Raise Grenade Bomb to Lv. {0}."
+    },
+    {
+      "id": 701000700202004,
+      "value": "Raise Mindblow to Lv. {0}."
+    },
+    {
+      "id": 701000700202005,
+      "value": "Use Barret's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700301001,
+      "value": "Consume {0} stamina with Tifa in the party."
+    },
+    {
+      "id": 701000700301002,
+      "value": "Use Tifa's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700301004,
+      "value": "Deliver Tifa's Memory x{0}."
+    },
+    {
+      "id": 701000700301005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700301008,
+      "value": "Deliver {0} unit(s) of Low-Grade Rose Gold."
+    },
+    {
+      "id": 701000700302001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700302002,
+      "value": "Raise Tifa to Lv. {0}."
+    },
+    {
+      "id": 701000700302003,
+      "value": "Raise Somersault to Lv. {0}."
+    },
+    {
+      "id": 701000700302004,
+      "value": "Raise Waterkick to Lv. {0}."
+    },
+    {
+      "id": 701000700302005,
+      "value": "Use Tifa's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700401001,
+      "value": "Consume {0} stamina with Aerith in the party."
+    },
+    {
+      "id": 701000700401002,
+      "value": "Use Aerith's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700401004,
+      "value": "Deliver Aerith's Memory x{0}."
+    },
+    {
+      "id": 701000700401005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700401008,
+      "value": "Deliver {0} unit(s) of Low-Grade Electrum."
+    },
+    {
+      "id": 701000700402001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700402002,
+      "value": "Raise Aerith to Lv. {0}."
+    },
+    {
+      "id": 701000700402003,
+      "value": "Raise Healing Wind to Lv. {0}."
+    },
+    {
+      "id": 701000700402004,
+      "value": "Raise Seal Evil to Lv. {0}."
+    },
+    {
+      "id": 701000700402005,
+      "value": "Use Aerith's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700501001,
+      "value": "Consume {0} stamina with Red XIII in the party."
+    },
+    {
+      "id": 701000700501002,
+      "value": "Use Red XIII's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700501004,
+      "value": "Deliver Red XIII's Memory x{0}."
+    },
+    {
+      "id": 701000700501005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700501008,
+      "value": "Deliver {0} unit(s) of Low-Grade Electrum."
+    },
+    {
+      "id": 701000700502001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700502002,
+      "value": "Raise Red XIII to Lv. {0}."
+    },
+    {
+      "id": 701000700502003,
+      "value": "Raise Sled Fang to Lv. {0}."
+    },
+    {
+      "id": 701000700502004,
+      "value": "Raise Lunatic High to Lv. {0}."
+    },
+    {
+      "id": 701000700502005,
+      "value": "Use Red XIII's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700601001,
+      "value": "Consume {0} stamina with Yuffie in the party."
+    },
+    {
+      "id": 701000700601002,
+      "value": "Use Yuffie's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700601003,
+      "value": "Deliver Yuffie's Memory x{0}."
+    },
+    {
+      "id": 701000700601004,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700601005,
+      "value": "Deliver {0} unit(s) of Low-Grade Steel."
+    },
+    {
+      "id": 701000700602001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700602002,
+      "value": "Raise Yuffie to Lv. {0}."
+    },
+    {
+      "id": 701000700602003,
+      "value": "Raise Bloodfest to Lv. {0}."
+    },
+    {
+      "id": 701000700602004,
+      "value": "Raise Clear Tranquil to Lv. {0}."
+    },
+    {
+      "id": 701000700602005,
+      "value": "Use Yuffie's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700701001,
+      "value": "Consume {0} stamina with Cait Sith in the party."
+    },
+    {
+      "id": 701000700701002,
+      "value": "Use Cait Sith's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700701003,
+      "value": "Deliver Cait Sith's Memory x{0}."
+    },
+    {
+      "id": 701000700701004,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700701005,
+      "value": "Deliver {0} unit(s) of Low-Grade Rose Gold."
+    },
+    {
+      "id": 701000700702001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700702002,
+      "value": "Raise Cait Sith to Lv. {0}."
+    },
+    {
+      "id": 701000700702003,
+      "value": "Raise Dice to Lv. {0}."
+    },
+    {
+      "id": 701000700702004,
+      "value": "Raise Toy Box to Lv. {0}."
+    },
+    {
+      "id": 701000700702005,
+      "value": "Use Cait Sith's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700801001,
+      "value": "Consume {0} stamina with Vincent in the party."
+    },
+    {
+      "id": 701000700801002,
+      "value": "Use Vincent's limit break {0} time(s)."
+    },
+    {
+      "id": 701000700801003,
+      "value": "Deliver Vincent's Memory x{0}."
+    },
+    {
+      "id": 701000700801004,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000700801005,
+      "value": "Deliver {0} unit(s) of Low-Grade Steel."
+    },
+    {
+      "id": 701000700802001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000700802002,
+      "value": "Raise Vincent to Lv. {0}."
+    },
+    {
+      "id": 701000700802003,
+      "value": "Raise Berserk Dance to Lv. {0}."
+    },
+    {
+      "id": 701000700802004,
+      "value": "Raise Beast Flare to Lv. {0}."
+    },
+    {
+      "id": 701000700802005,
+      "value": "Use Vincent's limit break {0} time(s)."
+    },
+    {
+      "id": 701000702001001,
+      "value": "Consume {0} stamina with Zack in the party."
+    },
+    {
+      "id": 701000702001002,
+      "value": "Use Zack's limit break {0} time(s)."
+    },
+    {
+      "id": 701000702001004,
+      "value": "Deliver Zack's Memory x{0}."
+    },
+    {
+      "id": 701000702001005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000702001008,
+      "value": "Deliver {0} unit(s) of Low-Grade Rose Gold."
+    },
+    {
+      "id": 701000702002001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000702002002,
+      "value": "Raise Zack to Lv. {0}."
+    },
+    {
+      "id": 701000702002003,
+      "value": "Raise Slash Combo to Lv. {0}."
+    },
+    {
+      "id": 701000702002004,
+      "value": "Raise Meteor Shots to Lv. {0}."
+    },
+    {
+      "id": 701000702002005,
+      "value": "Use Zack's limit break {0} time(s)."
+    },
+    {
+      "id": 701000704901001,
+      "value": "Consume {0} stamina with Sephiroth in the party."
+    },
+    {
+      "id": 701000704901002,
+      "value": "Use Sephiroth's limit break {0} time(s)."
+    },
+    {
+      "id": 701000704901003,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701000704901004,
+      "value": "Deliver Sephiroth's Memory x{0}."
+    },
+    {
+      "id": 701000704901005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000704901006,
+      "value": "Deliver {0} unit(s) of Low-Grade Electrum."
+    },
+    {
+      "id": 701000704902001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000704902002,
+      "value": "Raise Sephiroth to Lv. {0}."
+    },
+    {
+      "id": 701000704902003,
+      "value": "Raise Astral Gate to Lv. {0}."
+    },
+    {
+      "id": 701000704902004,
+      "value": "Raise Ardent Flare to Lv. {0}."
+    },
+    {
+      "id": 701000704902005,
+      "value": "Use Sephiroth's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705001001,
+      "value": "Consume {0} stamina with Glenn in the party."
+    },
+    {
+      "id": 701000705001002,
+      "value": "Use Glenn's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705001004,
+      "value": "Deliver Glenn's Memory x{0}."
+    },
+    {
+      "id": 701000705001005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000705001008,
+      "value": "Deliver {0} unit(s) of Low-Grade Steel."
+    },
+    {
+      "id": 701000705002001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000705002002,
+      "value": "Raise Glenn to Lv. {0}."
+    },
+    {
+      "id": 701000705002003,
+      "value": "Raise Blazing Onslaught to Lv. {0}."
+    },
+    {
+      "id": 701000705002004,
+      "value": "Raise Stage of Defeat to Lv. {0}."
+    },
+    {
+      "id": 701000705002005,
+      "value": "Use Glenn's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705101001,
+      "value": "Consume {0} stamina with Matt in the party."
+    },
+    {
+      "id": 701000705101002,
+      "value": "Use Matt's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705101004,
+      "value": "Deliver Matt's Memory x{0}."
+    },
+    {
+      "id": 701000705101005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000705101008,
+      "value": "Deliver {0} unit(s) of Low-Grade Electrum."
+    },
+    {
+      "id": 701000705102001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000705102002,
+      "value": "Raise Matt to Lv. {0}."
+    },
+    {
+      "id": 701000705102003,
+      "value": "Raise Valiant Attempt to Lv. {0}."
+    },
+    {
+      "id": 701000705102004,
+      "value": "Raise Gigantic Shield to Lv. {0}."
+    },
+    {
+      "id": 701000705102005,
+      "value": "Use Matt's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705201001,
+      "value": "Consume {0} stamina with Lucia in the party."
+    },
+    {
+      "id": 701000705201002,
+      "value": "Use Lucia's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705201004,
+      "value": "Deliver Lucia's Memory x{0}."
+    },
+    {
+      "id": 701000705201005,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000705201008,
+      "value": "Deliver {0} unit(s) of Low-Grade Rose Gold."
+    },
+    {
+      "id": 701000705202001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000705202002,
+      "value": "Raise Lucia to Lv. {0}."
+    },
+    {
+      "id": 701000705202003,
+      "value": "Raise Queen's Shot to Lv. {0}."
+    },
+    {
+      "id": 701000705202004,
+      "value": "Raise Cerulean Raven to Lv. {0}."
+    },
+    {
+      "id": 701000705202005,
+      "value": "Use Lucia's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705601001,
+      "value": "Consume {0} stamina with Angeal in the party."
+    },
+    {
+      "id": 701000705601002,
+      "value": "Use Angeal's limit break {0} time(s)."
+    },
+    {
+      "id": 701000705601003,
+      "value": "Deliver Angeal's Memory x{0}."
+    },
+    {
+      "id": 701000705601004,
+      "value": "Deliver {0} gil."
+    },
+    {
+      "id": 701000705602001,
+      "value": "Clear B50 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701000705602002,
+      "value": "Raise Angeal to Lv. {0}."
+    },
+    {
+      "id": 701000705602003,
+      "value": "Raise Heavy Assault to Lv. {0}."
+    },
+    {
+      "id": 701000705602004,
+      "value": "Raise Serit Arbores to Lv. {0}."
+    },
+    {
+      "id": 701000705602005,
+      "value": "Use Angeal's limit break {0} time(s)."
+    },
+    {
+      "id": 701000800101001,
+      "value": "Clear the Trial of the Summons - Ifrit - Very Hard 1 {0} time(s)."
+    },
+    {
+      "id": 701000800101002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000800101003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000800101004,
+      "value": "Clear Crisis Dungeon Mako Reactor 1 - Hard with Rank S+."
+    },
+    {
+      "id": 701000800101005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000800101006,
+      "value": "Deliver Ifrit's Memory x{0}."
+    },
+    {
+      "id": 701000800101007,
+      "value": "Deliver {0} Flame Crystal(s)."
+    },
+    {
+      "id": 701000800101009,
+      "value": "Deliver {0} Physical Tumble(s)."
+    },
+    {
+      "id": 701000800101010,
+      "value": "Raise Radiant Plume to Lv. {0}."
+    },
+    {
+      "id": 701000800102006,
+      "value": "Deliver Ifrit's Memory x{0}."
+    },
+    {
+      "id": 701000800201001,
+      "value": "Clear the Trial of the Summons - Shiva - Very Hard 1 {0} times."
+    },
+    {
+      "id": 701000800201002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000800201003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000800201004,
+      "value": "Clear Crisis Dungeon La'paina Coast - Hard with Rank S+."
+    },
+    {
+      "id": 701000800201005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000800201006,
+      "value": "Deliver Shiva's Memory x{0}."
+    },
+    {
+      "id": 701000800201007,
+      "value": "Deliver {0} Frost Crystal(s)."
+    },
+    {
+      "id": 701000800201009,
+      "value": "Deliver {0} Magic Tumble(s)."
+    },
+    {
+      "id": 701000800201010,
+      "value": "Raise Whiteout to Lv. {0}."
+    },
+    {
+      "id": 701000800202001,
+      "value": "Clear the Trial of the Summons - Shiva - Normal {0} time(s)."
+    },
+    {
+      "id": 701000800202002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000800202003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000800202004,
+      "value": "Clear Crisis Dungeon La'paina Coast - Normal with Rank S+."
+    },
+    {
+      "id": 701000800202005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000800202006,
+      "value": "Deliver Shiva's Memory x{0}."
+    },
+    {
+      "id": 701000800202007,
+      "value": "Deliver {0} Frost Ore(s)."
+    },
+    {
+      "id": 701000800202009,
+      "value": "Deliver {0} Magic Chip(s)."
+    },
+    {
+      "id": 701000800301001,
+      "value": "Clear the Trial of the Summons - Leviathan - Very Hard {0} time(s)."
+    },
+    {
+      "id": 701000800301002,
+      "value": "Raise Briny Bellow to Lv. {0}."
+    },
+    {
+      "id": 701000800301003,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000800301004,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701000800301005,
+      "value": "Clear Crisis Dungeon Mt. Nibel - Hard with Rank S+."
+    },
+    {
+      "id": 701000800301006,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000800301007,
+      "value": "Deliver Leviathan's Memory x{0}."
+    },
+    {
+      "id": 701000800301008,
+      "value": "Deliver {0} Water Crystal(s)."
+    },
+    {
+      "id": 701000800301009,
+      "value": "Deliver {0} Magic Tumble(s)."
+    },
+    {
+      "id": 701000800302001,
+      "value": "Clear the Trial of the Summons - Leviathan - Normal {0} time(s)."
+    },
+    {
+      "id": 701000800302002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000800302003,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701000800302004,
+      "value": "Clear Crisis Dungeon Mt. Nibel - Normal with Rank S+."
+    },
+    {
+      "id": 701000800302005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000800302006,
+      "value": "Deliver Leviathan's Memory x{0}."
+    },
+    {
+      "id": 701000800302007,
+      "value": "Deliver {0} Water Ore(s)."
+    },
+    {
+      "id": 701000800302008,
+      "value": "Deliver {0} Magic Chip(s)."
+    },
+    {
+      "id": 701000800601001,
+      "value": "Clear the Trial of the Summons - Bahamut - Very Hard {0} times."
+    },
+    {
+      "id": 701000800601002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000800601003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000800601004,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000800601005,
+      "value": "Deliver Bahamut's Memory x{0}."
+    },
+    {
+      "id": 701000800601006,
+      "value": "Deliver {0} Void Crystal(s)."
+    },
+    {
+      "id": 701000800601007,
+      "value": "Deliver {0} Magic Tumble(s)."
+    },
+    {
+      "id": 701000801001001,
+      "value": "Clear the Trial of the Summons - Ramuh - Very Hard 1 {0} times."
+    },
+    {
+      "id": 701000801001002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000801001003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000801001004,
+      "value": "Clear Crisis Dungeon Padapili Sea Cave - Hard with Rank S+."
+    },
+    {
+      "id": 701000801001005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000801001006,
+      "value": "Deliver {0} of Ramuh's memories."
+    },
+    {
+      "id": 701000801001007,
+      "value": "Deliver {0} Blitz Crystal(s)."
+    },
+    {
+      "id": 701000801001009,
+      "value": "Deliver {0} Magic Tumble(s)."
+    },
+    {
+      "id": 701000801001010,
+      "value": "Raise Thunderlance to Lv. {0}."
+    },
+    {
+      "id": 701000801002001,
+      "value": "Clear the Trial of the Summons - Ramuh - Normal {0} times."
+    },
+    {
+      "id": 701000801002002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000801002003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000801002004,
+      "value": "Clear Crisis Dungeon Padapili Sea Cave - Normal with Rank S+."
+    },
+    {
+      "id": 701000801002005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000801002006,
+      "value": "Deliver {0} of Ramuh's memories."
+    },
+    {
+      "id": 701000801002007,
+      "value": "Deliver {0} Blitz Ore(s)."
+    },
+    {
+      "id": 701000801002009,
+      "value": "Deliver {0} Magic Chip(s)."
+    },
+    {
+      "id": 701000801101001,
+      "value": "Clear the Trial of the Summons - Titan - Normal {0} time(s)."
+    },
+    {
+      "id": 701000801101002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000801101003,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701000801101004,
+      "value": "Deliver Titan's Memory x{0}."
+    },
+    {
+      "id": 701000801101005,
+      "value": "Deliver {0} Geo Ore(s)."
+    },
+    {
+      "id": 701000801101006,
+      "value": "Deliver {0} Physical Chip(s)."
+    },
+    {
+      "id": 701000805101001,
+      "value": "Clear the Trial of the Summons - Ifrit & Bahamut - Hard."
+    },
+    {
+      "id": 701000805101002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000805101003,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701000805101004,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000805101005,
+      "value": "Deliver Ifrit & Bahamut's Memory x{0}."
+    },
+    {
+      "id": 701000805201001,
+      "value": "Clear the Trial of the Summons - Shiva & Ramuh - Normal {0} time(s)."
+    },
+    {
+      "id": 701000805201002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000805201003,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701000805201004,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000805201005,
+      "value": "Deliver Shiva & Ramuh's Memory x{0}."
+    },
+    {
+      "id": 701000805202001,
+      "value": "Clear the Trial of the Summons - Shiva & Ramuh - Hard {0} time(s)."
+    },
+    {
+      "id": 701000805202002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000805202003,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701000805202004,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701000805202005,
+      "value": "Deliver Shiva & Ramuh's Memory x{0}."
+    },
+    {
+      "id": 701001000001001,
+      "value": "Perform draw."
+    },
+    {
+      "id": 701001000001002,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 701001000001003,
+      "value": "Turn on the armory's auto-convert feature."
+    },
+    {
+      "id": 701001000001004,
+      "value": "Clear FFVII CHAPTER 1 - MAIN SECTION 1 - EP2."
+    },
+    {
+      "id": 701001000001005,
+      "value": "Collect an item from the gift box."
+    },
+    {
+      "id": 701001000001006,
+      "value": "Raise Buster Sword's rarity to <sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>."
+    },
+    {
+      "id": 701001000001007,
+      "value": "Clear FFVII CHAPTER 1 - SUB SECTION 1 - EP3."
+    },
+    {
+      "id": 701001000001008,
+      "value": "Form a quest party."
+    },
+    {
+      "id": 701001000001009,
+      "value": "Clear enhancement quest Weapon Enhancements 1."
+    },
+    {
+      "id": 701001000001010,
+      "value": "Raise the level of a type of weapon to Lv. 10+."
+    },
+    {
+      "id": 701001000001011,
+      "value": "Clear FFVII CHAPTER 1 - MAIN SECTION 3 - EP1."
+    },
+    {
+      "id": 701001000001012,
+      "value": "Raise Buster Sword's rarity to <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701001000001013,
+      "value": "Raise the level of a type of weapon to Lv. 20+."
+    },
+    {
+      "id": 701001000001014,
+      "value": "Clear FFVII CHAPTER 1 - MAIN SECTION 3 - EP4."
+    },
+    {
+      "id": 701001000001015,
+      "value": "Clear Criterion Dungeon Mako Reactor 1 - Area 1."
+    },
+    {
+      "id": 701001000001016,
+      "value": "Clear CC FFVII CHAPTER 1 - MAIN SECTION 1 - EP1."
+    },
+    {
+      "id": 701001000001017,
+      "value": "Clear enhancement quest Weapon Enhancements 2."
+    },
+    {
+      "id": 701001000001018,
+      "value": "Clear CC FFVII CHAPTER 1 - SUB SECTION 1 - EP3."
+    },
+    {
+      "id": 701001000001019,
+      "value": "Raise the level of 3 types of weapons to Lv. 20+."
+    },
+    {
+      "id": 701001000001020,
+      "value": "Clear CC FFVII CHAPTER 1 - MAIN SECTION 3 - EP4."
+    },
+    {
+      "id": 701001000001021,
+      "value": "Clear enhancement quest LV Uncap - Steel 1."
+    },
+    {
+      "id": 701001000001022,
+      "value": "Uncap the level of the Buster Sword 1 time."
+    },
+    {
+      "id": 701001000001023,
+      "value": "Uncap the level of weapons 3 times."
+    },
+    {
+      "id": 701001000001024,
+      "value": "Clear CC FFVII CHAPTER 1 - MAIN SECTION 3 - EP6."
+    },
+    {
+      "id": 701001000001025,
+      "value": "Clear FFVII FS CHAPTER 1 - MAIN SECTION 1 - EP1."
+    },
+    {
+      "id": 701001000001026,
+      "value": "Clear FFVII FS CHAPTER 1 - MAIN SECTION 1 - EP3."
+    },
+    {
+      "id": 701001000001027,
+      "value": "Clear enhancement quest Pieces 1."
+    },
+    {
+      "id": 701001000001028,
+      "value": "Unlock a total of 15 character streams for all characters."
+    },
+    {
+      "id": 701001000001029,
+      "value": "Clear Criterion Dungeon Fort Tamblin - Area 1."
+    },
+    {
+      "id": 701001000001030,
+      "value": "Raise the level of a type of weapon to Lv. 30+."
+    },
+    {
+      "id": 701001000001031,
+      "value": "Clear FFVII FS CHAPTER 1 - MAIN SECTION 4 - EP1."
+    },
+    {
+      "id": 701001000001032,
+      "value": "Clear B1 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701001000001033,
+      "value": "Clear FFVII CHAPTER 2 - MAIN SECTION 1 - EP1."
+    },
+    {
+      "id": 701001000001034,
+      "value": "Raise any 3 characters to Lv. 20+."
+    },
+    {
+      "id": 701001000001035,
+      "value": "Unlock a total of 30 character streams for all characters."
+    },
+    {
+      "id": 701001000001036,
+      "value": "Raise the level of 3 types of weapons to Lv. 30+."
+    },
+    {
+      "id": 701001000001037,
+      "value": "Clear FFVII CHAPTER 2 - SUB SECTION 1 - EP3."
+    },
+    {
+      "id": 701001000001038,
+      "value": "Clear Criterion Dungeon La'paina Coast - Area 1."
+    },
+    {
+      "id": 701001000001039,
+      "value": "Clear enhancement quest LV Uncap - Steel 2."
+    },
+    {
+      "id": 701001000001040,
+      "value": "Raise the level of a type of weapon to Lv. 40+."
+    },
+    {
+      "id": 701001000001041,
+      "value": "FFVII Clear CHAPTER 2 - MAIN SECTION 4 - EP2."
+    },
+    {
+      "id": 701001000001042,
+      "value": "Clear enhancement quest Materia Synthesis - Fire 1."
+    },
+    {
+      "id": 701001000001043,
+      "value": "Synthesize materia 1 time."
+    },
+    {
+      "id": 701001000001044,
+      "value": "Raise a materia to Lv. 5."
+    },
+    {
+      "id": 701001000001045,
+      "value": "Clear FFVII FS CHAPTER 2 - MAIN SECTION 1 - EP1."
+    },
+    {
+      "id": 701001000001046,
+      "value": "Raise the level of 3 types of weapons to Lv. 40+."
+    },
+    {
+      "id": 701001000001047,
+      "value": "Clear FFVII FS CHAPTER 2 - SUB SECTION 1 - EP3."
+    },
+    {
+      "id": 701001000001048,
+      "value": "Raise any 3 characters to Lv. 25+."
+    },
+    {
+      "id": 701001000001049,
+      "value": "Clear B5 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701001000001050,
+      "value": "Unlock a total of 80 character streams for all characters."
+    },
+    {
+      "id": 701001000001051,
+      "value": "Clear FFVII FS CHAPTER 2 - MAIN SECTION 4 - EP1."
+    },
+    {
+      "id": 701001000001052,
+      "value": "Clear FFVII CHAPTER 3 - MAIN SECTION 1 - EP1."
+    },
+    {
+      "id": 701001000001053,
+      "value": "Clear enhancement quest LV Uncap - Steel 3."
+    },
+    {
+      "id": 701001000001054,
+      "value": "Raise the level of a type of weapon to Lv. 50+."
+    },
+    {
+      "id": 701001000001055,
+      "value": "Clear FFVII CHAPTER 3 - MAIN SECTION 2 - EP2."
+    },
+    {
+      "id": 701001000001056,
+      "value": "Clear enhancement quest Materia Synthesis - Fire 2."
+    },
+    {
+      "id": 701001000001057,
+      "value": "Upgrade a materia."
+    },
+    {
+      "id": 701001000001058,
+      "value": "Raise any 3 characters to Lv. 30+."
+    },
+    {
+      "id": 701001000001059,
+      "value": "Clear B10 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701001000001060,
+      "value": "Unlock a total of 120 character streams for all characters."
+    },
+    {
+      "id": 701001000001061,
+      "value": "Clear FFVII CHAPTER 3 - MAIN SECTION 3 - EP2."
+    },
+    {
+      "id": 701001000001062,
+      "value": "Raise the level of 3 types of weapons to Lv. 50+."
+    },
+    {
+      "id": 701001000001063,
+      "value": "Clear FFVII CHAPTER 3 - MAIN SECTION 3 - EP3."
+    },
+    {
+      "id": 701001000001064,
+      "value": "Clear enhancement quest Materia Synthesis - Fire 3."
+    },
+    {
+      "id": 701001000001065,
+      "value": "Clear Crisis Dungeon Mako Reactor 1 - Normal."
+    },
+    {
+      "id": 701001000001066,
+      "value": "Clear FFVII FS CHAPTER 3 - MAIN SECTION 1 - EP1."
+    },
+    {
+      "id": 701001000001067,
+      "value": "Clear B15 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701001000001068,
+      "value": "Unlock a total of 180 character streams for all characters."
+    },
+    {
+      "id": 701001000001069,
+      "value": "Clear FFVII FS CHAPTER 3 - MAIN SECTION 4 - EP1."
+    },
+    {
+      "id": 701001000001070,
+      "value": "Raise any 3 characters to Lv. 40+."
+    },
+    {
+      "id": 701001000001071,
+      "value": "Clear premium quest LV Uncap: Nanocube."
+    },
+    {
+      "id": 701001000001072,
+      "value": "Raise the level of a type of weapon to Lv. 60+."
+    },
+    {
+      "id": 701001000001073,
+      "value": "Clear premium quest LV Uncap: Genome Pod 1."
+    },
+    {
+      "id": 701001000001074,
+      "value": "Raise the level of 3 types of weapons to Lv. 60+."
+    },
+    {
+      "id": 701001000001075,
+      "value": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP1."
+    },
+    {
+      "id": 701001000001076,
+      "value": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP5."
+    },
+    {
+      "id": 701001000001077,
+      "value": "Unlock a total of 240 character streams for all characters."
+    },
+    {
+      "id": 701001000001078,
+      "value": "Clear B20 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701001000001079,
+      "value": "Clear the Trial of the Summons - Ifrit - Normal."
+    },
+    {
+      "id": 701001000001080,
+      "value": "Clear FFVII FS CHAPTER 4 - MAIN SECTION 1 - EP6."
+    },
+    {
+      "id": 701001000001081,
+      "value": "Clear Premium Quests LV Uncap: Nanocube 2."
+    },
+    {
+      "id": 701001000001082,
+      "value": "Raise the level of a type of weapon to Lv. 70+."
+    },
+    {
+      "id": 701001000001083,
+      "value": "Clear Premium Quests LV Uncap: Genome Pod 2."
+    },
+    {
+      "id": 701001000001084,
+      "value": "Raise the level of 3 types of weapons to Lv. 70+."
+    },
+    {
+      "id": 701001000001085,
+      "value": "Clear the Trial of the Summons - Shiva - Normal."
+    },
+    {
+      "id": 701001000001086,
+      "value": "Clear B25 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701001000001087,
+      "value": "Raise any 3 characters to Lv. 50+."
+    },
+    {
+      "id": 701001000001088,
+      "value": "Clear Premium Quests LV Uncap: Nanocube 3."
+    },
+    {
+      "id": 701001000001089,
+      "value": "Raise the level of a type of weapon to Lv. 80+."
+    },
+    {
+      "id": 701001000001090,
+      "value": "Clear Premium Quests LV Uncap: Genome Pod 3."
+    },
+    {
+      "id": 701001000001091,
+      "value": "Raise the level of 3 types of weapons to Lv. 80+."
+    },
+    {
+      "id": 701001000001092,
+      "value": "Clear B30 of Midgar Falls in the Sealed Tower of the Cetra."
+    },
+    {
+      "id": 701001100001001,
+      "value": "Obtain {0} type(s) of exploration item(s)."
+    },
+    {
+      "id": 701001100001003,
+      "value": "Obtain Bahamut Chocobo Medal x{0}."
+    },
+    {
+      "id": 701001100002001,
+      "value": "Obtain {0} type(s) of flower exploration items."
+    },
+    {
+      "id": 701001100003001,
+      "value": "Obtain {0} type(s) of feather exploration items."
+    },
+    {
+      "id": 701001100010001,
+      "value": "Explore {0}% of the area Midgar I."
+    },
+    {
+      "id": 701001100010002,
+      "value": "Explore {0}% of the area Midgar II."
+    },
+    {
+      "id": 701001100010003,
+      "value": "Explore {0}% of the area Midgar III."
+    },
+    {
+      "id": 701001100010004,
+      "value": "Explore {0}% of the area Grasslands I."
+    },
+    {
+      "id": 701001100010005,
+      "value": "Explore {0}% of the area Grasslands II."
+    },
+    {
+      "id": 701001100010006,
+      "value": "Explore {0}% of the area Wutai I."
+    },
+    {
+      "id": 701001100010007,
+      "value": "Explore {0}% of the area Wutai II."
+    },
+    {
+      "id": 701001100010008,
+      "value": "Explore {0}% of the area Rhadore Archipelago I."
+    },
+    {
+      "id": 701001100010009,
+      "value": "Explore {0}% of the area Rhadore Archipelago II."
+    },
+    {
+      "id": 701001100010010,
+      "value": "Explore {0}% of the area Midgar IV."
+    },
+    {
+      "id": 701001100010011,
+      "value": "Explore {0}% of the area Midgar V."
+    },
+    {
+      "id": 701001100010012,
+      "value": "Explore {0}% of the area Midgar VI."
+    },
+    {
+      "id": 701001100010015,
+      "value": "Explore {0}% of the area Junon I."
+    },
+    {
+      "id": 701001100010016,
+      "value": "Explore {0}% of the area Junon II."
+    },
+    {
+      "id": 701001100010017,
+      "value": "Explore {0}% of the area Junon III."
+    },
+    {
+      "id": 701001100010039,
+      "value": "Explore {0}% of the area Band's Outpost."
+    },
+    {
+      "id": 701001202003005,
+      "value": "Consume {0} stamina in Solo battle in \"Hell House Hunt.\""
+    },
+    {
+      "id": 701001202003007,
+      "value": "Consume {0} stamina in Co-op battle in \"Hell House Hunt.\""
+    },
+    {
+      "id": 701001203001001,
+      "value": "Watch the prologue of \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001002,
+      "value": "Clear episode 1 of \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001003,
+      "value": "Clear episode 2 of \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001004,
+      "value": "Clear episode 3 of \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001005,
+      "value": "Clear episode 4 of \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001006,
+      "value": "Watch the ending of \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001007,
+      "value": "Watch the epilogue of \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001008,
+      "value": "Consume {0} stamina in the Solo battle Watermelon Tonberry 7 in \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001018,
+      "value": "Consume {0} stamina in Solo battle in \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001022,
+      "value": "Consume {0} stamina in the Solo battle Yellow Watermelon Tonberry 5 in \"Beach Festival Fun!\""
+    },
+    {
+      "id": 701001203001024,
+      "value": "Obtain {0} Huge Mega Watermelon(s)."
+    },
+    {
+      "id": 701001203001025,
+      "value": "Obtain {0} Yellow Mega Watermelon(s)."
+    },
+    {
+      "id": 701001203002002,
+      "value": "Watch the prologue of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002003,
+      "value": "Clear episode 1 of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002004,
+      "value": "Clear episode 2 of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002005,
+      "value": "Clear episode 3 of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002006,
+      "value": "Clear episode 4 of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002007,
+      "value": "Watch the ending of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002008,
+      "value": "Watch the epilogue of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002009,
+      "value": "Raise the Chocobo Staff to Lv. {0}."
+    },
+    {
+      "id": 701001203002010,
+      "value": "Raise the Pumpkin Blaster to Lv. {0}."
+    },
+    {
+      "id": 701001203002011,
+      "value": "Clear episode 5 of \"Pumpkin Fest\""
+    },
+    {
+      "id": 701001203002012,
+      "value": "Obtain {0} Dorky Lantern(s)."
+    },
+    {
+      "id": 701001203002013,
+      "value": "Obtain {0} Doltish Lantern(s)."
+    },
+    {
+      "id": 701001203003001,
+      "value": "Watch the prologue of \"A Resonant Waltz\""
+    },
+    {
+      "id": 701001203003002,
+      "value": "Watch the epilogue of \"A Resonant Waltz\""
+    },
+    {
+      "id": 701001203003003,
+      "value": "Raise the Vivi's Magical Gun to Lv. {0}."
+    },
+    {
+      "id": 701001203003004,
+      "value": "Raise the Steiner's Blade to Lv. {0}."
+    },
+    {
+      "id": 701001203003005,
+      "value": "Obtain {0} Peridot(s)."
+    },
+    {
+      "id": 701001203003006,
+      "value": "Obtain {0} Aquamarine(s)."
+    },
+    {
+      "id": 701001203004001,
+      "value": "Play Part 1 of \"Happy New Year: The Wily Hunter\""
+    },
+    {
+      "id": 701001203004002,
+      "value": "Play Part 2 of \"Happy New Year: The Wily Hunter\""
+    },
+    {
+      "id": 701001203004003,
+      "value": "Raise the Dawn's Prayers to Lv. {0}."
+    },
+    {
+      "id": 701001203004004,
+      "value": "Raise the Best Wishes to Lv. {0}."
+    },
+    {
+      "id": 701001203004005,
+      "value": "Obtain {0} Gold Scale(s)."
+    },
+    {
+      "id": 701001203004006,
+      "value": "Obtain {0} Silver Scale(s)."
+    },
+    {
+      "id": 701001203005001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701001203005002,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701001203005003,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701001203005004,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701001203005005,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701001203005006,
+      "value": "Purge data {0} time(s)."
+    },
+    {
+      "id": 701001203006001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701001203006002,
+      "value": "Obtain 200 Gold Victory Draw Tickets."
+    },
+    {
+      "id": 701001203006003,
+      "value": "Play the prologue of \"The Knights of Judgment - Project Zero Remnant.\""
+    },
+    {
+      "id": 701001203006004,
+      "value": "Play the epilogue of \"The Knights of Judgment - Project Zero Remnant.\""
+    },
+    {
+      "id": 701001203006005,
+      "value": "Raise the Chariot Wheel to Lv. {0}."
+    },
+    {
+      "id": 701001203006006,
+      "value": "Raise the Siege Cannon to Lv. {0}."
+    },
+    {
+      "id": 701001203006007,
+      "value": "Obtain {0} Golden Wheel(s)."
+    },
+    {
+      "id": 701001203006008,
+      "value": "Obtain {0} Silver Wheel(s)."
+    },
+    {
+      "id": 701001203008001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701001203008002,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701001203008003,
+      "value": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    {
+      "id": 701001203008004,
+      "value": "Obtain {0} Bomb Medal(s)."
+    },
+    {
+      "id": 701001203009001,
+      "value": "Play \"A Luscious Green Haven\" of \"A Brilliant Green Mirage\"."
+    },
+    {
+      "id": 701001203009002,
+      "value": "Play \"A Scorching Green Spirit\" of \"A Brilliant Green Mirage\"."
+    },
+    {
+      "id": 701001203009003,
+      "value": "Raise the Rune Blade to Lv. {0}."
+    },
+    {
+      "id": 701001203009004,
+      "value": "Raise the Amethyst Collar to Lv. {0}."
+    },
+    {
+      "id": 701001203009010,
+      "value": "Obtain {0} Red Seed(s)."
+    },
+    {
+      "id": 701001203009011,
+      "value": "Obtain {0} Blue Seed(s)."
+    },
+    {
+      "id": 701001208001001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701001208001002,
+      "value": "Watch the prologue of \"The Holy Flame's Gift\""
+    },
+    {
+      "id": 701001208001003,
+      "value": "Clear episode 1 of \"The Holy Flame's Gift\""
+    },
+    {
+      "id": 701001208001004,
+      "value": "Clear episode 2 of \"The Holy Flame's Gift\""
+    },
+    {
+      "id": 701001208001005,
+      "value": "Clear episode 3 of \"The Holy Flame's Gift\""
+    },
+    {
+      "id": 701001208001006,
+      "value": "Clear episode 4 of \"The Holy Flame's Gift\""
+    },
+    {
+      "id": 701001208001008,
+      "value": "Watch the ending of \"The Holy Flame's Gift\""
+    },
+    {
+      "id": 701001208001009,
+      "value": "Watch the epilogue of \"The Holy Flame's Gift\""
+    },
+    {
+      "id": 701001208001010,
+      "value": "Raise the Holiday Cheer to Lv. {0}."
+    },
+    {
+      "id": 701001208001011,
+      "value": "Raise the Holiday Cane to Lv. {0}."
+    },
+    {
+      "id": 701001208001012,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701001208001013,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701001208001014,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701001208001015,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701001208001016,
+      "value": "Reach Present Level {0}."
+    },
+    {
+      "id": 701001208001017,
+      "value": "Obtain {0} Green Gift-Wrapped Box(es)."
+    },
+    {
+      "id": 701001208001018,
+      "value": "Obtain {0} Red Gift-Wrapped Box(es)."
+    },
+    {
+      "id": 701001208001019,
+      "value": "Clear Score Battle 1 with a score battle of 3,000 or higher."
+    },
+    {
+      "id": 701001208001020,
+      "value": "Clear Score Battle 2 with a score battle of 9,000 or higher."
+    },
+    {
+      "id": 701001208001021,
+      "value": "Clear Score Battle 3 with a score battle of 30,000 or higher."
+    },
+    {
+      "id": 701001208001022,
+      "value": "Clear Score Battle 4 with a score battle of 72,000 or higher."
+    },
+    {
+      "id": 701001208001023,
+      "value": "Clear High-Risk Battle 1 with a score battle of 216,000 or higher."
+    },
+    {
+      "id": 701001208001024,
+      "value": "Clear Score Battle 5 with a score battle of 192,000 or higher."
+    },
+    {
+      "id": 701001208001025,
+      "value": "Clear High-Risk Battle 2 with a score battle of 576,000 or higher."
+    },
+    {
+      "id": 701001208001026,
+      "value": "Clear High-Risk Battle 3 with a score battle of 1,440,000 or higher."
+    },
+    {
+      "id": 701001208001027,
+      "value": "Clear Score Battle 5 with a score battle of 384,000 or higher."
+    },
+    {
+      "id": 701001208001028,
+      "value": "Clear High-Risk Battle 2 with a score battle of 1,152,000 or higher."
+    },
+    {
+      "id": 701001208001029,
+      "value": "Clear High-Risk Battle 3 with a score battle of 4,320,000 or higher."
+    },
+    {
+      "id": 701001208002001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701001208002002,
+      "value": "Play Part 1 of \"The Secret Sweetheart.\""
+    },
+    {
+      "id": 701001208002003,
+      "value": "Play Part 2 of \"The Secret Sweetheart.\""
+    },
+    {
+      "id": 701001208002004,
+      "value": "Play \"I'll Be Waiting at the Church\" of \"The Secret Sweetheart.\""
+    },
+    {
+      "id": 701001208002005,
+      "value": "Play \"Meet Me at the Water Tower?\" of \"The Secret Sweetheart.\""
+    },
+    {
+      "id": 701001208002006,
+      "value": "Play \"You Better Come to the Arena!\" of \"The Secret Sweetheart.\""
+    },
+    {
+      "id": 701001208002007,
+      "value": "Play \"Come to the Slums, We Need to Talk\" of \"The Secret Sweetheart.\""
+    },
+    {
+      "id": 701001208002008,
+      "value": "Play \"I'll See You at the Highway\" of \"The Secret Sweetheart.\""
+    },
+    {
+      "id": 701001208002009,
+      "value": "Raise the Oven Mitts to Lv. {0}."
+    },
+    {
+      "id": 701001208002010,
+      "value": "Raise the Giant Fork to Lv. {0}."
+    },
+    {
+      "id": 701001208002011,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701001208002012,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701001208002013,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701001208002014,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701001208002015,
+      "value": "Reach Item Gathering Lv. {0}."
+    },
+    {
+      "id": 701001208002018,
+      "value": "Clear Score Battle 1 with Rank D or higher."
+    },
+    {
+      "id": 701001208002019,
+      "value": "Clear Score Battle 2 with Rank D or higher."
+    },
+    {
+      "id": 701001208002020,
+      "value": "Clear Score Battle 3 with Rank D or higher."
+    },
+    {
+      "id": 701001208002021,
+      "value": "Clear Score Battle 4 with Rank D or higher."
+    },
+    {
+      "id": 701001208002022,
+      "value": "Clear Score Battle 5 with Rank D or higher."
+    },
+    {
+      "id": 701001208002023,
+      "value": "Clear Score Battle 5 with Rank A or higher."
+    },
+    {
+      "id": 701001208002024,
+      "value": "Clear High-Risk Battle 1 with Rank D or higher."
+    },
+    {
+      "id": 701001208002025,
+      "value": "Clear High-Risk Battle 2 with Rank D or higher."
+    },
+    {
+      "id": 701001208002026,
+      "value": "Clear High-Risk Battle 2 with Rank A or higher."
+    },
+    {
+      "id": 701001208002027,
+      "value": "Clear High-Risk Battle 3 with Rank D or higher."
+    },
+    {
+      "id": 701001208002028,
+      "value": "Clear High-Risk Battle 3 with Rank A or higher."
+    },
+    {
+      "id": 701001208002029,
+      "value": "Clear High-Risk Battle 3 with Rank S."
+    },
+    {
+      "id": 701001208002030,
+      "value": "Clear Score Battle 4 with Yuffie in the party."
+    },
+    {
+      "id": 701001208002031,
+      "value": "Clear High-Risk Battle 1 with Aerith in the party."
+    },
+    {
+      "id": 701001208002032,
+      "value": "Clear Score Battle 5 with Tifa in the party."
+    },
+    {
+      "id": 701001208002033,
+      "value": "Clear Score Battle 5 with Red XIII in the party."
+    },
+    {
+      "id": 701001208002034,
+      "value": "Clear Score Battle 5 with Barret in the party."
+    },
+    {
+      "id": 701001208002036,
+      "value": "Obtain {0} Heart Cookies."
+    },
+    {
+      "id": 701001208003001,
+      "value": "Obtain {0} Silver Rally Medal(s)."
+    },
+    {
+      "id": 701001208003002,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701001208004001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701001208004002,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 701001208004003,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701001208004004,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701001208004005,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701001208004006,
+      "value": "Reach Item Gathering Lv. {0}."
+    },
+    {
+      "id": 701001208004007,
+      "value": "Obtain {0} Chocobo Egg(s)."
+    },
+    {
+      "id": 701001208004008,
+      "value": "Raise the Carrot Sword to Lv. {0}."
+    },
+    {
+      "id": 701001208004009,
+      "value": "Raise the Egg Collar to Lv. {0}."
+    },
+    {
+      "id": 701001208004010,
+      "value": "Clear High-Risk Battle 1 with Cait Sith in the party."
+    },
+    {
+      "id": 701001208004011,
+      "value": "Clear High-Risk Battle 1 with Aerith in the party."
+    },
+    {
+      "id": 701001208004012,
+      "value": "Clear High-Risk Battle 1 with Tifa in the party."
+    },
+    {
+      "id": 701001208004013,
+      "value": "Play \"Kicking Off the Egg Hunt & Tea Party\" of \"A Tea Party & Festive Eggs\"."
+    },
+    {
+      "id": 701001208004014,
+      "value": "Play \"Wrapping Up the Tea Party\" of \"A Tea Party & Festive Eggs\"."
+    },
+    {
+      "id": 701001208004015,
+      "value": "Play \"The First Cup: Cait Sith's Plan\" of \"A Tea Party & Festive Eggs\"."
+    },
+    {
+      "id": 701001208004016,
+      "value": "Play \"The Second Cup: Aerith's Guests\" of \"A Tea Party & Festive Eggs\"."
+    },
+    {
+      "id": 701001208004017,
+      "value": "Play \"The Third Cup: Tifa's Wish\" of \"A Tea Party & Festive Eggs\"."
+    },
+    {
+      "id": 701001208004018,
+      "value": "Clear Score Battle 1 with a score battle of 1,200 or higher."
+    },
+    {
+      "id": 701001208004019,
+      "value": "Clear Score Battle 2 with a score battle of 3,600 or higher."
+    },
+    {
+      "id": 701001208004020,
+      "value": "Clear Score Battle 3 with a score battle of 12,000 or higher."
+    },
+    {
+      "id": 701001208004021,
+      "value": "Clear Score Battle 4 with a score battle of 28,800 or higher."
+    },
+    {
+      "id": 701001208004022,
+      "value": "Clear Score Battle 5 with a score battle of 76,800 or higher."
+    },
+    {
+      "id": 701001208004023,
+      "value": "Clear Score Battle 5 with a score battle of 153,600 or higher."
+    },
+    {
+      "id": 701001208004024,
+      "value": "Clear High-Risk Battle 1 with a score battle of 86,400 or higher."
+    },
+    {
+      "id": 701001208004025,
+      "value": "Clear High-Risk Battle 2 with a score battle of 230,400 or higher."
+    },
+    {
+      "id": 701001208004026,
+      "value": "Clear High-Risk Battle 2 with a score battle of 460,800 or higher."
+    },
+    {
+      "id": 701001208004027,
+      "value": "Clear High-Risk Battle 3 with a score battle of 576,000 or higher."
+    },
+    {
+      "id": 701001208004028,
+      "value": "Clear High-Risk Battle 3 with a score battle of 1,152,000 or higher."
+    },
+    {
+      "id": 701001208004029,
+      "value": "Clear High-Risk Battle 3 with a score battle of 1,728,000 or higher."
+    },
+    {
+      "id": 701001209001001,
+      "value": "Attempt a mock battle {0} time(s)."
+    },
+    {
+      "id": 701001209001002,
+      "value": "Attempt an official match {0} time(s)."
+    },
+    {
+      "id": 701001211001001,
+      "value": "Play \"Alongside a Hero\" of \"FFVII REBIRTH Crossover\"."
+    },
+    {
+      "id": 701001211001002,
+      "value": "Play \"Echoing Voices\" of \"FFVII REBIRTH Crossover\"."
+    },
+    {
+      "id": 701001211001003,
+      "value": "Raise the Ashura to Lv. {0}."
+    },
+    {
+      "id": 701001211001004,
+      "value": "Raise the Igneous Saber to Lv. {0}."
+    },
+    {
+      "id": 701001211001005,
+      "value": "Obtain {0} Planet's Blessing(s)."
+    },
+    {
+      "id": 701001211001006,
+      "value": "Obtain {0} Planet's Splendor(s)."
+    },
+    {
+      "id": 701001211002005,
+      "value": "Obtain Proof of Defeat: Rathalos x{0}."
+    },
+    {
+      "id": 701001211002006,
+      "value": "Obtain Silver Rathalos Shard x{0}."
+    },
+    {
+      "id": 701001211002007,
+      "value": "Raise the Shinra Wyvern Blade to Lv. {0}."
+    },
+    {
+      "id": 701001211002008,
+      "value": "Raise the Catsmegaphone to Lv. {0}."
+    },
+    {
+      "id": 701001211002009,
+      "value": "Raise the Silver Sol Buster to Lv. {0}."
+    },
+    {
+      "id": 701001211002010,
+      "value": "Play \"Saying Goodbye\" of \"Monster Hunter Crossover Event: Rathalos in the Midgar Skies.\""
+    },
+    {
+      "id": 701002100001001,
+      "value": "Win {0} battle(s)."
+    },
+    {
+      "id": 701002100001002,
+      "value": "Win {0} battle(s)."
+    },
+    {
+      "id": 701002100001003,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701002100001004,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701002100001005,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701002100001006,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701002100001007,
+      "value": "Make use of the shop's services."
+    },
+    {
+      "id": 701002200001001,
+      "value": "Successfully link data."
+    },
+    {
+      "id": 701002200001002,
+      "value": "Successfully link the mobile app and Steam version."
+    },
+    {
+      "id": 701002300001001,
+      "value": "Raise the airship's hull to Lv. {0}."
+    },
+    {
+      "id": 701002300001002,
+      "value": "Raise the engine to Lv. {0}."
+    },
+    {
+      "id": 701002300001003,
+      "value": "Raise the stabilizer to Lv. {0}."
+    },
+    {
+      "id": 701002300001004,
+      "value": "Raise the propeller to Lv. {0}."
+    },
+    {
+      "id": 701002300001005,
+      "value": "Raise the total of all airship parts to Lv. {0}."
+    },
+    {
+      "id": 701002300001006,
+      "value": "Clear {0} Highwind rare enemy battle(s)."
+    },
+    {
+      "id": 701002300001007,
+      "value": "Collect Highwind rewards {0} time(s)."
+    },
+    {
+      "id": 701002300001008,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701002400101001,
+      "value": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> Weapons Obtained"
+    },
+    {
+      "id": 701002400101002,
+      "value": "<sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197> Weapons Obtained"
+    },
+    {
+      "id": 701002400101003,
+      "value": "<sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> Weapons Obtained"
+    },
+    {
+      "id": 701002400101008,
+      "value": "Weapons Obtained"
+    },
+    {
+      "id": 701002400102001,
+      "value": "Total Character Lv."
+    },
+    {
+      "id": 701002400102002,
+      "value": "Total Character Stream Nodes Unlocked"
+    },
+    {
+      "id": 701002400102003,
+      "value": "Total Limit Break Lv."
+    },
+    {
+      "id": 701002400103001,
+      "value": "Summons Unlocked"
+    },
+    {
+      "id": 701002400103002,
+      "value": "Total Summon Ability Lv."
+    },
+    {
+      "id": 701002400103003,
+      "value": "Total Summon Stream Nodes Unlocked"
+    },
+    {
+      "id": 701002400103004,
+      "value": "Highest Floor Reached in the Sealed Tower of the Cetra"
+    },
+    {
+      "id": 701002400104002,
+      "value": "Missions Cleared at 100% in Criterion Dungeons"
+    },
+    {
+      "id": 701002400104003,
+      "value": "Rank S+ Crisis Dungeons Cleared"
+    },
+    {
+      "id": 701002400104004,
+      "value": "Cleared Character Quest Codes"
+    },
+    {
+      "id": 701002400104005,
+      "value": "Icons Obtained"
+    },
+    {
+      "id": 701002400104006,
+      "value": "Title Plates Obtained"
+    },
+    {
+      "id": 701002400104007,
+      "value": "Titles Obtained"
+    },
+    {
+      "id": 701002400105001,
+      "value": "Chocobo Areas Explored 100%"
+    },
+    {
+      "id": 701002400105002,
+      "value": "Chocobo Exploration Items Obtained"
+    },
+    {
+      "id": 701002400105005,
+      "value": "Total Highwind Parts Lv."
+    },
+    {
+      "id": 701002400105006,
+      "value": "Highwind Boss Battles Cleared"
+    },
+    {
+      "id": 701002400106001,
+      "value": "Materia Types Obtained"
+    },
+    {
+      "id": 701002400106002,
+      "value": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192> Materia Types Obtained"
+    },
+    {
+      "id": 701002400106003,
+      "value": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>  Materia Types Obtained"
+    },
+    {
+      "id": 701002400107001,
+      "value": "Cloud's Gear Obtained"
+    },
+    {
+      "id": 701002400107002,
+      "value": "Barret's Gear Obtained"
+    },
+    {
+      "id": 701002400107003,
+      "value": "Tifa's Gear Obtained"
+    },
+    {
+      "id": 701002400107004,
+      "value": "Aerith's Gear Obtained"
+    },
+    {
+      "id": 701002400107005,
+      "value": "Red XIII's Gear Obtained"
+    },
+    {
+      "id": 701002400107006,
+      "value": "Yuffie's Gear Obtained"
+    },
+    {
+      "id": 701002400107007,
+      "value": "Zack's Gear Obtained"
+    },
+    {
+      "id": 701002400107008,
+      "value": "Sephiroth's Gear Obtained"
+    },
+    {
+      "id": 701002400107009,
+      "value": "Glenn's Gear Obtained"
+    },
+    {
+      "id": 701002400107010,
+      "value": "Matt's Gear Obtained"
+    },
+    {
+      "id": 701002400107011,
+      "value": "Lucia's Gear Obtained"
+    },
+    {
+      "id": 701002400107012,
+      "value": "Cait Sith's Gear Obtained"
+    },
+    {
+      "id": 701002400107013,
+      "value": "Vincent's Gear Obtained"
+    },
+    {
+      "id": 701002400107014,
+      "value": "Angeal's Gear Obtained"
+    },
+    {
+      "id": 701002400108001,
+      "value": "Cloud's Character Lv."
+    },
+    {
+      "id": 701002400108002,
+      "value": "Barret's Character Lv."
+    },
+    {
+      "id": 701002400108003,
+      "value": "Tifa's Character Lv."
+    },
+    {
+      "id": 701002400108004,
+      "value": "Aerith's Character Lv."
+    },
+    {
+      "id": 701002400108005,
+      "value": "Red XIII's Character Lv."
+    },
+    {
+      "id": 701002400108006,
+      "value": "Yuffie's Character Lv."
+    },
+    {
+      "id": 701002400108007,
+      "value": "Zack's Character Lv."
+    },
+    {
+      "id": 701002400108008,
+      "value": "Sephiroth's Character Lv."
+    },
+    {
+      "id": 701002400108009,
+      "value": "Glenn's Character Lv."
+    },
+    {
+      "id": 701002400108010,
+      "value": "Matt's Character Lv."
+    },
+    {
+      "id": 701002400108011,
+      "value": "Lucia's Character Lv."
+    },
+    {
+      "id": 701002400108012,
+      "value": "Cait Sith's Character Lv."
+    },
+    {
+      "id": 701002400108013,
+      "value": "Vincent's Character Lv."
+    },
+    {
+      "id": 701002400108014,
+      "value": "Angeal's Character Lv."
+    },
+    {
+      "id": 701002400109001,
+      "value": "Total Days in a Guild"
+    },
+    {
+      "id": 701002400109002,
+      "value": "Guild Exchange <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> Weapons Obtained"
+    },
+    {
+      "id": 701002400109003,
+      "value": "Guild Exchange <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197> Weapons Obtained"
+    },
+    {
+      "id": 701002400109004,
+      "value": "Guild Exchange <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198> Weapons Obtained"
+    },
+    {
+      "id": 701002400109005,
+      "value": "One-Hit Max. Damage in Guild Battle"
+    },
+    {
+      "id": 701002400109006,
+      "value": "Total Damage Dealt in Guild Battle"
+    },
+    {
+      "id": 701002400110001,
+      "value": "Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=135>) Score"
+    },
+    {
+      "id": 701002400110002,
+      "value": "Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=133>) Score"
+    },
+    {
+      "id": 701002400110003,
+      "value": "Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=131>) Score"
+    },
+    {
+      "id": 701002400110004,
+      "value": "Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=136>) Score"
+    },
+    {
+      "id": 701002400110005,
+      "value": "Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=130>) Score"
+    },
+    {
+      "id": 701002400110006,
+      "value": "Damage Challenge (Weakness: <sprite=\"tmp_icon\" index=129>) Score"
+    },
+    {
+      "id": 701002400110007,
+      "value": "Damage Challenge (Weakness: None) Score"
+    },
+    {
+      "id": 701002400201001,
+      "value": "Cloud's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201002,
+      "value": "Barret's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201003,
+      "value": "Tifa's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201004,
+      "value": "Aerith's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201005,
+      "value": "Red XIII's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201006,
+      "value": "Yuffie's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201007,
+      "value": "Zack's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201008,
+      "value": "Sephiroth's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201009,
+      "value": "Glenn's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201010,
+      "value": "Matt's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201011,
+      "value": "Lucia's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201012,
+      "value": "Cait Sith's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201013,
+      "value": "Vincent's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400201014,
+      "value": "Angeal's One-Hit Max. Damage (Excludes Events)"
+    },
+    {
+      "id": 701002400202001,
+      "value": "Cloud's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202002,
+      "value": "Barret's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202003,
+      "value": "Tifa's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202004,
+      "value": "Aerith's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202005,
+      "value": "Red XIII's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202006,
+      "value": "Yuffie's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202007,
+      "value": "Zack's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202008,
+      "value": "Sephiroth's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202009,
+      "value": "Glenn's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202010,
+      "value": "Matt's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202011,
+      "value": "Lucia's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202012,
+      "value": "Cait Sith's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202013,
+      "value": "Vincent's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002400202014,
+      "value": "Angeal's Total Damage Dealt in Battle (Excludes Events)"
+    },
+    {
+      "id": 701002401001004,
+      "value": "Cloud's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401001005,
+      "value": "Cloud's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401001006,
+      "value": "Cloud's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401001009,
+      "value": "Cloud's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401002004,
+      "value": "Barret's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401002005,
+      "value": "Barret's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401002006,
+      "value": "Barret's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401002009,
+      "value": "Barret's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401003004,
+      "value": "Tifa's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401003005,
+      "value": "Tifa's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401003006,
+      "value": "Tifa's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401003009,
+      "value": "Tifa's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401004004,
+      "value": "Aerith's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401004005,
+      "value": "Aerith's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401004006,
+      "value": "Aerith's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401004009,
+      "value": "Aerith's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401005004,
+      "value": "Red XIII's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401005005,
+      "value": "Red XIII's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401005006,
+      "value": "Red XIII's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401005009,
+      "value": "Red XIII's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401006004,
+      "value": "Yuffie's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401006005,
+      "value": "Yuffie's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401006006,
+      "value": "Yuffie's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401006009,
+      "value": "Yuffie's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401007004,
+      "value": "Cait Sith's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401007005,
+      "value": "Cait Sith's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401007006,
+      "value": "Cait Sith's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401007009,
+      "value": "Cait Sith's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401008004,
+      "value": "Vincent's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401008005,
+      "value": "Vincent's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401008006,
+      "value": "Vincent's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401008009,
+      "value": "Vincent's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401020004,
+      "value": "Zack's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401020005,
+      "value": "Zack's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401020006,
+      "value": "Zack's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401020009,
+      "value": "Zack's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401049004,
+      "value": "Sephiroth's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401049005,
+      "value": "Sephiroth's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401049006,
+      "value": "Sephiroth's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401049009,
+      "value": "Sephiroth's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401050004,
+      "value": "Glenn's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401050005,
+      "value": "Glenn's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401050006,
+      "value": "Glenn's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401050009,
+      "value": "Glenn's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401051004,
+      "value": "Matt's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401051005,
+      "value": "Matt's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401051006,
+      "value": "Matt's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401051009,
+      "value": "Matt's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401052004,
+      "value": "Lucia's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401052005,
+      "value": "Lucia's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401052006,
+      "value": "Lucia's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401052009,
+      "value": "Lucia's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701002401056004,
+      "value": "Angeal's Weapons Raised to Lv. 50"
+    },
+    {
+      "id": 701002401056005,
+      "value": "Angeal's Weapons Raised to Lv. 70"
+    },
+    {
+      "id": 701002401056006,
+      "value": "Angeal's Weapons Raised to Lv. 90"
+    },
+    {
+      "id": 701002401056009,
+      "value": "Angeal's Weapons Raised to Lv. 120"
+    },
+    {
+      "id": 701120200202005,
+      "value": "Consume {0} stamina in Solo battle in \"Iron Giant Hunt\""
+    },
+    {
+      "id": 701120200202007,
+      "value": "Consume {0} stamina in Co-op battle in \"Iron Giant Hunt\""
+    },
+    {
+      "id": 701120200401001,
+      "value": "Attempt a Solo battle in \"Clash of Vengeance.\""
+    },
+    {
+      "id": 701120200401002,
+      "value": "Attempt a Co-op battle in \"Clash of Vengeance.\""
+    },
+    {
+      "id": 701120200501001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200501002,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701120200501003,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701120200501004,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701120200501005,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701120200502001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200502002,
+      "value": "Consume {0} stamina in Event Solo battle."
+    },
+    {
+      "id": 701120200502003,
+      "value": "Consume {0} stamina in Event Co-op battle."
+    },
+    {
+      "id": 701120200601001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200601002,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701120200601003,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701120200601004,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701120200601005,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701120200602001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200602005,
+      "value": "Consume {0} stamina in Event Solo battle."
+    },
+    {
+      "id": 701120200602007,
+      "value": "Consume {0} stamina in Event Co-op battle."
+    },
+    {
+      "id": 701120200701001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200701002,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701120200701003,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701120200701004,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701120200701005,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701120200702001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200702005,
+      "value": "Consume {0} stamina in Event Solo battle."
+    },
+    {
+      "id": 701120200702007,
+      "value": "Consume {0} stamina in Event Co-op battle."
+    },
+    {
+      "id": 701120200801001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200801002,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701120200801003,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701120200801004,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701120200801005,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701120200802001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120200802005,
+      "value": "Consume {0} stamina in Event Solo battle."
+    },
+    {
+      "id": 701120200802007,
+      "value": "Consume {0} stamina in Event Co-op battle."
+    },
+    {
+      "id": 701120201401006,
+      "value": "Raise the Turks' Blade to Lv. {0}."
+    },
+    {
+      "id": 701120301001001,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120301001002,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701120301002001,
+      "value": "Obtain {0} Golden Bomb Medal(s)."
+    },
+    {
+      "id": 701120301002005,
+      "value": "Obtain {0} Bomb Medal(s)."
+    },
+    {
+      "id": 701120301101001,
+      "value": "Raise the Burning Oar to Lv. {0}."
+    },
+    {
+      "id": 701120301101002,
+      "value": "Raise the Firefish to Lv. {0}."
+    },
+    {
+      "id": 701120301101003,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120301101004,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701120301101005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701120301101006,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701120301101007,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701120301101008,
+      "value": "Play episode 1 of \"Summer's Here! Fireworks on the Beach.\""
+    },
+    {
+      "id": 701120301101009,
+      "value": "Play episode 3 of \"Summer's Here! Fireworks on the Beach.\""
+    },
+    {
+      "id": 701120301102001,
+      "value": "Clear any battle {0} time(s) in \"Summer's Here! Fireworks on the Beach.\""
+    },
+    {
+      "id": 701120301201001,
+      "value": "Raise the Cactuar Fan to Lv. {0}."
+    },
+    {
+      "id": 701120301201002,
+      "value": "Raise the Fireworks Megaphone to Lv. {0}."
+    },
+    {
+      "id": 701120301201003,
+      "value": "Play episode 1 of \"A Fireworks Nocturne.\""
+    },
+    {
+      "id": 701120301201004,
+      "value": "Play episode 7 of \"A Fireworks Nocturne.\""
+    },
+    {
+      "id": 701120301201005,
+      "value": "Clear Boomtuar 8 with Tifa in the party."
+    },
+    {
+      "id": 701120301201006,
+      "value": "Clear Boomtuar 8 with Aerith in the party."
+    },
+    {
+      "id": 701120301201007,
+      "value": "Clear Boomtuar 8 with Yuffie in the party."
+    },
+    {
+      "id": 701120301202001,
+      "value": "Clear any battle {0} time(s) in \"A Fireworks Nocturne.\""
+    },
+    {
+      "id": 701120301302001,
+      "value": "Clear any battle {0} time(s) in \"FINAL FANTASY IX Crossover Reawakened.\""
+    },
+    {
+      "id": 701120301401001,
+      "value": "Clear any battle {0} time(s) in \"Clash of Vengeance 2.\""
+    },
+    {
+      "id": 701120301501001,
+      "value": "Raise the Alba Blade to Lv. {0}."
+    },
+    {
+      "id": 701120301501002,
+      "value": "Raise the Alba Megaphone to Lv. {0}."
+    },
+    {
+      "id": 701120301501003,
+      "value": "Play \"Power of Pure Destruction\"."
+    },
+    {
+      "id": 701120301501004,
+      "value": "Play \"Of Great Power and Destruction\"."
+    },
+    {
+      "id": 701120301502001,
+      "value": "Clear any battle {0} time(s) in \"The Cetra's Story: Birth of the Destroyer.\""
+    },
+    {
+      "id": 701120301601001,
+      "value": "Raise the Black Cat's Paws to Lv. {0}."
+    },
+    {
+      "id": 701120301601002,
+      "value": "Raise the Candle Rapier to Lv. {0}."
+    },
+    {
+      "id": 701120301602001,
+      "value": "Clear any battle {0} time(s) in \"Attack of the Dark Army General.\""
+    },
+    {
+      "id": 701120301701001,
+      "value": "Raise Cyan's Blade to Lv. {0}."
+    },
+    {
+      "id": 701120301701002,
+      "value": "Raise Kefka's Collar to Lv. {0}."
+    },
+    {
+      "id": 701120301701003,
+      "value": "Play \"The Mining Town of Narshe\"."
+    },
+    {
+      "id": 701120301701004,
+      "value": "Play \"The Returners\"."
+    },
+    {
+      "id": 701120301702001,
+      "value": "Clear any battle {0} time(s) in \"Cackling Court Mage Kefka.\""
+    },
+    {
+      "id": 701120301801001,
+      "value": "Raise the Wintercrest Blade to Lv. {0}."
+    },
+    {
+      "id": 701120301801002,
+      "value": "Raise the White Tree to Lv. {0}."
+    },
+    {
+      "id": 701120301802001,
+      "value": "Clear any battle {0} time(s) in \"A Holiday Battle: The Holy Flame's Bounty.\""
+    },
+    {
+      "id": 701120302001001,
+      "value": "Raise the Chocobo Paddle to Lv. {0}."
+    },
+    {
+      "id": 701120302001002,
+      "value": "Raise the Mallet of Luck to Lv. {0}."
+    },
+    {
+      "id": 701120302001012,
+      "value": "Play \"A Celebration for All\"."
+    },
+    {
+      "id": 701120302002001,
+      "value": "Clear any battle {0} time(s) in \"Happy New Year: Massive Mochi Mayhem.\""
+    },
+    {
+      "id": 701120302201001,
+      "value": "Clear any battle {0} time(s) in \"Clash of Vengeance 3.\""
+    },
+    {
+      "id": 701120302302001,
+      "value": "Log in to the game."
+    },
+    {
+      "id": 701120302302002,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120302302003,
+      "value": "Obtain {0} Golden Rally Medal(s)."
+    },
+    {
+      "id": 701120302302004,
+      "value": "Obtain {0} Silver Rally Medal(s)."
+    },
+    {
+      "id": 701120900501008,
+      "value": "Deal a total of {0} or more damage in a single battle of a guild battle."
+    },
+    {
+      "id": 702000100001001,
+      "value": "Enhance any weapon {0} time(s)."
+    },
+    {
+      "id": 702000100001026,
+      "value": "Consume {0} stamina."
+    },
+    {
+      "id": 702000190102501,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 702000210000001,
+      "value": "Receive items {0} time(s) from the Felyne."
+    },
+    {
+      "id": 702000300001007,
+      "value": "Clear Co-op battle in Event {0} time(s)."
+    },
+    {
+      "id": 702000310000001,
+      "value": "Clear all the panel missions."
+    },
+    {
+      "id": 702000500001005,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 702000500002002,
+      "value": "Perform any {0} draws."
+    },
+    {
+      "id": 702000500008012,
+      "value": "Clear premium quests {0} time(s)."
+    },
+    {
+      "id": 702000600013001,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 702000900201001,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 702000900201002,
+      "value": "Raise the level of a type of weapon to Lv. 80+."
+    },
+    {
+      "id": 702000900201003,
+      "value": "Clear FFVII CHAPTER 1 - SUB SECTION 1 - EP3."
+    },
+    {
+      "id": 702000900201004,
+      "value": "Clear Training Quests {0} time(s)."
+    },
+    {
+      "id": 702000900201005,
+      "value": "Clear Daily Quests {0} time(s)."
+    },
+    {
+      "id": 702000900201006,
+      "value": "Clear any battle {0} time(s) in \"Birth of the Destroyer.\""
+    },
+    {
+      "id": 702000900201007,
+      "value": "Log in to a guild."
+    },
+    {
+      "id": 702000900201008,
+      "value": "Reach player Lv. {0}."
+    },
+    {
+      "id": 702000900201009,
+      "value": "Collect Highwind rewards {0} time(s)."
+    },
+    {
+      "id": 702000900202002,
+      "value": "Clear \"[1/Day] Bahamut Alba 1\" {0} time(s)."
+    },
+    {
+      "id": 702000900202003,
+      "value": "Raise the level of 9 types of weapons to Lv. 80+."
+    },
+    {
+      "id": 702000900202004,
+      "value": "Raise any 3 characters to Lv. 50+."
+    },
+    {
+      "id": 702000900202005,
+      "value": "Unlock a total of {0} character streams."
+    },
+    {
+      "id": 702000900202006,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 702000900202007,
+      "value": "Clear FFVII CHAPTER 3 - MAIN SECTION 3 - EP3."
+    },
+    {
+      "id": 702000900202008,
+      "value": "Clear premium quests {0} time(s)."
+    },
+    {
+      "id": 702000900202009,
+      "value": "Clear B30 of Chaos of the Corrupted."
+    },
+    {
+      "id": 702000900203002,
+      "value": "Raise the level of 3 types of weapons to Lv. 90+."
+    },
+    {
+      "id": 702000900203003,
+      "value": "Raise any 3 characters to Lv. 60+."
+    },
+    {
+      "id": 702000900203004,
+      "value": "Clear \"Bahamut Alba 1\" {0} time(s)."
+    },
+    {
+      "id": 702000900203005,
+      "value": "Clear FFVII FS CHAPTER 3 - MAIN SECTION 4 - EP2."
+    },
+    {
+      "id": 702000900203006,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 702000900203007,
+      "value": "Consume {0} stamina."
+    },
+    {
+      "id": 702000900203009,
+      "value": "Clear B50 of Chaos of the Corrupted."
+    },
+    {
+      "id": 702000900204003,
+      "value": "Bind the summon Ifrit."
+    },
+    {
+      "id": 702000900204004,
+      "value": "Use summon abilities {0} time(s)."
+    },
+    {
+      "id": 702000900204005,
+      "value": "Bind the summon Shiva."
+    },
+    {
+      "id": 702000900204006,
+      "value": "Clear any Co-op battle {0} time(s)."
+    },
+    {
+      "id": 702000900204007,
+      "value": "Clear \"[1/Day] Bahamut Alba 2\" {0} time(s)."
+    },
+    {
+      "id": 702000900204008,
+      "value": "Consume {0} stamina in Co-op battle."
+    },
+    {
+      "id": 702000900204009,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 702000900205002,
+      "value": "Raise the level of a type of weapon to Lv. 120+."
+    },
+    {
+      "id": 702000900205004,
+      "value": "Raise any 3 characters to Lv. 65+."
+    },
+    {
+      "id": 702000900205005,
+      "value": "Clear B1 of Chaos of the Corrupted (Brutal)."
+    },
+    {
+      "id": 702000900205006,
+      "value": "Attempt the Co-op battles \"Ifrit & Bahamut\" or \"Shiva.\""
+    },
+    {
+      "id": 702000900205008,
+      "value": "Unlock a total of {0} summon streams for all summons."
+    },
+    {
+      "id": 702000900205009,
+      "value": "Bind {0} summon(s)."
+    },
+    {
+      "id": 702000900301001,
+      "value": "Log in for a total of {0} days."
+    },
+    {
+      "id": 702000900301002,
+      "value": "Clear any battle {0} time(s) with Angeal in the party."
+    },
+    {
+      "id": 702000900301003,
+      "value": "Unlock {0} node(s) in Angeal's character stream."
+    },
+    {
+      "id": 702000900301004,
+      "value": "Raise Angeal to Lv. {0}."
+    },
+    {
+      "id": 702000900301005,
+      "value": "Attempt the FFVII FS2 CHAPTER 1 EXTRA."
+    },
+    {
+      "id": 702000900301006,
+      "value": "Acquire Angeal's LB Serit Arbores."
+    },
+    {
+      "id": 702000900301007,
+      "value": "Clear B1 of The Azure Tower."
+    },
+    {
+      "id": 702000900301008,
+      "value": "Clear B10 of The Azure Tower."
+    },
+    {
+      "id": 702000900301009,
+      "value": "Clear B30 of The Azure Tower."
+    },
+    {
+      "id": 702000900401002,
+      "value": "Clear {0} battle(s)."
+    },
+    {
+      "id": 702000900401004,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 702000900401006,
+      "value": "Clear battle in any Event {0} time(s)."
+    },
+    {
+      "id": 702000900401008,
+      "value": "Clear Co-op battle in any Event {0} time(s)."
+    },
+    {
+      "id": 702000900401009,
+      "value": "Join a guild."
+    },
+    {
+      "id": 702000900402002,
+      "value": "Raise the Cyan's Blade to Lv. {0}."
+    },
+    {
+      "id": 702000900402003,
+      "value": "Clear \"[1/Day] Kefka 1\" {0} time(s)."
+    },
+    {
+      "id": 702000900403002,
+      "value": "Raise Kefka's Collar to Lv. {0}."
+    },
+    {
+      "id": 702000900403007,
+      "value": "Clear Solo battle in any Event {0} time(s)."
+    },
+    {
+      "id": 702000900403009,
+      "value": "Clear \"[1/Day] Kefka 2\" {0} time(s)."
+    },
+    {
+      "id": 702000900501002,
+      "value": "Make a purchase at the shop {0} time(s)."
+    },
+    {
+      "id": 702000900501005,
+      "value": "Perform any {0} draw(s)."
+    },
+    {
+      "id": 702000900501006,
+      "value": "Log in to a guild {0} days."
+    },
+    {
+      "id": 702000900501008,
+      "value": "Clear \"[1/Day] Burntuar 1\" {0} time(s)."
+    },
+    {
+      "id": 702000900502003,
+      "value": "Raise the Turks' Blade to Lv. {0}."
+    },
+    {
+      "id": 702000900502004,
+      "value": "Clear \"[1/Day] Reno & Elena\" {0} time(s)."
+    },
+    {
+      "id": 702000900502006,
+      "value": "Clear Crisis Dungeon {0} time(s)."
+    },
+    {
+      "id": 702000900502007,
+      "value": "Log in to a guild for {0} day(s)."
+    },
+    {
+      "id": 702000900502008,
+      "value": "Raise Turks' Blade's rarity to <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198>."
+    },
+    {
+      "id": 702000900601001,
+      "value": "Attempt \"Trial of Titan\" on any difficulty {0} time(s)."
+    },
+    {
+      "id": 702000900601002,
+      "value": "Attempt the Max. Damage Challenge \"Weakness: <sprite=\"tmp_icon\" index=135>\" {0} time(s)."
+    },
+    {
+      "id": 702000900601003,
+      "value": "Attempt the Max. Damage Challenge \"Weakness: <sprite=\"tmp_icon\" index=133>\" {0} time(s)."
+    },
+    {
+      "id": 702000900601004,
+      "value": "Attempt the Max. Damage Challenge \"Weakness: <sprite=\"tmp_icon\" index=131>\" {0} time(s)."
+    },
+    {
+      "id": 702000900601005,
+      "value": "Attempt the Max. Damage Challenge \"Weakness: None\" {0} time(s)."
+    },
+    {
+      "id": 702000900601006,
+      "value": "Attempt the Max. Damage Challenge \"Weakness: <sprite=\"tmp_icon\" index=136>\" {0} time(s)."
+    },
+    {
+      "id": 702000900601007,
+      "value": "Attempt the Max. Damage Challenge \"Weakness: <sprite=\"tmp_icon\" index=130>\" {0} time(s)."
+    },
+    {
+      "id": 702000900601008,
+      "value": "Attempt the Max. Damage Challenge \"Weakness: <sprite=\"tmp_icon\" index=129>\" {0} time(s)."
+    },
+    {
+      "id": 702000900601009,
+      "value": "Consume {0} stamina in the Weapon Enhancement Rally Event."
+    },
+    {
+      "id": 702000900701005,
+      "value": "Clear \"[1/Day] Mochi Scorpion 1\" {0} time(s)."
+    },
+    {
+      "id": 702000900701008,
+      "value": "Attempt the Max. Damage Challenge {0} time(s)."
+    },
+    {
+      "id": 702000900701009,
+      "value": "Raise the Chocobo Paddle to Lv. {0}."
+    },
+    {
+      "id": 702000900702004,
+      "value": "Clear \"[1/Day] Mochi Scorpion 1\" {0} time(s)."
+    },
+    {
+      "id": 702000900702008,
+      "value": "Raise Chocobo Paddle's rarity to <sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198><sprite=\"tmp_icon\" index=198>."
+    },
+    {
+      "id": 702000900703002,
+      "value": "Raise the Mallet of Luck to Lv. {0}."
+    },
+    {
+      "id": 702000900703004,
+      "value": "Attempt \"Zetant Ratel Daily\" {0} time(s)."
+    },
+    {
+      "id": 702000900703005,
+      "value": "Clear \"[1/Day] Mochi Scorpion 2\" {0} time(s)."
+    },
+    {
+      "id": 702000900703006,
+      "value": "Attempt \"Materia Guardian Daily\" {0} time(s)."
+    },
+    {
+      "id": 702001203005005,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 702001208002035,
+      "value": "Clear Solo battle in Event {0} time(s)."
+    },
+    {
+      "id": 702002300001007,
+      "value": "Collect Highwind rewards {0} time(s)."
+    }
+  ]
+}

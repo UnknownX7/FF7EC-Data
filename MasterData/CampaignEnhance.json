@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1001,
+    "EnhanceType": 2,
+    "Priority": 0,
+    "StartDatetime": 1736733600000,
+    "EndDatetime": 1737338399000,
+    "NameLanguageId": 853000000000025,
+    "DescriptionLanguageId": 854000000000025,
+    "AutoEffectCoefficient": 200
+  },
+  {
+    "Id": 1002,
+    "EnhanceType": 2,
+    "Priority": 1,
+    "StartDatetime": 1704034800000,
+    "EndDatetime": 1704679199000,
+    "NameLanguageId": 853000000000025,
+    "DescriptionLanguageId": 854000000000025,
+    "AutoEffectCoefficient": 200
+  },
+  {
+    "Id": 1003,
+    "EnhanceType": 2,
+    "Priority": 1,
+    "StartDatetime": 1708912800000,
+    "EndDatetime": 1709863199000,
+    "NameLanguageId": 853000000000025,
+    "DescriptionLanguageId": 854000000000025,
+    "AutoEffectCoefficient": 500
+  },
+  {
+    "Id": 1004,
+    "EnhanceType": 2,
+    "Priority": 2,
+    "StartDatetime": 1710381600000,
+    "EndDatetime": 1712192399000,
+    "NameLanguageId": 853000000000025,
+    "DescriptionLanguageId": 854000000000025,
+    "AutoEffectCoefficient": 500
+  },
+  {
+    "Id": 1005,
+    "EnhanceType": 2,
+    "Priority": 2,
+    "StartDatetime": 1713405600000,
+    "EndDatetime": 1715047199000,
+    "NameLanguageId": 853000000000025,
+    "DescriptionLanguageId": 854000000000025,
+    "AutoEffectCoefficient": 500
+  },
+  {
+    "Id": 1006,
+    "EnhanceType": 2,
+    "Priority": 0,
+    "StartDatetime": 1711936800000,
+    "EndDatetime": 1712541599000,
+    "NameLanguageId": 853000000000025,
+    "DescriptionLanguageId": 854000000000025,
+    "AutoEffectCoefficient": 200
+  },
+  {
+    "Id": 2001,
+    "EnhanceType": 1,
+    "Priority": 0,
+    "StartDatetime": 1734919200000,
+    "EndDatetime": 1735523999000,
+    "NameLanguageId": 853000000000024,
+    "DescriptionLanguageId": 854000000000024,
+    "AutoEffectCoefficient": 200
+  },
+  {
+    "Id": 2002,
+    "EnhanceType": 1,
+    "Priority": 0,
+    "StartDatetime": 1704034800000,
+    "EndDatetime": 1704679199000,
+    "NameLanguageId": 853000000000024,
+    "DescriptionLanguageId": 854000000000024,
+    "AutoEffectCoefficient": 200
+  }
+]

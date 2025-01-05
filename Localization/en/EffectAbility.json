@@ -1,0 +1,720 @@
+{
+  "data": [
+    {
+      "id": 504001,
+      "value": "{0}/{1}/Pot.<param2>{2}</param2>%"
+    },
+    {
+      "id": 504002,
+      "value": "{0}{3} is {5}. [Pot.: {4}]{2}{1} [Dur.: {6}s]{7}"
+    },
+    {
+      "id": 504003,
+      "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Ext.: +{5}s]"
+    },
+    {
+      "id": 504004,
+      "value": "{0}{3} is applied{2}{1}. [Dur.: {4}s] [Ext.: +{5}s]"
+    },
+    {
+      "id": 504005,
+      "value": "When hitting critical, "
+    },
+    {
+      "id": 504006,
+      "value": "When hitting target's weakness, "
+    },
+    {
+      "id": 504007,
+      "value": "When hitting target's resistance, "
+    },
+    {
+      "id": 504008,
+      "value": "When matching sigils are destroyed, "
+    },
+    {
+      "id": 504009,
+      "value": "{0}–{1}%"
+    },
+    {
+      "id": 504010,
+      "value": "{0}% or more"
+    },
+    {
+      "id": 504011,
+      "value": "{0}% or less"
+    },
+    {
+      "id": 504012,
+      "value": "When{0}'s HP is {1}, "
+    },
+    {
+      "id": 504013,
+      "value": "When {1} is granted to{0}, "
+    },
+    {
+      "id": 504014,
+      "value": "Buff"
+    },
+    {
+      "id": 504015,
+      "value": "Debuff"
+    },
+    {
+      "id": 504016,
+      "value": "Status ailment"
+    },
+    {
+      "id": 504017,
+      "value": "Status effect"
+    },
+    {
+      "id": 504018,
+      "value": "When {2} {1} are granted to {0}, "
+    },
+    {
+      "id": 504019,
+      "value": "Sigil Destruction +{0}"
+    },
+    {
+      "id": 504020,
+      "value": "When {2} {1} are granted to {0}, "
+    },
+    {
+      "id": 504021,
+      "value": "{0} or more"
+    },
+    {
+      "id": 504022,
+      "value": "{0} or less"
+    },
+    {
+      "id": 504023,
+      "value": "{0} Rate"
+    },
+    {
+      "id": 504024,
+      "value": " [Crit rate: {0}%]"
+    },
+    {
+      "id": 504029,
+      "value": "increased"
+    },
+    {
+      "id": 504030,
+      "value": "decreased"
+    },
+    {
+      "id": 504031,
+      "value": " [Max. pot.: {0}]"
+    },
+    {
+      "id": 504035,
+      "value": "Also, {0}"
+    },
+    {
+      "id": 504036,
+      "value": "{0}% of Healing Pot."
+    },
+    {
+      "id": 504041,
+      "value": "Non-elem."
+    },
+    {
+      "id": 504042,
+      "value": "Fire"
+    },
+    {
+      "id": 504043,
+      "value": "Ice"
+    },
+    {
+      "id": 504044,
+      "value": "Lightning"
+    },
+    {
+      "id": 504045,
+      "value": "Earth"
+    },
+    {
+      "id": 504046,
+      "value": "Water"
+    },
+    {
+      "id": 504047,
+      "value": "Wind"
+    },
+    {
+      "id": 504048,
+      "value": "Light"
+    },
+    {
+      "id": 504049,
+      "value": "Dark"
+    },
+    {
+      "id": 504050,
+      "value": "({0})"
+    },
+    {
+      "id": 504051,
+      "value": "{0}. {1}"
+    },
+    {
+      "id": 504052,
+      "value": "{0}Deal {3}% {5} {4} damage{1}{2}{6}."
+    },
+    {
+      "id": 504053,
+      "value": "{1}%-{2}% {0} {3} ATK"
+    },
+    {
+      "id": 504054,
+      "value": "{0}{4} heal is cast. [Pot.: {3}]{2}{1}"
+    },
+    {
+      "id": 504055,
+      "value": "{0}Removes {3}{2}{1}."
+    },
+    {
+      "id": 504056,
+      "value": "Grant/{0} <color=#76FBFD>Lv.{1}</color> for <color=#76FBFD>{2}s</color>"
+    },
+    {
+      "id": 504057,
+      "value": "Grant/{0} for <color=#76FBFD>{1}s</color>"
+    },
+    {
+      "id": 504058,
+      "value": "Grant/{0} for <color=#76FBFD>{1}s</color>"
+    },
+    {
+      "id": 504059,
+      "value": "{0}x{2} damage{1}."
+    },
+    {
+      "id": 504060,
+      "value": "Increases STR by {1}% if HP is {0} or less"
+    },
+    {
+      "id": 504061,
+      "value": "Increases STR by {2}% if HP is between {0}-{1}"
+    },
+    {
+      "id": 504062,
+      "value": "HP {0} or more"
+    },
+    {
+      "id": 504063,
+      "value": "HP {0} or less"
+    },
+    {
+      "id": 504064,
+      "value": "HP {0}%–{1}%"
+    },
+    {
+      "id": 504065,
+      "value": "HEAL/{0}"
+    },
+    {
+      "id": 504066,
+      "value": "{0}\\n{1}"
+    },
+    {
+      "id": 504067,
+      "value": " [Rate: {0}%]"
+    },
+    {
+      "id": 504068,
+      "value": "<{0}>\\n"
+    },
+    {
+      "id": 504069,
+      "value": "When hitting a target without weaknesses, "
+    },
+    {
+      "id": 504070,
+      "value": "When {0} {1}, "
+    },
+    {
+      "id": 504071,
+      "value": "Attack Stance"
+    },
+    {
+      "id": 504072,
+      "value": "Defense Stance"
+    },
+    {
+      "id": 504073,
+      "value": "Gauge is max."
+    },
+    {
+      "id": 504090,
+      "value": "Low"
+    },
+    {
+      "id": 504091,
+      "value": "Mid"
+    },
+    {
+      "id": 504092,
+      "value": "High"
+    },
+    {
+      "id": 504093,
+      "value": "Extra High"
+    },
+    {
+      "id": 504094,
+      "value": "Extreme"
+    },
+    {
+      "id": 504099,
+      "value": "??"
+    },
+    {
+      "id": 504100,
+      "value": " [Rng.: Single Ally]"
+    },
+    {
+      "id": 504101,
+      "value": " [Rng.: All Allies]"
+    },
+    {
+      "id": 504102,
+      "value": " [Rng.: Single Enemy]"
+    },
+    {
+      "id": 504103,
+      "value": " [Rng.: All Enemies]"
+    },
+    {
+      "id": 504104,
+      "value": " [Rng.: Self]"
+    },
+    {
+      "id": 504105,
+      "value": "friend"
+    },
+    {
+      "id": 504106,
+      "value": "all targets"
+    },
+    {
+      "id": 504107,
+      "value": "Target"
+    },
+    {
+      "id": 504116,
+      "value": "Phys."
+    },
+    {
+      "id": 504117,
+      "value": "Mag."
+    },
+    {
+      "id": 504118,
+      "value": "Phys./Mag."
+    },
+    {
+      "id": 504119,
+      "value": "Heal"
+    },
+    {
+      "id": 504120,
+      "value": "Revive"
+    },
+    {
+      "id": 504121,
+      "value": "PATK"
+    },
+    {
+      "id": 504122,
+      "value": "PDEF"
+    },
+    {
+      "id": 504123,
+      "value": "MATK"
+    },
+    {
+      "id": 504124,
+      "value": "MDEF"
+    },
+    {
+      "id": 504125,
+      "value": "HEAL"
+    },
+    {
+      "id": 504128,
+      "value": "PATK Up"
+    },
+    {
+      "id": 504129,
+      "value": "PATK Down"
+    },
+    {
+      "id": 504130,
+      "value": "MATK Up"
+    },
+    {
+      "id": 504131,
+      "value": "MATK Down"
+    },
+    {
+      "id": 504132,
+      "value": "PDEF Up"
+    },
+    {
+      "id": 504133,
+      "value": "PDEF Down"
+    },
+    {
+      "id": 504134,
+      "value": "MDEF Up"
+    },
+    {
+      "id": 504135,
+      "value": "MDEF Down"
+    },
+    {
+      "id": 504136,
+      "value": "Regen"
+    },
+    {
+      "id": 504137,
+      "value": "Provoke"
+    },
+    {
+      "id": 504138,
+      "value": "Reflect"
+    },
+    {
+      "id": 504139,
+      "value": "Raise"
+    },
+    {
+      "id": 504140,
+      "value": "Fire Resist. Up"
+    },
+    {
+      "id": 504141,
+      "value": "Fire Resist. Down"
+    },
+    {
+      "id": 504142,
+      "value": "Ice Resist. Up"
+    },
+    {
+      "id": 504143,
+      "value": "Ice Resist. Down"
+    },
+    {
+      "id": 504144,
+      "value": "Lightning Resist. Up"
+    },
+    {
+      "id": 504145,
+      "value": "Lightning Resist. Down"
+    },
+    {
+      "id": 504146,
+      "value": "Earth Resist. Up"
+    },
+    {
+      "id": 504147,
+      "value": "Earth Resist. Down"
+    },
+    {
+      "id": 504148,
+      "value": "Water Resist. Up"
+    },
+    {
+      "id": 504149,
+      "value": "Water Resist. Down"
+    },
+    {
+      "id": 504150,
+      "value": "Wind Resist. Up"
+    },
+    {
+      "id": 504151,
+      "value": "Wind Resist. Down"
+    },
+    {
+      "id": 504152,
+      "value": "Light Resist. Up"
+    },
+    {
+      "id": 504153,
+      "value": "Light Resist. Down"
+    },
+    {
+      "id": 504154,
+      "value": "Dark Resist. Up"
+    },
+    {
+      "id": 504155,
+      "value": "Dark Resist. Down"
+    },
+    {
+      "id": 504156,
+      "value": "[Ext.: +{0}s] [Max. pot.: {1}]"
+    },
+    {
+      "id": 504157,
+      "value": "Limit Gauge"
+    },
+    {
+      "id": 504158,
+      "value": "Summon Gauge"
+    },
+    {
+      "id": 504159,
+      "value": "Limit Gauge/Summon Gauge"
+    },
+    {
+      "id": 504160,
+      "value": "{3} {0}'s {1} by {2}%."
+    },
+    {
+      "id": 504161,
+      "value": "{3} {0}'s {1} with {3}."
+    },
+    {
+      "id": 504162,
+      "value": "Increases"
+    },
+    {
+      "id": 504163,
+      "value": "Lowers"
+    },
+    {
+      "id": 504164,
+      "value": " "
+    },
+    {
+      "id": 504165,
+      "value": "Haste"
+    },
+    {
+      "id": 504166,
+      "value": "against a single target, "
+    },
+    {
+      "id": 504167,
+      "value": "Cannot display guest character's ability details."
+    },
+    {
+      "id": 504168,
+      "value": "The lower your HP, the higher the ability pot. (max: x{0})."
+    },
+    {
+      "id": 504169,
+      "value": "The higher your HP, the higher the ability pot. (max: x{0})."
+    },
+    {
+      "id": 504170,
+      "value": "{0}{3} Command Gauge [Pot.: {2}%] {1}"
+    },
+    {
+      "id": 504171,
+      "value": "[Rng.: Affected Targets]"
+    },
+    {
+      "id": 504172,
+      "value": "{0}{5} {3} [Pot.: {4}%] {2} {1}."
+    },
+    {
+      "id": 504173,
+      "value": "{0}{5} {3} [Pot.: {4}] {2} {1}."
+    },
+    {
+      "id": 504174,
+      "value": "Veil"
+    },
+    {
+      "id": 504175,
+      "value": "{1} [Pot.: {0}% of max HP of the affected]"
+    },
+    {
+      "id": 504176,
+      "value": "Veil Immunity"
+    },
+    {
+      "id": 504177,
+      "value": "{0}Deal {3}% {5} {4} damage{1}{2}{6}.{7}"
+    },
+    {
+      "id": 504178,
+      "value": "Reprieve"
+    },
+    {
+      "id": 504179,
+      "value": "The higher your PDEF, the higher your potency (max: x{0})."
+    },
+    {
+      "id": 504180,
+      "value": "The higher your MDEF, the higher your potency (max: x{0})."
+    },
+    {
+      "id": 504181,
+      "value": "The higher your PDEF and MDEF, the higher your potency (max: x{0})."
+    },
+    {
+      "id": 504182,
+      "value": "The lower your PDEF, the higher your potency (max: x{0})."
+    },
+    {
+      "id": 504183,
+      "value": "The lower your MDEF, the higher your potency (max: x{0})."
+    },
+    {
+      "id": 504184,
+      "value": "The lower your PDEF and MDEF, the higher your potency (max: x{0})."
+    },
+    {
+      "id": 504185,
+      "value": "Buff"
+    },
+    {
+      "id": 504186,
+      "value": "Debuff"
+    },
+    {
+      "id": 504187,
+      "value": "Stats Buff"
+    },
+    {
+      "id": 504188,
+      "value": "Status Buff"
+    },
+    {
+      "id": 504189,
+      "value": "Stats Debuff"
+    },
+    {
+      "id": 504190,
+      "value": "Status Debuff"
+    },
+    {
+      "id": 504191,
+      "value": "{0}Restores {3}% of max HP\n[{4}] {2} {1}."
+    },
+    {
+      "id": 504192,
+      "value": "With {1} in {0}:"
+    },
+    {
+      "id": 504193,
+      "value": "No boosts to limit and summon gauges when using this ability."
+    },
+    {
+      "id": 504194,
+      "value": "[Rng.: Ally (Excluding Self)]"
+    },
+    {
+      "id": 504195,
+      "value": "{0}{3} ATB Gauge {2} {1}."
+    },
+    {
+      "id": 504196,
+      "value": "+{0}"
+    },
+    {
+      "id": 504197,
+      "value": "-{0}"
+    },
+    {
+      "id": 504198,
+      "value": "{0}"
+    },
+    {
+      "id": 504199,
+      "value": "Command gauge max"
+    },
+    {
+      "id": 504200,
+      "value": "[Condition: Enemy defeated]"
+    },
+    {
+      "id": 504201,
+      "value": "{3} {4} {5}\n{1} {2} {0} {6}"
+    },
+    {
+      "id": 504202,
+      "value": "Dur.:"
+    },
+    {
+      "id": 504203,
+      "value": "+{0}s"
+    },
+    {
+      "id": 504204,
+      "value": "Add. +{0}"
+    },
+    {
+      "id": 504205,
+      "value": "Add. -{0}"
+    },
+    {
+      "id": 504206,
+      "value": "[Dur.: +{0}s] [Max. Tier: {1}]"
+    },
+    {
+      "id": 504207,
+      "value": "[Max. Tier: {0}]"
+    },
+    {
+      "id": 504208,
+      "value": "[Condition: First use]"
+    },
+    {
+      "id": 504209,
+      "value": "{3} +{4}%\n{1} {2} [Dur.: {5}s] [Ext.: +{6}s] {0}"
+    },
+    {
+      "id": 504210,
+      "value": "Physical Resistance"
+    },
+    {
+      "id": 504211,
+      "value": "Magic Resistance"
+    },
+    {
+      "id": 504212,
+      "value": "Single Ally (Excl. Self)"
+    },
+    {
+      "id": 504213,
+      "value": "{0} deals {3} additional {4} {5} pot. damage{1}{2}."
+    },
+    {
+      "id": 504214,
+      "value": "{0}\\nCharge: {1}s (Initial: {2}s)/Uses: {3}"
+    },
+    {
+      "id": 504215,
+      "value": "{0}\\nCharge: {1}s/Uses: {2}"
+    },
+    {
+      "id": 504216,
+      "value": "Applies {3}\n{2} [Dur.: {4}s] [Dur. Ext.: +{5}s] [When triggered: restores {6}% of target's max HP] {0} {1}"
+    },
+    {
+      "id": 504217,
+      "value": "Applies {3}\n{2} [Pot.: {4}%] [Dur.: {5}s] [Dur. Ext.: +{6}s] {0} {1}"
+    },
+    {
+      "id": 504218,
+      "value": "Applies {3}\n[Target: {2}] [Next {4} C./UC. Ability: Damage +{5}%] [Effect Duration: {6}s] [Effect Duration Extension: +{7}s] {0} {1}"
+    },
+    {
+      "id": 504219,
+      "value": "Applies Amp. Critical Rate\n[Target: {2}] [Next C./UC. Ability: Critical Rate x{3}] [Effect Duration: {4}s] [Effect Duration Extension: +{5}s] {0} {1}"
+    },
+    {
+      "id": 504220,
+      "value": "Applies Amp. Healing Abilities\n[Target: {2}] [Next C./UC. Ability: Healing +{3}%] [Effect Duration: {4}s] [Effect Duration Extension: +{5}s] {0} {1}"
+    }
+  ]
+}

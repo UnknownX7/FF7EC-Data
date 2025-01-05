@@ -1,0 +1,1720 @@
+{
+  "data": [
+    {
+      "id": 400001,
+      "value": "Ailment: Poison"
+    },
+    {
+      "id": 400002,
+      "value": "Ailment: Sedate"
+    },
+    {
+      "id": 400003,
+      "value": "Ailment: Silence"
+    },
+    {
+      "id": 400004,
+      "value": "Ailment: Darkness"
+    },
+    {
+      "id": 400005,
+      "value": "Ailment: Stun"
+    },
+    {
+      "id": 400006,
+      "value": "Ailment: Fatigue"
+    },
+    {
+      "id": 400007,
+      "value": "Ailment: Fog"
+    },
+    {
+      "id": 400008,
+      "value": "Phys. Attack Up"
+    },
+    {
+      "id": 400009,
+      "value": "Phys. Defense Up"
+    },
+    {
+      "id": 400010,
+      "value": "Mag. Attack Up"
+    },
+    {
+      "id": 400011,
+      "value": "Mag. Defense Up"
+    },
+    {
+      "id": 400012,
+      "value": "Phys. Attack Down"
+    },
+    {
+      "id": 400013,
+      "value": "Phys. Defense Down"
+    },
+    {
+      "id": 400014,
+      "value": "Mag. Attack Down"
+    },
+    {
+      "id": 400015,
+      "value": "Mag. Defense Down"
+    },
+    {
+      "id": 400016,
+      "value": "HP +{0}%"
+    },
+    {
+      "id": 400017,
+      "value": "PHYS ATK +{0}%"
+    },
+    {
+      "id": 400018,
+      "value": "MAG ATK +{0}%"
+    },
+    {
+      "id": 400019,
+      "value": "PHYS DEF +{0}%"
+    },
+    {
+      "id": 400020,
+      "value": "MAG DEF +{0}%"
+    },
+    {
+      "id": 400021,
+      "value": "HEAL STR +{0}%"
+    },
+    {
+      "id": 400022,
+      "value": "CRT RATE +{0}%"
+    },
+    {
+      "id": 400023,
+      "value": "CRT DMG +{0}%"
+    },
+    {
+      "id": 400024,
+      "value": "SKILL GAUGE FILL +{0}%"
+    },
+    {
+      "id": 400025,
+      "value": "POISON RES +{0}%"
+    },
+    {
+      "id": 400026,
+      "value": "SEDATE RES +{0}%"
+    },
+    {
+      "id": 400027,
+      "value": "SILENCE RES +{0}%"
+    },
+    {
+      "id": 400028,
+      "value": "DARKNESS RES +{0}%"
+    },
+    {
+      "id": 400029,
+      "value": "STUN RES +{0}%"
+    },
+    {
+      "id": 400030,
+      "value": "FATIGUE RES +{0}%"
+    },
+    {
+      "id": 400031,
+      "value": "FOG RES +{0}%"
+    },
+    {
+      "id": 400032,
+      "value": "ATB SPD +{0}%"
+    },
+    {
+      "id": 400033,
+      "value": "Do you want to continue?"
+    },
+    {
+      "id": 400034,
+      "value": "Target does not exist."
+    },
+    {
+      "id": 400035,
+      "value": "Attack Bonus"
+    },
+    {
+      "id": 400036,
+      "value": "Defense Bonus"
+    },
+    {
+      "id": 400037,
+      "value": "Break Bonus"
+    },
+    {
+      "id": 400038,
+      "value": "Continues Remaining:"
+    },
+    {
+      "id": 400039,
+      "value": "Summon {0}"
+    },
+    {
+      "id": 400040,
+      "value": "Resist.:"
+    },
+    {
+      "id": 400041,
+      "value": "Special effect:"
+    },
+    {
+      "id": 400042,
+      "value": "Counter"
+    },
+    {
+      "id": 400043,
+      "value": "Barrier"
+    },
+    {
+      "id": 400044,
+      "value": "Lock On"
+    },
+    {
+      "id": 400045,
+      "value": "Disable"
+    },
+    {
+      "id": 400046,
+      "value": "Counterexplanation"
+    },
+    {
+      "id": 400047,
+      "value": "Barrierexplanation"
+    },
+    {
+      "id": 400048,
+      "value": "LockOnexplanation"
+    },
+    {
+      "id": 400049,
+      "value": "Disableexplanation"
+    },
+    {
+      "id": 400050,
+      "value": "*Not enough Crystals."
+    },
+    {
+      "id": 400051,
+      "value": "Retire"
+    },
+    {
+      "id": 400052,
+      "value": "Try Again"
+    },
+    {
+      "id": 400053,
+      "value": "Close"
+    },
+    {
+      "id": 400054,
+      "value": "Cancelling...\\nPlease wait for the other players."
+    },
+    {
+      "id": 400055,
+      "value": "Attack"
+    },
+    {
+      "id": 400056,
+      "value": "Defense"
+    },
+    {
+      "id": 400057,
+      "value": "{0} has selected Continue."
+    },
+    {
+      "id": 400058,
+      "value": "Sigil Destruction x2"
+    },
+    {
+      "id": 400059,
+      "value": "All Abilities Destroy Sigils"
+    },
+    {
+      "id": 400060,
+      "value": "Sigil Destruction x3"
+    },
+    {
+      "id": 400061,
+      "value": "Phys. Defense 100% Up"
+    },
+    {
+      "id": 400062,
+      "value": "Mag. Defense 100% Up"
+    },
+    {
+      "id": 400063,
+      "value": "Healing Potency 100% Up"
+    },
+    {
+      "id": 400064,
+      "value": "Burn Out"
+    },
+    {
+      "id": 400065,
+      "value": "Heat Up"
+    },
+    {
+      "id": 400066,
+      "value": "{0}/{1}"
+    },
+    {
+      "id": 400067,
+      "value": "Blocked"
+    },
+    {
+      "id": 400068,
+      "value": "Resisted"
+    },
+    {
+      "id": 400069,
+      "value": "Critical"
+    },
+    {
+      "id": 400070,
+      "value": "Weakness"
+    },
+    {
+      "id": 400071,
+      "value": "Fire Resist. Up"
+    },
+    {
+      "id": 400072,
+      "value": "Fire Resist. Down"
+    },
+    {
+      "id": 400073,
+      "value": "Ice Resist. Up"
+    },
+    {
+      "id": 400074,
+      "value": "Ice Resist. Down"
+    },
+    {
+      "id": 400075,
+      "value": "Lightning Resist. Up "
+    },
+    {
+      "id": 400076,
+      "value": "Lightning Resist. Down"
+    },
+    {
+      "id": 400077,
+      "value": "Earth Resist. Up"
+    },
+    {
+      "id": 400078,
+      "value": "Earth Resist. Down"
+    },
+    {
+      "id": 400079,
+      "value": "Water Resist. Up"
+    },
+    {
+      "id": 400080,
+      "value": "Water Resist. Down"
+    },
+    {
+      "id": 400081,
+      "value": "Wind Resist. Up"
+    },
+    {
+      "id": 400082,
+      "value": "Wind Resist. Down"
+    },
+    {
+      "id": 400083,
+      "value": "Light Resist. Up"
+    },
+    {
+      "id": 400084,
+      "value": "Light Resist. Down"
+    },
+    {
+      "id": 400085,
+      "value": "Dark Resist. Up"
+    },
+    {
+      "id": 400086,
+      "value": "Dark Resist. Down"
+    },
+    {
+      "id": 400087,
+      "value": "Continue"
+    },
+    {
+      "id": 400088,
+      "value": "Interrupted"
+    },
+    {
+      "id": 400089,
+      "value": "Rapid"
+    },
+    {
+      "id": 400090,
+      "value": "Sec."
+    },
+    {
+      "id": 400091,
+      "value": "Retry"
+    },
+    {
+      "id": 400092,
+      "value": "Chain"
+    },
+    {
+      "id": 400093,
+      "value": "Select a character to target."
+    },
+    {
+      "id": 400094,
+      "value": "Fire Damage Up"
+    },
+    {
+      "id": 400095,
+      "value": "Fire Damage Down"
+    },
+    {
+      "id": 400096,
+      "value": "Ice Damage Up"
+    },
+    {
+      "id": 400097,
+      "value": "Ice Damage Down"
+    },
+    {
+      "id": 400098,
+      "value": "Lightning Damage Up"
+    },
+    {
+      "id": 400099,
+      "value": "Lightning Damage Down"
+    },
+    {
+      "id": 400100,
+      "value": "Earth Damage Up"
+    },
+    {
+      "id": 400101,
+      "value": "Earth Damage Down"
+    },
+    {
+      "id": 400102,
+      "value": "Water Damage Up"
+    },
+    {
+      "id": 400103,
+      "value": "Water Damage Down"
+    },
+    {
+      "id": 400104,
+      "value": "Wind Damage Up"
+    },
+    {
+      "id": 400105,
+      "value": "Wind Damage Down"
+    },
+    {
+      "id": 400106,
+      "value": "Light Damage Up"
+    },
+    {
+      "id": 400107,
+      "value": "Light Damage Down"
+    },
+    {
+      "id": 400108,
+      "value": "Dark Damage Up"
+    },
+    {
+      "id": 400109,
+      "value": "Dark Damage Down"
+    },
+    {
+      "id": 410001,
+      "value": "Battle Results"
+    },
+    {
+      "id": 410002,
+      "value": "Tap to Advance"
+    },
+    {
+      "id": 410003,
+      "value": "Player Rank"
+    },
+    {
+      "id": 410004,
+      "value": "Stamina Restored"
+    },
+    {
+      "id": 410005,
+      "value": "Score"
+    },
+    {
+      "id": 410006,
+      "value": "Score Details"
+    },
+    {
+      "id": 410007,
+      "value": "Level"
+    },
+    {
+      "id": 410008,
+      "value": "Next Lv.: {0}"
+    },
+    {
+      "id": 410009,
+      "value": "+{0}"
+    },
+    {
+      "id": 410010,
+      "value": "There is no rewards."
+    },
+    {
+      "id": 410011,
+      "value": "Battle Report"
+    },
+    {
+      "id": 410012,
+      "value": "Battle Score"
+    },
+    {
+      "id": 410013,
+      "value": "Dungeon Score"
+    },
+    {
+      "id": 410014,
+      "value": ""
+    },
+    {
+      "id": 411001,
+      "value": "Battle Clear Bonus"
+    },
+    {
+      "id": 411002,
+      "value": "Finished with Limit Break/Summon"
+    },
+    {
+      "id": 411003,
+      "value": "Overkill Damage"
+    },
+    {
+      "id": 411004,
+      "value": "Weakness Exploited\n"
+    },
+    {
+      "id": 411005,
+      "value": "Sigils Destroyed"
+    },
+    {
+      "id": 411006,
+      "value": "ATB Used"
+    },
+    {
+      "id": 411007,
+      "value": "Total Battle Time"
+    },
+    {
+      "id": 411008,
+      "value": "Total Damage Taken"
+    },
+    {
+      "id": 411009,
+      "value": "Times KO'd"
+    },
+    {
+      "id": 411010,
+      "value": "1 Hit Max. Damage"
+    },
+    {
+      "id": 411011,
+      "value": "Total Score"
+    },
+    {
+      "id": 411012,
+      "value": "Score Detail"
+    },
+    {
+      "id": 411013,
+      "value": "Technical Bonus"
+    },
+    {
+      "id": 411014,
+      "value": "Stamina Boost Effect"
+    },
+    {
+      "id": 411015,
+      "value": "3x drop"
+    },
+    {
+      "id": 411016,
+      "value": "5x drop"
+    },
+    {
+      "id": 411017,
+      "value": "3x EXP"
+    },
+    {
+      "id": 411018,
+      "value": "5x EXP"
+    },
+    {
+      "id": 411019,
+      "value": "Applied"
+    },
+    {
+      "id": 411020,
+      "value": "Total Damage"
+    },
+    {
+      "id": 411021,
+      "value": "Score Bonus"
+    },
+    {
+      "id": 412001,
+      "value": "P{0}"
+    },
+    {
+      "id": 412002,
+      "value": "The number of people did not gather"
+    },
+    {
+      "id": 412003,
+      "value": "Return to Top"
+    },
+    {
+      "id": 412004,
+      "value": "Match Again"
+    },
+    {
+      "id": 412005,
+      "value": "Follow"
+    },
+    {
+      "id": 412006,
+      "value": "Waiting for other members..."
+    },
+    {
+      "id": 412007,
+      "value": "{0} wants to return to the lobby.\\nWill you go?"
+    },
+    {
+      "id": 412008,
+      "value": "The number of people did not gather"
+    },
+    {
+      "id": 412009,
+      "value": "Return to Lobby"
+    },
+    {
+      "id": 413001,
+      "value": "{0}/{1}"
+    },
+    {
+      "id": 413002,
+      "value": "- {0}"
+    },
+    {
+      "id": 413003,
+      "value": "Try again?"
+    },
+    {
+      "id": 413004,
+      "value": "Stamina"
+    },
+    {
+      "id": 413005,
+      "value": "Insufficient stamina."
+    },
+    {
+      "id": 414001,
+      "value": "update"
+    },
+    {
+      "id": 414002,
+      "value": "Obtain dungeon-specific item.\\n*Will disappear after clearing this dungeon."
+    },
+    {
+      "id": 415001,
+      "value": "Skip Battle"
+    },
+    {
+      "id": 415002,
+      "value": "Skip this battle?\\n*No rewards will be obtained."
+    },
+    {
+      "id": 415003,
+      "value": "Normal Reward"
+    },
+    {
+      "id": 415004,
+      "value": "Additional Reward"
+    },
+    {
+      "id": 415005,
+      "value": "Subscription Reward"
+    },
+    {
+      "id": 415006,
+      "value": "To next Lv.: 0"
+    },
+    {
+      "id": 415007,
+      "value": "Total Damage"
+    },
+    {
+      "id": 415008,
+      "value": "1 Hit Max. Damage"
+    },
+    {
+      "id": 415009,
+      "value": "Overkill Damage"
+    },
+    {
+      "id": 415010,
+      "value": "Sigils Destroyed"
+    },
+    {
+      "id": 415011,
+      "value": "Weakness Exploited\n"
+    },
+    {
+      "id": 415012,
+      "value": "Total HP Restored"
+    },
+    {
+      "id": 415013,
+      "value": "Status Ailments Removed"
+    },
+    {
+      "id": 415014,
+      "value": "Total ATB Consumed"
+    },
+    {
+      "id": 415015,
+      "value": "L. Abilities Used"
+    },
+    {
+      "id": 415016,
+      "value": "Max. Limit Combo Triggered"
+    },
+    {
+      "id": 415017,
+      "value": "Total Command Stance Uses"
+    },
+    {
+      "id": 415018,
+      "value": "Command Stance Max. Lv. Reached"
+    },
+    {
+      "id": 415019,
+      "value": "Buffs Granted"
+    },
+    {
+      "id": 415020,
+      "value": "Buffs Removed"
+    },
+    {
+      "id": 415021,
+      "value": "Debuffs Inflicted"
+    },
+    {
+      "id": 415022,
+      "value": "Debuffs Removed"
+    },
+    {
+      "id": 415023,
+      "value": "Status Ailments Inflicted"
+    },
+    {
+      "id": 415024,
+      "value": "Ace"
+    },
+    {
+      "id": 415025,
+      "value": "Crusher"
+    },
+    {
+      "id": 415026,
+      "value": "Smasher"
+    },
+    {
+      "id": 415027,
+      "value": "Destroyer"
+    },
+    {
+      "id": 415028,
+      "value": "Bull's-Eye"
+    },
+    {
+      "id": 415029,
+      "value": "Healer"
+    },
+    {
+      "id": 415030,
+      "value": "Medic"
+    },
+    {
+      "id": 415031,
+      "value": "Berserker"
+    },
+    {
+      "id": 415032,
+      "value": "Fantasista"
+    },
+    {
+      "id": 415033,
+      "value": "War Buddy"
+    },
+    {
+      "id": 415034,
+      "value": "Switch Hitter"
+    },
+    {
+      "id": 415035,
+      "value": "Commander"
+    },
+    {
+      "id": 415036,
+      "value": "Cheerleader"
+    },
+    {
+      "id": 415037,
+      "value": "Disrupter"
+    },
+    {
+      "id": 415038,
+      "value": "Iron Heart"
+    },
+    {
+      "id": 415039,
+      "value": "Intellectual"
+    },
+    {
+      "id": 415040,
+      "value": "Trickster"
+    },
+    {
+      "id": 416001,
+      "value": "The target has already been resuscitated."
+    },
+    {
+      "id": 416002,
+      "value": "Cannot Raise as the target is not KO'd from battle."
+    },
+    {
+      "id": 419001,
+      "value": "Hello!"
+    },
+    {
+      "id": 419002,
+      "value": "Nice to meet you!"
+    },
+    {
+      "id": 419003,
+      "value": "Do my best!"
+    },
+    {
+      "id": 419004,
+      "value": "Let's go!"
+    },
+    {
+      "id": 419005,
+      "value": "Wait a minute"
+    },
+    {
+      "id": 419006,
+      "value": "Change my equipment"
+    },
+    {
+      "id": 419007,
+      "value": "Are you ready?"
+    },
+    {
+      "id": 419008,
+      "value": "Thank you!"
+    },
+    {
+      "id": 419009,
+      "value": "Nice!"
+    },
+    {
+      "id": 419010,
+      "value": "Let's attack!"
+    },
+    {
+      "id": 419011,
+      "value": "Let's defence!"
+    },
+    {
+      "id": 419012,
+      "value": "Help!"
+    },
+    {
+      "id": 419013,
+      "value": "Limit Break!"
+    },
+    {
+      "id": 419014,
+      "value": "Wait a minute"
+    },
+    {
+      "id": 419015,
+      "value": "I will raise it!"
+    },
+    {
+      "id": 419016,
+      "value": "Thank you!"
+    },
+    {
+      "id": 419017,
+      "value": "Good job for today!"
+    },
+    {
+      "id": 419018,
+      "value": "Once again!"
+    },
+    {
+      "id": 419019,
+      "value": "An error occurred, unable to resume battle. \\nReturning to title screen."
+    },
+    {
+      "id": 419020,
+      "value": "Initial"
+    },
+    {
+      "id": 419021,
+      "value": "Co-op"
+    },
+    {
+      "id": 419022,
+      "value": "R. Enemy\n"
+    },
+    {
+      "id": 419023,
+      "value": "EC Pass"
+    },
+    {
+      "id": 419024,
+      "value": "Total Score"
+    },
+    {
+      "id": 419025,
+      "value": "Score"
+    },
+    {
+      "id": 419026,
+      "value": "Details"
+    },
+    {
+      "id": 419027,
+      "value": "Achievements"
+    },
+    {
+      "id": 419028,
+      "value": "Evaluation"
+    },
+    {
+      "id": 419029,
+      "value": "EXP"
+    },
+    {
+      "id": 419030,
+      "value": "Rewards"
+    },
+    {
+      "id": 419031,
+      "value": "Time's Up"
+    },
+    {
+      "id": 419032,
+      "value": "You have lost the battle due to \nexceeding the available continue time."
+    },
+    {
+      "id": 419033,
+      "value": "Time's up."
+    },
+    {
+      "id": 419034,
+      "value": "Co-op Battle Lost"
+    },
+    {
+      "id": 419035,
+      "value": "The Co-op Battle was lost. \\nReturning to title."
+    },
+    {
+      "id": 419036,
+      "value": "Continue"
+    },
+    {
+      "id": 419037,
+      "value": "Do you want to continue by consuming {0} x{1}?"
+    },
+    {
+      "id": 419038,
+      "value": "Left:"
+    },
+    {
+      "id": 419039,
+      "value": "Battle time left:"
+    },
+    {
+      "id": 419040,
+      "value": "Cannot use a Continue."
+    },
+    {
+      "id": 419041,
+      "value": "Do you want to continue?"
+    },
+    {
+      "id": 419042,
+      "value": "Enhance / Weaken"
+    },
+    {
+      "id": 419043,
+      "value": "L. Ability"
+    },
+    {
+      "id": 419044,
+      "value": "Battle Results"
+    },
+    {
+      "id": 419045,
+      "value": "{0:00}:{1:00}:{2:00}"
+    },
+    {
+      "id": 419046,
+      "value": "(-{0}%)"
+    },
+    {
+      "id": 419047,
+      "value": "Wave {0}/{1}"
+    },
+    {
+      "id": 419048,
+      "value": "- -"
+    },
+    {
+      "id": 419049,
+      "value": "Invincible"
+    },
+    {
+      "id": 419050,
+      "value": "Continuous Buff"
+    },
+    {
+      "id": 419051,
+      "value": "Heal"
+    },
+    {
+      "id": 419052,
+      "value": "Gear Shift"
+    },
+    {
+      "id": 419053,
+      "value": "Heat Up"
+    },
+    {
+      "id": 419054,
+      "value": "Resist. Change"
+    },
+    {
+      "id": 419055,
+      "value": "Muster"
+    },
+    {
+      "id": 419056,
+      "value": "GAME OVER"
+    },
+    {
+      "id": 419057,
+      "value": "TIME'S UP"
+    },
+    {
+      "id": 419058,
+      "value": "Min."
+    },
+    {
+      "id": 419059,
+      "value": "Max."
+    },
+    {
+      "id": 419060,
+      "value": "{0}:{1}"
+    },
+    {
+      "id": 419061,
+      "value": "Auto-Battle Active\\n*Due to idle activity, game has been switched to Auto."
+    },
+    {
+      "id": 419062,
+      "value": "Tap to Return"
+    },
+    {
+      "id": 419063,
+      "value": "Try Again"
+    },
+    {
+      "id": 419064,
+      "value": "Try again with the same party?"
+    },
+    {
+      "id": 419065,
+      "value": "Back"
+    },
+    {
+      "id": 419066,
+      "value": "Confirm"
+    },
+    {
+      "id": 419067,
+      "value": "*You will automatically retire in {0}s."
+    },
+    {
+      "id": 419068,
+      "value": "Limit Break"
+    },
+    {
+      "id": 419069,
+      "value": "Summon Ability"
+    },
+    {
+      "id": 419070,
+      "value": "Limit Combo"
+    },
+    {
+      "id": 419071,
+      "value": "x<size={0}>{1:F2}</size> Bonus"
+    },
+    {
+      "id": 419072,
+      "value": "Total Damage"
+    },
+    {
+      "id": 419073,
+      "value": "Stamina Boost Rewards"
+    },
+    {
+      "id": 419074,
+      "value": "Clear {0} Rewards"
+    },
+    {
+      "id": 419075,
+      "value": "Now let us begin a new journey, Cloud."
+    },
+    {
+      "id": 419076,
+      "value": "Thanks for waiting!"
+    },
+    {
+      "id": 419077,
+      "value": "Sephiroth"
+    },
+    {
+      "id": 419078,
+      "value": "Zack"
+    },
+    {
+      "id": 419079,
+      "value": "Network Error"
+    },
+    {
+      "id": 419080,
+      "value": "GearChange"
+    },
+    {
+      "id": 419081,
+      "value": "You"
+    },
+    {
+      "id": 419082,
+      "value": "1st Match"
+    },
+    {
+      "id": 419083,
+      "value": "*You will automatically retire in {0}s."
+    },
+    {
+      "id": 419084,
+      "value": "Crit Resist. Up"
+    },
+    {
+      "id": 419085,
+      "value": "Crit Resist. Down"
+    },
+    {
+      "id": 419086,
+      "value": "Crit Pot. Resist. Up"
+    },
+    {
+      "id": 419087,
+      "value": "Crit Pot. Resist. Down"
+    },
+    {
+      "id": 419088,
+      "value": "Phys. Resist. Up"
+    },
+    {
+      "id": 419089,
+      "value": "Phys. Resist. Down"
+    },
+    {
+      "id": 419090,
+      "value": "Mag. Resist. Up"
+    },
+    {
+      "id": 419091,
+      "value": "Mag. Resist. Down"
+    },
+    {
+      "id": 419092,
+      "value": "PATK Down Resist. Up"
+    },
+    {
+      "id": 419093,
+      "value": "PATK Down Resist. Down"
+    },
+    {
+      "id": 419094,
+      "value": "MATK Down Resist. Up"
+    },
+    {
+      "id": 419095,
+      "value": "MATK Down Resist. Down"
+    },
+    {
+      "id": 419096,
+      "value": "PDEF Down Resist. Up"
+    },
+    {
+      "id": 419097,
+      "value": "PDEF Down Resist. Down"
+    },
+    {
+      "id": 419098,
+      "value": "MDEF Down Resist. Up"
+    },
+    {
+      "id": 419099,
+      "value": "MDEF Down Resist. Down"
+    },
+    {
+      "id": 419100,
+      "value": "Poison Resist. Up"
+    },
+    {
+      "id": 419101,
+      "value": "Poison Resist. Down"
+    },
+    {
+      "id": 419102,
+      "value": "Sedate Resist. Up"
+    },
+    {
+      "id": 419103,
+      "value": "Sedate Resist. Down"
+    },
+    {
+      "id": 419104,
+      "value": "Silence Resist. Up"
+    },
+    {
+      "id": 419105,
+      "value": "Silence Resist. Down"
+    },
+    {
+      "id": 419106,
+      "value": "Darkness Resist. Up"
+    },
+    {
+      "id": 419107,
+      "value": "Darkness Resist. Down"
+    },
+    {
+      "id": 419108,
+      "value": "Stun Resist. Up"
+    },
+    {
+      "id": 419109,
+      "value": "Stun Resist. Down"
+    },
+    {
+      "id": 419110,
+      "value": "Fatigue Resist. Up"
+    },
+    {
+      "id": 419111,
+      "value": "Fatigue Resist. Down"
+    },
+    {
+      "id": 419112,
+      "value": "Fog Resist. Up"
+    },
+    {
+      "id": 419113,
+      "value": "Fog Resist. Down"
+    },
+    {
+      "id": 419114,
+      "value": "Fire Pot. Up"
+    },
+    {
+      "id": 419115,
+      "value": "Fire Pot. Down"
+    },
+    {
+      "id": 419116,
+      "value": "Ice Pot. Up"
+    },
+    {
+      "id": 419117,
+      "value": "Ice Pot. Down"
+    },
+    {
+      "id": 419118,
+      "value": "Lightning Pot. Up"
+    },
+    {
+      "id": 419119,
+      "value": "Lightning Pot. Down"
+    },
+    {
+      "id": 419120,
+      "value": "Earth Pot. Up"
+    },
+    {
+      "id": 419121,
+      "value": "Earth Pot. Down"
+    },
+    {
+      "id": 419122,
+      "value": "Water Pot. Up"
+    },
+    {
+      "id": 419123,
+      "value": "Water Pot. Down"
+    },
+    {
+      "id": 419124,
+      "value": "Wind Pot. Up"
+    },
+    {
+      "id": 419125,
+      "value": "Wind Pot. Down"
+    },
+    {
+      "id": 419126,
+      "value": "Light Pot. Up"
+    },
+    {
+      "id": 419127,
+      "value": "Light Pot. Down"
+    },
+    {
+      "id": 419128,
+      "value": "Dark Pot. Up"
+    },
+    {
+      "id": 419129,
+      "value": "Dark Pot. Down"
+    },
+    {
+      "id": 419130,
+      "value": "Regen"
+    },
+    {
+      "id": 419131,
+      "value": "HEAL Up"
+    },
+    {
+      "id": 419132,
+      "value": "HEAL Down"
+    },
+    {
+      "id": 419133,
+      "value": "Buff/Debuff"
+    },
+    {
+      "id": 419134,
+      "value": "Notes"
+    },
+    {
+      "id": 419135,
+      "value": "- Crystals are consumed immediately upon purchase, and transactions cannot be canceled afterward."
+    },
+    {
+      "id": 419136,
+      "value": "Player Lv."
+    },
+    {
+      "id": 419137,
+      "value": "C. Ability"
+    },
+    {
+      "id": 419138,
+      "value": "Unable to continue as the time limit has been exceeded"
+    },
+    {
+      "id": 419139,
+      "value": "*Unable to continue due to insufficient Crystals."
+    },
+    {
+      "id": 419140,
+      "value": "*Unable to continue with less than {0}s left."
+    },
+    {
+      "id": 419141,
+      "value": "<size={0}>B{1}</size>"
+    },
+    {
+      "id": 419142,
+      "value": "Bonus"
+    },
+    {
+      "id": 419143,
+      "value": " FINISH "
+    },
+    {
+      "id": 419144,
+      "value": "Ailment: Sleep"
+    },
+    {
+      "id": 419145,
+      "value": "Ailment: Confusion"
+    },
+    {
+      "id": 419146,
+      "value": "SLEEP RES +{0}%"
+    },
+    {
+      "id": 419147,
+      "value": "CONFUSION RES +{0}%"
+    },
+    {
+      "id": 419148,
+      "value": "Sleep Resist. Up"
+    },
+    {
+      "id": 419149,
+      "value": "Sleep Resist. Down"
+    },
+    {
+      "id": 419150,
+      "value": "Confusion Resist. Up"
+    },
+    {
+      "id": 419151,
+      "value": "Confusion Resist. Down"
+    },
+    {
+      "id": 419152,
+      "value": "Bonus Battle Unlocked!"
+    },
+    {
+      "id": 419153,
+      "value": "Guild Power Activated!"
+    },
+    {
+      "id": 419154,
+      "value": "Guild Power Rank Up!"
+    },
+    {
+      "id": 419155,
+      "value": "Boss Info"
+    },
+    {
+      "id": 419156,
+      "value": "Lv."
+    },
+    {
+      "id": 419157,
+      "value": "HP Left"
+    },
+    {
+      "id": 419158,
+      "value": "【EN】自プレイヤー名"
+    },
+    {
+      "id": 419159,
+      "value": "Guild Members"
+    },
+    {
+      "id": 419160,
+      "value": "Score Bonus"
+    },
+    {
+      "id": 419161,
+      "value": "Damage Dealt"
+    },
+    {
+      "id": 419162,
+      "value": "CLEAR"
+    },
+    {
+      "id": 419163,
+      "value": "Some guild battle energy has been refunded\\nas the predicted score was not met."
+    },
+    {
+      "id": 419164,
+      "value": "The target enemy or enemies have been defeated.\\nYou will be returned to the guild battle screen."
+    },
+    {
+      "id": 419165,
+      "value": "The ranking battle participation period is over."
+    },
+    {
+      "id": 419166,
+      "value": "SCORE"
+    },
+    {
+      "id": 419167,
+      "value": "GOOD"
+    },
+    {
+      "id": 419168,
+      "value": "EXCELLENT"
+    },
+    {
+      "id": 419169,
+      "value": "EPIC"
+    },
+    {
+      "id": 419170,
+      "value": "DAMAGE"
+    },
+    {
+      "id": 419172,
+      "value": "Ailment: Block Rec."
+    },
+    {
+      "id": 419174,
+      "value": "Block Rec. Resist. Up"
+    },
+    {
+      "id": 419175,
+      "value": "Block Rec. Resist. Down"
+    },
+    {
+      "id": 419176,
+      "value": "Total Damage Dealt"
+    },
+    {
+      "id": 419177,
+      "value": "Details"
+    },
+    {
+      "id": 419178,
+      "value": "Ailment: Slow"
+    },
+    {
+      "id": 419180,
+      "value": "Slow Resist. Up"
+    },
+    {
+      "id": 419181,
+      "value": "Slow Resist. Down"
+    },
+    {
+      "id": 419182,
+      "value": "Haste"
+    },
+    {
+      "id": 419183,
+      "value": "Doom"
+    },
+    {
+      "id": 419184,
+      "value": "Add. Bonus"
+    },
+    {
+      "id": 419185,
+      "value": "Charged"
+    },
+    {
+      "id": 419186,
+      "value": "Provoke"
+    },
+    {
+      "id": 419187,
+      "value": "Ailment: Dread"
+    },
+    {
+      "id": 419188,
+      "value": "Dread Resistance Up"
+    },
+    {
+      "id": 419189,
+      "value": "Dread Resistance Down"
+    },
+    {
+      "id": 419190,
+      "value": "Total Points"
+    },
+    {
+      "id": 419191,
+      "value": "Points Needed for Reward"
+    },
+    {
+      "id": 419192,
+      "value": "Daily Bonus: +{0} pts."
+    },
+    {
+      "id": 419193,
+      "value": "Stage Lv."
+    },
+    {
+      "id": 419194,
+      "value": "Total pts."
+    },
+    {
+      "id": 419196,
+      "value": "pts."
+    },
+    {
+      "id": 419197,
+      "value": "Points Needed for Reward"
+    },
+    {
+      "id": 419198,
+      "value": "Active Effect: Dread"
+    },
+    {
+      "id": 419199,
+      "value": "Obtained Reward"
+    },
+    {
+      "id": 419200,
+      "value": "All rewards have been obtained."
+    },
+    {
+      "id": 419201,
+      "value": "Stage Level: {0}"
+    },
+    {
+      "id": 419202,
+      "value": "Ailment: Venom"
+    },
+    {
+      "id": 419203,
+      "value": "Venom Resistance Up"
+    },
+    {
+      "id": 419204,
+      "value": "Venom Resistance Down"
+    },
+    {
+      "id": 419205,
+      "value": "Effect Details"
+    },
+    {
+      "id": 419206,
+      "value": "Ailment: Pain"
+    },
+    {
+      "id": 419207,
+      "value": "Pain Resistance Up"
+    },
+    {
+      "id": 419208,
+      "value": "Pain Resistance Down"
+    },
+    {
+      "id": 419209,
+      "value": "Ailment: Agony"
+    },
+    {
+      "id": 419210,
+      "value": "Agony Resistance Up"
+    },
+    {
+      "id": 419211,
+      "value": "Agony Resistance Down"
+    },
+    {
+      "id": 419212,
+      "value": "Battle Effects"
+    },
+    {
+      "id": 419213,
+      "value": "Veil"
+    },
+    {
+      "id": 419214,
+      "value": "Summary"
+    },
+    {
+      "id": 419215,
+      "value": "You"
+    },
+    {
+      "id": 419216,
+      "value": "Guild Members"
+    },
+    {
+      "id": 419217,
+      "value": "NEW RECORD"
+    },
+    {
+      "id": 419218,
+      "value": "Reprieve"
+    },
+    {
+      "id": 419219,
+      "value": "Status Ailment: Enfeeble"
+    },
+    {
+      "id": 419220,
+      "value": "Enfeeble Resistance Up"
+    },
+    {
+      "id": 419221,
+      "value": "Enfeeble Resistance Down"
+    },
+    {
+      "id": 419222,
+      "value": "Physical Resistance Up"
+    },
+    {
+      "id": 419223,
+      "value": "Magic Resistance Up"
+    },
+    {
+      "id": 419224,
+      "value": "Status Ailment: Stop"
+    },
+    {
+      "id": 419225,
+      "value": "Stop Resistance Up"
+    },
+    {
+      "id": 419226,
+      "value": "Stop Resistance Down"
+    },
+    {
+      "id": 419227,
+      "value": "HP Gain"
+    },
+    {
+      "id": 419228,
+      "value": "Exploit Weakness"
+    },
+    {
+      "id": 419229,
+      "value": "Amp. {0} Abilities"
+    },
+    {
+      "id": 419230,
+      "value": "Amp. Critical Rate"
+    },
+    {
+      "id": 419231,
+      "value": "Amp. Healing Abilities"
+    }
+  ]
+}

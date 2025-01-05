@@ -1,0 +1,26 @@
+[
+  {
+    "WeaponRaritySettingGroupId": 1,
+    "RarityType": 1,
+    "NextRarityWeaponMedal": 10,
+    "MaxReleaseCount": 3
+  },
+  {
+    "WeaponRaritySettingGroupId": 1,
+    "RarityType": 2,
+    "NextRarityWeaponMedal": 200,
+    "MaxReleaseCount": 5
+  },
+  {
+    "WeaponRaritySettingGroupId": 1,
+    "RarityType": 3,
+    "NextRarityWeaponMedal": 0,
+    "MaxReleaseCount": 10
+  },
+  {
+    "WeaponRaritySettingGroupId": 2,
+    "RarityType": 101,
+    "NextRarityWeaponMedal": 0,
+    "MaxReleaseCount": 10
+  }
+]

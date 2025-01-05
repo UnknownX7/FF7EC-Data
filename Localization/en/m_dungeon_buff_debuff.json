@@ -1,0 +1,584 @@
+{
+  "data": [
+    {
+      "id": 402000000000001,
+      "value": "Phys. Attack"
+    },
+    {
+      "id": 402000000000002,
+      "value": "Mag. Attack "
+    },
+    {
+      "id": 402000000000003,
+      "value": "Phys. Defense "
+    },
+    {
+      "id": 402000000000004,
+      "value": "Mag. Defense"
+    },
+    {
+      "id": 402000000000005,
+      "value": "Healing Pot."
+    },
+    {
+      "id": 402000000000006,
+      "value": "Critical Hit Rate"
+    },
+    {
+      "id": 402000000000007,
+      "value": "Critical Potency"
+    },
+    {
+      "id": 402000000000009,
+      "value": "Fire Resist."
+    },
+    {
+      "id": 402000000000010,
+      "value": "Ice Resist."
+    },
+    {
+      "id": 402000000000011,
+      "value": "Lightning Resist."
+    },
+    {
+      "id": 402000000000012,
+      "value": "Earth Resist."
+    },
+    {
+      "id": 402000000000013,
+      "value": "Water Resist."
+    },
+    {
+      "id": 402000000000014,
+      "value": "Wind Resist."
+    },
+    {
+      "id": 402000000000015,
+      "value": "Light Resist."
+    },
+    {
+      "id": 402000000000016,
+      "value": "Dark Resist."
+    },
+    {
+      "id": 402000000000017,
+      "value": "Poison Resist."
+    },
+    {
+      "id": 402000000000018,
+      "value": "Sedate Resist."
+    },
+    {
+      "id": 402000000000019,
+      "value": "Silence Resist."
+    },
+    {
+      "id": 402000000000020,
+      "value": "Darkness Resist."
+    },
+    {
+      "id": 402000000000021,
+      "value": "Stun Resist."
+    },
+    {
+      "id": 402000000000022,
+      "value": "Fatigue Resist."
+    },
+    {
+      "id": 402000000000023,
+      "value": "Fog Resist."
+    },
+    {
+      "id": 402000000000024,
+      "value": "Poison Dur."
+    },
+    {
+      "id": 402000000000025,
+      "value": "Sedate Dur."
+    },
+    {
+      "id": 402000000000026,
+      "value": "Silence Dur."
+    },
+    {
+      "id": 402000000000027,
+      "value": "Darkness Dur."
+    },
+    {
+      "id": 402000000000028,
+      "value": "Stun Dur."
+    },
+    {
+      "id": 402000000000029,
+      "value": "Fatigue Dur."
+    },
+    {
+      "id": 402000000000030,
+      "value": "Fog Dur."
+    },
+    {
+      "id": 402000000000031,
+      "value": "Stacked Poison Dur."
+    },
+    {
+      "id": 402000000000032,
+      "value": "Stacked Sedate Dur."
+    },
+    {
+      "id": 402000000000033,
+      "value": "Stacked Silence Dur."
+    },
+    {
+      "id": 402000000000034,
+      "value": "Stacked Darkness Dur."
+    },
+    {
+      "id": 402000000000035,
+      "value": "Stacked Stun Dur."
+    },
+    {
+      "id": 402000000000036,
+      "value": "Stacked Fatigue Dur."
+    },
+    {
+      "id": 402000000000037,
+      "value": "Stacked Fog Dur."
+    },
+    {
+      "id": 402000000000038,
+      "value": "PATK Down Resist."
+    },
+    {
+      "id": 402000000000039,
+      "value": "MATK Down Resist."
+    },
+    {
+      "id": 402000000000040,
+      "value": "PDEF Down Resist."
+    },
+    {
+      "id": 402000000000041,
+      "value": "MDEF Down Resist."
+    },
+    {
+      "id": 402000000000042,
+      "value": "PATK Down Dur."
+    },
+    {
+      "id": 402000000000043,
+      "value": "MATK Down Dur."
+    },
+    {
+      "id": 402000000000044,
+      "value": "PDEF Down Dur."
+    },
+    {
+      "id": 402000000000045,
+      "value": "MDEF Down Dur."
+    },
+    {
+      "id": 402000000000046,
+      "value": "Stacked PATK Down Dur."
+    },
+    {
+      "id": 402000000000047,
+      "value": "Stacked MATK Down Dur."
+    },
+    {
+      "id": 402000000000048,
+      "value": "Stacked PDEF Down Dur."
+    },
+    {
+      "id": 402000000000049,
+      "value": "Stacked MDEF Down Dur."
+    },
+    {
+      "id": 402000000000050,
+      "value": "Score Boost"
+    },
+    {
+      "id": 402000000000051,
+      "value": "Max HP Reduction Rate"
+    },
+    {
+      "id": 402000000000053,
+      "value": "Fire Pot."
+    },
+    {
+      "id": 402000000000054,
+      "value": "Ice Pot."
+    },
+    {
+      "id": 402000000000055,
+      "value": "Lightning Pot."
+    },
+    {
+      "id": 402000000000056,
+      "value": "Earth Pot."
+    },
+    {
+      "id": 402000000000057,
+      "value": "Water Pot."
+    },
+    {
+      "id": 402000000000058,
+      "value": "Wind Pot."
+    },
+    {
+      "id": 402000000000059,
+      "value": "Light Pot."
+    },
+    {
+      "id": 402000000000060,
+      "value": "Dark Pot."
+    },
+    {
+      "id": 402000000000061,
+      "value": "PATK Up Dur."
+    },
+    {
+      "id": 402000000000062,
+      "value": "MATK Up Dur."
+    },
+    {
+      "id": 402000000000063,
+      "value": "PDEF Up Dur."
+    },
+    {
+      "id": 402000000000064,
+      "value": "MDEF Up Dur."
+    },
+    {
+      "id": 402000000000065,
+      "value": "PATK Down Dur."
+    },
+    {
+      "id": 402000000000066,
+      "value": "MATK Down Dur."
+    },
+    {
+      "id": 402000000000067,
+      "value": "PDEF Down Dur."
+    },
+    {
+      "id": 402000000000068,
+      "value": "MDEF Down Dur."
+    },
+    {
+      "id": 402000000000074,
+      "value": "Stacked PATK Up Dur."
+    },
+    {
+      "id": 402000000000075,
+      "value": "Stacked MATK Up Dur."
+    },
+    {
+      "id": 402000000000076,
+      "value": "Stacked PDEF Up Dur."
+    },
+    {
+      "id": 402000000000077,
+      "value": "Stacked MDEF Up Dur."
+    },
+    {
+      "id": 402000000000078,
+      "value": "Stacked PATK Down Dur."
+    },
+    {
+      "id": 402000000000079,
+      "value": "Stacked MATK Down Dur."
+    },
+    {
+      "id": 402000000000080,
+      "value": "Stacked PDEF Down Dur."
+    },
+    {
+      "id": 402000000000081,
+      "value": "Stacked MDEF Down Dur."
+    },
+    {
+      "id": 402000000000082,
+      "value": "Fire Resist. Up Dur."
+    },
+    {
+      "id": 402000000000083,
+      "value": "Ice Resist. Up Dur."
+    },
+    {
+      "id": 402000000000084,
+      "value": "Lightning Resist. Up Dur."
+    },
+    {
+      "id": 402000000000085,
+      "value": "Earth Resist. Up Dur."
+    },
+    {
+      "id": 402000000000086,
+      "value": "Water Resist. Up Dur."
+    },
+    {
+      "id": 402000000000087,
+      "value": "Wind Resist. Up Dur."
+    },
+    {
+      "id": 402000000000088,
+      "value": "Light Resist. Up Dur."
+    },
+    {
+      "id": 402000000000089,
+      "value": "Dark Resist. Up Dur."
+    },
+    {
+      "id": 402000000000090,
+      "value": "Fire Resist. Down Dur."
+    },
+    {
+      "id": 402000000000091,
+      "value": "Ice Resist. Down Dur."
+    },
+    {
+      "id": 402000000000092,
+      "value": "Lightning Resist. Down Dur."
+    },
+    {
+      "id": 402000000000093,
+      "value": "Earth Resist. Down Dur."
+    },
+    {
+      "id": 402000000000094,
+      "value": "Water Resist. Down Dur."
+    },
+    {
+      "id": 402000000000095,
+      "value": "Wind Resist. Down Dur."
+    },
+    {
+      "id": 402000000000096,
+      "value": "Light Resist. Down Dur."
+    },
+    {
+      "id": 402000000000097,
+      "value": "Dark Resist. Down Dur."
+    },
+    {
+      "id": 402000000000098,
+      "value": "Stacked Fire Resist. Up Dur."
+    },
+    {
+      "id": 402000000000099,
+      "value": "Stacked Ice Resist. Up Dur."
+    },
+    {
+      "id": 402000000000100,
+      "value": "Stacked Lightning Resist. Up Dur."
+    },
+    {
+      "id": 402000000000101,
+      "value": "Stacked Earth Resist. Up Dur."
+    },
+    {
+      "id": 402000000000102,
+      "value": "Stacked Water Resist. Up Dur."
+    },
+    {
+      "id": 402000000000103,
+      "value": "Stacked Wind Resist. Up Dur."
+    },
+    {
+      "id": 402000000000104,
+      "value": "Stacked Light Resist. Up Dur."
+    },
+    {
+      "id": 402000000000105,
+      "value": "Stacked Dark Resist. Up Dur."
+    },
+    {
+      "id": 402000000000106,
+      "value": "Stacked Fire Resist. Down Dur."
+    },
+    {
+      "id": 402000000000107,
+      "value": "Stacked Ice Resist. Down Dur."
+    },
+    {
+      "id": 402000000000108,
+      "value": "Stacked Lightning Resist. Down Dur."
+    },
+    {
+      "id": 402000000000109,
+      "value": "Stacked Earth Resist. Down Dur."
+    },
+    {
+      "id": 402000000000110,
+      "value": "Stacked Water Resist. Down Dur."
+    },
+    {
+      "id": 402000000000111,
+      "value": "Stacked Wind Resist. Down Dur."
+    },
+    {
+      "id": 402000000000112,
+      "value": "Stacked Light Resist. Down Dur."
+    },
+    {
+      "id": 402000000000113,
+      "value": "Stacked Dark Resist. Down Dur."
+    },
+    {
+      "id": 402000000000308,
+      "value": "Sleep Resist."
+    },
+    {
+      "id": 402000000000309,
+      "value": "Confusion Resist."
+    },
+    {
+      "id": 402000000000310,
+      "value": "Dread Resist."
+    },
+    {
+      "id": 402000000000311,
+      "value": "Pain Resist."
+    },
+    {
+      "id": 402000000000312,
+      "value": "Enfeeble Resist."
+    },
+    {
+      "id": 402000000000313,
+      "value": "Stop Resist."
+    },
+    {
+      "id": 402000000000605,
+      "value": "Fire Resist. Down Resist."
+    },
+    {
+      "id": 402000000000606,
+      "value": "Ice Resist. Down Resist."
+    },
+    {
+      "id": 402000000000607,
+      "value": "Lightning Resist. Down Resist."
+    },
+    {
+      "id": 402000000000608,
+      "value": "Earth Resist. Down Resist."
+    },
+    {
+      "id": 402000000000609,
+      "value": "Water Resist. Down Resist."
+    },
+    {
+      "id": 402000000000610,
+      "value": "Wind Resist. Down Resist."
+    },
+    {
+      "id": 402000000001501,
+      "value": "PATK Up Tier"
+    },
+    {
+      "id": 402000000001502,
+      "value": "MATK Up Tier"
+    },
+    {
+      "id": 402000000001503,
+      "value": "PDEF Up Tier"
+    },
+    {
+      "id": 402000000001504,
+      "value": "MDEF Up Tier"
+    },
+    {
+      "id": 402000000001505,
+      "value": "PATK Down Tier"
+    },
+    {
+      "id": 402000000001506,
+      "value": "MATK Down Tier"
+    },
+    {
+      "id": 402000000001507,
+      "value": "PDEF Down Tier"
+    },
+    {
+      "id": 402000000001508,
+      "value": "MDEF Down Tier"
+    },
+    {
+      "id": 402000000001509,
+      "value": "Fire Resist. Down Tier"
+    },
+    {
+      "id": 402000000001510,
+      "value": "Ice Resist. Down Tier"
+    },
+    {
+      "id": 402000000001511,
+      "value": "Lightning Resist. Down Tier"
+    },
+    {
+      "id": 402000000001512,
+      "value": "Earth Resist. Down Tier"
+    },
+    {
+      "id": 402000000001513,
+      "value": "Water Resist. Down Tier"
+    },
+    {
+      "id": 402000000001514,
+      "value": "Wind Resist. Down Tier"
+    },
+    {
+      "id": 402000000001515,
+      "value": "Fire Pot. Up Tier"
+    },
+    {
+      "id": 402000000001516,
+      "value": "Ice Pot. Up Tier"
+    },
+    {
+      "id": 402000000001517,
+      "value": "Lightning Pot. Up Tier"
+    },
+    {
+      "id": 402000000001518,
+      "value": "Earth Pot. Up Tier"
+    },
+    {
+      "id": 402000000001519,
+      "value": "Water Pot. Up Tier"
+    },
+    {
+      "id": 402000000001520,
+      "value": "Wind Pot. Up Tier"
+    },
+    {
+      "id": 402000000001601,
+      "value": "Phys. C. Ability ATB"
+    },
+    {
+      "id": 402000000001602,
+      "value": "Mag. C. Ability ATB"
+    },
+    {
+      "id": 402000000001603,
+      "value": "Heal. C. Ability ATB"
+    },
+    {
+      "id": 402000000001701,
+      "value": "Limit Break Pot."
+    },
+    {
+      "id": 402000000001702,
+      "value": "Summon Pot."
+    },
+    {
+      "id": 402000000001801,
+      "value": "Single Target Ability Pot."
+    },
+    {
+      "id": 402000000001802,
+      "value": "Multi-target Ability Pot."
+    }
+  ]
+}

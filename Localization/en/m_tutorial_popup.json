@@ -1,0 +1,1504 @@
+{
+  "data": [
+    {
+      "id": 970000100200101,
+      "value": "You can consume the ATB gauge to unleash abilities."
+    },
+    {
+      "id": 970000100300101,
+      "value": "When HP is low, use Cura to restore HP."
+    },
+    {
+      "id": 970000100400101,
+      "value": "You can unleash a limit break \nwhen the limit gauge is full."
+    },
+    {
+      "id": 970000100600101,
+      "value": "Allies in your party will fight automatically. \nHowever, you will need to manually execute their limit breaks."
+    },
+    {
+      "id": 970000100600201,
+      "value": "The Guard Hound is a troublesome foe that attacks relentlessly. \nTarget it to focus your attacks."
+    },
+    {
+      "id": 970000100620101,
+      "value": "Some enemies have weaknesses. \nSentries are weak to lightning and fire, so use the corresponding abilities to attack."
+    },
+    {
+      "id": 970000100620201,
+      "value": "Weaknesses and resistances differ between enemies.  \nUse the best abilities in each situation to emerge victorious."
+    },
+    {
+      "id": 970000101100101,
+      "value": "The Scorpion Sentinel is preparing to unleash a powerful attack."
+    },
+    {
+      "id": 970000101100201,
+      "value": "The Scorpion Sentinel is about to unleash a powerful attack."
+    },
+    {
+      "id": 970000101100301,
+      "value": "You can now use Command Stance, which allows \nyou to shift between two types of commands."
+    },
+    {
+      "id": 970000101100401,
+      "value": "Use command stance to brace for its attack. \nDefense Stance specializes in defensive actions."
+    },
+    {
+      "id": 970000101100501,
+      "value": "Now, switch to Attack stance to focus on offensive actions\nand to gain benefits such as improved strength."
+    },
+    {
+      "id": 970000101100601,
+      "value": "The enemy has activated Stream Phrase: Protection Wall. \nWhile active, attacks against the Scorpion Sentinel are less effective."
+    },
+    {
+      "id": 970000101100701,
+      "value": "When these sigils appear, destroy them and reduce the number \non the left to 0 to disrupt the phase and incapacitate the enemy."
+    },
+    {
+      "id": 970000101100801,
+      "value": "The sigils can be destroyed with attack abilities, \nand you can destroy more sigils in Attack Stance."
+    },
+    {
+      "id": 970000101100901,
+      "value": "Switch to Attack Shift."
+    },
+    {
+      "id": 970000101101001,
+      "value": "Use abilities to destroy sigils. \nDestroy more by targeting ones of the same shape."
+    },
+    {
+      "id": 970000101101101,
+      "value": "The next attack will destroy the remaining sigils. \nTry using an ability."
+    },
+    {
+      "id": 970000101101102,
+      "value": "By destroying all the sigils, you have interrupted the enemy,\ncausing them to become incapacitated."
+    },
+    {
+      "id": 970000101101103,
+      "value": "While the enemy is in this state, the ATB gauge fills faster.\nUse this chance to attack or help your party recover."
+    },
+    {
+      "id": 970000101101201,
+      "value": "Unleashing a limit break simultaneously with other characters \nhas benefits such as increased damage."
+    },
+    {
+      "id": 970000101101202,
+      "value": "Unleash the limit break of the first character."
+    },
+    {
+      "id": 970000101101301,
+      "value": "Unleash the limit breaks of the other characters."
+    },
+    {
+      "id": 970000101400101,
+      "value": "Story Selection"
+    },
+    {
+      "id": 970000201000101,
+      "value": "Party Formation 1"
+    },
+    {
+      "id": 970000201000102,
+      "value": "Party Formation 2"
+    },
+    {
+      "id": 970000201000103,
+      "value": "Battle Details and Party Optimization"
+    },
+    {
+      "id": 970000201100101,
+      "value": "A character's equipment affects their power and stats."
+    },
+    {
+      "id": 970000201100102,
+      "value": "Toggle the display to view their respective abilities."
+    },
+    {
+      "id": 970000201100103,
+      "value": "C. abilities (Command abilities) can be unleashed during battle \nwhen equipped with a main weapon, ability weapon, or materia."
+    },
+    {
+      "id": 970000201100104,
+      "value": "R. abilities (Reinforcement abilities) have passive benefits that are always \nin effect when equipped with various types of weapons and Gear."
+    },
+    {
+      "id": 970000201100105,
+      "value": "S. abilities (Support abilities) affect their paired materia and are determined\nbased on a character's main weapon."
+    },
+    {
+      "id": 970000201100106,
+      "value": "Further equipment details can be viewed from Help."
+    },
+    {
+      "id": 970000201100107,
+      "value": "L. abilities (Limit abilities) can be used during battle if limit breaks\nor summon abilities are equipped."
+    },
+    {
+      "id": 970000201100108,
+      "value": "You can change the appearance of your gear and weapons regardless of your main weapon settings."
+    },
+    {
+      "id": 970000201300101,
+      "value": "When gear is equipped, its appearance\nand the R. ability will be reflected."
+    },
+    {
+      "id": 970000201300102,
+      "value": "When gear is set for \"Skin\", \nonly its appearance is reflected."
+    },
+    {
+      "id": 970000201400101,
+      "value": "Summon Abilities"
+    },
+    {
+      "id": 970000202000101,
+      "value": "Weapons can be enhanced using materials."
+    },
+    {
+      "id": 970000202000102,
+      "value": "Duplicate weapons obtained from draws \ncan be viewed at the armory."
+    },
+    {
+      "id": 970000202000103,
+      "value": "Further enhancement details can be viewed from Help."
+    },
+    {
+      "id": 970000202200101,
+      "value": "Weapons in the armory can be converted into\nitems used to level boost or upgrade the rarity of weapons."
+    },
+    {
+      "id": 970000202200102,
+      "value": "Turning on auto-convert will automatically\nconvert weapons sent to the armory."
+    },
+    {
+      "id": 970000202200103,
+      "value": "There are no disadvantages to using auto-convert."
+    },
+    {
+      "id": 970000202300101,
+      "value": "The Workshop"
+    },
+    {
+      "id": 970000203000103,
+      "value": "Enhancing/Selling Materia"
+    },
+    {
+      "id": 970000203100101,
+      "value": "Synthesizing Materia"
+    },
+    {
+      "id": 970000203300102,
+      "value": "One materia can be synthesized per synthesis slot."
+    },
+    {
+      "id": 970000203300103,
+      "value": "Select a slot."
+    },
+    {
+      "id": 970000203300104,
+      "value": "The materia to synthesize will be displayed."
+    },
+    {
+      "id": 970000203300105,
+      "value": "The materia's details will then be displayed. \nIts rarity and sub stats will not be determined\nuntil it is complete."
+    },
+    {
+      "id": 970000203300106,
+      "value": "Select a recipe."
+    },
+    {
+      "id": 970000203300107,
+      "value": "Try synthesizing a materia. (Materials and gil will not be consumed for this attempt.)"
+    },
+    {
+      "id": 970000203300108,
+      "value": "After a set amount of time, synthesis will be complete. \nEach materia has a different creation time."
+    },
+    {
+      "id": 970000203300109,
+      "value": "Try using an item to speed up the process."
+    },
+    {
+      "id": 970000203300110,
+      "value": "Using a Synthesis Bookmark will shorten the creation time by an hour."
+    },
+    {
+      "id": 970000203300111,
+      "value": "Try using a Synthesis Bookmark. \n(A Synthesis Bookmark will not be consumed for this attempt.)"
+    },
+    {
+      "id": 970000203300112,
+      "value": "You can now collect the materia."
+    },
+    {
+      "id": 970000203300113,
+      "value": "Now that it is complete, the materia's rarity and sub stats have been determined."
+    },
+    {
+      "id": 970000203300114,
+      "value": "Use synthesis to obtain your ideal materia."
+    },
+    {
+      "id": 970000203400111,
+      "value": "Additional Synthesis Materials"
+    },
+    {
+      "id": 970000203500101,
+      "value": "You can upgrade materia that has reached max. Lv. \n(A materia has been prepared for you.)"
+    },
+    {
+      "id": 970000203500102,
+      "value": "Materia can be upgraded from Enhance Materia."
+    },
+    {
+      "id": 970000203500103,
+      "value": "Specific materials are needed to upgrade materia."
+    },
+    {
+      "id": 970000203500104,
+      "value": "Try upgrading a materia. (Materials and gil will not be consumed for this attempt.)"
+    },
+    {
+      "id": 970000203500105,
+      "value": "The materia has been upgraded to Cura. \nUpgrading a materia may also increase its rarity."
+    },
+    {
+      "id": 970000203600101,
+      "value": "Upgrading Materia"
+    },
+    {
+      "id": 970000204000101,
+      "value": "Character Streams"
+    },
+    {
+      "id": 970000204100101,
+      "value": "Character Growth"
+    },
+    {
+      "id": 970000204110101,
+      "value": "Character Streams allows you to foster the growth of character. \nLet's focus on Cloud's growth."
+    },
+    {
+      "id": 970000204110102,
+      "value": "Characters' memories are required to unlock nodes. \n(Materials will not be consumed this time.)"
+    },
+    {
+      "id": 970000204110103,
+      "value": "You can access character statstreams from Growth."
+    },
+    {
+      "id": 970000204120101,
+      "value": "By unlocking a node, the character's stats have increased."
+    },
+    {
+      "id": 970000204200101,
+      "value": "Acquiring Limit Breaks"
+    },
+    {
+      "id": 970000204210101,
+      "value": "You can now acquire limit breaks."
+    },
+    {
+      "id": 970000204220101,
+      "value": "The information of the selected limit break will be displayed."
+    },
+    {
+      "id": 970000204220102,
+      "value": "Limit breaks can be acquired by completing the respective Limit Break Missions."
+    },
+    {
+      "id": 970000204220103,
+      "value": "Limit Breaks can be obtained by completing \nall Unlock Missions of the respective Limit Break Mission."
+    },
+    {
+      "id": 970000205000101,
+      "value": "Summon Streams"
+    },
+    {
+      "id": 970000205100101,
+      "value": "Binding Summons"
+    },
+    {
+      "id": 970000205100103,
+      "value": "Cooldown Timers for Summon Stream Missions"
+    },
+    {
+      "id": 970000206000101,
+      "value": "Draw Types"
+    },
+    {
+      "id": 970000206000102,
+      "value": "Stamp Cards"
+    },
+    {
+      "id": 970000206000105,
+      "value": "Obtaining Gear"
+    },
+    {
+      "id": 970000206010101,
+      "value": "Select Draws have wishlists."
+    },
+    {
+      "id": 970000206010102,
+      "value": "Weapons in the wishlist have better odds of being obtained.\nTry adding weapons to the list."
+    },
+    {
+      "id": 970000206010103,
+      "value": "The wishlist contains featured and selectable weapons for each draw."
+    },
+    {
+      "id": 970000206010104,
+      "value": "From here, you can check the rewards on your Stamp Sheet \nand change the rewards in the 'SELECT' Square."
+    },
+    {
+      "id": 970000206100101,
+      "value": "Duplicate Weapons 1"
+    },
+    {
+      "id": 970000206100102,
+      "value": "Duplicate Weapons 2"
+    },
+    {
+      "id": 970000206200101,
+      "value": "Select Squares"
+    },
+    {
+      "id": 970000207000101,
+      "value": "Co-op Battles"
+    },
+    {
+      "id": 970000207100101,
+      "value": "Attempting Co-op Battles 1"
+    },
+    {
+      "id": 970000207100102,
+      "value": "Attempting Co-op Battles 2"
+    },
+    {
+      "id": 970000207100103,
+      "value": "Attempting Co-op Battles 3"
+    },
+    {
+      "id": 970000207100104,
+      "value": "Raise"
+    },
+    {
+      "id": 970000207100105,
+      "value": "First-Time Matching Rewards 1"
+    },
+    {
+      "id": 970000207200101,
+      "value": "First-Time Matching Rewards 2"
+    },
+    {
+      "id": 970000208000101,
+      "value": "More about Criterion Dungeons"
+    },
+    {
+      "id": 970000208100101,
+      "value": "Dungeon Exploration"
+    },
+    {
+      "id": 970000208200101,
+      "value": "Criterion Dungeon Battles"
+    },
+    {
+      "id": 970000208200301,
+      "value": "Dungeon-Instant Items"
+    },
+    {
+      "id": 970000209100101,
+      "value": "In the home screen, you'll find the Mission Guide,\na feature that shows your next task."
+    },
+    {
+      "id": 970000209100103,
+      "value": "Perform a draw."
+    },
+    {
+      "id": 970000209110101,
+      "value": "Now that you have performed a draw, check the mission guide."
+    },
+    {
+      "id": 970000209110102,
+      "value": "Collect your reward for completing the task."
+    },
+    {
+      "id": 970000209120101,
+      "value": "Your next task is displayed. "
+    },
+    {
+      "id": 970000209130101,
+      "value": "Now try enhancing a weapon."
+    },
+    {
+      "id": 970000209130102,
+      "value": "Select the Buster Sword."
+    },
+    {
+      "id": 970000209130103,
+      "value": "Weapons can be enhanced using materials."
+    },
+    {
+      "id": 970000209130104,
+      "value": "You can select the items to use."
+    },
+    {
+      "id": 970000209140101,
+      "value": "Enhancing a weapon boosts its stats,\nas well as unlocks and enhances abilities."
+    },
+    {
+      "id": 970000209140102,
+      "value": "Now check the mission guide."
+    },
+    {
+      "id": 970000209150101,
+      "value": "The mission guide shows your next target. \nIf you're unsure of what to do, take a look at it."
+    },
+    {
+      "id": 970000210000101,
+      "value": "You can switch between two modes: \nStory Party and Free Party."
+    },
+    {
+      "id": 970000210000102,
+      "value": "Free Party mode allows you to \nuse the characters of your choice."
+    },
+    {
+      "id": 970000210000103,
+      "value": "Bonus rewards can only be obtained\nin Story Party mode."
+    },
+    {
+      "id": 970000212000101,
+      "value": "More about Enhancement Quests"
+    },
+    {
+      "id": 970000212100101,
+      "value": "Enhancement Quest Types"
+    },
+    {
+      "id": 970000213000101,
+      "value": "More about Chocobo Farm"
+    },
+    {
+      "id": 970000213200101,
+      "value": "Chocobo Expeditions 1"
+    },
+    {
+      "id": 970000213200102,
+      "value": "Chocobo Expeditions 2"
+    },
+    {
+      "id": 970000213210102,
+      "value": "Tap Expd., then select a destination and team\nto send on a new expedition."
+    },
+    {
+      "id": 970000214000101,
+      "value": "Stamina Boost"
+    },
+    {
+      "id": 970000215000101,
+      "value": "Inventory Items"
+    },
+    {
+      "id": 970000216000101,
+      "value": "The Battle Tower"
+    },
+    {
+      "id": 970000216100201,
+      "value": "You can access the battle tower from Solo Content."
+    },
+    {
+      "id": 970000216100203,
+      "value": "In the Sealed Tower of the Cetra,\naim for the bottom by clearing battles."
+    },
+    {
+      "id": 970000216100204,
+      "value": "You can check the recommended sigils, \nelements, power, and the rewards."
+    },
+    {
+      "id": 970000216100205,
+      "value": "There are also Battle Effects within the\nbattle tower that influence your party during battle."
+    },
+    {
+      "id": 970000216100206,
+      "value": "Give it a try."
+    },
+    {
+      "id": 970000216100207,
+      "value": "Recommended Party feature (Rcmd. Party) \nautomatically forms the optimal party for the stage."
+    },
+    {
+      "id": 970000216100208,
+      "value": "Now that you have a party, attempt a battle."
+    },
+    {
+      "id": 970000217000101,
+      "value": "Crisis Dungeons"
+    },
+    {
+      "id": 970000217100101,
+      "value": "Crisis Dungeons"
+    },
+    {
+      "id": 970000217100102,
+      "value": "Materia Recipes"
+    },
+    {
+      "id": 970000217100103,
+      "value": "Dungeon Keys"
+    },
+    {
+      "id": 970000217200101,
+      "value": "Crisis Dungeons grant \nTrance Abilities with various effects."
+    },
+    {
+      "id": 970000217200102,
+      "value": "Utilize the abilities to create the optimal party."
+    },
+    {
+      "id": 970000217300101,
+      "value": "Trance Abilities"
+    },
+    {
+      "id": 970000217400101,
+      "value": "As the Crisis Level increases, \nthe enemies will become stronger."
+    },
+    {
+      "id": 970000218000101,
+      "value": "Summon Quests"
+    },
+    {
+      "id": 970000218100101,
+      "value": "Summon Quest Rewards"
+    },
+    {
+      "id": 970000219000101,
+      "value": "Daily Quests"
+    },
+    {
+      "id": 970000219100101,
+      "value": "Daily Quests"
+    },
+    {
+      "id": 970000219200101,
+      "value": "Try setting rewards."
+    },
+    {
+      "id": 970000219200102,
+      "value": "Select the rewards you would like to obtain."
+    },
+    {
+      "id": 970000219200103,
+      "value": "A reward will be chosen randomly from your selection."
+    },
+    {
+      "id": 970000220000101,
+      "value": "Story Quests"
+    },
+    {
+      "id": 970000220100101,
+      "value": "Character Quests"
+    },
+    {
+      "id": 970000221000103,
+      "value": "Select a wallpaper to display."
+    },
+    {
+      "id": 970000221000104,
+      "value": "You can change your wallpaper."
+    },
+    {
+      "id": 970000221000105,
+      "value": "Select \"In Order\" to display selected wallpapers in order."
+    },
+    {
+      "id": 970000222000101,
+      "value": "You can obtain rewards by raising your Exploration Lv."
+    },
+    {
+      "id": 970000222000102,
+      "value": "Premium Hunt rewards can be obtained\nby purchasing additional routes."
+    },
+    {
+      "id": 970000223000101,
+      "value": "Extra Sections"
+    },
+    {
+      "id": 970000223100101,
+      "value": "The Story Beyond"
+    },
+    {
+      "id": 970000224000101,
+      "value": "Guilds"
+    },
+    {
+      "id": 970000224100101,
+      "value": "You can create your own guild by using crystals."
+    },
+    {
+      "id": 970000224100102,
+      "value": "To join a guild, use Guild Search to find a guild that suits your playstyle."
+    },
+    {
+      "id": 970000224200101,
+      "value": "There are guild missions that yield guild EXP and bonus points."
+    },
+    {
+      "id": 970000224200102,
+      "value": "Guild EXP and bonus points are obtained by guild members."
+    },
+    {
+      "id": 970000224200103,
+      "value": "Guild medals are obtained through guild activities. \nYou can trade these medals and items at the exchange."
+    },
+    {
+      "id": 970000224200104,
+      "value": "Guild messages are posted in Announcements and\ncan be edited by the guildmaster or submasters."
+    },
+    {
+      "id": 970000224200105,
+      "value": "From the guild menu, you can view the guild roster and various achievements."
+    },
+    {
+      "id": 970000224200106,
+      "value": "The guildmaster and submasters can change the guild's name,\nemblem, wallpaper, and search conditions."
+    },
+    {
+      "id": 970000224200107,
+      "value": "Guild bonuses are effects that are automatically granted to all members in the guild."
+    },
+    {
+      "id": 970000224200108,
+      "value": "The guildmaster and submasters can use guild bonus points to unlock and enhance bonuses."
+    },
+    {
+      "id": 970000224200109,
+      "value": "You can use the Chat feature to communicate with other guild members\nand receive co-op battle invitations."
+    },
+    {
+      "id": 970000224200110,
+      "value": "You can check the guild chat from the chat panel,\nbut cannot send messages or receive co-op invitations."
+    },
+    {
+      "id": 970000224300101,
+      "value": "Guild Battle 1"
+    },
+    {
+      "id": 970000224300102,
+      "value": "Guild Battle 2"
+    },
+    {
+      "id": 970000224300103,
+      "value": "Guild Battle 3"
+    },
+    {
+      "id": 970000224300104,
+      "value": "Guild Battle 4"
+    },
+    {
+      "id": 970000224300105,
+      "value": "Additional Equipment"
+    },
+    {
+      "id": 970000224300106,
+      "value": "Mock Battles"
+    },
+    {
+      "id": 970000225000101,
+      "value": "The Highwind"
+    },
+    {
+      "id": 970000225100201,
+      "value": "There are items ready for collection. Collect them and take a look at your rewards."
+    },
+    {
+      "id": 970000225200101,
+      "value": "Airship Enhancement"
+    },
+    {
+      "id": 970000225300101,
+      "value": "Airship Battles"
+    },
+    {
+      "id": 970000225400101,
+      "value": "Highwind Collection"
+    },
+    {
+      "id": 970000226000101,
+      "value": "Ultimate Weapons 1"
+    },
+    {
+      "id": 970000226000102,
+      "value": "Ultimate Weapons 2"
+    },
+    {
+      "id": 970000226000103,
+      "value": "Ultimate Weapons 3"
+    },
+    {
+      "id": 970000226100101,
+      "value": "Ultimate Weapon Slots Unlocked"
+    },
+    {
+      "id": 970000226200101,
+      "value": "Enhancing Ultimate Weapons"
+    },
+    {
+      "id": 970000227000101,
+      "value": "Brands Unlocked"
+    },
+    {
+      "id": 970000227100101,
+      "value": "Brands 1"
+    },
+    {
+      "id": 970000227100102,
+      "value": "Brands 2"
+    },
+    {
+      "id": 970000227100103,
+      "value": "Rebranding Weapons"
+    },
+    {
+      "id": 970000228000101,
+      "value": "Max. Damage Challenge 1"
+    },
+    {
+      "id": 970000228000102,
+      "value": "Max. Damage Challenge 2"
+    },
+    {
+      "id": 970000301000101,
+      "value": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
+    },
+    {
+      "id": 970000301000102,
+      "value": "SEMI: Unleashes C. Abilities when ATB gauge is full\nAUTO: Performs all actions　*Auto-ability settings for L. abilities can be changed."
+    },
+    {
+      "id": 970000301000103,
+      "value": "The Accelerated Mode feature is now available.\nThis allows you to toggle the speed of battles."
+    },
+    {
+      "id": 970000301010101,
+      "value": "You can now switch the character you control \nby tapping other character's UI."
+    },
+    {
+      "id": 970003000000011,
+      "value": "Counterattacks"
+    },
+    {
+      "id": 970003000000021,
+      "value": "Pyramid"
+    },
+    {
+      "id": 970003000000031,
+      "value": "Changing Gears"
+    },
+    {
+      "id": 970003000000041,
+      "value": "Incinerate"
+    },
+    {
+      "id": 970003000000061,
+      "value": "Watermelon"
+    },
+    {
+      "id": 970003000000071,
+      "value": "Watermelon's Grudge"
+    },
+    {
+      "id": 970003000000081,
+      "value": "Sigil Guard"
+    },
+    {
+      "id": 970003000000091,
+      "value": "Provoke"
+    },
+    {
+      "id": 970003000000101,
+      "value": "Freezelock"
+    },
+    {
+      "id": 970003000000111,
+      "value": "Charged"
+    },
+    {
+      "id": 970003000000121,
+      "value": "Granite Shell"
+    },
+    {
+      "id": 970003000000131,
+      "value": "Shroud"
+    },
+    {
+      "id": 970003000000141,
+      "value": "Status Ailment: Sleep"
+    },
+    {
+      "id": 970003000000151,
+      "value": "Status Ailment: Confusion"
+    },
+    {
+      "id": 970003000000161,
+      "value": "Final Attacks"
+    },
+    {
+      "id": 970003000000171,
+      "value": "Doom"
+    },
+    {
+      "id": 970003100000011,
+      "value": "Force Gauge: Charge"
+    },
+    {
+      "id": 970003100000021,
+      "value": "Force Gauge: Ignition"
+    },
+    {
+      "id": 970003100000031,
+      "value": "Force Gauge: Ice Age"
+    },
+    {
+      "id": 970003100000041,
+      "value": "Force Gauge: Lightning"
+    },
+    {
+      "id": 970003100000051,
+      "value": "Force Gauge: Concentration"
+    },
+    {
+      "id": 970003100000061,
+      "value": "Force Gauge: Megaflare"
+    },
+    {
+      "id": 970003100000071,
+      "value": "Force Gauge: Flying"
+    },
+    {
+      "id": 970003100000081,
+      "value": "Force Gauge: Rock Armor"
+    },
+    {
+      "id": 970003100000091,
+      "value": "Force Gauge: Mako Charge"
+    },
+    {
+      "id": 970003100000101,
+      "value": "Force Gauge: Maelstrom"
+    },
+    {
+      "id": 970003100000111,
+      "value": "Force Gauge: Eclipse"
+    },
+    {
+      "id": 970003100000121,
+      "value": "Force Gauge: Present"
+    },
+    {
+      "id": 970003100000131,
+      "value": "Force Gauge: Earthen Power"
+    },
+    {
+      "id": 970003100000151,
+      "value": "Force Gauge: Scorching"
+    },
+    {
+      "id": 970003100000161,
+      "value": "Force Gauge: Freezing"
+    },
+    {
+      "id": 970003100000171,
+      "value": "Force Gauge: Aegis"
+    },
+    {
+      "id": 970003100000181,
+      "value": "Force Gauge: Chocolate Bar"
+    },
+    {
+      "id": 970003100000191,
+      "value": "Force Gauge: Fatal Call"
+    },
+    {
+      "id": 970003100000201,
+      "value": "Force Gauge: Comet"
+    },
+    {
+      "id": 970003100000211,
+      "value": "Force Gauge: Magic Charge"
+    },
+    {
+      "id": 970003100000221,
+      "value": "Force Gauge: Metal Skin"
+    },
+    {
+      "id": 970003100000231,
+      "value": "Force Gauge: Stability"
+    },
+    {
+      "id": 970003100000241,
+      "value": "Force Gauge: Rush Charge"
+    },
+    {
+      "id": 970003100000251,
+      "value": "Force Gauge: Mode Change"
+    },
+    {
+      "id": 970003100000261,
+      "value": "Force Gauge: Fireworks"
+    },
+    {
+      "id": 970003100000271,
+      "value": "Force Gauge: Outrage"
+    },
+    {
+      "id": 970003100000281,
+      "value": "Force Gauge: Megaflare Charge"
+    },
+    {
+      "id": 970003100000291,
+      "value": "Force Gauge: Increasing Dread"
+    },
+    {
+      "id": 970003100000301,
+      "value": "Force Gauge: Thunder Zone"
+    },
+    {
+      "id": 970003100000311,
+      "value": "Force Gauge: Magitek Power"
+    },
+    {
+      "id": 970003100000321,
+      "value": "Force Gauge: Wrath"
+    },
+    {
+      "id": 970003100000341,
+      "value": "Force Gauge: Masamune"
+    },
+    {
+      "id": 970003200000011,
+      "value": "Status Ailment: Dread"
+    },
+    {
+      "id": 970003200000021,
+      "value": "Status Ailment: Pain, Agony"
+    },
+    {
+      "id": 970003200000031,
+      "value": "Status Ailment: Enfeeble"
+    },
+    {
+      "id": 971000101400101,
+      "value": "In story selection, you can choose from various tales in the FINAL FANTASY VII compilation."
+    },
+    {
+      "id": 971000201000101,
+      "value": "A single party is comprised of <command_color=common_03>up to 3 characters.</color> You can tap to switch characters or equipment.\n \n<command_color=common_02>*The party leader is the character you control at the beginning of battle.</color>"
+    },
+    {
+      "id": 971000201000102,
+      "value": "You can <command_color=common_03>check the details of a battle</color> beforehand. Tap <command_color=common_03>Recommended Formation</color> to automatically create an optimal party for that battle."
+    },
+    {
+      "id": 971000201000103,
+      "value": "A character's <command_color=common_03>power</color> is determined by their attributes and equipment, and a party's <command_color=common_03>total power</color> by the sum of all characters' power. Every battle has a <command_color=common_03>recommended power</color> value that indicates the battle's difficulty.\n<command_color=common_02>*Recommended power is only displayed before battle.</color>"
+    },
+    {
+      "id": 971000201400101,
+      "value": "Binding a summon allows you to equip their ability <command_color=common_03>in place of a limit break</color>.\n\n<command_color=common_02>*Each summon ability can be equipped by only one member in your party.</color>"
+    },
+    {
+      "id": 971000202300101,
+      "value": "At the workshop, weapon parts can be converted into <command_color=common_03>weapon medals</color>, which can then be used at the exchange."
+    },
+    {
+      "id": 971000203000101,
+      "value": "Materia can be enhanced using <command_color=common_03>materials and other materia</color>. You can also sell materia you no longer need."
+    },
+    {
+      "id": 971000203100101,
+      "value": "<command_color=common_03>Synthesis</color> has been unlocked. You can now <command_color=common_03>synthesize materia</color> through Enhance."
+    },
+    {
+      "id": 971000203400111,
+      "value": "<command_color=common_03>Additional materials</color> can now be used during synthesis. Adding a certain amount of materials will affect the materia's outcome.\n \n<command_color=common_02>*The additional materials that can be used vary with each materia type.</color>"
+    },
+    {
+      "id": 971000203600101,
+      "value": "<command_color=common_03>Upgrade Materia</color> has been unlocked. You can <command_color=common_03>further enhance materia</color> through Enhance Materia."
+    },
+    {
+      "id": 971000204000101,
+      "value": "<command_color=common_03>Character streams</color> have been unlocked. You can <command_color=common_03>boost characters' stats</color> as well as <command_color=common_03>acquire and enhance their limit breaks</color>.\n \nCharacter streams can be accessed from Growth."
+    },
+    {
+      "id": 971000204100101,
+      "value": "<command_color=common_03>Unlocking Character Stream nodes increases the stat as shown on the node.</color>\n \n<command_color=common_02>*Character-specific memories or common pieces are required to unlock nodes.</color>"
+    },
+    {
+      "id": 971000204200101,
+      "value": "New limit breaks can now be acquired through <command_color=common_03>Character Streams</color>."
+    },
+    {
+      "id": 971000205000101,
+      "value": "<command_color=common_03>Summon streams</color> have been unlocked. \nThey can be accessed from the growth menu.\n\nYou can bind summons to acquire and enhance their abilities.\nTry accessing Summon streams to learn more."
+    },
+    {
+      "id": 971000205100101,
+      "value": "<command_color=common_03>Completing the Pact Missions</color> of a summon allows you to bind that summon and equip one of their abilities as <command_color=common_03>an L. ability in place of a limit break</color>.\n  \n<command_color=common_02>*Pact Mission details can be viewed from the list of stream missions.</color>"
+    },
+    {
+      "id": 971000205100103,
+      "value": "A <command_color=common_03>cooldown timer</color> is triggered when starting or changing missions. <command_color=common_03>Until the timer is up, you must wait to begin or change missions.</color>\n<command_color=common_02>*The cooldown timer is shared across all summons.\n*The cooldown timer is not triggered when changing missions for the first time.</color>"
+    },
+    {
+      "id": 971000206000101,
+      "value": "There are three types of <command_color=common_03>draws</color>:\n- Special: A unique type of draw\n- Featured: A draw that yields a stamp for every 10 Draw\n- Tickets: A draw that requires tickets"
+    },
+    {
+      "id": 971000206000102,
+      "value": "In a <command_color=common_03>New Weapon Featured Draw</color>, a <command_color=common_03>Draw 10</color> yields one or several stamps for your <command_color=common_03>stamp card.</color> You will <command_color=common_03>obtain the rewards on the stamped squares.</color>\n \n<command_color=common_02>*Progress can be viewed from stamp card details.</color>"
+    },
+    {
+      "id": 971000206000105,
+      "value": "<command_color=common_03>Gear</color> can be obtained from stamp cards. Gear changes your appearance and shares the effects of its R. abilities (Reinforcement abilities)."
+    },
+    {
+      "id": 971000206100101,
+      "value": "When obtaining <command_color=common_03>a duplicate weapon of a higher rarity</color>, the rarity of <command_color=common_03>your currently-held weapon will increase to match</color> that of the new weapon."
+    },
+    {
+      "id": 971000206100102,
+      "value": "<command_color=common_03>The duplicate weapon</color> will then be sent to <command_color=common_03>the armory</color>.\n  \nIf it was of a <command_color=common_03>higher rarity</color> than the one held, the <command_color=common_03>rarity will decrease to match that of the one held.</color>"
+    },
+    {
+      "id": 971000206200101,
+      "value": "Stamp cards have <command_color=common_03>\"Select\" squares</color> that allow you to select one reward from several.\n \n<command_color=common_02>*If a \"Select\" square reward has not yet been obtained, it can be changed from the stamp card details.</color>"
+    },
+    {
+      "id": 971000207000101,
+      "value": "<command_color=common_03>Co-op battles</color> have been unlocked. <command_color=common_03>Team up with other players</color> to take on enemies in battle.\n \nCo-op battles can be accessed from Co-op Content."
+    },
+    {
+      "id": 971000207100101,
+      "value": "To take part in a Co-op battle, you can <command_color=common_03>Join Co-op to search for other players</color>, or <command_color=common_03>join another player's lobby by invitation or the room ID search.</color>"
+    },
+    {
+      "id": 971000207100102,
+      "value": "There are two ways to look for party members.\n \n<command_color=common_03>Private matches allow you to invite friends,</color> while <command_color=common_03>random matches automatically group you with other players</color> who wish to partake in the same battle."
+    },
+    {
+      "id": 971000207100103,
+      "value": "To participate in <command_color=common_03>Random Matches</color>, your Power must meet the <command_color=common_03>Required Power</color> shown in the Stage Info.\n \n<command_color=common_02>*Stamina will not be consumed until after your first victory.</color>"
+    },
+    {
+      "id": 971000207100104,
+      "value": "In co-op battles, you can <command_color=common_03>revive</color> allies with the special ability <command_color=common_03>Raise.</color>\n \n<command_color=common_02>*Each ally can only be revived once.</color>"
+    },
+    {
+      "id": 971000207100105,
+      "value": "When teaming up with a player for the first time, you will receive a <command_color=common_03>First-Time Match Reward</color> after the battle."
+    },
+    {
+      "id": 971000207200101,
+      "value": "The reward varies based on the number of players matched.\n<command_color=common_03> 1-30 players: Blue Crystal x100\n31-50 players: Blue Crystal x50\n51-200 players: Blue Crystal x10\n201+ players: Co-op Medals</color>"
+    },
+    {
+      "id": 971000208000101,
+      "value": "<command_color=common_03>Criterion Dungeons</color> have been unlocked.\nThey can be accessed from Solo Content.\nThis feature allows you to <command_color=common_03>explore dungeons from the story</color> once more.\nClear the dungeon for rewards, and complete dungeon-specific missions for additional rewards.\n"
+    },
+    {
+      "id": 971000208100101,
+      "value": "<command_color=common_03>Criterion Dungeons</color> allow you to revisit dungeons from the story for further exploration or to take on battles.\n \n<command_color=common_02>*Completing missions yield additional rewards.</color>"
+    },
+    {
+      "id": 971000208200101,
+      "value": "Touching a symbol will trigger a boss battle. \nNot only will <command_color=common_03>HP not be restored after each battle, but damage taken will also lower your max HP.</color>\nU. C. abilities used will not be reset."
+    },
+    {
+      "id": 971000208200301,
+      "value": "Dungeon-Instant items can <command_color=common_03>only be used within the respective dungeons.</color>\nThey can be <command_color=common_03>accessed from the bag icon</color> in the upper right."
+    },
+    {
+      "id": 971000212000101,
+      "value": "<command_color=common_03>Enhancement quests</color> have been unlocked. These quests yield lots of EXP and the materials necessary to <command_color=common_03>enhance characters and equipment</color>. \n \nEnhancement quests can be accessed from Solo Content."
+    },
+    {
+      "id": 971000212100101,
+      "value": "<command_color=common_03>EXP, enhance materials, and synthesis materials</color> can be obtained from each quest.\n \n<command_color=common_02>*<sprite=\"tmp_icon\" index=782>(Stamina) is required to attempt these quests.</color>"
+    },
+    {
+      "id": 971000213000101,
+      "value": "The <command_color=common_03>chocobo farm</color> has been unlocked. Here, you can <command_color=common_03>purchase chocobos</color> or go on <command_color=common_03>expeditions</color>.\n \nThe chocobo farm can be accessed from Chocobos."
+    },
+    {
+      "id": 971000213200101,
+      "value": "Through <command_color=common_03>chocobo expeditions</color>, you will <command_color=common_03>discover items after a set amount of time</color>. The time and items vary with each chocobo's abilities. Characters sent on an expedition will <command_color=common_03>earn EXP</color>."
+    },
+    {
+      "id": 971000213200102,
+      "value": "Expedition areas each have a <command_color=common_03>field aptitude</color>, and <command_color=common_03>only chocobos with the corresponding field aptitude</color> can be dispatched. \nTap and hold on a chocobo to view their field aptitude."
+    },
+    {
+      "id": 971000214000101,
+      "value": "Completed battles can be reattempted with <sprite=\"tmp_icon\" index=781>(<command_color=common_03>Stamina Boost</color>), which yields <command_color=common_03>proportional EXP and rewards</color> for <sprite=\"tmp_icon\" index=782>(stamina) consumed in a single attempt.\n \n<command_color=common_02>*Stamina Boost cannot be used for all battles.</color>"
+    },
+    {
+      "id": 971000215000101,
+      "value": "You can check the items in your inventory from <command_color=common_03>Items</color>.\n  \nYou can also <command_color=common_03>jump to the locations where items can be obtained</color> from \"Acquired via.\""
+    },
+    {
+      "id": 971000216000101,
+      "value": "The <command_color=common_03>battle tower</color> has been unlocked. Progressing through this feature yields various rewards.\n \nThe tower can be accessed from Solo Content."
+    },
+    {
+      "id": 971000217000101,
+      "value": "<command_color=common_03>Crisis Dungeons</color> have been unlocked. These dungeons have a higher difficulty than criterion dungeons.\n \nCrisis Dungeons can be accessed from Solo Content."
+    },
+    {
+      "id": 971000217100101,
+      "value": "The objective of <command_color=common_03>Crisis Dungeons</color> is to explore the dungeon and <command_color=common_03>aim for a high score.</color> The harder the difficulty and higher your rank, the better the rewards."
+    },
+    {
+      "id": 971000217100102,
+      "value": "Rewards include <command_color=common_03>recipes for materia synthesis and <sprite=\"tmp_icon\" index=772>(crisis medals)</color>. Create new materia to strengthen your party and achieve even higher scores."
+    },
+    {
+      "id": 971000217100103,
+      "value": "<sprite=\"tmp_icon\" index=775><command_color=common_03>(Dungeon keys)</color> are required to attempt Crisis Dungeons. One is replenished <command_color=common_03>daily</color>, but they can also be obtained with <command_color=common_03>crystals</color>."
+    },
+    {
+      "id": 971000217300101,
+      "value": "After defeating a Symbol enemy, you will be awarded a <command_color=common_03>Trance Ability.</color>\n<command_color=common_02>*You can choose 1 Trance Ability upon defeating a Symbol enemy.</color>"
+    },
+    {
+      "id": 971000218000101,
+      "value": "Completing <command_color=common_03>Summon Quests</color> unlocks <command_color=common_03>Pact Missions</color> in summon streams. They also yield <command_color=common_03>quest-exclusive weapons</color> and <command_color=common_03>memories</color> used to unlock Summon Stream nodes."
+    },
+    {
+      "id": 971000218100101,
+      "value": "<command_color=common_03>Summon quests</color> allow you to battle summons and obtain <command_color=common_03>Summon weapons and Summon enhancement materials</color>. Completing Summon battles unlocks the <command_color=common_03>respective Summon Streams</color>."
+    },
+    {
+      "id": 971000219000101,
+      "value": "<command_color=common_03>Daily quests</color> have been unlocked. The quests are comprised of <command_color=common_03>requests</color> that are updated <command_color=common_03>every day</color>.\n \nDaily quests can be accessed from Solo Content."
+    },
+    {
+      "id": 971000219100101,
+      "value": "<command_color=common_03>Daily quests</color> are comprised of <command_color=common_03>different types of requests</color>, and each type has different rewards. Some requests allow you to <command_color=common_03>select the reward of your choice.</color>"
+    },
+    {
+      "id": 971000220000101,
+      "value": "<command_color=common_03>Story quests</color> have been unlocked. They can be accessed from Solo Content.\n \nThese stories allow you to <command_color=common_03>learn more about each character.</color>"
+    },
+    {
+      "id": 971000220100101,
+      "value": "Learn more about each character and <command_color=common_03>obtain Profile Pieces</color> from <command_color=common_03>Character quests</color>."
+    },
+    {
+      "id": 971000223000101,
+      "value": "In Extra Sections, you can challenge <command_color=common_03>a stronger version of the boss</color> from that chapter. Make sure you're prepared before taking on these difficult battles.\n \n<command_color=common_02>*Extra Sections do not affect story progression.</color>"
+    },
+    {
+      "id": 971000223100101,
+      "value": "In The Story Beyond, you can view episodes related to the story in any chapter.\n\n<command_color=common_02>*The Story Beyond has no effect on story progression.</color>"
+    },
+    {
+      "id": 971000224000101,
+      "value": "The <command_color=common_03>Guild</color> feature has been unlocked. Being part of a guild allows you to <command_color=common_03>chat with other guild members</color> and <command_color=common_03>receive certain perks</color>."
+    },
+    {
+      "id": 971000224300101,
+      "value": "In <command_color=common_03>guild battles</color>, the guild ranking is determined by <command_color=common_03>the total score obtained by each guild</color> during the event.\n<command_color=common_02>*There is a limit to the guild battles each player can attempt in a single day.</color>"
+    },
+    {
+      "id": 971000224300102,
+      "value": "Guild battle bosses have a massive amount of HP, and any damage dealt <command_color=common_03>will be carried over into the next battle</color>. \n<command_color=common_03>Damage dealt by other guild members</color> will also be reflected in the bosses' HP."
+    },
+    {
+      "id": 971000224300103,
+      "value": "Depleting the boss's HP a set amount <command_color=common_03>will yield an additional score bonus</color>. \nFor battles with multiple bosses, depleting the <command_color=common_03>bosses' total HP a set amount</color> will yield a score bonus. \nDefeating the bosses in each battle <command_color=common_03>will yield rewards for all guild members.</color>\n<command_color=common_02>*If a battle has multiple bosses, all bosses must be defeated in order to earn the reward.</color>"
+    },
+    {
+      "id": 971000224300104,
+      "value": "Defeated bosses are <command_color=common_03>revived at a certain time.</color> Defeating all of the bosses <command_color=common_03>will revive all bosses immediately</color>.\n<command_color=common_02>*The HP of undefeated bosses will not be restored when revived.</color>"
+    },
+    {
+      "id": 971000224300105,
+      "value": "Guild battles allow for the use of <command_color=common_03>additional equipment</color>, in which spare weapons and gear can be set to <command_color=common_03>increase the potency of abilities</color>.\n These weapons and gear have points, and <command_color=common_03>the effect is increased based on the point total</color>.\n(Ultimate weapons are not subject.)\n<command_color=common_02>*Weapon points vary based on weapon enhancements.\n*Characters' current equipment cannot be set as additional equipment.</color>"
+    },
+    {
+      "id": 971000224300106,
+      "value": "<command_color=common_03>Mock battles</color> do not yield scores or rewards, but allow players to <command_color=common_03>take on guild battles without using any attempts</color>.\n<command_color=common_02>*Only mock battles are available during the strategy period.\n*The bosses' HP in mock battles are not shared among guild members.</color>"
+    },
+    {
+      "id": 971000225000101,
+      "value": "The <command_color=common_03>Highwind</color> has been unlocked and can be accessed from Expeditions. You can <command_color=common_03>gather collection items</color> aboard the ship to <command_color=common_03>boost your power</color>."
+    },
+    {
+      "id": 971000225100101,
+      "value": "The Highwind sets out on automated expeditions, <command_color=common_03>allowing you to collect items after a certain period of time</color>. These items can be used for <command_color=common_03>Airship Enhancement</color>, and the act of collecting them may lead you to discover enemies, triggering <command_color=common_03>Airship Battles</color>. Items can be collected instantly with <command_color=common_03>Highwind Boosters</color>."
+    },
+    {
+      "id": 971000225200101,
+      "value": "Through Airship Enhancement, you can <command_color=common_03>enhance the Highwind and its parts with items you've collected</color>. Doing so will <command_color=common_03>increase your item collection efficiency and discovery rate of rare items</color>."
+    },
+    {
+      "id": 971000225300101,
+      "value": "Enhancing the airship unlocks Airship Battles, and winning these battles yield <command_color=common_03>collection items and rare items</color>.\n<command_color=common_02>*Some Airship Battles are only available for a certain period of time.</color>"
+    },
+    {
+      "id": 971000225400101,
+      "value": "Collection items have effects that <command_color=common_03>strengthen your characters</color> by simply possessing them. <command_color=common_03>Fulfilling certain conditions will allow you to enhance these items</color> and boost their effects."
+    },
+    {
+      "id": 971000226000101,
+      "value": "<command_color=common_03>Ultimate weapons</color> can be equipped in their dedicated weapons slots.\n<command_color=common_02>*Duplicates of ultimate weapons offer no additional enhancements.</color>"
+    },
+    {
+      "id": 971000226000102,
+      "value": "Equipping <command_color=common_03>ultimate weapons</color> allows the use of <command_color=common_03>U. C. abilities</color> in battle. These powerful abilities <command_color=common_03>do not consume ATB</color>. U. C. abilities can be unleashed by tapping the corresponding icons."
+    },
+    {
+      "id": 971000226000103,
+      "value": "<command_color=common_03>U. C. abilities</color> have a <command_color=common_03>limit</color> to the number of times they can be used and require <command_color=common_03>time to charge</color> before use."
+    },
+    {
+      "id": 971000226100101,
+      "value": "<command_color=common_03>Ultimate weapon slots</color> have been unlocked. Ultimate weapons can be equipped from the <command_color=common_03>character</color> screen. \nThe type of Ultimate Weapon that can be equipped varies depending on the character."
+    },
+    {
+      "id": 971000226200101,
+      "value": "Ultimate weapons <command_color=common_03>cannot be overboosted or have their rarity upgraded</color>, but can be strengthened through weapon enhancement."
+    },
+    {
+      "id": 971000227000101,
+      "value": "<command_color=common_03>Branding stones</color> can be used to brand and apply additional effects to standard and ultimate weapons. Weapons can be branded through <command_color=common_03>weapon enhancement</color>."
+    },
+    {
+      "id": 971000227100101,
+      "value": "In the weapon enhancement screen, you can use <command_color=common_03>branding stones</color> to <command_color=common_03>brand</color> weapons and <command_color=common_03>apply random effects</color>. Odds and effect types differ with each type of branding stone."
+    },
+    {
+      "id": 971000227100102,
+      "value": "<command_color=common_03>Up to three random effects</color> can be applied at a time. Weapons can also be <command_color=common_03>rebranded</color> to overwrite any current effects."
+    },
+    {
+      "id": 971000227100103,
+      "value": "When rebranding a weapon, you can choose to <command_color=common_03>retain current effects or apply new ones</color> by selecting Retain or Rebrand. If you select <command_color=common_03>Rebrand</color>, all current effects will be <command_color=common_03>overwritten</color>."
+    },
+    {
+      "id": 971000228000101,
+      "value": "In this challenge, the goal is to deal as much damage as possible within the allotted time. Some gauges will be partly filled at the start of battle, and high scores will be recorded for each stage."
+    },
+    {
+      "id": 971000228000102,
+      "value": "Each stage has its own ranking. The rankings do not reset and reflect the results over the entire period."
+    },
+    {
+      "id": 971003000000011,
+      "value": "Getting hit with abilities fills an enemy's <command_color=common_03>counter gauge</color>, and <command_color=common_03>when the gauge is full, they can unleash a counterattack.</color> Depending on the enemy, the counter gauge fills with either physical or magic attacks.\n<command_color=common_03>Check the icons displayed for this information.</color>"
+    },
+    {
+      "id": 971003000000021,
+      "value": "This ability imprisons and <command_color=common_03>incapacitates</color> a character, <command_color=common_03>preventing them from using abilities or filling their ATB gauge.</color> The incapacitated character cannot be freed by abilities and <command_color=common_03>must wait until the stream phase is over.</color>"
+    },
+    {
+      "id": 971003000000031,
+      "value": "The more time passes, <command_color=common_03>the stronger the enemy's attacks become</color>.\nDuring the stream phase, they will periodically shift to a higher <command_color=common_03>gear</color> and <command_color=common_03>use powerful abilities based on their gear</color>."
+    },
+    {
+      "id": 971003000000041,
+      "value": "The <command_color=common_03>Hellfire gauge</color> fills over time, and when the gauge is filled, the enemy can unleash a powerful ability.\n \nThe <command_color=common_03>number of sigils remaining</color> when the gauge is filled will determine the ability's power. The <command_color=common_03>fewer</color> sigils remaining, the <command_color=common_03>weaker</color> the ability."
+    },
+    {
+      "id": 971003000000061,
+      "value": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
+    },
+    {
+      "id": 971003000000071,
+      "value": "The <command_color=common_03>Watermelon's Grudge gauge</color> fills over time, and when the gauge is filled, the enemy can unleash a powerful ability.\n  \nThe <command_color=common_03>number of sigils remaining</color> when the gauge is filled will determine the ability they will unleash. The <command_color=common_03>fewer</color> sigils remaining, the <command_color=common_03>stronger</color> the ability."
+    },
+    {
+      "id": 971003000000081,
+      "value": "Sigils of enemies in this state <command_color=common_03>cannot be destroyed</color>. <command_color=common_03>Sigil Guard</color> can be canceled by <command_color=common_03>destroying all of the other enemies' sigils</color>."
+    },
+    {
+      "id": 971003000000091,
+      "value": "This ability <command_color=common_03>allows one to lock on to a specific target</color>. The effect is canceled when <command_color=common_03>the one performing the action unleashes certain abilities or is defeated</color>, or <command_color=common_03>all sigils are destroyed</color>."
+    },
+    {
+      "id": 971003000000101,
+      "value": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
+    },
+    {
+      "id": 971003000000111,
+      "value": "<command_color=common_03>Dealing damage with physical or magic abilities</color> (excluding Attack) to the enemy in this state will cause them to <command_color=common_03>counter with lightning-element attacks</color>. It will last <command_color=common_03>until the stream phase is over</color>."
+    },
+    {
+      "id": 971003000000121,
+      "value": "This attack imprisons and <command_color=common_03>incapacitates</color> a character, preventing them from <command_color=common_03>using abilities or filling their ATB gauge</color>. The incapacitated character cannot be freed by abilities and must wait <command_color=common_03>until the stream phase ends or they are hit with specific attacks</color>."
+    },
+    {
+      "id": 971003000000131,
+      "value": "This ability <command_color=common_03>hides the sigils</color> that appear during streamphase. Shroud can be canceled by <command_color=common_03>destroying any hidden sigil</color>."
+    },
+    {
+      "id": 971003000000141,
+      "value": "Sleep <command_color=common_03>incapacitates</color> a character. The ailment will be removed <command_color=common_03>after a set amount of time or if damage is taken</color>. When afflicted with Sleep, damage taken is <command_color=common_03>doubled</color>."
+    },
+    {
+      "id": 971003000000151,
+      "value": "When a character afflicted with Confusion uses a <command_color=common_03>C. ability</color>, there is a chance they will <command_color=common_03>attack themselves</color>, but the ATB gauge will still be consumed. The ailment will be removed <command_color=common_03>after a set amount of time or potentially when attacking self</color>."
+    },
+    {
+      "id": 971003000000161,
+      "value": "Some enemies will unleash an ability <command_color=common_03>when their HP reaches 0, but before they are defeated</color>.\nIf an enemy's final attack takes out your entire party, <command_color=common_03>you will lose the battle</color>.\n<command_color=common_03>Enemies defeated using L. abilities</color> and <command_color=common_03>enemies unable to unleash abilities</color> (such as while interrupted or inflicted with darkness or silence) will not unleash final attacks."
+    },
+    {
+      "id": 971003000000171,
+      "value": "When a character is inflicted with Doom, a counter will appear above their head. When it expires, <command_color=common_03>their HP will be forcibly reduced to 0</color>. <command_color=common_03>Doom is canceled</color> when transitioning to the next wave, or if the battle ends."
+    },
+    {
+      "id": 971003100000011,
+      "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>ATK</color>.\n \n<command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time."
+    },
+    {
+      "id": 971003100000021,
+      "value": "The enemy's force gauge fills <command_color=common_03>as they use their abilities</color>. The more the gauge is filled, the stronger their <command_color=common_03>fire-based power</color>.\n \nDealing damage with <command_color=common_03>ice-element abilities</color> will deplete the gauge."
+    },
+    {
+      "id": 971003100000031,
+      "value": "The enemy's force gauge fills <command_color=common_03>as they use their abilities</color>. The more the gauge is filled, the stronger their <command_color=common_03>fire-resistance</color>.\n \nDealing damage with <command_color=common_03>fire-element abilities</color> will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time."
+    },
+    {
+      "id": 971003100000041,
+      "value": "The more the force gauge is filled, the stronger the enemy's <command_color=common_03>Lightning Potency</color> will become.\n<command_color=common_03>Damaging the enemy</color> will reduce the force gauge.\nThe force gauge <command_color=common_03>accumulates over time and when enemies use abilities.</color>"
+    },
+    {
+      "id": 971003100000051,
+      "value": "The more the force gauge is filled, the higher their <command_color=common_03>PATK</color>.\n\n<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The greater the <command_color=common_03>chain</color> of consecutive attacks, the more the gauge will be depleted."
+    },
+    {
+      "id": 971003100000061,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. \nWhen the gauge is fully depleted, <command_color=common_03>the enemy can be prevented from using powerful abilities.</color>"
+    },
+    {
+      "id": 971003100000071,
+      "value": "<command_color=common_03>Dealing magic damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy's <command_color=common_03>Physical Resistance will be lost</color> and their <command_color=common_03>PDEF greatly reduced</color>."
+    },
+    {
+      "id": 971003100000081,
+      "value": "The enemy's force gauge fills over time and as they use their abilities. When the gauge is full, they grant themselves <command_color=common_03>PDEF Up, MDEF Up, and Wind Resistance Up</color>. Dealing damage with <command_color=common_03>wind-element abilities</color> will deplete the gauge."
+    },
+    {
+      "id": 971003100000091,
+      "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. The more the enemy's force gauge is filled, the stronger their <command_color=common_03>MATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
+    },
+    {
+      "id": 971003100000101,
+      "value": "Once the force gauge is displayed, the enemy will unleash <command_color=common_03>Tidal Wave</color> after a certain amount of time. The potency of the attack is greater <command_color=common_03>the more the force gauge is filled</color>. <command_color=common_03>Dealing lightning-element damage</color> will deplete the gauge."
+    },
+    {
+      "id": 971003100000111,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+    },
+    {
+      "id": 971003100000121,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy will use an ability to <command_color=common_03>grant PATK Up to itself and its targets</color>."
+    },
+    {
+      "id": 971003100000131,
+      "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>Earth Potency</color>. <command_color=common_03>Dealing wind damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    {
+      "id": 971003100000151,
+      "value": "<command_color=common_03>Dealing ice-element damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time and their <command_color=common_03>PATK will be greatly reduced</color>.\n\nThe gauge will also be depleted when <command_color=common_03>the enemy uses certain abilities</color>."
+    },
+    {
+      "id": 971003100000161,
+      "value": "<command_color=common_03>Dealing fire-element damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time and their <command_color=common_03>PATK will be greatly reduced</color>.\n\nThe gauge will also be depleted when <command_color=common_03>the enemy uses certain abilities</color>."
+    },
+    {
+      "id": 971003100000171,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. <command_color=common_03>Wind-element damage</color> will deplete it even more. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time."
+    },
+    {
+      "id": 971003100000181,
+      "value": "<command_color=common_03>Dealing physical damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy's <command_color=common_03>PDEF and MDEF will be greatly reduced</color>."
+    },
+    {
+      "id": 971003100000191,
+      "value": "<command_color=common_03>All characters but one are incapacitated</color> until the enemy unleashes a powerful ability. Characters cannot use <command_color=common_03>healing abilities</color>, and the ATB gauge <command_color=common_03>fills more quickly</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the <command_color=common_03>potency of the enemy's powerful ability will decrease</color>."
+    },
+    {
+      "id": 971003100000201,
+      "value": "Once the force gauge has been displayed for a certain amount of time or once the gauge is full, the enemy will initiate <command_color=common_03>Cosmic Summoning</color>. Shortly after, the enemy will unleash a powerful ability, <command_color=common_03>its potency based on the amount the force gauge was filled</color> when Cosmic Summoning was initiated. The force gauge fills over time and can be depleted by dealing damage to the enemy."
+    },
+    {
+      "id": 971003100000211,
+      "value": "The enemy's force gauge fills over time and <command_color=common_03>can be filled even more with certain abilities</color>. When the gauge is full, the enemy will unleash <command_color=common_03>an extremely charged and powerful Flare</color>. The gauge can be depleted by dealing damage to the enemy."
+    },
+    {
+      "id": 971003100000221,
+      "value": "The force gauge can be depleted by <command_color=common_03>landing attacks</color>. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time, and their <command_color=common_03>physical and magic damage resistance will be greatly reduced</color>."
+    },
+    {
+      "id": 971003100000231,
+      "value": "Dealing <command_color=common_03>magic damage</color> to the enemy will deplete their force gauge. When the gauge is fully depleted, their <command_color=common_03>PDEF and MDEF will be greatly reduced</color>. <command_color=common_03>Additional rewards</color> may be obtained in certain situations."
+    },
+    {
+      "id": 971003100000241,
+      "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>PATK</color>. <command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, the enemy will become <command_color=common_03>incapacitated</color> for a set amount of time."
+    },
+    {
+      "id": 971003100000251,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete its force gauge. When the gauge is fully depleted, it will <command_color=common_03>metamorphose into a physically or magically enhanced state</color> depending on the amount of <command_color=common_03>physical or magic damage taken while the force gauge is active</color>."
+    },
+    {
+      "id": 971003100000261,
+      "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>fire-element potency</color>. The gauge can be depleted by <command_color=common_03>dealing damage with ice-element abilities</color>. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    {
+      "id": 971003100000271,
+      "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge. When the gauge is fully depleted, <command_color=common_03>the enemy will become incapacitated</color> for a set amount of time, and <command_color=common_03>their PDEF and MDEF will be greatly reduced</color>."
+    },
+    {
+      "id": 971003100000281,
+      "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PDEF</color> and <command_color=common_03>MDEF</color>. It also has a  <command_color=common_03>strong resistance to elemental attacks</color> while the force gauge is active. <command_color=common_03>Dealing non-elemental damage</color> will deplete the gauge, and the less the gauge is filled when it disappears, <command_color=common_03>the more potent their subsequent powerful ability and its effects</color>."
+    },
+    {
+      "id": 971003100000291,
+      "value": "The enemy's force gauge fills <command_color=common_03>over time</color>, and when the gauge is full, the ability <command_color=common_03>Fearful Celebration</color> is unleashed. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
+    },
+    {
+      "id": 971003100000301,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+    },
+    {
+      "id": 971003100000311,
+      "value": "While the force gauge is active, <command_color=common_03>the enemy's elemental weaknesses change</color>. Dealing damage <command_color=common_03>to exploit their weaknesses</color> will deplete the force gauge. When the gauge is empty, the enemy will be  <command_color=common_03>temporarily incapacitated</color>, and their elemental weaknesses <command_color=common_03>will no longer change</color>."
+    },
+    {
+      "id": 971003100000321,
+      "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>MATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    {
+      "id": 971003100000341,
+      "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>."
+    },
+    {
+      "id": 971003200000011,
+      "value": "Depending on the number of characters afflicted with <command_color=common_03>dread</color>, <command_color=common_03>the speed at which the command gauge increases in Attack Stance will slow</color>. While afflicted, <command_color=common_03>Attack Stance perks</color> that boost damage and the amount of sigils destroyed <command_color=common_03>will be inactive</color>. Dread is canceled <command_color=common_03>when the command gauge is maxed out</color> in Attack Stance."
+    },
+    {
+      "id": 971003200000021,
+      "value": "While afflicted with Pain, <command_color=common_03>you will take damage when using C. abilities</color>. If inflicted with Pain while already afflicted with the status, <command_color=common_03>Pain will be replaced with Agony</color>. While afflicted with Agony, <command_color=common_03>you will take even more damage</color> when using C. abilities. Either status can be canceled <command_color=common_03>by healing the impaired character to full</color>. "
+    },
+    {
+      "id": 971003200000031,
+      "value": "While afflicted with Enfeeble, <command_color=common_03>the modifiers for stat debuff tiers are increased</color>, thus greatly boosting their potency."
+    }
+  ]
+}

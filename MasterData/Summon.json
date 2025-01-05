@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "SummonPieceItemId": 3001,
+    "ResourceId": 1,
+    "NameLanguageId": 110000000000001,
+    "OrderNo": 0,
+    "DefaultSkillSpecialId": 200102,
+    "StartDatetime": 0,
+    "DisplayGrowthBoardItemGroupId": 3001
+  },
+  {
+    "Id": 2,
+    "SummonPieceItemId": 3002,
+    "ResourceId": 2,
+    "NameLanguageId": 110000000000002,
+    "OrderNo": 0,
+    "DefaultSkillSpecialId": 200202,
+    "StartDatetime": 0,
+    "DisplayGrowthBoardItemGroupId": 3002
+  },
+  {
+    "Id": 3,
+    "SummonPieceItemId": 3003,
+    "ResourceId": 3,
+    "NameLanguageId": 110000000000003,
+    "OrderNo": 6,
+    "DefaultSkillSpecialId": 200302,
+    "StartDatetime": 0,
+    "DisplayGrowthBoardItemGroupId": 3003
+  },
+  {
+    "Id": 6,
+    "SummonPieceItemId": 3007,
+    "ResourceId": 6,
+    "NameLanguageId": 110000000000006,
+    "OrderNo": 4,
+    "DefaultSkillSpecialId": 200601,
+    "StartDatetime": 0,
+    "DisplayGrowthBoardItemGroupId": 3007
+  },
+  {
+    "Id": 10,
+    "SummonPieceItemId": 3006,
+    "ResourceId": 10,
+    "NameLanguageId": 110000000000010,
+    "OrderNo": 0,
+    "DefaultSkillSpecialId": 201002,
+    "StartDatetime": 0,
+    "DisplayGrowthBoardItemGroupId": 3006
+  },
+  {
+    "Id": 11,
+    "SummonPieceItemId": 3011,
+    "ResourceId": 11,
+    "NameLanguageId": 110000000000011,
+    "OrderNo": 8,
+    "DefaultSkillSpecialId": 201101,
+    "StartDatetime": 1734919200000,
+    "DisplayGrowthBoardItemGroupId": 3011
+  },
+  {
+    "Id": 51,
+    "SummonPieceItemId": 3051,
+    "ResourceId": 51,
+    "NameLanguageId": 110000000000051,
+    "OrderNo": 5,
+    "DefaultSkillSpecialId": 205101,
+    "StartDatetime": 0,
+    "DisplayGrowthBoardItemGroupId": 3051
+  },
+  {
+    "Id": 52,
+    "SummonPieceItemId": 3052,
+    "ResourceId": 52,
+    "NameLanguageId": 110000000000052,
+    "OrderNo": 7,
+    "DefaultSkillSpecialId": 205201,
+    "StartDatetime": 0,
+    "DisplayGrowthBoardItemGroupId": 3052
+  }
+]

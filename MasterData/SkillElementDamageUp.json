@@ -1,0 +1,782 @@
+[
+  {
+    "Id": 3101230011,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3101230021,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3101230031,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 750,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3101230041,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3101230051,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 2000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201160191,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201160201,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201160211,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201233011,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201233021,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201233031,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 600,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201233051,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201233061,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201233071,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560012,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560022,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560032,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560042,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560053,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560063,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560073,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560112,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560122,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560132,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560142,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560153,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560163,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560173,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560212,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560222,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560232,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560242,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560253,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560263,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560273,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560312,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560322,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560332,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560342,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560352,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560362,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560553,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560563,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560633,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560643,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560713,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201560723,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201561191,
+    "ElementType": 7,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201561371,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201561551,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763102,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763112,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763122,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763132,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763142,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763402,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763412,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763422,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763432,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3250763442,
+    "ElementType": 3,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062012,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 70,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062022,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062032,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062042,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062052,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062071,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 70,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062081,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062091,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062101,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062111,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062142,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062152,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062162,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062172,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062182,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062201,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062211,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062221,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062231,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062241,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062271,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 5000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110102,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110112,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110122,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 450,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110132,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 600,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110142,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 750,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110152,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 900,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110162,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 1050,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110172,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 1200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110182,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 1400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110192,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 1600,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110202,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 1800,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110212,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 2000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110222,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 2250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110232,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 2500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110242,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 2750,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110252,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 3000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251110262,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 4000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251660011,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251660021,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251660031,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251760011,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251760021,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251760031,
+    "ElementType": 6,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253640071,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253640081,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253640091,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253660132,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253660142,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253660152,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3254830041,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3254830051,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3254830081,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3254830091,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210073,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210083,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210093,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210103,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210113,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210243,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210253,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210263,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210273,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210283,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210413,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 50,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210423,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210433,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210443,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255210453,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 700,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255230031,
+    "ElementType": 5,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  }
+]

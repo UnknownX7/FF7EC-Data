@@ -1,0 +1,688 @@
+{
+  "data": [
+    {
+      "id": 411000010010101,
+      "value": "Character EXP 1"
+    },
+    {
+      "id": 411000010010102,
+      "value": "Character EXP 2"
+    },
+    {
+      "id": 411000010010103,
+      "value": "Character EXP 3"
+    },
+    {
+      "id": 411000010010104,
+      "value": "Character EXP 4"
+    },
+    {
+      "id": 411000010010105,
+      "value": "Character EXP 5"
+    },
+    {
+      "id": 411000010010106,
+      "value": "Character EXP 6"
+    },
+    {
+      "id": 411000010010107,
+      "value": "Character EXP 7"
+    },
+    {
+      "id": 411000010010108,
+      "value": "Character EXP 8"
+    },
+    {
+      "id": 411000010060101,
+      "value": "LV Uncap - Steel 1"
+    },
+    {
+      "id": 411000010060102,
+      "value": "LV Uncap - Steel 2"
+    },
+    {
+      "id": 411000010060103,
+      "value": "LV Uncap - Steel 3"
+    },
+    {
+      "id": 411000010070101,
+      "value": "LV Uncap - Electrum 1"
+    },
+    {
+      "id": 411000010070102,
+      "value": "LV Uncap - Electrum 2"
+    },
+    {
+      "id": 411000010070103,
+      "value": "LV Uncap - Electrum 3"
+    },
+    {
+      "id": 411000010090101,
+      "value": "LV Uncap - Rose Gold 1"
+    },
+    {
+      "id": 411000010090102,
+      "value": "LV Uncap - Rose Gold 2"
+    },
+    {
+      "id": 411000010090103,
+      "value": "LV Uncap - Rose Gold 3"
+    },
+    {
+      "id": 411000010100101,
+      "value": "LV Uncap - Genome Pod 1"
+    },
+    {
+      "id": 411000010100102,
+      "value": "LV Uncap - Genome Pod 2"
+    },
+    {
+      "id": 411000010100103,
+      "value": "LV Uncap - Genome Pod 3"
+    },
+    {
+      "id": 411000010110101,
+      "value": "LV Uncap - Nanocube 1"
+    },
+    {
+      "id": 411000010110102,
+      "value": "LV Uncap - Nanocube 2"
+    },
+    {
+      "id": 411000010110103,
+      "value": "LV Uncap - Nanocube 3"
+    },
+    {
+      "id": 411000010150101,
+      "value": "Weapon Enhancement 1"
+    },
+    {
+      "id": 411000010150102,
+      "value": "Weapon Enhancement 2"
+    },
+    {
+      "id": 411000010150103,
+      "value": "Weapon Enhancement 3"
+    },
+    {
+      "id": 411000010150104,
+      "value": "Weapon Enhancement 4"
+    },
+    {
+      "id": 411000010150105,
+      "value": "Weapon Enhancement 5"
+    },
+    {
+      "id": 411000010150106,
+      "value": "Weapon Enhancement 6"
+    },
+    {
+      "id": 411000010150107,
+      "value": "Weapon Enhancement 7"
+    },
+    {
+      "id": 411000010150108,
+      "value": "Weapon Enhancement 8"
+    },
+    {
+      "id": 411000010160101,
+      "value": "Materia Synthesis - Fire 1"
+    },
+    {
+      "id": 411000010160102,
+      "value": "Materia Synthesis - Fire 2"
+    },
+    {
+      "id": 411000010160103,
+      "value": "Materia Synthesis - Fire 3"
+    },
+    {
+      "id": 411000010160104,
+      "value": "Materia Synthesis - Fire 4"
+    },
+    {
+      "id": 411000010160105,
+      "value": "Materia Synthesis - Fire 5"
+    },
+    {
+      "id": 411000010160106,
+      "value": "Materia Synthesis - Fire 6"
+    },
+    {
+      "id": 411000010170101,
+      "value": "Materia Synthesis - Ice 1"
+    },
+    {
+      "id": 411000010170102,
+      "value": "Materia Synthesis - Ice 2"
+    },
+    {
+      "id": 411000010170103,
+      "value": "Materia Synthesis - Ice 3"
+    },
+    {
+      "id": 411000010170104,
+      "value": "Materia Synthesis - Ice 4"
+    },
+    {
+      "id": 411000010170105,
+      "value": "Materia Synthesis - Ice 5"
+    },
+    {
+      "id": 411000010170106,
+      "value": "Materia Synthesis - Ice 6"
+    },
+    {
+      "id": 411000010180101,
+      "value": "Materia Synthesis - Lightning 1"
+    },
+    {
+      "id": 411000010180102,
+      "value": "Materia Synthesis - Lightning 2"
+    },
+    {
+      "id": 411000010180103,
+      "value": "Materia Synthesis - Lightning 3"
+    },
+    {
+      "id": 411000010180104,
+      "value": "Materia Synthesis - Lightning 4"
+    },
+    {
+      "id": 411000010180105,
+      "value": "Materia Synthesis - Lightning 5"
+    },
+    {
+      "id": 411000010180106,
+      "value": "Materia Synthesis - Lightning 6"
+    },
+    {
+      "id": 411000010190101,
+      "value": "Materia Synthesis - Earth 1"
+    },
+    {
+      "id": 411000010190102,
+      "value": "Materia Synthesis - Earth 2"
+    },
+    {
+      "id": 411000010190103,
+      "value": "Materia Synthesis - Earth 3"
+    },
+    {
+      "id": 411000010190104,
+      "value": "Materia Synthesis - Earth 4"
+    },
+    {
+      "id": 411000010190105,
+      "value": "Materia Synthesis - Earth 5"
+    },
+    {
+      "id": 411000010200101,
+      "value": "Materia Synthesis - Water 1"
+    },
+    {
+      "id": 411000010200102,
+      "value": "Materia Synthesis - Water 2"
+    },
+    {
+      "id": 411000010200103,
+      "value": "Materia Synthesis - Water 3"
+    },
+    {
+      "id": 411000010200104,
+      "value": "Materia Synthesis - Water 4"
+    },
+    {
+      "id": 411000010200105,
+      "value": "Materia Synthesis - Water 5"
+    },
+    {
+      "id": 411000010210101,
+      "value": "Materia Synthesis - Wind 1"
+    },
+    {
+      "id": 411000010210102,
+      "value": "Materia Synthesis - Wind 2"
+    },
+    {
+      "id": 411000010210103,
+      "value": "Materia Synthesis - Wind 3"
+    },
+    {
+      "id": 411000010210104,
+      "value": "Materia Synthesis - Wind 4"
+    },
+    {
+      "id": 411000010210105,
+      "value": "Materia Synthesis - Wind 5"
+    },
+    {
+      "id": 411000010220106,
+      "value": "Power Pieces 6"
+    },
+    {
+      "id": 411000010220107,
+      "value": "Power Pieces 7"
+    },
+    {
+      "id": 411000010220108,
+      "value": "Power Pieces 8"
+    },
+    {
+      "id": 411000010230106,
+      "value": "Magic Pieces 6"
+    },
+    {
+      "id": 411000010230107,
+      "value": "Magic Pieces 7"
+    },
+    {
+      "id": 411000010230108,
+      "value": "Magic Pieces 8"
+    },
+    {
+      "id": 411000010240106,
+      "value": "Healing Pieces 6"
+    },
+    {
+      "id": 411000010240107,
+      "value": "Healing Pieces 7"
+    },
+    {
+      "id": 411000010240108,
+      "value": "Healing Pieces 8"
+    },
+    {
+      "id": 411000010260101,
+      "value": "LV Uncap - Genome Pod 1"
+    },
+    {
+      "id": 411000010260102,
+      "value": "LV Uncap - Genome Pod 2"
+    },
+    {
+      "id": 411000010260103,
+      "value": "LV Uncap - Genome Pod 3"
+    },
+    {
+      "id": 411000010260104,
+      "value": "LV Uncap - Genome Pod 4"
+    },
+    {
+      "id": 411000010260105,
+      "value": "LV Uncap - Genome Pod 5"
+    },
+    {
+      "id": 411000010270101,
+      "value": "LV Uncap - Nanocube 1"
+    },
+    {
+      "id": 411000010270102,
+      "value": "LV Uncap - Nanocube 2"
+    },
+    {
+      "id": 411000010270103,
+      "value": "LV Uncap - Nanocube 3"
+    },
+    {
+      "id": 411000010270104,
+      "value": "LV Uncap - Nanocube 4"
+    },
+    {
+      "id": 411000010270105,
+      "value": "LV Uncap - Nanocube 5"
+    },
+    {
+      "id": 411000010290101,
+      "value": "Character Memories Cloud 1"
+    },
+    {
+      "id": 411000010290102,
+      "value": "Character Memories Barret 1"
+    },
+    {
+      "id": 411000010290103,
+      "value": "Character Memories Tifa 1"
+    },
+    {
+      "id": 411000010290104,
+      "value": "Character Memories Aerith 1"
+    },
+    {
+      "id": 411000010290105,
+      "value": "Character Memories Red XIII 1"
+    },
+    {
+      "id": 411000010290106,
+      "value": "Character Memories Cloud 2"
+    },
+    {
+      "id": 411000010290107,
+      "value": "Character Memories Barret 2"
+    },
+    {
+      "id": 411000010290108,
+      "value": "Character Memories Tifa 2"
+    },
+    {
+      "id": 411000010290109,
+      "value": "Character Memories Aerith 2"
+    },
+    {
+      "id": 411000010290110,
+      "value": "Character Memories Red XIII 2"
+    },
+    {
+      "id": 411000010290111,
+      "value": "Character Memories Yuffie 1"
+    },
+    {
+      "id": 411000010290112,
+      "value": "Character Memories Yuffie 2"
+    },
+    {
+      "id": 411000010290113,
+      "value": "Character Memories Cait Sith 1"
+    },
+    {
+      "id": 411000010290114,
+      "value": "Character Memories Cait Sith 2"
+    },
+    {
+      "id": 411000010290115,
+      "value": "Character Memories Vincent 1"
+    },
+    {
+      "id": 411000010290116,
+      "value": "Character Memories Vincent 2"
+    },
+    {
+      "id": 411000010300101,
+      "value": "Character Memories Zack 1"
+    },
+    {
+      "id": 411000010300102,
+      "value": "Character Memories Zack 2"
+    },
+    {
+      "id": 411000010310101,
+      "value": "Character Memories Glenn 1"
+    },
+    {
+      "id": 411000010310102,
+      "value": "Character Memories Matt 1"
+    },
+    {
+      "id": 411000010310103,
+      "value": "Character Memories Lucia 1"
+    },
+    {
+      "id": 411000010310104,
+      "value": "Character Memories Glenn 2"
+    },
+    {
+      "id": 411000010310105,
+      "value": "Character Memories Matt 2"
+    },
+    {
+      "id": 411000010310106,
+      "value": "Character Memories Lucia 2"
+    },
+    {
+      "id": 411000010310107,
+      "value": "Character Memories Sephiroth 1"
+    },
+    {
+      "id": 411000010310108,
+      "value": "Character Memories Sephiroth 2"
+    },
+    {
+      "id": 411000010310109,
+      "value": "Character Memories Angeal 1"
+    },
+    {
+      "id": 411000010310110,
+      "value": "Character Memories Angeal 2"
+    },
+    {
+      "id": 411000010320101,
+      "value": "Pieces 1"
+    },
+    {
+      "id": 411000010320102,
+      "value": "Pieces 2"
+    },
+    {
+      "id": 411000010320103,
+      "value": "Pieces 3"
+    },
+    {
+      "id": 411000010320104,
+      "value": "Pieces 4"
+    },
+    {
+      "id": 411000010320105,
+      "value": "Pieces 5"
+    },
+    {
+      "id": 411000011010101,
+      "value": "Trial of Ifrit - Normal"
+    },
+    {
+      "id": 411000011010111,
+      "value": "Trial of Ifrit - Hard 1"
+    },
+    {
+      "id": 411000011010112,
+      "value": "Trial of Ifrit - Hard 2"
+    },
+    {
+      "id": 411000011010121,
+      "value": "Trial of Ifrit - Very Hard 1"
+    },
+    {
+      "id": 411000011010122,
+      "value": "Trial of Ifrit - Very Hard 2"
+    },
+    {
+      "id": 411000011010123,
+      "value": "Trial of Ifrit - Very Hard 3"
+    },
+    {
+      "id": 411000011010131,
+      "value": "Trial of Ifrit - EX 1"
+    },
+    {
+      "id": 411000011010141,
+      "value": "Trial of Ifrit - EX 2"
+    },
+    {
+      "id": 411000011010201,
+      "value": "Trial of Shiva - Normal"
+    },
+    {
+      "id": 411000011010211,
+      "value": "Trial of Shiva - Hard 1"
+    },
+    {
+      "id": 411000011010212,
+      "value": "Trial of Shiva - Hard 2"
+    },
+    {
+      "id": 411000011010221,
+      "value": "Trial of Shiva - Very Hard 1"
+    },
+    {
+      "id": 411000011010222,
+      "value": "Trial of Shiva - Very Hard 2"
+    },
+    {
+      "id": 411000011010223,
+      "value": "Trial of Shiva - Very Hard 3"
+    },
+    {
+      "id": 411000011010231,
+      "value": "Trial of Shiva - EX 1"
+    },
+    {
+      "id": 411000011010241,
+      "value": "Trial of Shiva - EX 2"
+    },
+    {
+      "id": 411000011010301,
+      "value": "Trial of Leviathan - Normal"
+    },
+    {
+      "id": 411000011010311,
+      "value": "Trial of Leviathan - Hard 1"
+    },
+    {
+      "id": 411000011010312,
+      "value": "Trial of Leviathan - Hard 2"
+    },
+    {
+      "id": 411000011010321,
+      "value": "Trial of Leviathan - Very Hard 1"
+    },
+    {
+      "id": 411000011010322,
+      "value": "Trial of Leviathan - Very Hard 2"
+    },
+    {
+      "id": 411000011010323,
+      "value": "Trial of Leviathan - Very Hard 3"
+    },
+    {
+      "id": 411000011010331,
+      "value": "Trial of Leviathan - EX 1"
+    },
+    {
+      "id": 411000011010341,
+      "value": "Trial of Leviathan - EX 2"
+    },
+    {
+      "id": 411000011010601,
+      "value": "Trial of Bahamut - Normal"
+    },
+    {
+      "id": 411000011010611,
+      "value": "Trial of Bahamut - Hard"
+    },
+    {
+      "id": 411000011010621,
+      "value": "Trial of Bahamut - Very Hard"
+    },
+    {
+      "id": 411000011010631,
+      "value": "Trial of Bahamut - EX 1"
+    },
+    {
+      "id": 411000011010641,
+      "value": "Trial of Bahamut - EX 2"
+    },
+    {
+      "id": 411000011011001,
+      "value": "Trial of Ramuh - Normal"
+    },
+    {
+      "id": 411000011011011,
+      "value": "Trial of Ramuh - Hard 1"
+    },
+    {
+      "id": 411000011011012,
+      "value": "Trial of Ramuh - Hard 2"
+    },
+    {
+      "id": 411000011011021,
+      "value": "Trial of Ramuh - Very Hard 1"
+    },
+    {
+      "id": 411000011011022,
+      "value": "Trial of Ramuh - Very Hard 2"
+    },
+    {
+      "id": 411000011011023,
+      "value": "Trial of Ramuh - Very Hard 3"
+    },
+    {
+      "id": 411000011011031,
+      "value": "Trial of Ramuh - EX 1"
+    },
+    {
+      "id": 411000011011041,
+      "value": "Trial of Ramuh - EX 2"
+    },
+    {
+      "id": 411000011011101,
+      "value": "Trial of Titan - Normal"
+    },
+    {
+      "id": 411000011011111,
+      "value": "Trial of Titan - Hard 1"
+    },
+    {
+      "id": 411000011011112,
+      "value": "Trial of Titan - Hard 2"
+    },
+    {
+      "id": 411000011011121,
+      "value": "Trial of Titan - Very Hard 1"
+    },
+    {
+      "id": 411000011011122,
+      "value": "Trial of Titan - Very Hard 2"
+    },
+    {
+      "id": 411000011011123,
+      "value": "Trial of Titan - Very Hard 3"
+    },
+    {
+      "id": 411000011011131,
+      "value": "Trial of Titan - EX 1"
+    },
+    {
+      "id": 411000011011141,
+      "value": "Trial of Titan - EX 2"
+    },
+    {
+      "id": 411000011015101,
+      "value": "Trial of Ifrit & Bahamut - Normal"
+    },
+    {
+      "id": 411000011015111,
+      "value": "Trial of Ifrit & Bahamut - Hard"
+    },
+    {
+      "id": 411000011015121,
+      "value": "Trial of Ifrit & Bahamut - Very Hard"
+    },
+    {
+      "id": 411000011015131,
+      "value": "Trial of Ifrit & Bahamut - EX 1"
+    },
+    {
+      "id": 411000011015141,
+      "value": "Trial of Ifrit & Bahamut - EX 2"
+    },
+    {
+      "id": 411000011015201,
+      "value": "Trial of Shiva & Ramuh - Normal"
+    },
+    {
+      "id": 411000011015211,
+      "value": "Trial of Shiva & Ramuh - Hard"
+    },
+    {
+      "id": 411000011015221,
+      "value": "Trial of Shiva & Ramuh - Very Hard"
+    },
+    {
+      "id": 411000011015231,
+      "value": "Trial of Shiva & Ramuh - EX 1"
+    },
+    {
+      "id": 411000011015241,
+      "value": "Trial of Shiva & Ramuh - EX 2"
+    }
+  ]
+}

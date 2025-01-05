@@ -1,0 +1,1724 @@
+[
+  {
+    "Id": 201010104,
+    "DungeonBuffDebuffGroupId0": 2010101040,
+    "DungeonBuffDebuffGroupId1": 2010101041,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 201010105,
+    "DungeonBuffDebuffGroupId0": 2010101050,
+    "DungeonBuffDebuffGroupId1": 2010101051,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 201010106,
+    "DungeonBuffDebuffGroupId0": 2010101060,
+    "DungeonBuffDebuffGroupId1": 2010101061,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 201020103,
+    "DungeonBuffDebuffGroupId0": 2010201030,
+    "DungeonBuffDebuffGroupId1": 2010201031,
+    "DungeonBuffDebuffGroupId2": 2010201032
+  },
+  {
+    "Id": 201020104,
+    "DungeonBuffDebuffGroupId0": 2010201040,
+    "DungeonBuffDebuffGroupId1": 2010201041,
+    "DungeonBuffDebuffGroupId2": 2010201042
+  },
+  {
+    "Id": 201020105,
+    "DungeonBuffDebuffGroupId0": 2010201050,
+    "DungeonBuffDebuffGroupId1": 2010201051,
+    "DungeonBuffDebuffGroupId2": 2010201052
+  },
+  {
+    "Id": 201020106,
+    "DungeonBuffDebuffGroupId0": 2010201060,
+    "DungeonBuffDebuffGroupId1": 2010201061,
+    "DungeonBuffDebuffGroupId2": 2010201062
+  },
+  {
+    "Id": 201030104,
+    "DungeonBuffDebuffGroupId0": 2010301040,
+    "DungeonBuffDebuffGroupId1": 2010301041,
+    "DungeonBuffDebuffGroupId2": 2010301042
+  },
+  {
+    "Id": 201030105,
+    "DungeonBuffDebuffGroupId0": 2010301050,
+    "DungeonBuffDebuffGroupId1": 2010301051,
+    "DungeonBuffDebuffGroupId2": 2010301052
+  },
+  {
+    "Id": 201030106,
+    "DungeonBuffDebuffGroupId0": 2010301060,
+    "DungeonBuffDebuffGroupId1": 2010301061,
+    "DungeonBuffDebuffGroupId2": 2010301062
+  },
+  {
+    "Id": 201030107,
+    "DungeonBuffDebuffGroupId0": 2010301070,
+    "DungeonBuffDebuffGroupId1": 2010301071,
+    "DungeonBuffDebuffGroupId2": 2010301072
+  },
+  {
+    "Id": 202010103,
+    "DungeonBuffDebuffGroupId0": 2020101030,
+    "DungeonBuffDebuffGroupId1": 2020101031,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 202010104,
+    "DungeonBuffDebuffGroupId0": 2020101040,
+    "DungeonBuffDebuffGroupId1": 2020101041,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 202010105,
+    "DungeonBuffDebuffGroupId0": 2020101050,
+    "DungeonBuffDebuffGroupId1": 2020101051,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 202020104,
+    "DungeonBuffDebuffGroupId0": 2020201040,
+    "DungeonBuffDebuffGroupId1": 2020201041,
+    "DungeonBuffDebuffGroupId2": 2020201042
+  },
+  {
+    "Id": 202020105,
+    "DungeonBuffDebuffGroupId0": 2020201050,
+    "DungeonBuffDebuffGroupId1": 2020201051,
+    "DungeonBuffDebuffGroupId2": 2020201052
+  },
+  {
+    "Id": 202020106,
+    "DungeonBuffDebuffGroupId0": 2020201060,
+    "DungeonBuffDebuffGroupId1": 2020201061,
+    "DungeonBuffDebuffGroupId2": 2020201062
+  },
+  {
+    "Id": 202020107,
+    "DungeonBuffDebuffGroupId0": 2020201070,
+    "DungeonBuffDebuffGroupId1": 2020201071,
+    "DungeonBuffDebuffGroupId2": 2020201072
+  },
+  {
+    "Id": 202030103,
+    "DungeonBuffDebuffGroupId0": 2020301030,
+    "DungeonBuffDebuffGroupId1": 2020301031,
+    "DungeonBuffDebuffGroupId2": 2020301032
+  },
+  {
+    "Id": 202030104,
+    "DungeonBuffDebuffGroupId0": 2020301040,
+    "DungeonBuffDebuffGroupId1": 2020301041,
+    "DungeonBuffDebuffGroupId2": 2020301042
+  },
+  {
+    "Id": 202030105,
+    "DungeonBuffDebuffGroupId0": 2020301050,
+    "DungeonBuffDebuffGroupId1": 2020301051,
+    "DungeonBuffDebuffGroupId2": 2020301052
+  },
+  {
+    "Id": 202030106,
+    "DungeonBuffDebuffGroupId0": 2020301060,
+    "DungeonBuffDebuffGroupId1": 2020301061,
+    "DungeonBuffDebuffGroupId2": 2020301062
+  },
+  {
+    "Id": 203010104,
+    "DungeonBuffDebuffGroupId0": 2030101040,
+    "DungeonBuffDebuffGroupId1": 2030101041,
+    "DungeonBuffDebuffGroupId2": 2030101042
+  },
+  {
+    "Id": 203010105,
+    "DungeonBuffDebuffGroupId0": 2030101050,
+    "DungeonBuffDebuffGroupId1": 2030101051,
+    "DungeonBuffDebuffGroupId2": 2030101052
+  },
+  {
+    "Id": 203010106,
+    "DungeonBuffDebuffGroupId0": 2030101060,
+    "DungeonBuffDebuffGroupId1": 2030101061,
+    "DungeonBuffDebuffGroupId2": 2030101062
+  },
+  {
+    "Id": 203020104,
+    "DungeonBuffDebuffGroupId0": 2030201040,
+    "DungeonBuffDebuffGroupId1": 2030201041,
+    "DungeonBuffDebuffGroupId2": 2030201042
+  },
+  {
+    "Id": 203020105,
+    "DungeonBuffDebuffGroupId0": 2030201050,
+    "DungeonBuffDebuffGroupId1": 2030201051,
+    "DungeonBuffDebuffGroupId2": 2030201052
+  },
+  {
+    "Id": 203020106,
+    "DungeonBuffDebuffGroupId0": 2030201060,
+    "DungeonBuffDebuffGroupId1": 2030201061,
+    "DungeonBuffDebuffGroupId2": 2030201062
+  },
+  {
+    "Id": 203020107,
+    "DungeonBuffDebuffGroupId0": 2030201070,
+    "DungeonBuffDebuffGroupId1": 2030201071,
+    "DungeonBuffDebuffGroupId2": 2030201072
+  },
+  {
+    "Id": 203030104,
+    "DungeonBuffDebuffGroupId0": 2030301040,
+    "DungeonBuffDebuffGroupId1": 2030301041,
+    "DungeonBuffDebuffGroupId2": 2030301042
+  },
+  {
+    "Id": 203030105,
+    "DungeonBuffDebuffGroupId0": 2030301050,
+    "DungeonBuffDebuffGroupId1": 2030301051,
+    "DungeonBuffDebuffGroupId2": 2030301052
+  },
+  {
+    "Id": 203030106,
+    "DungeonBuffDebuffGroupId0": 2030301060,
+    "DungeonBuffDebuffGroupId1": 2030301061,
+    "DungeonBuffDebuffGroupId2": 2030301062
+  },
+  {
+    "Id": 203030107,
+    "DungeonBuffDebuffGroupId0": 2030301070,
+    "DungeonBuffDebuffGroupId1": 2030301071,
+    "DungeonBuffDebuffGroupId2": 2030301072
+  },
+  {
+    "Id": 204010103,
+    "DungeonBuffDebuffGroupId0": 2040101030,
+    "DungeonBuffDebuffGroupId1": 2040101031,
+    "DungeonBuffDebuffGroupId2": 2040101032
+  },
+  {
+    "Id": 204010104,
+    "DungeonBuffDebuffGroupId0": 2040101040,
+    "DungeonBuffDebuffGroupId1": 2040101041,
+    "DungeonBuffDebuffGroupId2": 2040101042
+  },
+  {
+    "Id": 204010105,
+    "DungeonBuffDebuffGroupId0": 2040101050,
+    "DungeonBuffDebuffGroupId1": 2040101051,
+    "DungeonBuffDebuffGroupId2": 2040101052
+  },
+  {
+    "Id": 204020103,
+    "DungeonBuffDebuffGroupId0": 2040201030,
+    "DungeonBuffDebuffGroupId1": 2040201031,
+    "DungeonBuffDebuffGroupId2": 2040201032
+  },
+  {
+    "Id": 204020104,
+    "DungeonBuffDebuffGroupId0": 2040201040,
+    "DungeonBuffDebuffGroupId1": 2040201041,
+    "DungeonBuffDebuffGroupId2": 2040201042
+  },
+  {
+    "Id": 204020105,
+    "DungeonBuffDebuffGroupId0": 2040201050,
+    "DungeonBuffDebuffGroupId1": 2040201051,
+    "DungeonBuffDebuffGroupId2": 2040201052
+  },
+  {
+    "Id": 204020106,
+    "DungeonBuffDebuffGroupId0": 2040201060,
+    "DungeonBuffDebuffGroupId1": 2040201061,
+    "DungeonBuffDebuffGroupId2": 2040201062
+  },
+  {
+    "Id": 204030103,
+    "DungeonBuffDebuffGroupId0": 2040301030,
+    "DungeonBuffDebuffGroupId1": 2040301031,
+    "DungeonBuffDebuffGroupId2": 2040301032
+  },
+  {
+    "Id": 204030104,
+    "DungeonBuffDebuffGroupId0": 2040301040,
+    "DungeonBuffDebuffGroupId1": 2040301041,
+    "DungeonBuffDebuffGroupId2": 2040301042
+  },
+  {
+    "Id": 204030105,
+    "DungeonBuffDebuffGroupId0": 2040301050,
+    "DungeonBuffDebuffGroupId1": 2040301051,
+    "DungeonBuffDebuffGroupId2": 2040301052
+  },
+  {
+    "Id": 204030106,
+    "DungeonBuffDebuffGroupId0": 2040301060,
+    "DungeonBuffDebuffGroupId1": 2040301061,
+    "DungeonBuffDebuffGroupId2": 2040301062
+  },
+  {
+    "Id": 205010103,
+    "DungeonBuffDebuffGroupId0": 2050101030,
+    "DungeonBuffDebuffGroupId1": 2050101031,
+    "DungeonBuffDebuffGroupId2": 2050101032
+  },
+  {
+    "Id": 205010104,
+    "DungeonBuffDebuffGroupId0": 2050101040,
+    "DungeonBuffDebuffGroupId1": 2050101041,
+    "DungeonBuffDebuffGroupId2": 2050101042
+  },
+  {
+    "Id": 205010105,
+    "DungeonBuffDebuffGroupId0": 2050101050,
+    "DungeonBuffDebuffGroupId1": 2050101051,
+    "DungeonBuffDebuffGroupId2": 2050101052
+  },
+  {
+    "Id": 205020103,
+    "DungeonBuffDebuffGroupId0": 2050201030,
+    "DungeonBuffDebuffGroupId1": 2050201031,
+    "DungeonBuffDebuffGroupId2": 2050201032
+  },
+  {
+    "Id": 205020104,
+    "DungeonBuffDebuffGroupId0": 2050201040,
+    "DungeonBuffDebuffGroupId1": 2050201041,
+    "DungeonBuffDebuffGroupId2": 2050201042
+  },
+  {
+    "Id": 205020105,
+    "DungeonBuffDebuffGroupId0": 2050201050,
+    "DungeonBuffDebuffGroupId1": 2050201051,
+    "DungeonBuffDebuffGroupId2": 2050201052
+  },
+  {
+    "Id": 205020106,
+    "DungeonBuffDebuffGroupId0": 2050201060,
+    "DungeonBuffDebuffGroupId1": 2050201061,
+    "DungeonBuffDebuffGroupId2": 2050201062
+  },
+  {
+    "Id": 205030103,
+    "DungeonBuffDebuffGroupId0": 2050301030,
+    "DungeonBuffDebuffGroupId1": 2050301031,
+    "DungeonBuffDebuffGroupId2": 2050301032
+  },
+  {
+    "Id": 205030104,
+    "DungeonBuffDebuffGroupId0": 2050301040,
+    "DungeonBuffDebuffGroupId1": 2050301041,
+    "DungeonBuffDebuffGroupId2": 2050301042
+  },
+  {
+    "Id": 205030105,
+    "DungeonBuffDebuffGroupId0": 2050301050,
+    "DungeonBuffDebuffGroupId1": 2050301051,
+    "DungeonBuffDebuffGroupId2": 2050301052
+  },
+  {
+    "Id": 205030106,
+    "DungeonBuffDebuffGroupId0": 2050301060,
+    "DungeonBuffDebuffGroupId1": 2050301061,
+    "DungeonBuffDebuffGroupId2": 2050301062
+  },
+  {
+    "Id": 206010103,
+    "DungeonBuffDebuffGroupId0": 2060101030,
+    "DungeonBuffDebuffGroupId1": 2060101031,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 206010104,
+    "DungeonBuffDebuffGroupId0": 2060101040,
+    "DungeonBuffDebuffGroupId1": 2060101041,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 206010105,
+    "DungeonBuffDebuffGroupId0": 2060101050,
+    "DungeonBuffDebuffGroupId1": 2060101051,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 206020103,
+    "DungeonBuffDebuffGroupId0": 2060201030,
+    "DungeonBuffDebuffGroupId1": 2060201031,
+    "DungeonBuffDebuffGroupId2": 2060201032
+  },
+  {
+    "Id": 206020104,
+    "DungeonBuffDebuffGroupId0": 2060201040,
+    "DungeonBuffDebuffGroupId1": 2060201041,
+    "DungeonBuffDebuffGroupId2": 2060201042
+  },
+  {
+    "Id": 206020105,
+    "DungeonBuffDebuffGroupId0": 2060201050,
+    "DungeonBuffDebuffGroupId1": 2060201051,
+    "DungeonBuffDebuffGroupId2": 2060201052
+  },
+  {
+    "Id": 206020106,
+    "DungeonBuffDebuffGroupId0": 2060201060,
+    "DungeonBuffDebuffGroupId1": 2060201061,
+    "DungeonBuffDebuffGroupId2": 2060201062
+  },
+  {
+    "Id": 206030103,
+    "DungeonBuffDebuffGroupId0": 2060301030,
+    "DungeonBuffDebuffGroupId1": 2060301031,
+    "DungeonBuffDebuffGroupId2": 2060301032
+  },
+  {
+    "Id": 206030104,
+    "DungeonBuffDebuffGroupId0": 2060301040,
+    "DungeonBuffDebuffGroupId1": 2060301041,
+    "DungeonBuffDebuffGroupId2": 2060301042
+  },
+  {
+    "Id": 206030105,
+    "DungeonBuffDebuffGroupId0": 2060301050,
+    "DungeonBuffDebuffGroupId1": 2060301051,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 206030106,
+    "DungeonBuffDebuffGroupId0": 2060301060,
+    "DungeonBuffDebuffGroupId1": 2060301061,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 207010103,
+    "DungeonBuffDebuffGroupId0": 2070101030,
+    "DungeonBuffDebuffGroupId1": 2070101031,
+    "DungeonBuffDebuffGroupId2": 2070101032
+  },
+  {
+    "Id": 207010104,
+    "DungeonBuffDebuffGroupId0": 2070101040,
+    "DungeonBuffDebuffGroupId1": 2070101041,
+    "DungeonBuffDebuffGroupId2": 2070101042
+  },
+  {
+    "Id": 207010105,
+    "DungeonBuffDebuffGroupId0": 2070101050,
+    "DungeonBuffDebuffGroupId1": 2070101051,
+    "DungeonBuffDebuffGroupId2": 2070101052
+  },
+  {
+    "Id": 207020104,
+    "DungeonBuffDebuffGroupId0": 2070201040,
+    "DungeonBuffDebuffGroupId1": 2070201041,
+    "DungeonBuffDebuffGroupId2": 2070201042
+  },
+  {
+    "Id": 207020105,
+    "DungeonBuffDebuffGroupId0": 2070201050,
+    "DungeonBuffDebuffGroupId1": 2070201051,
+    "DungeonBuffDebuffGroupId2": 2070201052
+  },
+  {
+    "Id": 207020106,
+    "DungeonBuffDebuffGroupId0": 2070201060,
+    "DungeonBuffDebuffGroupId1": 2070201061,
+    "DungeonBuffDebuffGroupId2": 2070201062
+  },
+  {
+    "Id": 207020107,
+    "DungeonBuffDebuffGroupId0": 2070201070,
+    "DungeonBuffDebuffGroupId1": 2070201071,
+    "DungeonBuffDebuffGroupId2": 2070201072
+  },
+  {
+    "Id": 207030103,
+    "DungeonBuffDebuffGroupId0": 2070301030,
+    "DungeonBuffDebuffGroupId1": 2070301031,
+    "DungeonBuffDebuffGroupId2": 2070301032
+  },
+  {
+    "Id": 207030104,
+    "DungeonBuffDebuffGroupId0": 2070301040,
+    "DungeonBuffDebuffGroupId1": 2070301041,
+    "DungeonBuffDebuffGroupId2": 2070301042
+  },
+  {
+    "Id": 207030105,
+    "DungeonBuffDebuffGroupId0": 2070301050,
+    "DungeonBuffDebuffGroupId1": 2070301051,
+    "DungeonBuffDebuffGroupId2": 2070301052
+  },
+  {
+    "Id": 207030106,
+    "DungeonBuffDebuffGroupId0": 2070301060,
+    "DungeonBuffDebuffGroupId1": 2070301061,
+    "DungeonBuffDebuffGroupId2": 2070301062
+  },
+  {
+    "Id": 208010104,
+    "DungeonBuffDebuffGroupId0": 2080101040,
+    "DungeonBuffDebuffGroupId1": 2080101041,
+    "DungeonBuffDebuffGroupId2": 2080101042
+  },
+  {
+    "Id": 208010105,
+    "DungeonBuffDebuffGroupId0": 2080101050,
+    "DungeonBuffDebuffGroupId1": 2080101051,
+    "DungeonBuffDebuffGroupId2": 2080101052
+  },
+  {
+    "Id": 208010106,
+    "DungeonBuffDebuffGroupId0": 2080101060,
+    "DungeonBuffDebuffGroupId1": 2080101061,
+    "DungeonBuffDebuffGroupId2": 2080101062
+  },
+  {
+    "Id": 208020104,
+    "DungeonBuffDebuffGroupId0": 2080201040,
+    "DungeonBuffDebuffGroupId1": 2080201041,
+    "DungeonBuffDebuffGroupId2": 2080201042
+  },
+  {
+    "Id": 208020105,
+    "DungeonBuffDebuffGroupId0": 2080201050,
+    "DungeonBuffDebuffGroupId1": 2080201051,
+    "DungeonBuffDebuffGroupId2": 2080201052
+  },
+  {
+    "Id": 208020106,
+    "DungeonBuffDebuffGroupId0": 2080201060,
+    "DungeonBuffDebuffGroupId1": 2080201061,
+    "DungeonBuffDebuffGroupId2": 2080201062
+  },
+  {
+    "Id": 208020107,
+    "DungeonBuffDebuffGroupId0": 2080201070,
+    "DungeonBuffDebuffGroupId1": 2080201071,
+    "DungeonBuffDebuffGroupId2": 2080201072
+  },
+  {
+    "Id": 208030103,
+    "DungeonBuffDebuffGroupId0": 2080301030,
+    "DungeonBuffDebuffGroupId1": 2080301031,
+    "DungeonBuffDebuffGroupId2": 2080301032
+  },
+  {
+    "Id": 208030104,
+    "DungeonBuffDebuffGroupId0": 2080301040,
+    "DungeonBuffDebuffGroupId1": 2080301041,
+    "DungeonBuffDebuffGroupId2": 2080301042
+  },
+  {
+    "Id": 208030105,
+    "DungeonBuffDebuffGroupId0": 2080301050,
+    "DungeonBuffDebuffGroupId1": 2080301051,
+    "DungeonBuffDebuffGroupId2": 2080301052
+  },
+  {
+    "Id": 208030106,
+    "DungeonBuffDebuffGroupId0": 2080301060,
+    "DungeonBuffDebuffGroupId1": 2080301061,
+    "DungeonBuffDebuffGroupId2": 2080301062
+  },
+  {
+    "Id": 209010103,
+    "DungeonBuffDebuffGroupId0": 2090101030,
+    "DungeonBuffDebuffGroupId1": 2090101031,
+    "DungeonBuffDebuffGroupId2": 2090101032
+  },
+  {
+    "Id": 209010104,
+    "DungeonBuffDebuffGroupId0": 2090101040,
+    "DungeonBuffDebuffGroupId1": 2090101041,
+    "DungeonBuffDebuffGroupId2": 2090101042
+  },
+  {
+    "Id": 209010105,
+    "DungeonBuffDebuffGroupId0": 2090101050,
+    "DungeonBuffDebuffGroupId1": 2090101051,
+    "DungeonBuffDebuffGroupId2": 2090101052
+  },
+  {
+    "Id": 209020103,
+    "DungeonBuffDebuffGroupId0": 2090201030,
+    "DungeonBuffDebuffGroupId1": 2090201031,
+    "DungeonBuffDebuffGroupId2": 2090201032
+  },
+  {
+    "Id": 209020104,
+    "DungeonBuffDebuffGroupId0": 2090201040,
+    "DungeonBuffDebuffGroupId1": 2090201041,
+    "DungeonBuffDebuffGroupId2": 2090201042
+  },
+  {
+    "Id": 209020105,
+    "DungeonBuffDebuffGroupId0": 2090201050,
+    "DungeonBuffDebuffGroupId1": 2090201051,
+    "DungeonBuffDebuffGroupId2": 2090201052
+  },
+  {
+    "Id": 209020106,
+    "DungeonBuffDebuffGroupId0": 2090201060,
+    "DungeonBuffDebuffGroupId1": 2090201061,
+    "DungeonBuffDebuffGroupId2": 2090201062
+  },
+  {
+    "Id": 209030103,
+    "DungeonBuffDebuffGroupId0": 2090301030,
+    "DungeonBuffDebuffGroupId1": 2090301031,
+    "DungeonBuffDebuffGroupId2": 2090301032
+  },
+  {
+    "Id": 209030104,
+    "DungeonBuffDebuffGroupId0": 2090301040,
+    "DungeonBuffDebuffGroupId1": 2090301041,
+    "DungeonBuffDebuffGroupId2": 2090301042
+  },
+  {
+    "Id": 209030105,
+    "DungeonBuffDebuffGroupId0": 2090301050,
+    "DungeonBuffDebuffGroupId1": 2090301051,
+    "DungeonBuffDebuffGroupId2": 2090301052
+  },
+  {
+    "Id": 209030106,
+    "DungeonBuffDebuffGroupId0": 2090301060,
+    "DungeonBuffDebuffGroupId1": 2090301061,
+    "DungeonBuffDebuffGroupId2": 2090301062
+  },
+  {
+    "Id": 210010103,
+    "DungeonBuffDebuffGroupId0": 2100101030,
+    "DungeonBuffDebuffGroupId1": 2100101031,
+    "DungeonBuffDebuffGroupId2": 2100101032
+  },
+  {
+    "Id": 210010104,
+    "DungeonBuffDebuffGroupId0": 2100101040,
+    "DungeonBuffDebuffGroupId1": 2100101041,
+    "DungeonBuffDebuffGroupId2": 2100101042
+  },
+  {
+    "Id": 210010105,
+    "DungeonBuffDebuffGroupId0": 2100101050,
+    "DungeonBuffDebuffGroupId1": 2100101051,
+    "DungeonBuffDebuffGroupId2": 2100101052
+  },
+  {
+    "Id": 210020103,
+    "DungeonBuffDebuffGroupId0": 2100201030,
+    "DungeonBuffDebuffGroupId1": 2100201031,
+    "DungeonBuffDebuffGroupId2": 2100201032
+  },
+  {
+    "Id": 210020104,
+    "DungeonBuffDebuffGroupId0": 2100201040,
+    "DungeonBuffDebuffGroupId1": 2100201041,
+    "DungeonBuffDebuffGroupId2": 2100201042
+  },
+  {
+    "Id": 210020105,
+    "DungeonBuffDebuffGroupId0": 2100201050,
+    "DungeonBuffDebuffGroupId1": 2100201051,
+    "DungeonBuffDebuffGroupId2": 2100201052
+  },
+  {
+    "Id": 210020106,
+    "DungeonBuffDebuffGroupId0": 2100201060,
+    "DungeonBuffDebuffGroupId1": 2100201061,
+    "DungeonBuffDebuffGroupId2": 2100201062
+  },
+  {
+    "Id": 210030103,
+    "DungeonBuffDebuffGroupId0": 2100301030,
+    "DungeonBuffDebuffGroupId1": 2100301031,
+    "DungeonBuffDebuffGroupId2": 2100301032
+  },
+  {
+    "Id": 210030104,
+    "DungeonBuffDebuffGroupId0": 2100301040,
+    "DungeonBuffDebuffGroupId1": 2100301041,
+    "DungeonBuffDebuffGroupId2": 2100301042
+  },
+  {
+    "Id": 210030105,
+    "DungeonBuffDebuffGroupId0": 2100301050,
+    "DungeonBuffDebuffGroupId1": 2100301051,
+    "DungeonBuffDebuffGroupId2": 2100301052
+  },
+  {
+    "Id": 210030106,
+    "DungeonBuffDebuffGroupId0": 2100301060,
+    "DungeonBuffDebuffGroupId1": 2100301061,
+    "DungeonBuffDebuffGroupId2": 2100301062
+  },
+  {
+    "Id": 211010103,
+    "DungeonBuffDebuffGroupId0": 2110101030,
+    "DungeonBuffDebuffGroupId1": 2110101031,
+    "DungeonBuffDebuffGroupId2": 2110101032
+  },
+  {
+    "Id": 211010104,
+    "DungeonBuffDebuffGroupId0": 2110101040,
+    "DungeonBuffDebuffGroupId1": 2110101041,
+    "DungeonBuffDebuffGroupId2": 2110101042
+  },
+  {
+    "Id": 211010105,
+    "DungeonBuffDebuffGroupId0": 2110101050,
+    "DungeonBuffDebuffGroupId1": 2110101051,
+    "DungeonBuffDebuffGroupId2": 2110101052
+  },
+  {
+    "Id": 211020103,
+    "DungeonBuffDebuffGroupId0": 2110201030,
+    "DungeonBuffDebuffGroupId1": 2110201031,
+    "DungeonBuffDebuffGroupId2": 2110201032
+  },
+  {
+    "Id": 211020104,
+    "DungeonBuffDebuffGroupId0": 2110201040,
+    "DungeonBuffDebuffGroupId1": 2110201041,
+    "DungeonBuffDebuffGroupId2": 2110201042
+  },
+  {
+    "Id": 211020105,
+    "DungeonBuffDebuffGroupId0": 2110201050,
+    "DungeonBuffDebuffGroupId1": 2110201051,
+    "DungeonBuffDebuffGroupId2": 2110201052
+  },
+  {
+    "Id": 211020106,
+    "DungeonBuffDebuffGroupId0": 2110201060,
+    "DungeonBuffDebuffGroupId1": 2110201061,
+    "DungeonBuffDebuffGroupId2": 2110201062
+  },
+  {
+    "Id": 211030103,
+    "DungeonBuffDebuffGroupId0": 2110301030,
+    "DungeonBuffDebuffGroupId1": 2110301031,
+    "DungeonBuffDebuffGroupId2": 2110301032
+  },
+  {
+    "Id": 211030104,
+    "DungeonBuffDebuffGroupId0": 2110301040,
+    "DungeonBuffDebuffGroupId1": 2110301041,
+    "DungeonBuffDebuffGroupId2": 2110301042
+  },
+  {
+    "Id": 211030105,
+    "DungeonBuffDebuffGroupId0": 2110301050,
+    "DungeonBuffDebuffGroupId1": 2110301051,
+    "DungeonBuffDebuffGroupId2": 2110301052
+  },
+  {
+    "Id": 211030106,
+    "DungeonBuffDebuffGroupId0": 2110301060,
+    "DungeonBuffDebuffGroupId1": 2110301061,
+    "DungeonBuffDebuffGroupId2": 2110301062
+  },
+  {
+    "Id": 212010103,
+    "DungeonBuffDebuffGroupId0": 2120101030,
+    "DungeonBuffDebuffGroupId1": 2120101031,
+    "DungeonBuffDebuffGroupId2": 2120101032
+  },
+  {
+    "Id": 212010104,
+    "DungeonBuffDebuffGroupId0": 2120101040,
+    "DungeonBuffDebuffGroupId1": 2120101041,
+    "DungeonBuffDebuffGroupId2": 2120101042
+  },
+  {
+    "Id": 212010105,
+    "DungeonBuffDebuffGroupId0": 2120101050,
+    "DungeonBuffDebuffGroupId1": 2120101051,
+    "DungeonBuffDebuffGroupId2": 2120101052
+  },
+  {
+    "Id": 212020103,
+    "DungeonBuffDebuffGroupId0": 2120201030,
+    "DungeonBuffDebuffGroupId1": 2120201031,
+    "DungeonBuffDebuffGroupId2": 2120201032
+  },
+  {
+    "Id": 212020104,
+    "DungeonBuffDebuffGroupId0": 2120201040,
+    "DungeonBuffDebuffGroupId1": 2120201041,
+    "DungeonBuffDebuffGroupId2": 2120201042
+  },
+  {
+    "Id": 212020105,
+    "DungeonBuffDebuffGroupId0": 2120201050,
+    "DungeonBuffDebuffGroupId1": 2120201051,
+    "DungeonBuffDebuffGroupId2": 2120201052
+  },
+  {
+    "Id": 212020106,
+    "DungeonBuffDebuffGroupId0": 2120201060,
+    "DungeonBuffDebuffGroupId1": 2120201061,
+    "DungeonBuffDebuffGroupId2": 2120201062
+  },
+  {
+    "Id": 212030103,
+    "DungeonBuffDebuffGroupId0": 2120301030,
+    "DungeonBuffDebuffGroupId1": 2120301031,
+    "DungeonBuffDebuffGroupId2": 2120301032
+  },
+  {
+    "Id": 212030104,
+    "DungeonBuffDebuffGroupId0": 2120301040,
+    "DungeonBuffDebuffGroupId1": 2120301041,
+    "DungeonBuffDebuffGroupId2": 2120301042
+  },
+  {
+    "Id": 212030105,
+    "DungeonBuffDebuffGroupId0": 2120301050,
+    "DungeonBuffDebuffGroupId1": 2120301051,
+    "DungeonBuffDebuffGroupId2": 2120301052
+  },
+  {
+    "Id": 212030106,
+    "DungeonBuffDebuffGroupId0": 2120301060,
+    "DungeonBuffDebuffGroupId1": 2120301061,
+    "DungeonBuffDebuffGroupId2": 2120301062
+  },
+  {
+    "Id": 213010103,
+    "DungeonBuffDebuffGroupId0": 2130101030,
+    "DungeonBuffDebuffGroupId1": 2130101031,
+    "DungeonBuffDebuffGroupId2": 2130101032
+  },
+  {
+    "Id": 213010104,
+    "DungeonBuffDebuffGroupId0": 2130101040,
+    "DungeonBuffDebuffGroupId1": 2130101041,
+    "DungeonBuffDebuffGroupId2": 2130101042
+  },
+  {
+    "Id": 213010105,
+    "DungeonBuffDebuffGroupId0": 2130101050,
+    "DungeonBuffDebuffGroupId1": 2130101051,
+    "DungeonBuffDebuffGroupId2": 2130101052
+  },
+  {
+    "Id": 213020103,
+    "DungeonBuffDebuffGroupId0": 2130201030,
+    "DungeonBuffDebuffGroupId1": 2130201031,
+    "DungeonBuffDebuffGroupId2": 2130201032
+  },
+  {
+    "Id": 213020104,
+    "DungeonBuffDebuffGroupId0": 2130201040,
+    "DungeonBuffDebuffGroupId1": 2130201041,
+    "DungeonBuffDebuffGroupId2": 2130201042
+  },
+  {
+    "Id": 213020105,
+    "DungeonBuffDebuffGroupId0": 2130201050,
+    "DungeonBuffDebuffGroupId1": 2130201051,
+    "DungeonBuffDebuffGroupId2": 2130201052
+  },
+  {
+    "Id": 213020106,
+    "DungeonBuffDebuffGroupId0": 2130201060,
+    "DungeonBuffDebuffGroupId1": 2130201061,
+    "DungeonBuffDebuffGroupId2": 2130201062
+  },
+  {
+    "Id": 213030103,
+    "DungeonBuffDebuffGroupId0": 2130301030,
+    "DungeonBuffDebuffGroupId1": 2130301031,
+    "DungeonBuffDebuffGroupId2": 2130301032
+  },
+  {
+    "Id": 213030104,
+    "DungeonBuffDebuffGroupId0": 2130301040,
+    "DungeonBuffDebuffGroupId1": 2130301041,
+    "DungeonBuffDebuffGroupId2": 2130301042
+  },
+  {
+    "Id": 213030105,
+    "DungeonBuffDebuffGroupId0": 2130301050,
+    "DungeonBuffDebuffGroupId1": 2130301051,
+    "DungeonBuffDebuffGroupId2": 2130301052
+  },
+  {
+    "Id": 213030106,
+    "DungeonBuffDebuffGroupId0": 2130301060,
+    "DungeonBuffDebuffGroupId1": 2130301061,
+    "DungeonBuffDebuffGroupId2": 2130301062
+  },
+  {
+    "Id": 214010103,
+    "DungeonBuffDebuffGroupId0": 2140101030,
+    "DungeonBuffDebuffGroupId1": 2140101031,
+    "DungeonBuffDebuffGroupId2": 2140101032
+  },
+  {
+    "Id": 214010104,
+    "DungeonBuffDebuffGroupId0": 2140101040,
+    "DungeonBuffDebuffGroupId1": 2140101041,
+    "DungeonBuffDebuffGroupId2": 2140101042
+  },
+  {
+    "Id": 214010105,
+    "DungeonBuffDebuffGroupId0": 2140101050,
+    "DungeonBuffDebuffGroupId1": 2140101051,
+    "DungeonBuffDebuffGroupId2": 2140101052
+  },
+  {
+    "Id": 214020103,
+    "DungeonBuffDebuffGroupId0": 2140201030,
+    "DungeonBuffDebuffGroupId1": 2140201031,
+    "DungeonBuffDebuffGroupId2": 2140201032
+  },
+  {
+    "Id": 214020104,
+    "DungeonBuffDebuffGroupId0": 2140201040,
+    "DungeonBuffDebuffGroupId1": 2140201041,
+    "DungeonBuffDebuffGroupId2": 2140201042
+  },
+  {
+    "Id": 214020105,
+    "DungeonBuffDebuffGroupId0": 2140201050,
+    "DungeonBuffDebuffGroupId1": 2140201051,
+    "DungeonBuffDebuffGroupId2": 2140201052
+  },
+  {
+    "Id": 214020106,
+    "DungeonBuffDebuffGroupId0": 2140201060,
+    "DungeonBuffDebuffGroupId1": 2140201061,
+    "DungeonBuffDebuffGroupId2": 2140201062
+  },
+  {
+    "Id": 214030103,
+    "DungeonBuffDebuffGroupId0": 2140301030,
+    "DungeonBuffDebuffGroupId1": 2140301031,
+    "DungeonBuffDebuffGroupId2": 2140301032
+  },
+  {
+    "Id": 214030104,
+    "DungeonBuffDebuffGroupId0": 2140301040,
+    "DungeonBuffDebuffGroupId1": 2140301041,
+    "DungeonBuffDebuffGroupId2": 2140301042
+  },
+  {
+    "Id": 214030105,
+    "DungeonBuffDebuffGroupId0": 2140301050,
+    "DungeonBuffDebuffGroupId1": 2140301051,
+    "DungeonBuffDebuffGroupId2": 2140301052
+  },
+  {
+    "Id": 214030106,
+    "DungeonBuffDebuffGroupId0": 2140301060,
+    "DungeonBuffDebuffGroupId1": 2140301061,
+    "DungeonBuffDebuffGroupId2": 2140301062
+  },
+  {
+    "Id": 215020103,
+    "DungeonBuffDebuffGroupId0": 2150201030,
+    "DungeonBuffDebuffGroupId1": 2150201031,
+    "DungeonBuffDebuffGroupId2": 2150201032
+  },
+  {
+    "Id": 215020104,
+    "DungeonBuffDebuffGroupId0": 2150201040,
+    "DungeonBuffDebuffGroupId1": 2150201041,
+    "DungeonBuffDebuffGroupId2": 2150201042
+  },
+  {
+    "Id": 215020105,
+    "DungeonBuffDebuffGroupId0": 2150201050,
+    "DungeonBuffDebuffGroupId1": 2150201051,
+    "DungeonBuffDebuffGroupId2": 2150201052
+  },
+  {
+    "Id": 215020106,
+    "DungeonBuffDebuffGroupId0": 2150201060,
+    "DungeonBuffDebuffGroupId1": 2150201061,
+    "DungeonBuffDebuffGroupId2": 2150201062
+  },
+  {
+    "Id": 215030103,
+    "DungeonBuffDebuffGroupId0": 2150301030,
+    "DungeonBuffDebuffGroupId1": 2150301031,
+    "DungeonBuffDebuffGroupId2": 2150301032
+  },
+  {
+    "Id": 215030104,
+    "DungeonBuffDebuffGroupId0": 2150301040,
+    "DungeonBuffDebuffGroupId1": 2150301041,
+    "DungeonBuffDebuffGroupId2": 2150301042
+  },
+  {
+    "Id": 215030105,
+    "DungeonBuffDebuffGroupId0": 2150301050,
+    "DungeonBuffDebuffGroupId1": 2150301051,
+    "DungeonBuffDebuffGroupId2": 2150301052
+  },
+  {
+    "Id": 215030106,
+    "DungeonBuffDebuffGroupId0": 2150301060,
+    "DungeonBuffDebuffGroupId1": 2150301061,
+    "DungeonBuffDebuffGroupId2": 2150301062
+  },
+  {
+    "Id": 216020105,
+    "DungeonBuffDebuffGroupId0": 2160201050,
+    "DungeonBuffDebuffGroupId1": 2160201051,
+    "DungeonBuffDebuffGroupId2": 2160201052
+  },
+  {
+    "Id": 216020106,
+    "DungeonBuffDebuffGroupId0": 2160201060,
+    "DungeonBuffDebuffGroupId1": 2160201061,
+    "DungeonBuffDebuffGroupId2": 2160201062
+  },
+  {
+    "Id": 216020107,
+    "DungeonBuffDebuffGroupId0": 2160201070,
+    "DungeonBuffDebuffGroupId1": 2160201071,
+    "DungeonBuffDebuffGroupId2": 2160201072
+  },
+  {
+    "Id": 216020108,
+    "DungeonBuffDebuffGroupId0": 2160201080,
+    "DungeonBuffDebuffGroupId1": 2160201081,
+    "DungeonBuffDebuffGroupId2": 2160201082
+  },
+  {
+    "Id": 216030105,
+    "DungeonBuffDebuffGroupId0": 2160301050,
+    "DungeonBuffDebuffGroupId1": 2160301051,
+    "DungeonBuffDebuffGroupId2": 2160301052
+  },
+  {
+    "Id": 216030106,
+    "DungeonBuffDebuffGroupId0": 2160301060,
+    "DungeonBuffDebuffGroupId1": 2160301061,
+    "DungeonBuffDebuffGroupId2": 2160301062
+  },
+  {
+    "Id": 216030107,
+    "DungeonBuffDebuffGroupId0": 2160301070,
+    "DungeonBuffDebuffGroupId1": 2160301071,
+    "DungeonBuffDebuffGroupId2": 2160301072
+  },
+  {
+    "Id": 216030108,
+    "DungeonBuffDebuffGroupId0": 2160301080,
+    "DungeonBuffDebuffGroupId1": 2160301081,
+    "DungeonBuffDebuffGroupId2": 2160301082
+  },
+  {
+    "Id": 217020103,
+    "DungeonBuffDebuffGroupId0": 2170201030,
+    "DungeonBuffDebuffGroupId1": 2170201031,
+    "DungeonBuffDebuffGroupId2": 2170201032
+  },
+  {
+    "Id": 217020104,
+    "DungeonBuffDebuffGroupId0": 2170201040,
+    "DungeonBuffDebuffGroupId1": 2170201041,
+    "DungeonBuffDebuffGroupId2": 2170201042
+  },
+  {
+    "Id": 217020105,
+    "DungeonBuffDebuffGroupId0": 2170201050,
+    "DungeonBuffDebuffGroupId1": 2170201051,
+    "DungeonBuffDebuffGroupId2": 2170201052
+  },
+  {
+    "Id": 217020106,
+    "DungeonBuffDebuffGroupId0": 2170201060,
+    "DungeonBuffDebuffGroupId1": 2170201061,
+    "DungeonBuffDebuffGroupId2": 2170201062
+  },
+  {
+    "Id": 217030103,
+    "DungeonBuffDebuffGroupId0": 2170301030,
+    "DungeonBuffDebuffGroupId1": 2170301031,
+    "DungeonBuffDebuffGroupId2": 2170301032
+  },
+  {
+    "Id": 217030104,
+    "DungeonBuffDebuffGroupId0": 2170301040,
+    "DungeonBuffDebuffGroupId1": 2170301041,
+    "DungeonBuffDebuffGroupId2": 2170301042
+  },
+  {
+    "Id": 217030105,
+    "DungeonBuffDebuffGroupId0": 2170301050,
+    "DungeonBuffDebuffGroupId1": 2170301051,
+    "DungeonBuffDebuffGroupId2": 2170301052
+  },
+  {
+    "Id": 217030106,
+    "DungeonBuffDebuffGroupId0": 2170301060,
+    "DungeonBuffDebuffGroupId1": 2170301061,
+    "DungeonBuffDebuffGroupId2": 2170301062
+  },
+  {
+    "Id": 218020103,
+    "DungeonBuffDebuffGroupId0": 2180201030,
+    "DungeonBuffDebuffGroupId1": 2180201031,
+    "DungeonBuffDebuffGroupId2": 2180201032
+  },
+  {
+    "Id": 218020104,
+    "DungeonBuffDebuffGroupId0": 2180201040,
+    "DungeonBuffDebuffGroupId1": 2180201041,
+    "DungeonBuffDebuffGroupId2": 2180201042
+  },
+  {
+    "Id": 218020105,
+    "DungeonBuffDebuffGroupId0": 2180201050,
+    "DungeonBuffDebuffGroupId1": 2180201051,
+    "DungeonBuffDebuffGroupId2": 2180201052
+  },
+  {
+    "Id": 218020106,
+    "DungeonBuffDebuffGroupId0": 2180201060,
+    "DungeonBuffDebuffGroupId1": 2180201061,
+    "DungeonBuffDebuffGroupId2": 2180201062
+  },
+  {
+    "Id": 218030103,
+    "DungeonBuffDebuffGroupId0": 2180301030,
+    "DungeonBuffDebuffGroupId1": 2180301031,
+    "DungeonBuffDebuffGroupId2": 2180301032
+  },
+  {
+    "Id": 218030104,
+    "DungeonBuffDebuffGroupId0": 2180301040,
+    "DungeonBuffDebuffGroupId1": 2180301041,
+    "DungeonBuffDebuffGroupId2": 2180301042
+  },
+  {
+    "Id": 218030105,
+    "DungeonBuffDebuffGroupId0": 2180301050,
+    "DungeonBuffDebuffGroupId1": 2180301051,
+    "DungeonBuffDebuffGroupId2": 2180301052
+  },
+  {
+    "Id": 218030106,
+    "DungeonBuffDebuffGroupId0": 2180301060,
+    "DungeonBuffDebuffGroupId1": 2180301061,
+    "DungeonBuffDebuffGroupId2": 2180301062
+  },
+  {
+    "Id": 219020103,
+    "DungeonBuffDebuffGroupId0": 2190201030,
+    "DungeonBuffDebuffGroupId1": 2190201031,
+    "DungeonBuffDebuffGroupId2": 2190201032
+  },
+  {
+    "Id": 219020104,
+    "DungeonBuffDebuffGroupId0": 2190201040,
+    "DungeonBuffDebuffGroupId1": 2190201041,
+    "DungeonBuffDebuffGroupId2": 2190201042
+  },
+  {
+    "Id": 219020105,
+    "DungeonBuffDebuffGroupId0": 2190201050,
+    "DungeonBuffDebuffGroupId1": 2190201051,
+    "DungeonBuffDebuffGroupId2": 2190201052
+  },
+  {
+    "Id": 219020106,
+    "DungeonBuffDebuffGroupId0": 2190201060,
+    "DungeonBuffDebuffGroupId1": 2190201061,
+    "DungeonBuffDebuffGroupId2": 2190201062
+  },
+  {
+    "Id": 219030103,
+    "DungeonBuffDebuffGroupId0": 2190301030,
+    "DungeonBuffDebuffGroupId1": 2190301031,
+    "DungeonBuffDebuffGroupId2": 2190301032
+  },
+  {
+    "Id": 219030104,
+    "DungeonBuffDebuffGroupId0": 2190301040,
+    "DungeonBuffDebuffGroupId1": 2190301041,
+    "DungeonBuffDebuffGroupId2": 2190301042
+  },
+  {
+    "Id": 219030105,
+    "DungeonBuffDebuffGroupId0": 2190301050,
+    "DungeonBuffDebuffGroupId1": 2190301051,
+    "DungeonBuffDebuffGroupId2": 2190301052
+  },
+  {
+    "Id": 219030106,
+    "DungeonBuffDebuffGroupId0": 2190301060,
+    "DungeonBuffDebuffGroupId1": 2190301061,
+    "DungeonBuffDebuffGroupId2": 2190301062
+  },
+  {
+    "Id": 220020103,
+    "DungeonBuffDebuffGroupId0": 2200201030,
+    "DungeonBuffDebuffGroupId1": 2200201031,
+    "DungeonBuffDebuffGroupId2": 2200201032
+  },
+  {
+    "Id": 220020104,
+    "DungeonBuffDebuffGroupId0": 2200201040,
+    "DungeonBuffDebuffGroupId1": 2200201041,
+    "DungeonBuffDebuffGroupId2": 2200201042
+  },
+  {
+    "Id": 220020105,
+    "DungeonBuffDebuffGroupId0": 2200201050,
+    "DungeonBuffDebuffGroupId1": 2200201051,
+    "DungeonBuffDebuffGroupId2": 2200201052
+  },
+  {
+    "Id": 220020106,
+    "DungeonBuffDebuffGroupId0": 2200201060,
+    "DungeonBuffDebuffGroupId1": 2200201061,
+    "DungeonBuffDebuffGroupId2": 2200201062
+  },
+  {
+    "Id": 220030103,
+    "DungeonBuffDebuffGroupId0": 2200301030,
+    "DungeonBuffDebuffGroupId1": 2200301031,
+    "DungeonBuffDebuffGroupId2": 2200301032
+  },
+  {
+    "Id": 220030104,
+    "DungeonBuffDebuffGroupId0": 2200301040,
+    "DungeonBuffDebuffGroupId1": 2200301041,
+    "DungeonBuffDebuffGroupId2": 2200301042
+  },
+  {
+    "Id": 220030105,
+    "DungeonBuffDebuffGroupId0": 2200301050,
+    "DungeonBuffDebuffGroupId1": 2200301051,
+    "DungeonBuffDebuffGroupId2": 2200301052
+  },
+  {
+    "Id": 220030106,
+    "DungeonBuffDebuffGroupId0": 2200301060,
+    "DungeonBuffDebuffGroupId1": 2200301061,
+    "DungeonBuffDebuffGroupId2": 2200301062
+  },
+  {
+    "Id": 401010103,
+    "DungeonBuffDebuffGroupId0": 4010101030,
+    "DungeonBuffDebuffGroupId1": 4010101031,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 401010104,
+    "DungeonBuffDebuffGroupId0": 4010101040,
+    "DungeonBuffDebuffGroupId1": 4010101041,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 401010105,
+    "DungeonBuffDebuffGroupId0": 4010101050,
+    "DungeonBuffDebuffGroupId1": 4010101051,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 401020103,
+    "DungeonBuffDebuffGroupId0": 4010201030,
+    "DungeonBuffDebuffGroupId1": 4010201031,
+    "DungeonBuffDebuffGroupId2": 0
+  },
+  {
+    "Id": 401020104,
+    "DungeonBuffDebuffGroupId0": 4010201040,
+    "DungeonBuffDebuffGroupId1": 4010201041,
+    "DungeonBuffDebuffGroupId2": 4010201042
+  },
+  {
+    "Id": 401020105,
+    "DungeonBuffDebuffGroupId0": 4010201050,
+    "DungeonBuffDebuffGroupId1": 4010201051,
+    "DungeonBuffDebuffGroupId2": 4010201052
+  },
+  {
+    "Id": 401020106,
+    "DungeonBuffDebuffGroupId0": 4010201060,
+    "DungeonBuffDebuffGroupId1": 4010201061,
+    "DungeonBuffDebuffGroupId2": 4010201062
+  },
+  {
+    "Id": 401030103,
+    "DungeonBuffDebuffGroupId0": 4010301030,
+    "DungeonBuffDebuffGroupId1": 4010301031,
+    "DungeonBuffDebuffGroupId2": 4010301032
+  },
+  {
+    "Id": 401030104,
+    "DungeonBuffDebuffGroupId0": 4010301040,
+    "DungeonBuffDebuffGroupId1": 4010301041,
+    "DungeonBuffDebuffGroupId2": 4010301042
+  },
+  {
+    "Id": 401030105,
+    "DungeonBuffDebuffGroupId0": 4010301050,
+    "DungeonBuffDebuffGroupId1": 4010301051,
+    "DungeonBuffDebuffGroupId2": 4010301052
+  },
+  {
+    "Id": 401030106,
+    "DungeonBuffDebuffGroupId0": 4010301060,
+    "DungeonBuffDebuffGroupId1": 4010301061,
+    "DungeonBuffDebuffGroupId2": 4010301062
+  },
+  {
+    "Id": 403010103,
+    "DungeonBuffDebuffGroupId0": 4030101030,
+    "DungeonBuffDebuffGroupId1": 4030101031,
+    "DungeonBuffDebuffGroupId2": 4030101032
+  },
+  {
+    "Id": 403010104,
+    "DungeonBuffDebuffGroupId0": 4030101040,
+    "DungeonBuffDebuffGroupId1": 4030101041,
+    "DungeonBuffDebuffGroupId2": 4030101042
+  },
+  {
+    "Id": 403010105,
+    "DungeonBuffDebuffGroupId0": 4030101050,
+    "DungeonBuffDebuffGroupId1": 4030101051,
+    "DungeonBuffDebuffGroupId2": 4030101052
+  },
+  {
+    "Id": 403020103,
+    "DungeonBuffDebuffGroupId0": 4030201030,
+    "DungeonBuffDebuffGroupId1": 4030201031,
+    "DungeonBuffDebuffGroupId2": 4030201032
+  },
+  {
+    "Id": 403020104,
+    "DungeonBuffDebuffGroupId0": 4030201040,
+    "DungeonBuffDebuffGroupId1": 4030201041,
+    "DungeonBuffDebuffGroupId2": 4030201042
+  },
+  {
+    "Id": 403020105,
+    "DungeonBuffDebuffGroupId0": 4030201050,
+    "DungeonBuffDebuffGroupId1": 4030201051,
+    "DungeonBuffDebuffGroupId2": 4030201052
+  },
+  {
+    "Id": 403020106,
+    "DungeonBuffDebuffGroupId0": 4030201060,
+    "DungeonBuffDebuffGroupId1": 4030201061,
+    "DungeonBuffDebuffGroupId2": 4030201062
+  },
+  {
+    "Id": 403030103,
+    "DungeonBuffDebuffGroupId0": 4030301030,
+    "DungeonBuffDebuffGroupId1": 4030301031,
+    "DungeonBuffDebuffGroupId2": 4030301032
+  },
+  {
+    "Id": 403030104,
+    "DungeonBuffDebuffGroupId0": 4030301040,
+    "DungeonBuffDebuffGroupId1": 4030301041,
+    "DungeonBuffDebuffGroupId2": 4030301042
+  },
+  {
+    "Id": 403030105,
+    "DungeonBuffDebuffGroupId0": 4030301050,
+    "DungeonBuffDebuffGroupId1": 4030301051,
+    "DungeonBuffDebuffGroupId2": 4030301052
+  },
+  {
+    "Id": 403030106,
+    "DungeonBuffDebuffGroupId0": 4030301060,
+    "DungeonBuffDebuffGroupId1": 4030301061,
+    "DungeonBuffDebuffGroupId2": 4030301062
+  },
+  {
+    "Id": 404010103,
+    "DungeonBuffDebuffGroupId0": 4040101030,
+    "DungeonBuffDebuffGroupId1": 4040101031,
+    "DungeonBuffDebuffGroupId2": 4040101032
+  },
+  {
+    "Id": 404010104,
+    "DungeonBuffDebuffGroupId0": 4040101040,
+    "DungeonBuffDebuffGroupId1": 4040101041,
+    "DungeonBuffDebuffGroupId2": 4040101042
+  },
+  {
+    "Id": 404010105,
+    "DungeonBuffDebuffGroupId0": 4040101050,
+    "DungeonBuffDebuffGroupId1": 4040101051,
+    "DungeonBuffDebuffGroupId2": 4040101052
+  },
+  {
+    "Id": 404020103,
+    "DungeonBuffDebuffGroupId0": 4040201030,
+    "DungeonBuffDebuffGroupId1": 4040201031,
+    "DungeonBuffDebuffGroupId2": 4040201032
+  },
+  {
+    "Id": 404020104,
+    "DungeonBuffDebuffGroupId0": 4040201040,
+    "DungeonBuffDebuffGroupId1": 4040201041,
+    "DungeonBuffDebuffGroupId2": 4040201042
+  },
+  {
+    "Id": 404020105,
+    "DungeonBuffDebuffGroupId0": 4040201050,
+    "DungeonBuffDebuffGroupId1": 4040201051,
+    "DungeonBuffDebuffGroupId2": 4040201052
+  },
+  {
+    "Id": 404020106,
+    "DungeonBuffDebuffGroupId0": 4040201060,
+    "DungeonBuffDebuffGroupId1": 4040201061,
+    "DungeonBuffDebuffGroupId2": 4040201062
+  },
+  {
+    "Id": 404030103,
+    "DungeonBuffDebuffGroupId0": 4040301030,
+    "DungeonBuffDebuffGroupId1": 4040301031,
+    "DungeonBuffDebuffGroupId2": 4040301032
+  },
+  {
+    "Id": 404030104,
+    "DungeonBuffDebuffGroupId0": 4040301040,
+    "DungeonBuffDebuffGroupId1": 4040301041,
+    "DungeonBuffDebuffGroupId2": 4040301042
+  },
+  {
+    "Id": 404030105,
+    "DungeonBuffDebuffGroupId0": 4040301050,
+    "DungeonBuffDebuffGroupId1": 4040301051,
+    "DungeonBuffDebuffGroupId2": 4040301052
+  },
+  {
+    "Id": 404030106,
+    "DungeonBuffDebuffGroupId0": 4040301060,
+    "DungeonBuffDebuffGroupId1": 4040301061,
+    "DungeonBuffDebuffGroupId2": 4040301062
+  },
+  {
+    "Id": 405010103,
+    "DungeonBuffDebuffGroupId0": 4050101030,
+    "DungeonBuffDebuffGroupId1": 4050101031,
+    "DungeonBuffDebuffGroupId2": 4050101032
+  },
+  {
+    "Id": 405010104,
+    "DungeonBuffDebuffGroupId0": 4050101040,
+    "DungeonBuffDebuffGroupId1": 4050101041,
+    "DungeonBuffDebuffGroupId2": 4050101042
+  },
+  {
+    "Id": 405010105,
+    "DungeonBuffDebuffGroupId0": 4050101050,
+    "DungeonBuffDebuffGroupId1": 4050101051,
+    "DungeonBuffDebuffGroupId2": 4050101052
+  },
+  {
+    "Id": 405020103,
+    "DungeonBuffDebuffGroupId0": 4050201030,
+    "DungeonBuffDebuffGroupId1": 4050201031,
+    "DungeonBuffDebuffGroupId2": 4050201032
+  },
+  {
+    "Id": 405020104,
+    "DungeonBuffDebuffGroupId0": 4050201040,
+    "DungeonBuffDebuffGroupId1": 4050201041,
+    "DungeonBuffDebuffGroupId2": 4050201042
+  },
+  {
+    "Id": 405020105,
+    "DungeonBuffDebuffGroupId0": 4050201050,
+    "DungeonBuffDebuffGroupId1": 4050201051,
+    "DungeonBuffDebuffGroupId2": 4050201052
+  },
+  {
+    "Id": 405020106,
+    "DungeonBuffDebuffGroupId0": 4050201060,
+    "DungeonBuffDebuffGroupId1": 4050201061,
+    "DungeonBuffDebuffGroupId2": 4050201062
+  },
+  {
+    "Id": 405030103,
+    "DungeonBuffDebuffGroupId0": 4050301030,
+    "DungeonBuffDebuffGroupId1": 4050301031,
+    "DungeonBuffDebuffGroupId2": 4050301032
+  },
+  {
+    "Id": 405030104,
+    "DungeonBuffDebuffGroupId0": 4050301040,
+    "DungeonBuffDebuffGroupId1": 4050301041,
+    "DungeonBuffDebuffGroupId2": 4050301042
+  },
+  {
+    "Id": 405030105,
+    "DungeonBuffDebuffGroupId0": 4050301050,
+    "DungeonBuffDebuffGroupId1": 4050301051,
+    "DungeonBuffDebuffGroupId2": 4050301052
+  },
+  {
+    "Id": 405030106,
+    "DungeonBuffDebuffGroupId0": 4050301060,
+    "DungeonBuffDebuffGroupId1": 4050301061,
+    "DungeonBuffDebuffGroupId2": 4050301062
+  },
+  {
+    "Id": 409010103,
+    "DungeonBuffDebuffGroupId0": 4090101030,
+    "DungeonBuffDebuffGroupId1": 4090101031,
+    "DungeonBuffDebuffGroupId2": 4090101032
+  },
+  {
+    "Id": 409010104,
+    "DungeonBuffDebuffGroupId0": 4090101040,
+    "DungeonBuffDebuffGroupId1": 4090101041,
+    "DungeonBuffDebuffGroupId2": 4090101042
+  },
+  {
+    "Id": 409010105,
+    "DungeonBuffDebuffGroupId0": 4090101050,
+    "DungeonBuffDebuffGroupId1": 4090101051,
+    "DungeonBuffDebuffGroupId2": 4090101052
+  },
+  {
+    "Id": 409020103,
+    "DungeonBuffDebuffGroupId0": 4090201030,
+    "DungeonBuffDebuffGroupId1": 4090201031,
+    "DungeonBuffDebuffGroupId2": 4090201032
+  },
+  {
+    "Id": 409020104,
+    "DungeonBuffDebuffGroupId0": 4090201040,
+    "DungeonBuffDebuffGroupId1": 4090201041,
+    "DungeonBuffDebuffGroupId2": 4090201042
+  },
+  {
+    "Id": 409020105,
+    "DungeonBuffDebuffGroupId0": 4090201050,
+    "DungeonBuffDebuffGroupId1": 4090201051,
+    "DungeonBuffDebuffGroupId2": 4090201052
+  },
+  {
+    "Id": 409020106,
+    "DungeonBuffDebuffGroupId0": 4090201060,
+    "DungeonBuffDebuffGroupId1": 4090201061,
+    "DungeonBuffDebuffGroupId2": 4090201062
+  },
+  {
+    "Id": 409030103,
+    "DungeonBuffDebuffGroupId0": 4090301030,
+    "DungeonBuffDebuffGroupId1": 4090301031,
+    "DungeonBuffDebuffGroupId2": 4090301032
+  },
+  {
+    "Id": 409030104,
+    "DungeonBuffDebuffGroupId0": 4090301040,
+    "DungeonBuffDebuffGroupId1": 4090301041,
+    "DungeonBuffDebuffGroupId2": 4090301042
+  },
+  {
+    "Id": 409030105,
+    "DungeonBuffDebuffGroupId0": 4090301050,
+    "DungeonBuffDebuffGroupId1": 4090301051,
+    "DungeonBuffDebuffGroupId2": 4090301052
+  },
+  {
+    "Id": 409030106,
+    "DungeonBuffDebuffGroupId0": 4090301060,
+    "DungeonBuffDebuffGroupId1": 4090301061,
+    "DungeonBuffDebuffGroupId2": 4090301062
+  },
+  {
+    "Id": 410010103,
+    "DungeonBuffDebuffGroupId0": 4100101030,
+    "DungeonBuffDebuffGroupId1": 4100101031,
+    "DungeonBuffDebuffGroupId2": 4100101032
+  },
+  {
+    "Id": 410010104,
+    "DungeonBuffDebuffGroupId0": 4100101040,
+    "DungeonBuffDebuffGroupId1": 4100101041,
+    "DungeonBuffDebuffGroupId2": 4100101042
+  },
+  {
+    "Id": 410010105,
+    "DungeonBuffDebuffGroupId0": 4100101050,
+    "DungeonBuffDebuffGroupId1": 4100101051,
+    "DungeonBuffDebuffGroupId2": 4100101052
+  },
+  {
+    "Id": 410020103,
+    "DungeonBuffDebuffGroupId0": 4100201030,
+    "DungeonBuffDebuffGroupId1": 4100201031,
+    "DungeonBuffDebuffGroupId2": 4100201032
+  },
+  {
+    "Id": 410020104,
+    "DungeonBuffDebuffGroupId0": 4100201040,
+    "DungeonBuffDebuffGroupId1": 4100201041,
+    "DungeonBuffDebuffGroupId2": 4100201042
+  },
+  {
+    "Id": 410020105,
+    "DungeonBuffDebuffGroupId0": 4100201050,
+    "DungeonBuffDebuffGroupId1": 4100201051,
+    "DungeonBuffDebuffGroupId2": 4100201052
+  },
+  {
+    "Id": 410020106,
+    "DungeonBuffDebuffGroupId0": 4100201060,
+    "DungeonBuffDebuffGroupId1": 4100201061,
+    "DungeonBuffDebuffGroupId2": 4100201062
+  },
+  {
+    "Id": 410030103,
+    "DungeonBuffDebuffGroupId0": 4100301030,
+    "DungeonBuffDebuffGroupId1": 4100301031,
+    "DungeonBuffDebuffGroupId2": 4100301032
+  },
+  {
+    "Id": 410030104,
+    "DungeonBuffDebuffGroupId0": 4100301040,
+    "DungeonBuffDebuffGroupId1": 4100301041,
+    "DungeonBuffDebuffGroupId2": 4100301042
+  },
+  {
+    "Id": 410030105,
+    "DungeonBuffDebuffGroupId0": 4100301050,
+    "DungeonBuffDebuffGroupId1": 4100301051,
+    "DungeonBuffDebuffGroupId2": 4100301052
+  },
+  {
+    "Id": 410030106,
+    "DungeonBuffDebuffGroupId0": 4100301060,
+    "DungeonBuffDebuffGroupId1": 4100301061,
+    "DungeonBuffDebuffGroupId2": 4100301062
+  },
+  {
+    "Id": 411010103,
+    "DungeonBuffDebuffGroupId0": 4110101030,
+    "DungeonBuffDebuffGroupId1": 4110101031,
+    "DungeonBuffDebuffGroupId2": 4110101032
+  },
+  {
+    "Id": 411010104,
+    "DungeonBuffDebuffGroupId0": 4110101040,
+    "DungeonBuffDebuffGroupId1": 4110101041,
+    "DungeonBuffDebuffGroupId2": 4110101042
+  },
+  {
+    "Id": 411010105,
+    "DungeonBuffDebuffGroupId0": 4110101050,
+    "DungeonBuffDebuffGroupId1": 4110101051,
+    "DungeonBuffDebuffGroupId2": 4110101052
+  },
+  {
+    "Id": 411020103,
+    "DungeonBuffDebuffGroupId0": 4110201030,
+    "DungeonBuffDebuffGroupId1": 4110201031,
+    "DungeonBuffDebuffGroupId2": 4110201032
+  },
+  {
+    "Id": 411020104,
+    "DungeonBuffDebuffGroupId0": 4110201040,
+    "DungeonBuffDebuffGroupId1": 4110201041,
+    "DungeonBuffDebuffGroupId2": 4110201042
+  },
+  {
+    "Id": 411020105,
+    "DungeonBuffDebuffGroupId0": 4110201050,
+    "DungeonBuffDebuffGroupId1": 4110201051,
+    "DungeonBuffDebuffGroupId2": 4110201052
+  },
+  {
+    "Id": 411020106,
+    "DungeonBuffDebuffGroupId0": 4110201060,
+    "DungeonBuffDebuffGroupId1": 4110201061,
+    "DungeonBuffDebuffGroupId2": 4110201062
+  },
+  {
+    "Id": 411030103,
+    "DungeonBuffDebuffGroupId0": 4110301030,
+    "DungeonBuffDebuffGroupId1": 4110301031,
+    "DungeonBuffDebuffGroupId2": 4110301032
+  },
+  {
+    "Id": 411030104,
+    "DungeonBuffDebuffGroupId0": 4110301040,
+    "DungeonBuffDebuffGroupId1": 4110301041,
+    "DungeonBuffDebuffGroupId2": 4110301042
+  },
+  {
+    "Id": 411030105,
+    "DungeonBuffDebuffGroupId0": 4110301050,
+    "DungeonBuffDebuffGroupId1": 4110301051,
+    "DungeonBuffDebuffGroupId2": 4110301052
+  },
+  {
+    "Id": 411030106,
+    "DungeonBuffDebuffGroupId0": 4110301060,
+    "DungeonBuffDebuffGroupId1": 4110301061,
+    "DungeonBuffDebuffGroupId2": 4110301062
+  },
+  {
+    "Id": 413010104,
+    "DungeonBuffDebuffGroupId0": 4130101040,
+    "DungeonBuffDebuffGroupId1": 4130101041,
+    "DungeonBuffDebuffGroupId2": 4130101042
+  },
+  {
+    "Id": 413010105,
+    "DungeonBuffDebuffGroupId0": 4130101050,
+    "DungeonBuffDebuffGroupId1": 4130101051,
+    "DungeonBuffDebuffGroupId2": 4130101052
+  },
+  {
+    "Id": 413010106,
+    "DungeonBuffDebuffGroupId0": 4130101060,
+    "DungeonBuffDebuffGroupId1": 4130101061,
+    "DungeonBuffDebuffGroupId2": 4130101062
+  },
+  {
+    "Id": 413010107,
+    "DungeonBuffDebuffGroupId0": 4130101070,
+    "DungeonBuffDebuffGroupId1": 4130101071,
+    "DungeonBuffDebuffGroupId2": 4130101072
+  },
+  {
+    "Id": 413040104,
+    "DungeonBuffDebuffGroupId0": 4130401040,
+    "DungeonBuffDebuffGroupId1": 4130401041,
+    "DungeonBuffDebuffGroupId2": 4130401042
+  },
+  {
+    "Id": 413040105,
+    "DungeonBuffDebuffGroupId0": 4130401050,
+    "DungeonBuffDebuffGroupId1": 4130401051,
+    "DungeonBuffDebuffGroupId2": 4130401052
+  },
+  {
+    "Id": 413040106,
+    "DungeonBuffDebuffGroupId0": 4130401060,
+    "DungeonBuffDebuffGroupId1": 4130401061,
+    "DungeonBuffDebuffGroupId2": 4130401062
+  },
+  {
+    "Id": 413040107,
+    "DungeonBuffDebuffGroupId0": 4130401070,
+    "DungeonBuffDebuffGroupId1": 4130401071,
+    "DungeonBuffDebuffGroupId2": 4130401072
+  }
+]

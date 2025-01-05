@@ -1,0 +1,1274 @@
+[
+  {
+    "Id": 301,
+    "GachaStampSheetGroupId": 10003,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 30101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 302,
+    "GachaStampSheetGroupId": 10003,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 30201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 303,
+    "GachaStampSheetGroupId": 10003,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 30302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 304,
+    "GachaStampSheetGroupId": 10003,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 30402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 401,
+    "GachaStampSheetGroupId": 10004,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 40101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 402,
+    "GachaStampSheetGroupId": 10004,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 40201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 403,
+    "GachaStampSheetGroupId": 10004,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 40302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 404,
+    "GachaStampSheetGroupId": 10004,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 40402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 501,
+    "GachaStampSheetGroupId": 10005,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 50101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 502,
+    "GachaStampSheetGroupId": 10005,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 50201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 503,
+    "GachaStampSheetGroupId": 10005,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 50302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 504,
+    "GachaStampSheetGroupId": 10005,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 50402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 601,
+    "GachaStampSheetGroupId": 10006,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 60101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 602,
+    "GachaStampSheetGroupId": 10006,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 60202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 701,
+    "GachaStampSheetGroupId": 10007,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 70101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 702,
+    "GachaStampSheetGroupId": 10007,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 70201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 703,
+    "GachaStampSheetGroupId": 10007,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 70302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 704,
+    "GachaStampSheetGroupId": 10007,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 70402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 801,
+    "GachaStampSheetGroupId": 10008,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 80101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 802,
+    "GachaStampSheetGroupId": 10008,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 80201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 803,
+    "GachaStampSheetGroupId": 10008,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 80302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 804,
+    "GachaStampSheetGroupId": 10008,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 80402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 901,
+    "GachaStampSheetGroupId": 10009,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 90101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 902,
+    "GachaStampSheetGroupId": 10009,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 90201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 903,
+    "GachaStampSheetGroupId": 10009,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 90302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 904,
+    "GachaStampSheetGroupId": 10009,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 90402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1001,
+    "GachaStampSheetGroupId": 10010,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 100101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1002,
+    "GachaStampSheetGroupId": 10010,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 100201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1003,
+    "GachaStampSheetGroupId": 10010,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 100302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1004,
+    "GachaStampSheetGroupId": 10010,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 100402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1301,
+    "GachaStampSheetGroupId": 10013,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 130101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1302,
+    "GachaStampSheetGroupId": 10013,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 130201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1303,
+    "GachaStampSheetGroupId": 10013,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 130302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1304,
+    "GachaStampSheetGroupId": 10013,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 130402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1401,
+    "GachaStampSheetGroupId": 10014,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 140101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1402,
+    "GachaStampSheetGroupId": 10014,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 140202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1501,
+    "GachaStampSheetGroupId": 10015,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 150101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1502,
+    "GachaStampSheetGroupId": 10015,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 150202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1601,
+    "GachaStampSheetGroupId": 10016,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 160101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1602,
+    "GachaStampSheetGroupId": 10016,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 160201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1603,
+    "GachaStampSheetGroupId": 10016,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 160302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1604,
+    "GachaStampSheetGroupId": 10016,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 160402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1701,
+    "GachaStampSheetGroupId": 10017,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 170101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1702,
+    "GachaStampSheetGroupId": 10017,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 170202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1901,
+    "GachaStampSheetGroupId": 10019,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 190101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 1902,
+    "GachaStampSheetGroupId": 10019,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 190202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2201,
+    "GachaStampSheetGroupId": 10022,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 220101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2202,
+    "GachaStampSheetGroupId": 10022,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 220201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2203,
+    "GachaStampSheetGroupId": 10022,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 220302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2204,
+    "GachaStampSheetGroupId": 10022,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 220401,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2205,
+    "GachaStampSheetGroupId": 10022,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 220502,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2206,
+    "GachaStampSheetGroupId": 10022,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 220602,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2207,
+    "GachaStampSheetGroupId": 10022,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 220701,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2301,
+    "GachaStampSheetGroupId": 10023,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 230101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2302,
+    "GachaStampSheetGroupId": 10023,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 230201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2303,
+    "GachaStampSheetGroupId": 10023,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 230302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2304,
+    "GachaStampSheetGroupId": 10023,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 230401,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2305,
+    "GachaStampSheetGroupId": 10023,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 230502,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2306,
+    "GachaStampSheetGroupId": 10023,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 230602,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2307,
+    "GachaStampSheetGroupId": 10023,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 230701,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2501,
+    "GachaStampSheetGroupId": 10025,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 250101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2502,
+    "GachaStampSheetGroupId": 10025,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 250202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2601,
+    "GachaStampSheetGroupId": 10026,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 260101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2602,
+    "GachaStampSheetGroupId": 10026,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 260202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2801,
+    "GachaStampSheetGroupId": 10028,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 280101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2802,
+    "GachaStampSheetGroupId": 10028,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 280201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2803,
+    "GachaStampSheetGroupId": 10028,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 280302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2804,
+    "GachaStampSheetGroupId": 10028,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 280402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2901,
+    "GachaStampSheetGroupId": 10029,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 290101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2902,
+    "GachaStampSheetGroupId": 10029,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 290201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2903,
+    "GachaStampSheetGroupId": 10029,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 290302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 2904,
+    "GachaStampSheetGroupId": 10029,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 290402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3001,
+    "GachaStampSheetGroupId": 10030,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 300101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3002,
+    "GachaStampSheetGroupId": 10030,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 300202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3201,
+    "GachaStampSheetGroupId": 10032,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 320101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3202,
+    "GachaStampSheetGroupId": 10032,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 320201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3203,
+    "GachaStampSheetGroupId": 10032,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 320302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3204,
+    "GachaStampSheetGroupId": 10032,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 320402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3301,
+    "GachaStampSheetGroupId": 10033,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 330101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3302,
+    "GachaStampSheetGroupId": 10033,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 330201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3303,
+    "GachaStampSheetGroupId": 10033,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 330302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3304,
+    "GachaStampSheetGroupId": 10033,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 330402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3401,
+    "GachaStampSheetGroupId": 10034,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 340101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3402,
+    "GachaStampSheetGroupId": 10034,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 340202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3601,
+    "GachaStampSheetGroupId": 10036,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 360101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3602,
+    "GachaStampSheetGroupId": 10036,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 360201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3603,
+    "GachaStampSheetGroupId": 10036,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 360302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3604,
+    "GachaStampSheetGroupId": 10036,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 360401,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3605,
+    "GachaStampSheetGroupId": 10036,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 360502,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3607,
+    "GachaStampSheetGroupId": 10036,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 360701,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3701,
+    "GachaStampSheetGroupId": 10037,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 370101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3702,
+    "GachaStampSheetGroupId": 10037,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 370201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3703,
+    "GachaStampSheetGroupId": 10037,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 370302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3704,
+    "GachaStampSheetGroupId": 10037,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 370401,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3705,
+    "GachaStampSheetGroupId": 10037,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 370502,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3707,
+    "GachaStampSheetGroupId": 10037,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 370701,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3801,
+    "GachaStampSheetGroupId": 10038,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 380101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3802,
+    "GachaStampSheetGroupId": 10038,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 380202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3901,
+    "GachaStampSheetGroupId": 10039,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 390101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3902,
+    "GachaStampSheetGroupId": 10039,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 390201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3903,
+    "GachaStampSheetGroupId": 10039,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 390302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 3904,
+    "GachaStampSheetGroupId": 10039,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 390402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4001,
+    "GachaStampSheetGroupId": 10040,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 400101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 400105
+  },
+  {
+    "Id": 4002,
+    "GachaStampSheetGroupId": 10040,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 400202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 400205
+  },
+  {
+    "Id": 4003,
+    "GachaStampSheetGroupId": 10040,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 400303,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 400305
+  },
+  {
+    "Id": 4004,
+    "GachaStampSheetGroupId": 10040,
+    "GachaStampSheetSeq": 4,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 400404,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 400405
+  },
+  {
+    "Id": 4101,
+    "GachaStampSheetGroupId": 10041,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 410101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4102,
+    "GachaStampSheetGroupId": 10041,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 410202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4301,
+    "GachaStampSheetGroupId": 10043,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 430101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4302,
+    "GachaStampSheetGroupId": 10043,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 430201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4303,
+    "GachaStampSheetGroupId": 10043,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 430302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4304,
+    "GachaStampSheetGroupId": 10043,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 430402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4401,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 440101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 440105
+  },
+  {
+    "Id": 4402,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 440202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 440205
+  },
+  {
+    "Id": 4403,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 440303,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 440305
+  },
+  {
+    "Id": 4404,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 4,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 440404,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 440405
+  },
+  {
+    "Id": 4405,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 440501,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4406,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 440602,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4407,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 440703,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4408,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 440804,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4409,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 440901,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4410,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 4,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 441002,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4411,
+    "GachaStampSheetGroupId": 10044,
+    "GachaStampSheetSeq": 4,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 441103,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4501,
+    "GachaStampSheetGroupId": 10045,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 450101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4502,
+    "GachaStampSheetGroupId": 10045,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 450201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4503,
+    "GachaStampSheetGroupId": 10045,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 450302,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4504,
+    "GachaStampSheetGroupId": 10045,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 450402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4601,
+    "GachaStampSheetGroupId": 10046,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 3,
+    "DefaultGachaStampSheetCellChoiceId": 460101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4602,
+    "GachaStampSheetGroupId": 10046,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 460201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4603,
+    "GachaStampSheetGroupId": 10046,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 460301,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 460303
+  },
+  {
+    "Id": 4604,
+    "GachaStampSheetGroupId": 10046,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 3,
+    "DefaultGachaStampSheetCellChoiceId": 460402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4605,
+    "GachaStampSheetGroupId": 10046,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 460501,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4606,
+    "GachaStampSheetGroupId": 10046,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 460601,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4607,
+    "GachaStampSheetGroupId": 10046,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 460702,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 460703
+  },
+  {
+    "Id": 4701,
+    "GachaStampSheetGroupId": 10047,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 3,
+    "DefaultGachaStampSheetCellChoiceId": 470101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4702,
+    "GachaStampSheetGroupId": 10047,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 470201,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4703,
+    "GachaStampSheetGroupId": 10047,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 470301,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 470303
+  },
+  {
+    "Id": 4704,
+    "GachaStampSheetGroupId": 10047,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 3,
+    "DefaultGachaStampSheetCellChoiceId": 470402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4705,
+    "GachaStampSheetGroupId": 10047,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 470501,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4706,
+    "GachaStampSheetGroupId": 10047,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 470601,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 4707,
+    "GachaStampSheetGroupId": 10047,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 470702,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 470703
+  },
+  {
+    "Id": 5201,
+    "GachaStampSheetGroupId": 10052,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 520101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5202,
+    "GachaStampSheetGroupId": 10052,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 520202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5203,
+    "GachaStampSheetGroupId": 10052,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 520301,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5204,
+    "GachaStampSheetGroupId": 10052,
+    "GachaStampSheetSeq": 3,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 520402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5205,
+    "GachaStampSheetGroupId": 10052,
+    "GachaStampSheetSeq": 4,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 520502,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5501,
+    "GachaStampSheetGroupId": 10055,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 550101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5502,
+    "GachaStampSheetGroupId": 10055,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 550202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5503,
+    "GachaStampSheetGroupId": 10055,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 550301,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 5504,
+    "GachaStampSheetGroupId": 10055,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 550402,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6101,
+    "GachaStampSheetGroupId": 10061,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 610101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6102,
+    "GachaStampSheetGroupId": 10061,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 610202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6103,
+    "GachaStampSheetGroupId": 10061,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 610301,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6201,
+    "GachaStampSheetGroupId": 10062,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 620101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6202,
+    "GachaStampSheetGroupId": 10062,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 620202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6203,
+    "GachaStampSheetGroupId": 10062,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 620301,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6501,
+    "GachaStampSheetGroupId": 10065,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 650101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6502,
+    "GachaStampSheetGroupId": 10065,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 4,
+    "DefaultGachaStampSheetCellChoiceId": 650202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 6503,
+    "GachaStampSheetGroupId": 10065,
+    "GachaStampSheetSeq": 2,
+    "StampCount": 8,
+    "DefaultGachaStampSheetCellChoiceId": 650301,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  }
+]

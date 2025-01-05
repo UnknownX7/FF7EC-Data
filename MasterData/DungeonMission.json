@@ -1,0 +1,662 @@
+[
+  {
+    "Id": 30101011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31010101101,
+    "NameLanguageId": 450000030101011,
+    "IsHide": false
+  },
+  {
+    "Id": 30101012,
+    "DungeonMissionType": 4,
+    "TargetId": 0,
+    "TargetValue": 280,
+    "TargetElementType": 0,
+    "RewardSetId": 31010101201,
+    "NameLanguageId": 450000030101012,
+    "IsHide": false
+  },
+  {
+    "Id": 30101013,
+    "DungeonMissionType": 12,
+    "TargetId": 301010103,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31010101301,
+    "NameLanguageId": 450000030101013,
+    "IsHide": true
+  },
+  {
+    "Id": 30102011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31010201101,
+    "NameLanguageId": 450000030102011,
+    "IsHide": false
+  },
+  {
+    "Id": 30102012,
+    "DungeonMissionType": 4,
+    "TargetId": 0,
+    "TargetValue": 410,
+    "TargetElementType": 0,
+    "RewardSetId": 31010201201,
+    "NameLanguageId": 450000030102012,
+    "IsHide": false
+  },
+  {
+    "Id": 30102013,
+    "DungeonMissionType": 10,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31010201301,
+    "NameLanguageId": 450000030102013,
+    "IsHide": true
+  },
+  {
+    "Id": 30201011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31020101101,
+    "NameLanguageId": 450000030201011,
+    "IsHide": false
+  },
+  {
+    "Id": 30201012,
+    "DungeonMissionType": 4,
+    "TargetId": 0,
+    "TargetValue": 540,
+    "TargetElementType": 0,
+    "RewardSetId": 31020101201,
+    "NameLanguageId": 450000030201012,
+    "IsHide": false
+  },
+  {
+    "Id": 30201013,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31020101301,
+    "NameLanguageId": 450000030201013,
+    "IsHide": true
+  },
+  {
+    "Id": 30202011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31020201101,
+    "NameLanguageId": 450000030202011,
+    "IsHide": false
+  },
+  {
+    "Id": 30202012,
+    "DungeonMissionType": 5,
+    "TargetId": 0,
+    "TargetValue": 210,
+    "TargetElementType": 0,
+    "RewardSetId": 31020201201,
+    "NameLanguageId": 450000030202012,
+    "IsHide": false
+  },
+  {
+    "Id": 30202013,
+    "DungeonMissionType": 12,
+    "TargetId": 302020106,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31020201301,
+    "NameLanguageId": 450000030202013,
+    "IsHide": true
+  },
+  {
+    "Id": 30301011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31030101101,
+    "NameLanguageId": 450000030301011,
+    "IsHide": false
+  },
+  {
+    "Id": 30301012,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 10900,
+    "TargetElementType": 0,
+    "RewardSetId": 31030101201,
+    "NameLanguageId": 450000030301012,
+    "IsHide": false
+  },
+  {
+    "Id": 30301013,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31030101301,
+    "NameLanguageId": 450000030301013,
+    "IsHide": true
+  },
+  {
+    "Id": 30302011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31030201101,
+    "NameLanguageId": 450000030302011,
+    "IsHide": false
+  },
+  {
+    "Id": 30302012,
+    "DungeonMissionType": 5,
+    "TargetId": 0,
+    "TargetValue": 210,
+    "TargetElementType": 0,
+    "RewardSetId": 31030201201,
+    "NameLanguageId": 450000030302012,
+    "IsHide": false
+  },
+  {
+    "Id": 30302013,
+    "DungeonMissionType": 12,
+    "TargetId": 303020104,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31030201301,
+    "NameLanguageId": 450000030302013,
+    "IsHide": true
+  },
+  {
+    "Id": 30401011,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31040101101,
+    "NameLanguageId": 450000030401011,
+    "IsHide": false
+  },
+  {
+    "Id": 30401012,
+    "DungeonMissionType": 10,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31040101201,
+    "NameLanguageId": 450000030401012,
+    "IsHide": false
+  },
+  {
+    "Id": 30401013,
+    "DungeonMissionType": 6,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31040101301,
+    "NameLanguageId": 450000030401013,
+    "IsHide": true
+  },
+  {
+    "Id": 30402011,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31040201101,
+    "NameLanguageId": 450000030402011,
+    "IsHide": false
+  },
+  {
+    "Id": 30402012,
+    "DungeonMissionType": 6,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31040201201,
+    "NameLanguageId": 450000030402012,
+    "IsHide": false
+  },
+  {
+    "Id": 30402013,
+    "DungeonMissionType": 12,
+    "TargetId": 304020104,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31040201301,
+    "NameLanguageId": 450000030402013,
+    "IsHide": true
+  },
+  {
+    "Id": 30501011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31050101101,
+    "NameLanguageId": 450000030501011,
+    "IsHide": false
+  },
+  {
+    "Id": 30501012,
+    "DungeonMissionType": 8,
+    "TargetId": 0,
+    "TargetValue": 16100,
+    "TargetElementType": 2,
+    "RewardSetId": 31050101201,
+    "NameLanguageId": 450000030501012,
+    "IsHide": false
+  },
+  {
+    "Id": 30501013,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31050101301,
+    "NameLanguageId": 450000030501013,
+    "IsHide": true
+  },
+  {
+    "Id": 30502011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31050201101,
+    "NameLanguageId": 450000030502011,
+    "IsHide": false
+  },
+  {
+    "Id": 30502012,
+    "DungeonMissionType": 5,
+    "TargetId": 0,
+    "TargetValue": 210,
+    "TargetElementType": 0,
+    "RewardSetId": 31050201201,
+    "NameLanguageId": 450000030502012,
+    "IsHide": false
+  },
+  {
+    "Id": 30502013,
+    "DungeonMissionType": 12,
+    "TargetId": 305020103,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31050201301,
+    "NameLanguageId": 450000030502013,
+    "IsHide": true
+  },
+  {
+    "Id": 30601011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31060101101,
+    "NameLanguageId": 450000030601011,
+    "IsHide": false
+  },
+  {
+    "Id": 30601012,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 7600,
+    "TargetElementType": 0,
+    "RewardSetId": 31060101201,
+    "NameLanguageId": 450000030601012,
+    "IsHide": false
+  },
+  {
+    "Id": 30601013,
+    "DungeonMissionType": 12,
+    "TargetId": 306010103,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31060101301,
+    "NameLanguageId": 450000030601013,
+    "IsHide": true
+  },
+  {
+    "Id": 30602011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31060201101,
+    "NameLanguageId": 450000030602011,
+    "IsHide": false
+  },
+  {
+    "Id": 30602012,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 8900,
+    "TargetElementType": 0,
+    "RewardSetId": 31060201201,
+    "NameLanguageId": 450000030602012,
+    "IsHide": false
+  },
+  {
+    "Id": 30602013,
+    "DungeonMissionType": 5,
+    "TargetId": 0,
+    "TargetValue": 210,
+    "TargetElementType": 0,
+    "RewardSetId": 31060201301,
+    "NameLanguageId": 450000030602013,
+    "IsHide": true
+  },
+  {
+    "Id": 30701011,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31070101101,
+    "NameLanguageId": 450000030701011,
+    "IsHide": false
+  },
+  {
+    "Id": 30701012,
+    "DungeonMissionType": 9,
+    "TargetId": 0,
+    "TargetValue": 40800,
+    "TargetElementType": 0,
+    "RewardSetId": 31070101201,
+    "NameLanguageId": 450000030701012,
+    "IsHide": false
+  },
+  {
+    "Id": 30701013,
+    "DungeonMissionType": 10,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31070101301,
+    "NameLanguageId": 450000030701013,
+    "IsHide": true
+  },
+  {
+    "Id": 30702011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31070201101,
+    "NameLanguageId": 450000030702011,
+    "IsHide": false
+  },
+  {
+    "Id": 30702012,
+    "DungeonMissionType": 9,
+    "TargetId": 0,
+    "TargetValue": 52600,
+    "TargetElementType": 0,
+    "RewardSetId": 31070201201,
+    "NameLanguageId": 450000030702012,
+    "IsHide": false
+  },
+  {
+    "Id": 30702013,
+    "DungeonMissionType": 12,
+    "TargetId": 307020104,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31070201301,
+    "NameLanguageId": 450000030702013,
+    "IsHide": true
+  },
+  {
+    "Id": 30801011,
+    "DungeonMissionType": 8,
+    "TargetId": 0,
+    "TargetValue": 54100,
+    "TargetElementType": 3,
+    "RewardSetId": 31080101101,
+    "NameLanguageId": 450000030801011,
+    "IsHide": false
+  },
+  {
+    "Id": 30801012,
+    "DungeonMissionType": 4,
+    "TargetId": 0,
+    "TargetValue": 2500,
+    "TargetElementType": 0,
+    "RewardSetId": 31080101201,
+    "NameLanguageId": 450000030801012,
+    "IsHide": false
+  },
+  {
+    "Id": 30801013,
+    "DungeonMissionType": 12,
+    "TargetId": 308010103,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31080101301,
+    "NameLanguageId": 450000030801013,
+    "IsHide": true
+  },
+  {
+    "Id": 30802011,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31080201101,
+    "NameLanguageId": 450000030802011,
+    "IsHide": false
+  },
+  {
+    "Id": 30802012,
+    "DungeonMissionType": 4,
+    "TargetId": 0,
+    "TargetValue": 3700,
+    "TargetElementType": 0,
+    "RewardSetId": 31080201201,
+    "NameLanguageId": 450000030802012,
+    "IsHide": false
+  },
+  {
+    "Id": 30802013,
+    "DungeonMissionType": 6,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31080201301,
+    "NameLanguageId": 450000030802013,
+    "IsHide": true
+  },
+  {
+    "Id": 30901011,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 21900,
+    "TargetElementType": 0,
+    "RewardSetId": 31090101101,
+    "NameLanguageId": 450000030901011,
+    "IsHide": false
+  },
+  {
+    "Id": 30901012,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 16700,
+    "TargetElementType": 0,
+    "RewardSetId": 31090101201,
+    "NameLanguageId": 450000030901012,
+    "IsHide": false
+  },
+  {
+    "Id": 30901013,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 13200,
+    "TargetElementType": 0,
+    "RewardSetId": 31090101301,
+    "NameLanguageId": 450000030901013,
+    "IsHide": true
+  },
+  {
+    "Id": 30902011,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 24500,
+    "TargetElementType": 0,
+    "RewardSetId": 31090201101,
+    "NameLanguageId": 450000030902011,
+    "IsHide": false
+  },
+  {
+    "Id": 30902012,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 18300,
+    "TargetElementType": 0,
+    "RewardSetId": 31090201201,
+    "NameLanguageId": 450000030902012,
+    "IsHide": false
+  },
+  {
+    "Id": 30902013,
+    "DungeonMissionType": 13,
+    "TargetId": 0,
+    "TargetValue": 14700,
+    "TargetElementType": 0,
+    "RewardSetId": 31090201301,
+    "NameLanguageId": 450000030902013,
+    "IsHide": true
+  },
+  {
+    "Id": 31001011,
+    "DungeonMissionType": 4,
+    "TargetId": 0,
+    "TargetValue": 11800,
+    "TargetElementType": 0,
+    "RewardSetId": 31100101101,
+    "NameLanguageId": 450000031001011,
+    "IsHide": false
+  },
+  {
+    "Id": 31001012,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31100101201,
+    "NameLanguageId": 450000031001012,
+    "IsHide": false
+  },
+  {
+    "Id": 31001013,
+    "DungeonMissionType": 12,
+    "TargetId": 310010103,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31100101301,
+    "NameLanguageId": 450000031001013,
+    "IsHide": true
+  },
+  {
+    "Id": 31002011,
+    "DungeonMissionType": 4,
+    "TargetId": 0,
+    "TargetValue": 12800,
+    "TargetElementType": 0,
+    "RewardSetId": 31100201101,
+    "NameLanguageId": 450000031002011,
+    "IsHide": false
+  },
+  {
+    "Id": 31002012,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31100201201,
+    "NameLanguageId": 450000031002012,
+    "IsHide": false
+  },
+  {
+    "Id": 31002013,
+    "DungeonMissionType": 6,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31100201301,
+    "NameLanguageId": 450000031002013,
+    "IsHide": true
+  },
+  {
+    "Id": 31101011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31110101101,
+    "NameLanguageId": 450000031101011,
+    "IsHide": false
+  },
+  {
+    "Id": 31101012,
+    "DungeonMissionType": 12,
+    "TargetId": 311010103,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31110101201,
+    "NameLanguageId": 450000031101012,
+    "IsHide": false
+  },
+  {
+    "Id": 31101013,
+    "DungeonMissionType": 6,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31110101301,
+    "NameLanguageId": 450000031101013,
+    "IsHide": true
+  },
+  {
+    "Id": 31102011,
+    "DungeonMissionType": 1,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31110201101,
+    "NameLanguageId": 450000031102011,
+    "IsHide": false
+  },
+  {
+    "Id": 31102012,
+    "DungeonMissionType": 11,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31110201201,
+    "NameLanguageId": 450000031102012,
+    "IsHide": false
+  },
+  {
+    "Id": 31102013,
+    "DungeonMissionType": 6,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "TargetElementType": 0,
+    "RewardSetId": 31110201301,
+    "NameLanguageId": 450000031102013,
+    "IsHide": true
+  }
+]

@@ -1,0 +1,420 @@
+{
+  "data": [
+    {
+      "id": 120001,
+      "value": "An error has occurred.\\nReturning to the title screen."
+    },
+    {
+      "id": 120002,
+      "value": "The date has changed. \\nReturning to the title."
+    },
+    {
+      "id": 120003,
+      "value": "Under maintenance."
+    },
+    {
+      "id": 120004,
+      "value": "This game is currently unavailable in your region."
+    },
+    {
+      "id": 120005,
+      "value": "Unable to connect.\\nPlease try logging in again at a later time."
+    },
+    {
+      "id": 120006,
+      "value": "Failed to retrieve data.\\nReturning to the home page."
+    },
+    {
+      "id": 120007,
+      "value": "Returning to the title screen\\ndue to inactivity."
+    },
+    {
+      "id": 120013,
+      "value": "Data has been updated.\\nReturning to the title screen."
+    },
+    {
+      "id": 120014,
+      "value": "The input contains invalid characters.\\nPlease try again."
+    },
+    {
+      "id": 120015,
+      "value": "Unable to connect."
+    },
+    {
+      "id": 120016,
+      "value": "Currently under maintenance. \\nReturning to the title screen."
+    },
+    {
+      "id": 120017,
+      "value": "A new version is available.\\nPlease update your application."
+    },
+    {
+      "id": 120018,
+      "value": "The inputted text is incorrect.\\nPlease try again."
+    },
+    {
+      "id": 120019,
+      "value": "Used in {0}"
+    },
+    {
+      "id": 120020,
+      "value": "Unable to connect.\\nPlease check your connection and try again."
+    },
+    {
+      "id": 120021,
+      "value": "Data has been updated.\\nReturning to the title screen."
+    },
+    {
+      "id": 120031,
+      "value": "Unable to connect. \\nRetry?"
+    },
+    {
+      "id": 120033,
+      "value": "This lobby does not exist or is currently mid-battle."
+    },
+    {
+      "id": 120034,
+      "value": "The lobby is full."
+    },
+    {
+      "id": 120035,
+      "value": "A player's connection has timed out.\\nThe battle has been paused."
+    },
+    {
+      "id": 120046,
+      "value": "This invitation is currently not available."
+    },
+    {
+      "id": 120047,
+      "value": "There are players who must first update the App."
+    },
+    {
+      "id": 120048,
+      "value": "You have reached your battle limit."
+    },
+    {
+      "id": 120049,
+      "value": "Requirements for this battle not met."
+    },
+    {
+      "id": 120050,
+      "value": "A continue could not be used."
+    },
+    {
+      "id": 120051,
+      "value": "The purchase process has failed. /nPlease wait for some time and try again. /n/nPlease contact support via Inquiries."
+    },
+    {
+      "id": 120052,
+      "value": "An invalid process has been detected. /nTo resolve the issue, /nplease contact support via Inquiries."
+    },
+    {
+      "id": 120053,
+      "value": "The purchase process has failed. /nPlease try again while logged into Google Play. /n/nIf the situation does not improve, please contact support."
+    },
+    {
+      "id": 120054,
+      "value": "An abnormality has been detected. \\nTransactions are currently restricted."
+    },
+    {
+      "id": 120055,
+      "value": "You cannot purchase the specified item because you have exceeded the maximum number of Red Crystals."
+    },
+    {
+      "id": 120056,
+      "value": "Link Data has failed.\\n Please try Link Data again from the start."
+    },
+    {
+      "id": 120057,
+      "value": "User not found."
+    },
+    {
+      "id": 120058,
+      "value": "User not found."
+    },
+    {
+      "id": 120059,
+      "value": "Data Update"
+    },
+    {
+      "id": 120060,
+      "value": "Temporary Account Suspension"
+    },
+    {
+      "id": 120061,
+      "value": "Your account has been temporarily suspended.\\nPlease wait for a while, and if the situation does not change, please contact support via Inquiries."
+    },
+    {
+      "id": 120062,
+      "value": "The dungeon ranking can no longer be attempted."
+    },
+    {
+      "id": 120101,
+      "value": "Incorrect gift code."
+    },
+    {
+      "id": 120102,
+      "value": "Gift code has already been used."
+    },
+    {
+      "id": 120103,
+      "value": "Gift code has expired."
+    },
+    {
+      "id": 120104,
+      "value": "Survey"
+    },
+    {
+      "id": 120105,
+      "value": "Input Error"
+    },
+    {
+      "id": 120106,
+      "value": "App Version Error"
+    },
+    {
+      "id": 120107,
+      "value": "Guild Bonus Error"
+    },
+    {
+      "id": 120108,
+      "value": "The guild bonus has already been unlocked\\nby another guild member."
+    },
+    {
+      "id": 120109,
+      "value": "Not enough guild bonus points to unlock bonus."
+    },
+    {
+      "id": 120110,
+      "value": "Guild Bonus Error"
+    },
+    {
+      "id": 120111,
+      "value": "The guild bonus has already been enhanced\\nby another guild member."
+    },
+    {
+      "id": 120112,
+      "value": "Not enough guild bonus points to enhance bonus."
+    },
+    {
+      "id": 120113,
+      "value": "Guild Creation Error"
+    },
+    {
+      "id": 120114,
+      "value": "You cannot create a guild while in another guild.\\nYou will be returned to the Home screen."
+    },
+    {
+      "id": 120115,
+      "value": "Request Approval Error"
+    },
+    {
+      "id": 120116,
+      "value": "Failed to perform action."
+    },
+    {
+      "id": 120117,
+      "value": "This request has already been approved."
+    },
+    {
+      "id": 120118,
+      "value": "Request Withdrawal Error"
+    },
+    {
+      "id": 120119,
+      "value": "Failed to perform action."
+    },
+    {
+      "id": 120120,
+      "value": "Guild Error"
+    },
+    {
+      "id": 120121,
+      "value": "You cannot perform this action because you do not belong to a guild.\\nYou will be returned to the Home screen."
+    },
+    {
+      "id": 120122,
+      "value": "Guild Privileges Error"
+    },
+    {
+      "id": 120123,
+      "value": "Only the guildmaster and submasters are authorized to perform this action."
+    },
+    {
+      "id": 120124,
+      "value": "Guild Privileges Error"
+    },
+    {
+      "id": 120125,
+      "value": "Only the guildmaster and submasters are authorized to perform this action."
+    },
+    {
+      "id": 120126,
+      "value": "Guild Error"
+    },
+    {
+      "id": 120127,
+      "value": "You cannot perform this action because you do not belong to a guild.\\nYou will be returned to the Home screen."
+    },
+    {
+      "id": 120128,
+      "value": "Guild Privileges Error"
+    },
+    {
+      "id": 120129,
+      "value": "The player is no longer in the guild."
+    },
+    {
+      "id": 120130,
+      "value": "Guild Error"
+    },
+    {
+      "id": 120131,
+      "value": "Failed to perform action."
+    },
+    {
+      "id": 120132,
+      "value": "To leave, you must promote someone to guildmaster."
+    },
+    {
+      "id": 120133,
+      "value": "Guild Error"
+    },
+    {
+      "id": 120134,
+      "value": "You cannot perform this action because you do not belong to a guild.\\nYou will be returned to the Home screen."
+    },
+    {
+      "id": 120135,
+      "value": "You cannot perform this action because you do not belong to a guild.\\nYou will be returned to the Home screen."
+    },
+    {
+      "id": 120136,
+      "value": "Cannot send any more requests."
+    },
+    {
+      "id": 120137,
+      "value": "You are already in a guild."
+    },
+    {
+      "id": 120138,
+      "value": "Cannot send request within 24 hours of leaving a guild."
+    },
+    {
+      "id": 120139,
+      "value": "Request Approval Error"
+    },
+    {
+      "id": 120140,
+      "value": "The guild is already at max. capacity."
+    },
+    {
+      "id": 120141,
+      "value": "Request Dismissal Error"
+    },
+    {
+      "id": 120142,
+      "value": "The request has already been approved."
+    },
+    {
+      "id": 120143,
+      "value": "You cannot post any more consecutive messages. Please wait a while before posting again."
+    },
+    {
+      "id": 120144,
+      "value": "Guild not found."
+    },
+    {
+      "id": 120145,
+      "value": "The guild is at max. capacity."
+    },
+    {
+      "id": 120146,
+      "value": "【EN】再戦エラー"
+    },
+    {
+      "id": 120147,
+      "value": "The target enemy or enemies have been defeated.\\nYou will be returned to the guild battle screen."
+    },
+    {
+      "id": 120148,
+      "value": "The ranking battle participation period is over."
+    },
+    {
+      "id": 120149,
+      "value": "The game is currently undergoing maintenance and cannot be played.\\nPlease try again once maintenance has ended."
+    },
+    {
+      "id": 120150,
+      "value": "Cannot attempt outside of the designated period."
+    },
+    {
+      "id": 120151,
+      "value": "Cannot attempt outside of the designated period."
+    },
+    {
+      "id": 120152,
+      "value": "Cannot attempt outside of the designated period."
+    },
+    {
+      "id": 120153,
+      "value": "Guild Error"
+    },
+    {
+      "id": 120154,
+      "value": "*Cannot send request during guild battle period"
+    },
+    {
+      "id": 120155,
+      "value": "Error"
+    },
+    {
+      "id": 120156,
+      "value": "Entry contains restricted words."
+    },
+    {
+      "id": 120157,
+      "value": "Distribution Error"
+    },
+    {
+      "id": 120158,
+      "value": "There is no guild battle energy to distribute."
+    },
+    {
+      "id": 120159,
+      "value": "*Please review inventory and distribution settings."
+    },
+    {
+      "id": 120160,
+      "value": "Battle"
+    },
+    {
+      "id": 120161,
+      "value": "This battle has ended.\nYou will be returned to the top screen."
+    },
+    {
+      "id": 120162,
+      "value": "Guild Error"
+    },
+    {
+      "id": 120163,
+      "value": "The maximum number of Removals per day reached.\\n*Up to 5 Removals are allowed per day."
+    },
+    {
+      "id": 120164,
+      "value": "Error"
+    },
+    {
+      "id": 120165,
+      "value": "Not enough guild bonus points to trade for selected item(s)."
+    },
+    {
+      "id": 120166,
+      "value": "Trade failed.\\nPlease try again later."
+    },
+    {
+      "id": 120167,
+      "value": "Only the guildmaster or submasters are authorized\\nto trade guild bonus points."
+    }
+  ]
+}

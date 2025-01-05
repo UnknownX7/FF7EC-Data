@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "CopyUserId": 0,
+    "UserRank": 0,
+    "GrantRewardSetId": 0,
+    "AllClearEpisode": true,
+    "AllClearSoloAreaBattle": true,
+    "AllClearMultiAreaBattle": true,
+    "AllClearAnotherDungeon": true,
+    "AllClearTutorialStep": false,
+    "DisplayName": "機能解放条件クリア済み"
+  },
+  {
+    "Id": 2,
+    "CopyUserId": 0,
+    "UserRank": 30,
+    "GrantRewardSetId": 0,
+    "AllClearEpisode": true,
+    "AllClearSoloAreaBattle": true,
+    "AllClearMultiAreaBattle": true,
+    "AllClearAnotherDungeon": true,
+    "AllClearTutorialStep": true,
+    "DisplayName": "全クリア済み"
+  },
+  {
+    "Id": 3,
+    "CopyUserId": 0,
+    "UserRank": 0,
+    "GrantRewardSetId": 0,
+    "AllClearEpisode": true,
+    "AllClearSoloAreaBattle": false,
+    "AllClearMultiAreaBattle": false,
+    "AllClearAnotherDungeon": false,
+    "AllClearTutorialStep": false,
+    "DisplayName": "ストーリーのみクリア済み"
+  },
+  {
+    "Id": 4,
+    "CopyUserId": 0,
+    "UserRank": 0,
+    "GrantRewardSetId": 0,
+    "AllClearEpisode": true,
+    "AllClearSoloAreaBattle": false,
+    "AllClearMultiAreaBattle": false,
+    "AllClearAnotherDungeon": false,
+    "AllClearTutorialStep": false,
+    "DisplayName": "ストーリー・イベントクリア済み"
+  },
+  {
+    "Id": 6,
+    "CopyUserId": 0,
+    "UserRank": 30,
+    "GrantRewardSetId": 0,
+    "AllClearEpisode": false,
+    "AllClearSoloAreaBattle": false,
+    "AllClearMultiAreaBattle": false,
+    "AllClearAnotherDungeon": false,
+    "AllClearTutorialStep": false,
+    "DisplayName": "最強ユーザ"
+  },
+  {
+    "Id": 7,
+    "CopyUserId": 0,
+    "UserRank": 30,
+    "GrantRewardSetId": 0,
+    "AllClearEpisode": false,
+    "AllClearSoloAreaBattle": false,
+    "AllClearMultiAreaBattle": false,
+    "AllClearAnotherDungeon": false,
+    "AllClearTutorialStep": false,
+    "DisplayName": "ミドルユーザ"
+  },
+  {
+    "Id": 8,
+    "CopyUserId": 0,
+    "UserRank": 30,
+    "GrantRewardSetId": 0,
+    "AllClearEpisode": false,
+    "AllClearSoloAreaBattle": false,
+    "AllClearMultiAreaBattle": false,
+    "AllClearAnotherDungeon": false,
+    "AllClearTutorialStep": false,
+    "DisplayName": "無課金ユーザ"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "GuildNameDefaultLanguageId": 940000000000101,
+    "GuildIntroductionDefaultLanguageId": 940000000000102,
+    "GuildMessageDefaultLanguageId": 940000000000103,
+    "GuildDefaultEmblemGuildItemId": 200001,
+    "GuildDefaultHomeBackgroundGuildItemId": 400001,
+    "GuildPenaltyHour": 24,
+    "GuildDefaultMaxMemberCount": 30,
+    "GuildCreateConsumptionStone": 100,
+    "GuildAutoLeaveDurationHour": 336,
+    "GuildRequestLimitCount": 5,
+    "GuildMasterAutoLeaveDurationHour": 336,
+    "GuildWatchListCountMax": 20,
+    "GuildDefaultReleaseGuildBonusId": 1,
+    "GuildSubMasterMaxMemberCount": 4,
+    "GuildExpTitleLanguageId": 940000000000104,
+    "GuildExpDescriptionLanguageId": 940000000000105,
+    "GuildBonusExpTitleLanguageId": 940000000000106,
+    "GuildBonusExpDescriptionLanguageId": 940000000000107,
+    "GuildPenaltyReceivedLeaveCount": 2,
+    "GuildPenaltyReceivedLeaveCountResetId": 25,
+    "UserGuildExpResetId": 26
+  }
+]

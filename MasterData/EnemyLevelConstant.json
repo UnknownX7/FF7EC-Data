@@ -1,0 +1,6378 @@
+[
+  {
+    "EnemyLevelConstantGroupId": 1006001,
+    "Level": 1,
+    "ResourceId": 1006001010,
+    "EnemySkillLevelId": 1006001010,
+    "BossCautionLanguageId": 130000001006001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1006001,
+    "Level": 40,
+    "ResourceId": 1006001010,
+    "EnemySkillLevelId": 1006001020,
+    "BossCautionLanguageId": 130000001006001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1006002,
+    "Level": 1,
+    "ResourceId": 1006001010,
+    "EnemySkillLevelId": 1006001030,
+    "BossCautionLanguageId": 130000001006001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1006004,
+    "Level": 1,
+    "ResourceId": 1006004010,
+    "EnemySkillLevelId": 1006001010,
+    "BossCautionLanguageId": 130000001006001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1006004,
+    "Level": 40,
+    "ResourceId": 1006004010,
+    "EnemySkillLevelId": 1006001020,
+    "BossCautionLanguageId": 130000001006001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1006101,
+    "Level": 1,
+    "ResourceId": 1006101010,
+    "EnemySkillLevelId": 1006101010,
+    "BossCautionLanguageId": 130000001006101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1006101,
+    "Level": 40,
+    "ResourceId": 1006101010,
+    "EnemySkillLevelId": 1006101020,
+    "BossCautionLanguageId": 130000001006101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1006102,
+    "Level": 1,
+    "ResourceId": 1006102010,
+    "EnemySkillLevelId": 1006102010,
+    "BossCautionLanguageId": 130000001006101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1010001,
+    "Level": 1,
+    "ResourceId": 1010001010,
+    "EnemySkillLevelId": 1010001010,
+    "BossCautionLanguageId": 130000001010030,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1010002,
+    "Level": 1,
+    "ResourceId": 1010002010,
+    "EnemySkillLevelId": 1010002010,
+    "BossCautionLanguageId": 130000001010030,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1010003,
+    "Level": 1,
+    "ResourceId": 1055003010,
+    "EnemySkillLevelId": 1010003010,
+    "BossCautionLanguageId": 130000001010030,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1010004,
+    "Level": 1,
+    "ResourceId": 1055003010,
+    "EnemySkillLevelId": 1010004010,
+    "BossCautionLanguageId": 130000001010030,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1010010,
+    "Level": 1,
+    "ResourceId": 1055010010,
+    "EnemySkillLevelId": 1010010010,
+    "BossCautionLanguageId": 130000001010030,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1010012,
+    "Level": 1,
+    "ResourceId": 1055011010,
+    "EnemySkillLevelId": 1010011010,
+    "BossCautionLanguageId": 130000001010030,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012005,
+    "Level": 1,
+    "ResourceId": 1012002010,
+    "EnemySkillLevelId": 1012001010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012006,
+    "Level": 1,
+    "ResourceId": 1012002010,
+    "EnemySkillLevelId": 1012002010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012007,
+    "Level": 1,
+    "ResourceId": 1012002010,
+    "EnemySkillLevelId": 1012003010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012008,
+    "Level": 1,
+    "ResourceId": 1012002010,
+    "EnemySkillLevelId": 1012004010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012009,
+    "Level": 1,
+    "ResourceId": 1012003010,
+    "EnemySkillLevelId": 1012001010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012010,
+    "Level": 1,
+    "ResourceId": 1012003010,
+    "EnemySkillLevelId": 1012002010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012011,
+    "Level": 1,
+    "ResourceId": 1012003010,
+    "EnemySkillLevelId": 1012003010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012012,
+    "Level": 1,
+    "ResourceId": 1012003010,
+    "EnemySkillLevelId": 1012004010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012013,
+    "Level": 1,
+    "ResourceId": 1012004010,
+    "EnemySkillLevelId": 1012006010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012014,
+    "Level": 1,
+    "ResourceId": 1012004010,
+    "EnemySkillLevelId": 1012006010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012015,
+    "Level": 1,
+    "ResourceId": 1012004010,
+    "EnemySkillLevelId": 1012006010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012016,
+    "Level": 1,
+    "ResourceId": 1012005010,
+    "EnemySkillLevelId": 1012006010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012017,
+    "Level": 1,
+    "ResourceId": 1012005010,
+    "EnemySkillLevelId": 1012006010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012031,
+    "Level": 1,
+    "ResourceId": 1012001010,
+    "EnemySkillLevelId": 1012001010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012032,
+    "Level": 1,
+    "ResourceId": 1012001010,
+    "EnemySkillLevelId": 1012002010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012033,
+    "Level": 1,
+    "ResourceId": 1012001010,
+    "EnemySkillLevelId": 1012003010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012034,
+    "Level": 1,
+    "ResourceId": 1012001010,
+    "EnemySkillLevelId": 1012004010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1012035,
+    "Level": 1,
+    "ResourceId": 1012001010,
+    "EnemySkillLevelId": 1012005010,
+    "BossCautionLanguageId": 130000001012031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013001,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013002,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013003,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001020,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013004,
+    "Level": 1,
+    "ResourceId": 1013001010,
+    "EnemySkillLevelId": 1013001030,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013005,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013006,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013007,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001020,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013008,
+    "Level": 1,
+    "ResourceId": 1013002010,
+    "EnemySkillLevelId": 1013001030,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013009,
+    "Level": 1,
+    "ResourceId": 1013003010,
+    "EnemySkillLevelId": 1013001010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013010,
+    "Level": 1,
+    "ResourceId": 1013003010,
+    "EnemySkillLevelId": 1013001010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013011,
+    "Level": 1,
+    "ResourceId": 1013003010,
+    "EnemySkillLevelId": 1013001020,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013012,
+    "Level": 1,
+    "ResourceId": 1013003010,
+    "EnemySkillLevelId": 1013001030,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013013,
+    "Level": 1,
+    "ResourceId": 1013004010,
+    "EnemySkillLevelId": 1013004010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013014,
+    "Level": 1,
+    "ResourceId": 1013004010,
+    "EnemySkillLevelId": 1013004010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013015,
+    "Level": 1,
+    "ResourceId": 1013004010,
+    "EnemySkillLevelId": 1013004010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013016,
+    "Level": 1,
+    "ResourceId": 1013005010,
+    "EnemySkillLevelId": 1013004010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1013017,
+    "Level": 1,
+    "ResourceId": 1013005010,
+    "EnemySkillLevelId": 1013004010,
+    "BossCautionLanguageId": 130000001013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014001,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014002,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014003,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001020,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014004,
+    "Level": 1,
+    "ResourceId": 1014001010,
+    "EnemySkillLevelId": 1014001030,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014005,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014006,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014007,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001020,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014008,
+    "Level": 1,
+    "ResourceId": 1014002010,
+    "EnemySkillLevelId": 1014001030,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014009,
+    "Level": 1,
+    "ResourceId": 1014003010,
+    "EnemySkillLevelId": 1014001010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014010,
+    "Level": 1,
+    "ResourceId": 1014003010,
+    "EnemySkillLevelId": 1014001010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014011,
+    "Level": 1,
+    "ResourceId": 1014003010,
+    "EnemySkillLevelId": 1014001020,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014012,
+    "Level": 1,
+    "ResourceId": 1014003010,
+    "EnemySkillLevelId": 1014001030,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014013,
+    "Level": 1,
+    "ResourceId": 1014004010,
+    "EnemySkillLevelId": 1014004010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014014,
+    "Level": 1,
+    "ResourceId": 1014004010,
+    "EnemySkillLevelId": 1014004010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014015,
+    "Level": 1,
+    "ResourceId": 1014004010,
+    "EnemySkillLevelId": 1014004010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014016,
+    "Level": 1,
+    "ResourceId": 1014005010,
+    "EnemySkillLevelId": 1014004010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1014017,
+    "Level": 1,
+    "ResourceId": 1014005010,
+    "EnemySkillLevelId": 1014004010,
+    "BossCautionLanguageId": 130000001014001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015031,
+    "Level": 1,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015031015,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015031,
+    "Level": 40,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015031025,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015032,
+    "Level": 1,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015031015,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015032,
+    "Level": 40,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015031025,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015033,
+    "Level": 1,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015033015,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015033,
+    "Level": 40,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015033025,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015034,
+    "Level": 1,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015034015,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015034,
+    "Level": 40,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015034025,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015035,
+    "Level": 1,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015035015,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015036,
+    "Level": 1,
+    "ResourceId": 1015031015,
+    "EnemySkillLevelId": 1015031015,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1015037,
+    "Level": 1,
+    "ResourceId": 1015031020,
+    "EnemySkillLevelId": 1015037015,
+    "BossCautionLanguageId": 130000001015031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1057001,
+    "Level": 1,
+    "ResourceId": 1057001010,
+    "EnemySkillLevelId": 1057001010,
+    "BossCautionLanguageId": 130000001057001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1057002,
+    "Level": 1,
+    "ResourceId": 1057002010,
+    "EnemySkillLevelId": 1057001010,
+    "BossCautionLanguageId": 130000001057001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001031,
+    "Level": 1,
+    "ResourceId": 2001001010,
+    "EnemySkillLevelId": 2001001010,
+    "BossCautionLanguageId": 130000002001001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001131,
+    "Level": 1,
+    "ResourceId": 2001101010,
+    "EnemySkillLevelId": 2001101010,
+    "BossCautionLanguageId": 130000002001101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001231,
+    "Level": 1,
+    "ResourceId": 2001201010,
+    "EnemySkillLevelId": 2001201010,
+    "BossCautionLanguageId": 130000002001201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001331,
+    "Level": 1,
+    "ResourceId": 2001331015,
+    "EnemySkillLevelId": 2001331015,
+    "BossCautionLanguageId": 130000002001331,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001332,
+    "Level": 1,
+    "ResourceId": 2001331015,
+    "EnemySkillLevelId": 2001332015,
+    "BossCautionLanguageId": 130000002001331,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001333,
+    "Level": 1,
+    "ResourceId": 2001331015,
+    "EnemySkillLevelId": 2001331015,
+    "BossCautionLanguageId": 130000002001331,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001334,
+    "Level": 1,
+    "ResourceId": 2001331020,
+    "EnemySkillLevelId": 2001331015,
+    "BossCautionLanguageId": 130000002001331,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001401,
+    "Level": 1,
+    "ResourceId": 2001401010,
+    "EnemySkillLevelId": 2001401010,
+    "BossCautionLanguageId": 130000002001401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001431,
+    "Level": 1,
+    "ResourceId": 2001401010,
+    "EnemySkillLevelId": 2001401010,
+    "BossCautionLanguageId": 130000002001401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001501,
+    "Level": 1,
+    "ResourceId": 2001501010,
+    "EnemySkillLevelId": 2001501010,
+    "BossCautionLanguageId": 130000002001501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2001531,
+    "Level": 1,
+    "ResourceId": 2001501010,
+    "EnemySkillLevelId": 2001501010,
+    "BossCautionLanguageId": 130000002001501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2002031,
+    "Level": 1,
+    "ResourceId": 2002001010,
+    "EnemySkillLevelId": 2002001010,
+    "BossCautionLanguageId": 130000002002001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2002131,
+    "Level": 1,
+    "ResourceId": 2002101010,
+    "EnemySkillLevelId": 2002101010,
+    "BossCautionLanguageId": 130000002002101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2002231,
+    "Level": 1,
+    "ResourceId": 2002201010,
+    "EnemySkillLevelId": 2002201010,
+    "BossCautionLanguageId": 130000002002201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2006001,
+    "Level": 1,
+    "ResourceId": 2006001010,
+    "EnemySkillLevelId": 2006001010,
+    "BossCautionLanguageId": 130000002006001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2006101,
+    "Level": 1,
+    "ResourceId": 2006101010,
+    "EnemySkillLevelId": 2006101010,
+    "BossCautionLanguageId": 130000002006101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2006201,
+    "Level": 1,
+    "ResourceId": 2006201010,
+    "EnemySkillLevelId": 2006201010,
+    "BossCautionLanguageId": 130000002006201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2007001,
+    "Level": 1,
+    "ResourceId": 2007001010,
+    "EnemySkillLevelId": 2007001010,
+    "BossCautionLanguageId": 130000002007001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2007101,
+    "Level": 1,
+    "ResourceId": 2007101010,
+    "EnemySkillLevelId": 2007101010,
+    "BossCautionLanguageId": 130000002007101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2008001,
+    "Level": 1,
+    "ResourceId": 2008001010,
+    "EnemySkillLevelId": 2008001010,
+    "BossCautionLanguageId": 130000002008001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2008101,
+    "Level": 1,
+    "ResourceId": 2008101010,
+    "EnemySkillLevelId": 2008101010,
+    "BossCautionLanguageId": 130000002008101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2008102,
+    "Level": 1,
+    "ResourceId": 2008102010,
+    "EnemySkillLevelId": 2008102010,
+    "BossCautionLanguageId": 130000002008102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2008103,
+    "Level": 1,
+    "ResourceId": 2008102010,
+    "EnemySkillLevelId": 2008103010,
+    "BossCautionLanguageId": 130000002008102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2008104,
+    "Level": 1,
+    "ResourceId": 2008102010,
+    "EnemySkillLevelId": 2008104010,
+    "BossCautionLanguageId": 130000002008102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2008105,
+    "Level": 1,
+    "ResourceId": 2008102010,
+    "EnemySkillLevelId": 2008102010,
+    "BossCautionLanguageId": 130000002008102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2008201,
+    "Level": 1,
+    "ResourceId": 2008201010,
+    "EnemySkillLevelId": 2008201010,
+    "BossCautionLanguageId": 130000002008201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2011001,
+    "Level": 1,
+    "ResourceId": 2011001010,
+    "EnemySkillLevelId": 2011001010,
+    "BossCautionLanguageId": 130000002011001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2011002,
+    "Level": 1,
+    "ResourceId": 2011002010,
+    "EnemySkillLevelId": 2011002010,
+    "BossCautionLanguageId": 130000002011002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2011003,
+    "Level": 1,
+    "ResourceId": 2011002010,
+    "EnemySkillLevelId": 2011003010,
+    "BossCautionLanguageId": 130000002011002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2011004,
+    "Level": 1,
+    "ResourceId": 2011002010,
+    "EnemySkillLevelId": 2011004010,
+    "BossCautionLanguageId": 130000002011002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2011005,
+    "Level": 1,
+    "ResourceId": 2011002010,
+    "EnemySkillLevelId": 2011005010,
+    "BossCautionLanguageId": 130000002011002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2012031,
+    "Level": 1,
+    "ResourceId": 2012001010,
+    "EnemySkillLevelId": 2012001010,
+    "BossCautionLanguageId": 130000002012001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2012035,
+    "Level": 1,
+    "ResourceId": 2012004010,
+    "EnemySkillLevelId": 2012004010,
+    "BossCautionLanguageId": 130000002012035,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2012037,
+    "Level": 1,
+    "ResourceId": 2012004010,
+    "EnemySkillLevelId": 2012004010,
+    "BossCautionLanguageId": 130000002012035,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2012041,
+    "Level": 1,
+    "ResourceId": 2012007010,
+    "EnemySkillLevelId": 2012007010,
+    "BossCautionLanguageId": 130000002012035,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2012043,
+    "Level": 1,
+    "ResourceId": 2012007010,
+    "EnemySkillLevelId": 2012007010,
+    "BossCautionLanguageId": 130000002012035,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2013001,
+    "Level": 1,
+    "ResourceId": 2013001010,
+    "EnemySkillLevelId": 2013001010,
+    "BossCautionLanguageId": 130000002013001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015001,
+    "Level": 1,
+    "ResourceId": 2015001010,
+    "EnemySkillLevelId": 2015001010,
+    "BossCautionLanguageId": 130000002015001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015005,
+    "Level": 1,
+    "ResourceId": 2015005010,
+    "EnemySkillLevelId": 2015005010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015009,
+    "Level": 1,
+    "ResourceId": 2015005010,
+    "EnemySkillLevelId": 2015009010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015010,
+    "Level": 1,
+    "ResourceId": 2015005010,
+    "EnemySkillLevelId": 2015010010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015011,
+    "Level": 1,
+    "ResourceId": 2015005010,
+    "EnemySkillLevelId": 2015011010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015012,
+    "Level": 1,
+    "ResourceId": 2015005010,
+    "EnemySkillLevelId": 2015012010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015013,
+    "Level": 1,
+    "ResourceId": 2015006010,
+    "EnemySkillLevelId": 2015013010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015014,
+    "Level": 1,
+    "ResourceId": 2015006010,
+    "EnemySkillLevelId": 2015014010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015015,
+    "Level": 1,
+    "ResourceId": 2015006010,
+    "EnemySkillLevelId": 2015015010,
+    "BossCautionLanguageId": 130000002015005,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015101,
+    "Level": 1,
+    "ResourceId": 2015101010,
+    "EnemySkillLevelId": 2015101010,
+    "BossCautionLanguageId": 130000002015101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015105,
+    "Level": 1,
+    "ResourceId": 2015105010,
+    "EnemySkillLevelId": 2015105010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015109,
+    "Level": 1,
+    "ResourceId": 2015105010,
+    "EnemySkillLevelId": 2015109010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015110,
+    "Level": 1,
+    "ResourceId": 2015105010,
+    "EnemySkillLevelId": 2015110010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015111,
+    "Level": 1,
+    "ResourceId": 2015105010,
+    "EnemySkillLevelId": 2015111010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015112,
+    "Level": 1,
+    "ResourceId": 2015105010,
+    "EnemySkillLevelId": 2015112010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015113,
+    "Level": 1,
+    "ResourceId": 2015106010,
+    "EnemySkillLevelId": 2015113010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015114,
+    "Level": 1,
+    "ResourceId": 2015106010,
+    "EnemySkillLevelId": 2015114010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015115,
+    "Level": 1,
+    "ResourceId": 2015106010,
+    "EnemySkillLevelId": 2015115010,
+    "BossCautionLanguageId": 130000002015105,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015201,
+    "Level": 1,
+    "ResourceId": 2015201010,
+    "EnemySkillLevelId": 2015201010,
+    "BossCautionLanguageId": 130000002015201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015205,
+    "Level": 1,
+    "ResourceId": 2015205010,
+    "EnemySkillLevelId": 2015205010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015209,
+    "Level": 1,
+    "ResourceId": 2015205010,
+    "EnemySkillLevelId": 2015209010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015210,
+    "Level": 1,
+    "ResourceId": 2015205010,
+    "EnemySkillLevelId": 2015210010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015211,
+    "Level": 1,
+    "ResourceId": 2015205010,
+    "EnemySkillLevelId": 2015211010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015212,
+    "Level": 1,
+    "ResourceId": 2015205010,
+    "EnemySkillLevelId": 2015212010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015213,
+    "Level": 1,
+    "ResourceId": 2015206010,
+    "EnemySkillLevelId": 2015213010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015214,
+    "Level": 1,
+    "ResourceId": 2015206010,
+    "EnemySkillLevelId": 2015214010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2015215,
+    "Level": 1,
+    "ResourceId": 2015206010,
+    "EnemySkillLevelId": 2015215010,
+    "BossCautionLanguageId": 130000002015205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2016001,
+    "Level": 1,
+    "ResourceId": 2016001010,
+    "EnemySkillLevelId": 2016001010,
+    "BossCautionLanguageId": 130000002016001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2016101,
+    "Level": 1,
+    "ResourceId": 2016101010,
+    "EnemySkillLevelId": 2016101010,
+    "BossCautionLanguageId": 130000002016101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2016201,
+    "Level": 1,
+    "ResourceId": 2016201010,
+    "EnemySkillLevelId": 2016201010,
+    "BossCautionLanguageId": 130000002016201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022001,
+    "Level": 1,
+    "ResourceId": 2022001010,
+    "EnemySkillLevelId": 2022001010,
+    "BossCautionLanguageId": 130000002022001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022004,
+    "Level": 1,
+    "ResourceId": 2022004010,
+    "EnemySkillLevelId": 2022004010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022006,
+    "Level": 1,
+    "ResourceId": 2022004010,
+    "EnemySkillLevelId": 2022006010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022007,
+    "Level": 1,
+    "ResourceId": 2022004010,
+    "EnemySkillLevelId": 2022007010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022008,
+    "Level": 1,
+    "ResourceId": 2022004010,
+    "EnemySkillLevelId": 2022008010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022009,
+    "Level": 1,
+    "ResourceId": 2022009010,
+    "EnemySkillLevelId": 2022009010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022011,
+    "Level": 1,
+    "ResourceId": 2022009010,
+    "EnemySkillLevelId": 2022011010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022012,
+    "Level": 1,
+    "ResourceId": 2022009010,
+    "EnemySkillLevelId": 2022012010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022013,
+    "Level": 1,
+    "ResourceId": 2022009010,
+    "EnemySkillLevelId": 2022013010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022014,
+    "Level": 1,
+    "ResourceId": 2022004010,
+    "EnemySkillLevelId": 2022014010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022015,
+    "Level": 1,
+    "ResourceId": 2022009010,
+    "EnemySkillLevelId": 2022015010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022016,
+    "Level": 1,
+    "ResourceId": 2022016010,
+    "EnemySkillLevelId": 2022016010,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022017,
+    "Level": 1,
+    "ResourceId": 2022016010,
+    "EnemySkillLevelId": 2022016020,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022018,
+    "Level": 1,
+    "ResourceId": 2022016010,
+    "EnemySkillLevelId": 2022016030,
+    "BossCautionLanguageId": 130000002022009,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022101,
+    "Level": 1,
+    "ResourceId": 2022101010,
+    "EnemySkillLevelId": 2022101010,
+    "BossCautionLanguageId": 130000002022101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022104,
+    "Level": 1,
+    "ResourceId": 2022104010,
+    "EnemySkillLevelId": 2022104010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022106,
+    "Level": 1,
+    "ResourceId": 2022104010,
+    "EnemySkillLevelId": 2022106010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022107,
+    "Level": 1,
+    "ResourceId": 2022104010,
+    "EnemySkillLevelId": 2022107010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022108,
+    "Level": 1,
+    "ResourceId": 2022104010,
+    "EnemySkillLevelId": 2022108010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022109,
+    "Level": 1,
+    "ResourceId": 2022109010,
+    "EnemySkillLevelId": 2022109010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022111,
+    "Level": 1,
+    "ResourceId": 2022109010,
+    "EnemySkillLevelId": 2022111010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022112,
+    "Level": 1,
+    "ResourceId": 2022109010,
+    "EnemySkillLevelId": 2022112010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022113,
+    "Level": 1,
+    "ResourceId": 2022109010,
+    "EnemySkillLevelId": 2022113010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022114,
+    "Level": 1,
+    "ResourceId": 2022104010,
+    "EnemySkillLevelId": 2022114010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022115,
+    "Level": 1,
+    "ResourceId": 2022109010,
+    "EnemySkillLevelId": 2022115010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022116,
+    "Level": 1,
+    "ResourceId": 2022116010,
+    "EnemySkillLevelId": 2022116010,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022117,
+    "Level": 1,
+    "ResourceId": 2022116010,
+    "EnemySkillLevelId": 2022116020,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022118,
+    "Level": 1,
+    "ResourceId": 2022116010,
+    "EnemySkillLevelId": 2022116030,
+    "BossCautionLanguageId": 130000002022109,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022201,
+    "Level": 1,
+    "ResourceId": 2022201010,
+    "EnemySkillLevelId": 2022201010,
+    "BossCautionLanguageId": 130000002022201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022204,
+    "Level": 1,
+    "ResourceId": 2022204010,
+    "EnemySkillLevelId": 2022204010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022206,
+    "Level": 1,
+    "ResourceId": 2022204010,
+    "EnemySkillLevelId": 2022206010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022207,
+    "Level": 1,
+    "ResourceId": 2022204010,
+    "EnemySkillLevelId": 2022207010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022208,
+    "Level": 1,
+    "ResourceId": 2022204010,
+    "EnemySkillLevelId": 2022208010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022209,
+    "Level": 1,
+    "ResourceId": 2022209010,
+    "EnemySkillLevelId": 2022209010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022211,
+    "Level": 1,
+    "ResourceId": 2022209010,
+    "EnemySkillLevelId": 2022211010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022212,
+    "Level": 1,
+    "ResourceId": 2022209010,
+    "EnemySkillLevelId": 2022212010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022213,
+    "Level": 1,
+    "ResourceId": 2022209010,
+    "EnemySkillLevelId": 2022213010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022214,
+    "Level": 1,
+    "ResourceId": 2022204010,
+    "EnemySkillLevelId": 2022214010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022215,
+    "Level": 1,
+    "ResourceId": 2022209010,
+    "EnemySkillLevelId": 2022215010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022216,
+    "Level": 1,
+    "ResourceId": 2022216010,
+    "EnemySkillLevelId": 2022216010,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022217,
+    "Level": 1,
+    "ResourceId": 2022216010,
+    "EnemySkillLevelId": 2022216020,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2022218,
+    "Level": 1,
+    "ResourceId": 2022216010,
+    "EnemySkillLevelId": 2022216030,
+    "BossCautionLanguageId": 130000002022209,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2023001,
+    "Level": 1,
+    "ResourceId": 2023001010,
+    "EnemySkillLevelId": 2023001010,
+    "BossCautionLanguageId": 130000002023001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2023101,
+    "Level": 1,
+    "ResourceId": 2023101010,
+    "EnemySkillLevelId": 2023101010,
+    "BossCautionLanguageId": 130000002023101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2023201,
+    "Level": 1,
+    "ResourceId": 2023201010,
+    "EnemySkillLevelId": 2023201010,
+    "BossCautionLanguageId": 130000002023201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2024001,
+    "Level": 1,
+    "ResourceId": 2024001010,
+    "EnemySkillLevelId": 2024001010,
+    "BossCautionLanguageId": 130000002024001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2024101,
+    "Level": 1,
+    "ResourceId": 2024101010,
+    "EnemySkillLevelId": 2024101010,
+    "BossCautionLanguageId": 130000002024101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2024201,
+    "Level": 1,
+    "ResourceId": 2024201010,
+    "EnemySkillLevelId": 2024201010,
+    "BossCautionLanguageId": 130000002024201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025001,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025001010,
+    "BossCautionLanguageId": 130000002025001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025002,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025002010,
+    "BossCautionLanguageId": 130000002025001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025003,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025003010,
+    "BossCautionLanguageId": 130000002025001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025004,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025004010,
+    "BossCautionLanguageId": 130000002025001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025005,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025005010,
+    "BossCautionLanguageId": 130000002025001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025006,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025006010,
+    "BossCautionLanguageId": 130000002025001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025007,
+    "Level": 1,
+    "ResourceId": 2025002010,
+    "EnemySkillLevelId": 2025004010,
+    "BossCautionLanguageId": 130000002025001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025101,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025001010,
+    "BossCautionLanguageId": 130000002025101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025102,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025002010,
+    "BossCautionLanguageId": 130000002025101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025103,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025003010,
+    "BossCautionLanguageId": 130000002025101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025104,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025004010,
+    "BossCautionLanguageId": 130000002025101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025105,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025005010,
+    "BossCautionLanguageId": 130000002025101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025106,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025006010,
+    "BossCautionLanguageId": 130000002025101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025201,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025001010,
+    "BossCautionLanguageId": 130000002025201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025202,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025002010,
+    "BossCautionLanguageId": 130000002025201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025203,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025003010,
+    "BossCautionLanguageId": 130000002025201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025204,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025004010,
+    "BossCautionLanguageId": 130000002025201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025205,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025005010,
+    "BossCautionLanguageId": 130000002025201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025206,
+    "Level": 1,
+    "ResourceId": 2025001010,
+    "EnemySkillLevelId": 2025006010,
+    "BossCautionLanguageId": 130000002025201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025301,
+    "Level": 1,
+    "ResourceId": 2025301010,
+    "EnemySkillLevelId": 2025001010,
+    "BossCautionLanguageId": 130000002025301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025302,
+    "Level": 1,
+    "ResourceId": 2025301010,
+    "EnemySkillLevelId": 2025002010,
+    "BossCautionLanguageId": 130000002025301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025303,
+    "Level": 1,
+    "ResourceId": 2025301010,
+    "EnemySkillLevelId": 2025003010,
+    "BossCautionLanguageId": 130000002025301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025304,
+    "Level": 1,
+    "ResourceId": 2025301010,
+    "EnemySkillLevelId": 2025004010,
+    "BossCautionLanguageId": 130000002025301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025305,
+    "Level": 1,
+    "ResourceId": 2025301010,
+    "EnemySkillLevelId": 2025005010,
+    "BossCautionLanguageId": 130000002025301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2025306,
+    "Level": 1,
+    "ResourceId": 2025301010,
+    "EnemySkillLevelId": 2025006010,
+    "BossCautionLanguageId": 130000002025301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026001,
+    "Level": 1,
+    "ResourceId": 2026001010,
+    "EnemySkillLevelId": 2026001010,
+    "BossCautionLanguageId": 130000002026001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026002,
+    "Level": 1,
+    "ResourceId": 2026002010,
+    "EnemySkillLevelId": 2026002010,
+    "BossCautionLanguageId": 130000002026001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026003,
+    "Level": 1,
+    "ResourceId": 2026003010,
+    "EnemySkillLevelId": 2026003010,
+    "BossCautionLanguageId": 130000002026001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026101,
+    "Level": 1,
+    "ResourceId": 2026101010,
+    "EnemySkillLevelId": 2026101010,
+    "BossCautionLanguageId": 130000002026101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026201,
+    "Level": 1,
+    "ResourceId": 2026101010,
+    "EnemySkillLevelId": 2026101010,
+    "BossCautionLanguageId": 130000002026201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026301,
+    "Level": 1,
+    "ResourceId": 2026301010,
+    "EnemySkillLevelId": 2026301010,
+    "BossCautionLanguageId": 130000002026301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026302,
+    "Level": 1,
+    "ResourceId": 2026302010,
+    "EnemySkillLevelId": 2026302010,
+    "BossCautionLanguageId": 130000002026301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026401,
+    "Level": 1,
+    "ResourceId": 2026401010,
+    "EnemySkillLevelId": 2026401010,
+    "BossCautionLanguageId": 130000002026401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026402,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "BossCautionLanguageId": 130000002026401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026403,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "BossCautionLanguageId": 130000002026401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026404,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "BossCautionLanguageId": 130000002026401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2026405,
+    "Level": 1,
+    "ResourceId": 2026402010,
+    "EnemySkillLevelId": 2026402010,
+    "BossCautionLanguageId": 130000002026401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027001,
+    "Level": 1,
+    "ResourceId": 2027001010,
+    "EnemySkillLevelId": 2027001010,
+    "BossCautionLanguageId": 130000002027001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027101,
+    "Level": 1,
+    "ResourceId": 2027101010,
+    "EnemySkillLevelId": 2027101010,
+    "BossCautionLanguageId": 130000002027101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027201,
+    "Level": 1,
+    "ResourceId": 2027201010,
+    "EnemySkillLevelId": 2027201010,
+    "BossCautionLanguageId": 130000002027201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027205,
+    "Level": 1,
+    "ResourceId": 2027205010,
+    "EnemySkillLevelId": 2027205010,
+    "BossCautionLanguageId": 130000002027205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027207,
+    "Level": 1,
+    "ResourceId": 2027205010,
+    "EnemySkillLevelId": 2027207010,
+    "BossCautionLanguageId": 130000002027205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027208,
+    "Level": 1,
+    "ResourceId": 2027205010,
+    "EnemySkillLevelId": 2027208010,
+    "BossCautionLanguageId": 130000002027205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027209,
+    "Level": 1,
+    "ResourceId": 2027205010,
+    "EnemySkillLevelId": 2027209010,
+    "BossCautionLanguageId": 130000002027205,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2027301,
+    "Level": 1,
+    "ResourceId": 2027301010,
+    "EnemySkillLevelId": 2027301010,
+    "BossCautionLanguageId": 130000002027301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2031001,
+    "Level": 1,
+    "ResourceId": 2031001010,
+    "EnemySkillLevelId": 2031001010,
+    "BossCautionLanguageId": 130000002031001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2031101,
+    "Level": 1,
+    "ResourceId": 2031101010,
+    "EnemySkillLevelId": 2031101010,
+    "BossCautionLanguageId": 130000002031101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2032001,
+    "Level": 1,
+    "ResourceId": 2032001010,
+    "EnemySkillLevelId": 2032001010,
+    "BossCautionLanguageId": 130000002032001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2032101,
+    "Level": 1,
+    "ResourceId": 2032101010,
+    "EnemySkillLevelId": 2032101010,
+    "BossCautionLanguageId": 130000002032101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2033001,
+    "Level": 1,
+    "ResourceId": 2033001010,
+    "EnemySkillLevelId": 2033001010,
+    "BossCautionLanguageId": 130000002033001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2033101,
+    "Level": 1,
+    "ResourceId": 2033101010,
+    "EnemySkillLevelId": 2033101010,
+    "BossCautionLanguageId": 130000002033101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2033201,
+    "Level": 1,
+    "ResourceId": 2033201010,
+    "EnemySkillLevelId": 2033201010,
+    "BossCautionLanguageId": 130000002033201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034001,
+    "Level": 1,
+    "ResourceId": 2034001010,
+    "EnemySkillLevelId": 2034001010,
+    "BossCautionLanguageId": 130000002034001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034004,
+    "Level": 1,
+    "ResourceId": 2034004010,
+    "EnemySkillLevelId": 2034004010,
+    "BossCautionLanguageId": 130000002034004,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034006,
+    "Level": 1,
+    "ResourceId": 2034004010,
+    "EnemySkillLevelId": 2034006010,
+    "BossCautionLanguageId": 130000002034004,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034007,
+    "Level": 1,
+    "ResourceId": 2034004010,
+    "EnemySkillLevelId": 2034007010,
+    "BossCautionLanguageId": 130000002034004,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034008,
+    "Level": 1,
+    "ResourceId": 2034004010,
+    "EnemySkillLevelId": 2034008010,
+    "BossCautionLanguageId": 130000002034004,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034101,
+    "Level": 1,
+    "ResourceId": 2034101010,
+    "EnemySkillLevelId": 2034101010,
+    "BossCautionLanguageId": 130000002034101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034104,
+    "Level": 1,
+    "ResourceId": 2034104010,
+    "EnemySkillLevelId": 2034104010,
+    "BossCautionLanguageId": 130000002034104,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034106,
+    "Level": 1,
+    "ResourceId": 2034104010,
+    "EnemySkillLevelId": 2034106010,
+    "BossCautionLanguageId": 130000002034104,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034107,
+    "Level": 1,
+    "ResourceId": 2034104010,
+    "EnemySkillLevelId": 2034107010,
+    "BossCautionLanguageId": 130000002034104,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2034108,
+    "Level": 1,
+    "ResourceId": 2034104010,
+    "EnemySkillLevelId": 2034108010,
+    "BossCautionLanguageId": 130000002034104,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2035001,
+    "Level": 1,
+    "ResourceId": 2035001010,
+    "EnemySkillLevelId": 2035001010,
+    "BossCautionLanguageId": 130000002035001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2035101,
+    "Level": 1,
+    "ResourceId": 2035101010,
+    "EnemySkillLevelId": 2035001010,
+    "BossCautionLanguageId": 130000002035101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037001,
+    "Level": 1,
+    "ResourceId": 2037001010,
+    "EnemySkillLevelId": 2037001010,
+    "BossCautionLanguageId": 130000002037001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037002,
+    "Level": 1,
+    "ResourceId": 2037001010,
+    "EnemySkillLevelId": 2037001010,
+    "BossCautionLanguageId": 130000002037001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037003,
+    "Level": 1,
+    "ResourceId": 2037002010,
+    "EnemySkillLevelId": 2037002010,
+    "BossCautionLanguageId": 130000002037002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037004,
+    "Level": 1,
+    "ResourceId": 2037002010,
+    "EnemySkillLevelId": 2037002010,
+    "BossCautionLanguageId": 130000002037002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037005,
+    "Level": 1,
+    "ResourceId": 2037002010,
+    "EnemySkillLevelId": 2037003010,
+    "BossCautionLanguageId": 130000002037002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037006,
+    "Level": 1,
+    "ResourceId": 2037002010,
+    "EnemySkillLevelId": 2037004010,
+    "BossCautionLanguageId": 130000002037002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037007,
+    "Level": 1,
+    "ResourceId": 2037002010,
+    "EnemySkillLevelId": 2037002010,
+    "BossCautionLanguageId": 130000002037002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037101,
+    "Level": 1,
+    "ResourceId": 2037101010,
+    "EnemySkillLevelId": 2037101010,
+    "BossCautionLanguageId": 130000002037101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037102,
+    "Level": 1,
+    "ResourceId": 2037101010,
+    "EnemySkillLevelId": 2037101010,
+    "BossCautionLanguageId": 130000002037101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037103,
+    "Level": 1,
+    "ResourceId": 2037102010,
+    "EnemySkillLevelId": 2037102010,
+    "BossCautionLanguageId": 130000002037102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037104,
+    "Level": 1,
+    "ResourceId": 2037102010,
+    "EnemySkillLevelId": 2037102010,
+    "BossCautionLanguageId": 130000002037102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037105,
+    "Level": 1,
+    "ResourceId": 2037102010,
+    "EnemySkillLevelId": 2037103010,
+    "BossCautionLanguageId": 130000002037102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2037106,
+    "Level": 1,
+    "ResourceId": 2037102010,
+    "EnemySkillLevelId": 2037104010,
+    "BossCautionLanguageId": 130000002037102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2038001,
+    "Level": 1,
+    "ResourceId": 2038001010,
+    "EnemySkillLevelId": 2038001010,
+    "BossCautionLanguageId": 130000002038001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2039001,
+    "Level": 1,
+    "ResourceId": 2039001010,
+    "EnemySkillLevelId": 2039001010,
+    "BossCautionLanguageId": 130000002039001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2040001,
+    "Level": 1,
+    "ResourceId": 2040001010,
+    "EnemySkillLevelId": 2040001010,
+    "BossCautionLanguageId": 130000002040001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2040101,
+    "Level": 1,
+    "ResourceId": 2040101010,
+    "EnemySkillLevelId": 2040101010,
+    "BossCautionLanguageId": 130000002040101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042001,
+    "Level": 1,
+    "ResourceId": 2042001010,
+    "EnemySkillLevelId": 2042001010,
+    "BossCautionLanguageId": 130000002042001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042002,
+    "Level": 1,
+    "ResourceId": 2042002010,
+    "EnemySkillLevelId": 2042002010,
+    "BossCautionLanguageId": 130000002042002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042003,
+    "Level": 1,
+    "ResourceId": 2042002010,
+    "EnemySkillLevelId": 2042003010,
+    "BossCautionLanguageId": 130000002042002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042004,
+    "Level": 1,
+    "ResourceId": 2042002010,
+    "EnemySkillLevelId": 2042004010,
+    "BossCautionLanguageId": 130000002042002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042005,
+    "Level": 1,
+    "ResourceId": 2042002010,
+    "EnemySkillLevelId": 2042005010,
+    "BossCautionLanguageId": 130000002042002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042101,
+    "Level": 1,
+    "ResourceId": 2042101010,
+    "EnemySkillLevelId": 2042101010,
+    "BossCautionLanguageId": 130000002042101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042102,
+    "Level": 1,
+    "ResourceId": 2042102010,
+    "EnemySkillLevelId": 2042102010,
+    "BossCautionLanguageId": 130000002042102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042103,
+    "Level": 1,
+    "ResourceId": 2042102010,
+    "EnemySkillLevelId": 2042103010,
+    "BossCautionLanguageId": 130000002042102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042104,
+    "Level": 1,
+    "ResourceId": 2042102010,
+    "EnemySkillLevelId": 2042104010,
+    "BossCautionLanguageId": 130000002042102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2042105,
+    "Level": 1,
+    "ResourceId": 2042102010,
+    "EnemySkillLevelId": 2042105010,
+    "BossCautionLanguageId": 130000002042102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2043301,
+    "Level": 1,
+    "ResourceId": 2043301010,
+    "EnemySkillLevelId": 2043301010,
+    "BossCautionLanguageId": 130000002043301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2043302,
+    "Level": 1,
+    "ResourceId": 2043301020,
+    "EnemySkillLevelId": 2043301010,
+    "BossCautionLanguageId": 130000002043301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2043303,
+    "Level": 1,
+    "ResourceId": 2043301030,
+    "EnemySkillLevelId": 2043301010,
+    "BossCautionLanguageId": 130000002043301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2043501,
+    "Level": 1,
+    "ResourceId": 2043501010,
+    "EnemySkillLevelId": 2043501010,
+    "BossCautionLanguageId": 130000002043501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2043502,
+    "Level": 1,
+    "ResourceId": 2043501010,
+    "EnemySkillLevelId": 2043501010,
+    "BossCautionLanguageId": 130000002043501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2043503,
+    "Level": 1,
+    "ResourceId": 2043501010,
+    "EnemySkillLevelId": 2043501010,
+    "BossCautionLanguageId": 130000002043501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2043504,
+    "Level": 1,
+    "ResourceId": 2043501010,
+    "EnemySkillLevelId": 2043501010,
+    "BossCautionLanguageId": 130000002043501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2044201,
+    "Level": 1,
+    "ResourceId": 2044201010,
+    "EnemySkillLevelId": 2044201010,
+    "BossCautionLanguageId": 130000002044201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2044202,
+    "Level": 1,
+    "ResourceId": 2044201010,
+    "EnemySkillLevelId": 2044201020,
+    "BossCautionLanguageId": 130000002044201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2044203,
+    "Level": 1,
+    "ResourceId": 2044201010,
+    "EnemySkillLevelId": 2044201030,
+    "BossCautionLanguageId": 130000002044201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2044204,
+    "Level": 1,
+    "ResourceId": 2044201010,
+    "EnemySkillLevelId": 2044201040,
+    "BossCautionLanguageId": 130000002044201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2045001,
+    "Level": 1,
+    "ResourceId": 2045001010,
+    "EnemySkillLevelId": 2045001010,
+    "BossCautionLanguageId": 130000002045001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2045101,
+    "Level": 1,
+    "ResourceId": 2045101010,
+    "EnemySkillLevelId": 2045101010,
+    "BossCautionLanguageId": 130000002045101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2045201,
+    "Level": 1,
+    "ResourceId": 2045201010,
+    "EnemySkillLevelId": 2045201010,
+    "BossCautionLanguageId": 130000002045201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2045301,
+    "Level": 1,
+    "ResourceId": 2045301010,
+    "EnemySkillLevelId": 2045301010,
+    "BossCautionLanguageId": 130000002045301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2045401,
+    "Level": 1,
+    "ResourceId": 2045401010,
+    "EnemySkillLevelId": 2045401010,
+    "BossCautionLanguageId": 130000002045401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2045501,
+    "Level": 1,
+    "ResourceId": 2045501010,
+    "EnemySkillLevelId": 2045501010,
+    "BossCautionLanguageId": 130000002045501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2045601,
+    "Level": 1,
+    "ResourceId": 2045601010,
+    "EnemySkillLevelId": 2045601010,
+    "BossCautionLanguageId": 130000002045601,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046001,
+    "Level": 1,
+    "ResourceId": 2046001010,
+    "EnemySkillLevelId": 2046001010,
+    "BossCautionLanguageId": 130000002046001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046002,
+    "Level": 1,
+    "ResourceId": 2046001010,
+    "EnemySkillLevelId": 2046001010,
+    "BossCautionLanguageId": 130000002046001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046003,
+    "Level": 1,
+    "ResourceId": 2046002010,
+    "EnemySkillLevelId": 2046001010,
+    "BossCautionLanguageId": 130000002046002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046004,
+    "Level": 1,
+    "ResourceId": 2046002010,
+    "EnemySkillLevelId": 2046001010,
+    "BossCautionLanguageId": 130000002046002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046101,
+    "Level": 1,
+    "ResourceId": 2046001010,
+    "EnemySkillLevelId": 2046101010,
+    "BossCautionLanguageId": 130000002046101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046102,
+    "Level": 1,
+    "ResourceId": 2046001010,
+    "EnemySkillLevelId": 2046101010,
+    "BossCautionLanguageId": 130000002046101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046103,
+    "Level": 1,
+    "ResourceId": 2046002010,
+    "EnemySkillLevelId": 2046101010,
+    "BossCautionLanguageId": 130000002046102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2046104,
+    "Level": 1,
+    "ResourceId": 2046002010,
+    "EnemySkillLevelId": 2046101010,
+    "BossCautionLanguageId": 130000002046102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2047001,
+    "Level": 1,
+    "ResourceId": 2047001010,
+    "EnemySkillLevelId": 2047001010,
+    "BossCautionLanguageId": 130000002047001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2047002,
+    "Level": 1,
+    "ResourceId": 2047002010,
+    "EnemySkillLevelId": 2047001010,
+    "BossCautionLanguageId": 130000002047001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2047101,
+    "Level": 1,
+    "ResourceId": 2047101010,
+    "EnemySkillLevelId": 2047101010,
+    "BossCautionLanguageId": 130000002047101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2051001,
+    "Level": 1,
+    "ResourceId": 2051001010,
+    "EnemySkillLevelId": 2051001010,
+    "BossCautionLanguageId": 130000002051001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2051005,
+    "Level": 1,
+    "ResourceId": 2051005010,
+    "EnemySkillLevelId": 2051005010,
+    "BossCautionLanguageId": 130000002051001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2051006,
+    "Level": 1,
+    "ResourceId": 2051006010,
+    "EnemySkillLevelId": 2051005010,
+    "BossCautionLanguageId": 130000002051001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052001,
+    "Level": 1,
+    "ResourceId": 2052001010,
+    "EnemySkillLevelId": 2052001010,
+    "BossCautionLanguageId": 130000002052001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052002,
+    "Level": 1,
+    "ResourceId": 2052002010,
+    "EnemySkillLevelId": 2052001010,
+    "BossCautionLanguageId": 130000002052001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052005,
+    "Level": 1,
+    "ResourceId": 2052003010,
+    "EnemySkillLevelId": 2052003010,
+    "BossCautionLanguageId": 130000002052005,
+    "FinalAttackSkillEnemyId": 320523101
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052006,
+    "Level": 1,
+    "ResourceId": 2052003010,
+    "EnemySkillLevelId": 2052003010,
+    "BossCautionLanguageId": 130000002052005,
+    "FinalAttackSkillEnemyId": 320523101
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052007,
+    "Level": 1,
+    "ResourceId": 2052003010,
+    "EnemySkillLevelId": 2052003010,
+    "BossCautionLanguageId": 130000002052005,
+    "FinalAttackSkillEnemyId": 320523102
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052008,
+    "Level": 1,
+    "ResourceId": 2052003010,
+    "EnemySkillLevelId": 2052003010,
+    "BossCautionLanguageId": 130000002052005,
+    "FinalAttackSkillEnemyId": 320523103
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052101,
+    "Level": 1,
+    "ResourceId": 2052101010,
+    "EnemySkillLevelId": 2052101010,
+    "BossCautionLanguageId": 130000002052101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052102,
+    "Level": 1,
+    "ResourceId": 2052102010,
+    "EnemySkillLevelId": 2052101010,
+    "BossCautionLanguageId": 130000002052101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052105,
+    "Level": 1,
+    "ResourceId": 2052103010,
+    "EnemySkillLevelId": 2052103010,
+    "BossCautionLanguageId": 130000002052105,
+    "FinalAttackSkillEnemyId": 320523104
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052106,
+    "Level": 1,
+    "ResourceId": 2052103010,
+    "EnemySkillLevelId": 2052103010,
+    "BossCautionLanguageId": 130000002052105,
+    "FinalAttackSkillEnemyId": 320523104
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052107,
+    "Level": 1,
+    "ResourceId": 2052103010,
+    "EnemySkillLevelId": 2052103010,
+    "BossCautionLanguageId": 130000002052105,
+    "FinalAttackSkillEnemyId": 320523105
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052108,
+    "Level": 1,
+    "ResourceId": 2052103010,
+    "EnemySkillLevelId": 2052103010,
+    "BossCautionLanguageId": 130000002052105,
+    "FinalAttackSkillEnemyId": 320523106
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052201,
+    "Level": 1,
+    "ResourceId": 2052201010,
+    "EnemySkillLevelId": 2052201010,
+    "BossCautionLanguageId": 130000002052201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052202,
+    "Level": 1,
+    "ResourceId": 2052201010,
+    "EnemySkillLevelId": 2052201010,
+    "BossCautionLanguageId": 130000002052201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052203,
+    "Level": 1,
+    "ResourceId": 2052201010,
+    "EnemySkillLevelId": 2052201010,
+    "BossCautionLanguageId": 130000002052201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052204,
+    "Level": 1,
+    "ResourceId": 2052201010,
+    "EnemySkillLevelId": 2052201010,
+    "BossCautionLanguageId": 130000002052201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2052205,
+    "Level": 1,
+    "ResourceId": 2052201010,
+    "EnemySkillLevelId": 2052201010,
+    "BossCautionLanguageId": 130000002052201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053001,
+    "Level": 1,
+    "ResourceId": 2053001010,
+    "EnemySkillLevelId": 2053001010,
+    "BossCautionLanguageId": 130000002053001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053011,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053011010,
+    "BossCautionLanguageId": 130000002053011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053012,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053012010,
+    "BossCautionLanguageId": 130000002053011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053013,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053013010,
+    "BossCautionLanguageId": 130000002053011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053014,
+    "Level": 1,
+    "ResourceId": 2053011010,
+    "EnemySkillLevelId": 2053014010,
+    "BossCautionLanguageId": 130000002053011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053021,
+    "Level": 1,
+    "ResourceId": 2053021010,
+    "EnemySkillLevelId": 2053012010,
+    "BossCautionLanguageId": 130000002053011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053022,
+    "Level": 1,
+    "ResourceId": 2053021010,
+    "EnemySkillLevelId": 2053013010,
+    "BossCautionLanguageId": 130000002053011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053023,
+    "Level": 1,
+    "ResourceId": 2053021010,
+    "EnemySkillLevelId": 2053014010,
+    "BossCautionLanguageId": 130000002053011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053101,
+    "Level": 1,
+    "ResourceId": 2053101010,
+    "EnemySkillLevelId": 2053101010,
+    "BossCautionLanguageId": 130000002053101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053111,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053111010,
+    "BossCautionLanguageId": 130000002053111,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053112,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053112010,
+    "BossCautionLanguageId": 130000002053111,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053113,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053113010,
+    "BossCautionLanguageId": 130000002053111,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053114,
+    "Level": 1,
+    "ResourceId": 2053111010,
+    "EnemySkillLevelId": 2053114010,
+    "BossCautionLanguageId": 130000002053111,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053121,
+    "Level": 1,
+    "ResourceId": 2053121010,
+    "EnemySkillLevelId": 2053112010,
+    "BossCautionLanguageId": 130000002053111,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053122,
+    "Level": 1,
+    "ResourceId": 2053121010,
+    "EnemySkillLevelId": 2053113010,
+    "BossCautionLanguageId": 130000002053111,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2053123,
+    "Level": 1,
+    "ResourceId": 2053121010,
+    "EnemySkillLevelId": 2053114010,
+    "BossCautionLanguageId": 130000002053111,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2054001,
+    "Level": 1,
+    "ResourceId": 2054001010,
+    "EnemySkillLevelId": 2054001010,
+    "BossCautionLanguageId": 130000002054001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2054002,
+    "Level": 1,
+    "ResourceId": 2054002010,
+    "EnemySkillLevelId": 2054002010,
+    "BossCautionLanguageId": 130000002054001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2056001,
+    "Level": 1,
+    "ResourceId": 2056001010,
+    "EnemySkillLevelId": 2056001010,
+    "BossCautionLanguageId": 130000002056002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2056101,
+    "Level": 1,
+    "ResourceId": 2056101010,
+    "EnemySkillLevelId": 2056101010,
+    "BossCautionLanguageId": 130000002056101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2056102,
+    "Level": 1,
+    "ResourceId": 2056101010,
+    "EnemySkillLevelId": 2056101010,
+    "BossCautionLanguageId": 130000002056101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2056103,
+    "Level": 1,
+    "ResourceId": 2056103010,
+    "EnemySkillLevelId": 2056101010,
+    "BossCautionLanguageId": 130000002056101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2056104,
+    "Level": 1,
+    "ResourceId": 2056103010,
+    "EnemySkillLevelId": 2056101010,
+    "BossCautionLanguageId": 130000002056101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2056105,
+    "Level": 1,
+    "ResourceId": 2056105010,
+    "EnemySkillLevelId": 2056101010,
+    "BossCautionLanguageId": 130000002056101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2058001,
+    "Level": 1,
+    "ResourceId": 2058001010,
+    "EnemySkillLevelId": 2058001010,
+    "BossCautionLanguageId": 130000002058001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2058002,
+    "Level": 1,
+    "ResourceId": 2058002010,
+    "EnemySkillLevelId": 2058004010,
+    "BossCautionLanguageId": 130000002058001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2058003,
+    "Level": 1,
+    "ResourceId": 2058002010,
+    "EnemySkillLevelId": 2058003010,
+    "BossCautionLanguageId": 130000002058001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2058004,
+    "Level": 1,
+    "ResourceId": 2058002010,
+    "EnemySkillLevelId": 2058004010,
+    "BossCautionLanguageId": 130000002058001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2058005,
+    "Level": 1,
+    "ResourceId": 2058002010,
+    "EnemySkillLevelId": 2058005010,
+    "BossCautionLanguageId": 130000002058001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059001,
+    "Level": 1,
+    "ResourceId": 2059001010,
+    "EnemySkillLevelId": 2059001010,
+    "BossCautionLanguageId": 130000002059001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059002,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059002010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059003,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059003010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059004,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059004010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059005,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059005010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059011,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059002010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059012,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059003010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059013,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059004010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059014,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059005010,
+    "BossCautionLanguageId": 130000002059002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059101,
+    "Level": 1,
+    "ResourceId": 2059001010,
+    "EnemySkillLevelId": 2059001010,
+    "BossCautionLanguageId": 130000002059101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059102,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059002010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059103,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059003010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059104,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059004010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059105,
+    "Level": 1,
+    "ResourceId": 2059002010,
+    "EnemySkillLevelId": 2059005010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059111,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059002010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059112,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059003010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059113,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059004010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2059114,
+    "Level": 1,
+    "ResourceId": 2059003010,
+    "EnemySkillLevelId": 2059005010,
+    "BossCautionLanguageId": 130000002059102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2061001,
+    "Level": 1,
+    "ResourceId": 2061001010,
+    "EnemySkillLevelId": 2061001010,
+    "BossCautionLanguageId": 130000002061001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2061101,
+    "Level": 1,
+    "ResourceId": 2061002010,
+    "EnemySkillLevelId": 2061101010,
+    "BossCautionLanguageId": 130000002061002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2061102,
+    "Level": 1,
+    "ResourceId": 2061002010,
+    "EnemySkillLevelId": 2061101010,
+    "BossCautionLanguageId": 130000002061002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2062001,
+    "Level": 1,
+    "ResourceId": 2062001010,
+    "EnemySkillLevelId": 2062001010,
+    "BossCautionLanguageId": 130000002062001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2062002,
+    "Level": 1,
+    "ResourceId": 2062002010,
+    "EnemySkillLevelId": 2062002010,
+    "BossCautionLanguageId": 130000002062001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2063001,
+    "Level": 1,
+    "ResourceId": 2063001010,
+    "EnemySkillLevelId": 2063001010,
+    "BossCautionLanguageId": 130000002063001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2063002,
+    "Level": 1,
+    "ResourceId": 2063002010,
+    "EnemySkillLevelId": 2063002010,
+    "BossCautionLanguageId": 130000002063001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2064001,
+    "Level": 1,
+    "ResourceId": 2064001010,
+    "EnemySkillLevelId": 2064001010,
+    "BossCautionLanguageId": 130000002064001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2064002,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
+    "BossCautionLanguageId": 130000002064002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2064003,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
+    "BossCautionLanguageId": 130000002064002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2064101,
+    "Level": 1,
+    "ResourceId": 2064001010,
+    "EnemySkillLevelId": 2064001010,
+    "BossCautionLanguageId": 130000002064101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2064102,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
+    "BossCautionLanguageId": 130000002064102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2064103,
+    "Level": 1,
+    "ResourceId": 2064002010,
+    "EnemySkillLevelId": 2064001010,
+    "BossCautionLanguageId": 130000002064102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065001,
+    "Level": 1,
+    "ResourceId": 2065001010,
+    "EnemySkillLevelId": 2065001010,
+    "BossCautionLanguageId": 130000002065001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065002,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065003010,
+    "BossCautionLanguageId": 130000002065002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065003,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065002010,
+    "BossCautionLanguageId": 130000002065002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065004,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065003010,
+    "BossCautionLanguageId": 130000002065002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065005,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065004010,
+    "BossCautionLanguageId": 130000002065002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065101,
+    "Level": 1,
+    "ResourceId": 2065001010,
+    "EnemySkillLevelId": 2065101010,
+    "BossCautionLanguageId": 130000002065101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065102,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065103010,
+    "BossCautionLanguageId": 130000002065102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065103,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065102010,
+    "BossCautionLanguageId": 130000002065102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065104,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065103010,
+    "BossCautionLanguageId": 130000002065102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2065105,
+    "Level": 1,
+    "ResourceId": 2065002010,
+    "EnemySkillLevelId": 2065104010,
+    "BossCautionLanguageId": 130000002065102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2067001,
+    "Level": 1,
+    "ResourceId": 2067001010,
+    "EnemySkillLevelId": 2067001010,
+    "BossCautionLanguageId": 130000002067001,
+    "FinalAttackSkillEnemyId": 320671001
+  },
+  {
+    "EnemyLevelConstantGroupId": 2067002,
+    "Level": 1,
+    "ResourceId": 2067001010,
+    "EnemySkillLevelId": 2067001010,
+    "BossCautionLanguageId": 130000002067001,
+    "FinalAttackSkillEnemyId": 320671001
+  },
+  {
+    "EnemyLevelConstantGroupId": 2067003,
+    "Level": 1,
+    "ResourceId": 2067001010,
+    "EnemySkillLevelId": 2067001010,
+    "BossCautionLanguageId": 130000002067001,
+    "FinalAttackSkillEnemyId": 320671002
+  },
+  {
+    "EnemyLevelConstantGroupId": 2067004,
+    "Level": 1,
+    "ResourceId": 2067001010,
+    "EnemySkillLevelId": 2067001010,
+    "BossCautionLanguageId": 130000002067001,
+    "FinalAttackSkillEnemyId": 320671002
+  },
+  {
+    "EnemyLevelConstantGroupId": 2067005,
+    "Level": 1,
+    "ResourceId": 2067001010,
+    "EnemySkillLevelId": 2067001010,
+    "BossCautionLanguageId": 130000002067001,
+    "FinalAttackSkillEnemyId": 320671003
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501001,
+    "Level": 1,
+    "ResourceId": 2501001010,
+    "EnemySkillLevelId": 2501001010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501031,
+    "Level": 1,
+    "ResourceId": 2501031010,
+    "EnemySkillLevelId": 2501031010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501035,
+    "Level": 1,
+    "ResourceId": 2501031010,
+    "EnemySkillLevelId": 2501035010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501036,
+    "Level": 1,
+    "ResourceId": 2501031010,
+    "EnemySkillLevelId": 2501036010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501037,
+    "Level": 1,
+    "ResourceId": 2501031010,
+    "EnemySkillLevelId": 2501037010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501038,
+    "Level": 1,
+    "ResourceId": 2501031010,
+    "EnemySkillLevelId": 2501038010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501039,
+    "Level": 1,
+    "ResourceId": 2501031010,
+    "EnemySkillLevelId": 2501039010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501040,
+    "Level": 1,
+    "ResourceId": 2501031010,
+    "EnemySkillLevelId": 2501040010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501041,
+    "Level": 1,
+    "ResourceId": 2501041010,
+    "EnemySkillLevelId": 2501041010,
+    "BossCautionLanguageId": 130000002501001,
+    "FinalAttackSkillEnemyId": 325011106
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501131,
+    "Level": 1,
+    "ResourceId": 2501131010,
+    "EnemySkillLevelId": 2501131010,
+    "BossCautionLanguageId": 130000002501131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501133,
+    "Level": 1,
+    "ResourceId": 2501131010,
+    "EnemySkillLevelId": 2501133010,
+    "BossCautionLanguageId": 130000002501131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501134,
+    "Level": 1,
+    "ResourceId": 2501131010,
+    "EnemySkillLevelId": 2501134010,
+    "BossCautionLanguageId": 130000002501131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501135,
+    "Level": 1,
+    "ResourceId": 2501131010,
+    "EnemySkillLevelId": 2501135010,
+    "BossCautionLanguageId": 130000002501131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501231,
+    "Level": 1,
+    "ResourceId": 2501231010,
+    "EnemySkillLevelId": 2501231010,
+    "BossCautionLanguageId": 130000002501231,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501233,
+    "Level": 1,
+    "ResourceId": 2501231010,
+    "EnemySkillLevelId": 2501233010,
+    "BossCautionLanguageId": 130000002501231,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501234,
+    "Level": 1,
+    "ResourceId": 2501231010,
+    "EnemySkillLevelId": 2501234010,
+    "BossCautionLanguageId": 130000002501231,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501235,
+    "Level": 1,
+    "ResourceId": 2501231010,
+    "EnemySkillLevelId": 2501235010,
+    "BossCautionLanguageId": 130000002501231,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501301,
+    "Level": 1,
+    "ResourceId": 2501301010,
+    "EnemySkillLevelId": 2501301010,
+    "BossCautionLanguageId": 130000002501301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501302,
+    "Level": 1,
+    "ResourceId": 2501301010,
+    "EnemySkillLevelId": 2501301010,
+    "BossCautionLanguageId": 130000002501301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501303,
+    "Level": 1,
+    "ResourceId": 2501302010,
+    "EnemySkillLevelId": 2501302010,
+    "BossCautionLanguageId": 130000002501301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2501304,
+    "Level": 1,
+    "ResourceId": 2501303010,
+    "EnemySkillLevelId": 2501303010,
+    "BossCautionLanguageId": 130000002501301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502001,
+    "Level": 1,
+    "ResourceId": 2502001010,
+    "EnemySkillLevelId": 2502001010,
+    "BossCautionLanguageId": 130000002502001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502003,
+    "Level": 1,
+    "ResourceId": 2502001010,
+    "EnemySkillLevelId": 2502003010,
+    "BossCautionLanguageId": 130000002502001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502004,
+    "Level": 1,
+    "ResourceId": 2502001010,
+    "EnemySkillLevelId": 2502004010,
+    "BossCautionLanguageId": 130000002502001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502005,
+    "Level": 1,
+    "ResourceId": 2502001010,
+    "EnemySkillLevelId": 2502001010,
+    "BossCautionLanguageId": 130000002502001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502006,
+    "Level": 1,
+    "ResourceId": 2502002010,
+    "EnemySkillLevelId": 2502006010,
+    "BossCautionLanguageId": 130000002502001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502007,
+    "Level": 1,
+    "ResourceId": 2502002010,
+    "EnemySkillLevelId": 2502007010,
+    "BossCautionLanguageId": 130000002502001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502008,
+    "Level": 1,
+    "ResourceId": 2502002010,
+    "EnemySkillLevelId": 2502008010,
+    "BossCautionLanguageId": 130000002502001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502101,
+    "Level": 1,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502101010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502101,
+    "Level": 40,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502101020,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502102,
+    "Level": 1,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502102010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502102,
+    "Level": 40,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502102020,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502103,
+    "Level": 1,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502101010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502103,
+    "Level": 40,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502101020,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502104,
+    "Level": 1,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502104010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502104,
+    "Level": 40,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502104020,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502105,
+    "Level": 1,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502105010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502106,
+    "Level": 1,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502106010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502106,
+    "Level": 40,
+    "ResourceId": 2502101010,
+    "EnemySkillLevelId": 2502106020,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502107,
+    "Level": 1,
+    "ResourceId": 2502102010,
+    "EnemySkillLevelId": 2502107010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502108,
+    "Level": 1,
+    "ResourceId": 2502102010,
+    "EnemySkillLevelId": 2502108010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2502109,
+    "Level": 1,
+    "ResourceId": 2502102010,
+    "EnemySkillLevelId": 2502109010,
+    "BossCautionLanguageId": 130000002502101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2505001,
+    "Level": 1,
+    "ResourceId": 2505001010,
+    "EnemySkillLevelId": 2505001010,
+    "BossCautionLanguageId": 130000002505001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2505003,
+    "Level": 1,
+    "ResourceId": 2505001010,
+    "EnemySkillLevelId": 2505003010,
+    "BossCautionLanguageId": 130000002505001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2505004,
+    "Level": 1,
+    "ResourceId": 2505001010,
+    "EnemySkillLevelId": 2505004010,
+    "BossCautionLanguageId": 130000002505001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2505005,
+    "Level": 1,
+    "ResourceId": 2505001010,
+    "EnemySkillLevelId": 2505005010,
+    "BossCautionLanguageId": 130000002505001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2505101,
+    "Level": 1,
+    "ResourceId": 2505101010,
+    "EnemySkillLevelId": 2505101010,
+    "BossCautionLanguageId": 130000002505002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506001,
+    "Level": 1,
+    "ResourceId": 2506001010,
+    "EnemySkillLevelId": 2506001010,
+    "BossCautionLanguageId": 130000002506001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506003,
+    "Level": 1,
+    "ResourceId": 2506001010,
+    "EnemySkillLevelId": 2506003010,
+    "BossCautionLanguageId": 130000002506001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506004,
+    "Level": 1,
+    "ResourceId": 2506001010,
+    "EnemySkillLevelId": 2506004010,
+    "BossCautionLanguageId": 130000002506001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506005,
+    "Level": 1,
+    "ResourceId": 2506001010,
+    "EnemySkillLevelId": 2506005010,
+    "BossCautionLanguageId": 130000002506001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506101,
+    "Level": 1,
+    "ResourceId": 2506101010,
+    "EnemySkillLevelId": 2506101010,
+    "BossCautionLanguageId": 130000002506101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506102,
+    "Level": 1,
+    "ResourceId": 2506101010,
+    "EnemySkillLevelId": 2506101010,
+    "BossCautionLanguageId": 130000002506101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506103,
+    "Level": 1,
+    "ResourceId": 2506102010,
+    "EnemySkillLevelId": 2506102010,
+    "BossCautionLanguageId": 130000002506101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506104,
+    "Level": 1,
+    "ResourceId": 2506102010,
+    "EnemySkillLevelId": 2506102010,
+    "BossCautionLanguageId": 130000002506101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2506105,
+    "Level": 1,
+    "ResourceId": 2506103010,
+    "EnemySkillLevelId": 2506103010,
+    "BossCautionLanguageId": 130000002506101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507031,
+    "Level": 1,
+    "ResourceId": 2507003010,
+    "EnemySkillLevelId": 2507031010,
+    "BossCautionLanguageId": 130000002507031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507032,
+    "Level": 1,
+    "ResourceId": 2507003010,
+    "EnemySkillLevelId": 2507032010,
+    "BossCautionLanguageId": 130000002507031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507033,
+    "Level": 1,
+    "ResourceId": 2507003010,
+    "EnemySkillLevelId": 2507033010,
+    "BossCautionLanguageId": 130000002507031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507034,
+    "Level": 1,
+    "ResourceId": 2507003010,
+    "EnemySkillLevelId": 2507034010,
+    "BossCautionLanguageId": 130000002507031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507035,
+    "Level": 1,
+    "ResourceId": 2507005010,
+    "EnemySkillLevelId": 2507035010,
+    "BossCautionLanguageId": 130000002507031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507131,
+    "Level": 1,
+    "ResourceId": 2507103010,
+    "EnemySkillLevelId": 2507131010,
+    "BossCautionLanguageId": 130000002507131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507132,
+    "Level": 1,
+    "ResourceId": 2507103010,
+    "EnemySkillLevelId": 2507132010,
+    "BossCautionLanguageId": 130000002507131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507133,
+    "Level": 1,
+    "ResourceId": 2507103010,
+    "EnemySkillLevelId": 2507133010,
+    "BossCautionLanguageId": 130000002507131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507134,
+    "Level": 1,
+    "ResourceId": 2507103010,
+    "EnemySkillLevelId": 2507134010,
+    "BossCautionLanguageId": 130000002507131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507136,
+    "Level": 1,
+    "ResourceId": 2507104010,
+    "EnemySkillLevelId": 2507135010,
+    "BossCautionLanguageId": 130000002507131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507137,
+    "Level": 1,
+    "ResourceId": 2507104010,
+    "EnemySkillLevelId": 2507136010,
+    "BossCautionLanguageId": 130000002507131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507138,
+    "Level": 1,
+    "ResourceId": 2507104010,
+    "EnemySkillLevelId": 2507137010,
+    "BossCautionLanguageId": 130000002507131,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507201,
+    "Level": 1,
+    "ResourceId": 2507203010,
+    "EnemySkillLevelId": 2507201010,
+    "BossCautionLanguageId": 130000002507201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507202,
+    "Level": 1,
+    "ResourceId": 2507203010,
+    "EnemySkillLevelId": 2507202010,
+    "BossCautionLanguageId": 130000002507201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507203,
+    "Level": 1,
+    "ResourceId": 2507203010,
+    "EnemySkillLevelId": 2507203010,
+    "BossCautionLanguageId": 130000002507201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507204,
+    "Level": 1,
+    "ResourceId": 2507203010,
+    "EnemySkillLevelId": 2507204010,
+    "BossCautionLanguageId": 130000002507201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507208,
+    "Level": 1,
+    "ResourceId": 2507204010,
+    "EnemySkillLevelId": 2507205010,
+    "BossCautionLanguageId": 130000002507201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507209,
+    "Level": 1,
+    "ResourceId": 2507204010,
+    "EnemySkillLevelId": 2507206010,
+    "BossCautionLanguageId": 130000002507201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507210,
+    "Level": 1,
+    "ResourceId": 2507204010,
+    "EnemySkillLevelId": 2507207010,
+    "BossCautionLanguageId": 130000002507201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2507301,
+    "Level": 1,
+    "ResourceId": 2507301010,
+    "EnemySkillLevelId": 2507301010,
+    "BossCautionLanguageId": 130000002507301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2508001,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508001010,
+    "BossCautionLanguageId": 130000002508001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2508002,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508002010,
+    "BossCautionLanguageId": 130000002508001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2508003,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508003010,
+    "BossCautionLanguageId": 130000002508001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2508004,
+    "Level": 1,
+    "ResourceId": 2508001010,
+    "EnemySkillLevelId": 2508004010,
+    "BossCautionLanguageId": 130000002508001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509001,
+    "Level": 1,
+    "ResourceId": 2509001010,
+    "EnemySkillLevelId": 2509001010,
+    "BossCautionLanguageId": 130000002509001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509002,
+    "Level": 1,
+    "ResourceId": 2509002010,
+    "EnemySkillLevelId": 2509001010,
+    "BossCautionLanguageId": 130000002509001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509003,
+    "Level": 1,
+    "ResourceId": 2509002010,
+    "EnemySkillLevelId": 2509001010,
+    "BossCautionLanguageId": 130000002509001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509004,
+    "Level": 1,
+    "ResourceId": 2509002010,
+    "EnemySkillLevelId": 2509001010,
+    "BossCautionLanguageId": 130000002509001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509010,
+    "Level": 1,
+    "ResourceId": 2509010010,
+    "EnemySkillLevelId": 2509001010,
+    "BossCautionLanguageId": 130000002509001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509101,
+    "Level": 1,
+    "ResourceId": 2509101010,
+    "EnemySkillLevelId": 2509101010,
+    "BossCautionLanguageId": 130000002509101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509102,
+    "Level": 1,
+    "ResourceId": 2509101010,
+    "EnemySkillLevelId": 2509102010,
+    "BossCautionLanguageId": 130000002509101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509103,
+    "Level": 1,
+    "ResourceId": 2509101010,
+    "EnemySkillLevelId": 2509103010,
+    "BossCautionLanguageId": 130000002509101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509104,
+    "Level": 1,
+    "ResourceId": 2509101010,
+    "EnemySkillLevelId": 2509104010,
+    "BossCautionLanguageId": 130000002509101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2509201,
+    "Level": 1,
+    "ResourceId": 2509201010,
+    "EnemySkillLevelId": 2509201010,
+    "BossCautionLanguageId": 130000002509201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510001,
+    "Level": 1,
+    "ResourceId": 2510001001,
+    "EnemySkillLevelId": 2510001001,
+    "BossCautionLanguageId": 130000002510002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510002,
+    "Level": 1,
+    "ResourceId": 2510001001,
+    "EnemySkillLevelId": 2510001002,
+    "BossCautionLanguageId": 130000002510002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510005,
+    "Level": 1,
+    "ResourceId": 2510005001,
+    "EnemySkillLevelId": 2510005001,
+    "BossCautionLanguageId": 130000002510001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510006,
+    "Level": 1,
+    "ResourceId": 2510002010,
+    "EnemySkillLevelId": 2510002010,
+    "BossCautionLanguageId": 130000002510002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510007,
+    "Level": 1,
+    "ResourceId": 2510003010,
+    "EnemySkillLevelId": 2510002010,
+    "BossCautionLanguageId": 130000002510002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510008,
+    "Level": 1,
+    "ResourceId": 2510003010,
+    "EnemySkillLevelId": 2510002010,
+    "BossCautionLanguageId": 130000002510002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510010,
+    "Level": 1,
+    "ResourceId": 2510010010,
+    "EnemySkillLevelId": 2510010010,
+    "BossCautionLanguageId": 130000002510002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2510011,
+    "Level": 1,
+    "ResourceId": 2510011010,
+    "EnemySkillLevelId": 2510011010,
+    "BossCautionLanguageId": 130000002510002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2511001,
+    "Level": 1,
+    "ResourceId": 2511001010,
+    "EnemySkillLevelId": 2511001010,
+    "BossCautionLanguageId": 130000002511001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2511002,
+    "Level": 1,
+    "ResourceId": 2511002010,
+    "EnemySkillLevelId": 2511001010,
+    "BossCautionLanguageId": 130000002511001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2511003,
+    "Level": 1,
+    "ResourceId": 2511002010,
+    "EnemySkillLevelId": 2511001010,
+    "BossCautionLanguageId": 130000002511001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512001,
+    "Level": 1,
+    "ResourceId": 2512001010,
+    "EnemySkillLevelId": 2512001010,
+    "BossCautionLanguageId": 130000002512001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512002,
+    "Level": 1,
+    "ResourceId": 2512001010,
+    "EnemySkillLevelId": 2512002010,
+    "BossCautionLanguageId": 130000002512001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512003,
+    "Level": 1,
+    "ResourceId": 2512001010,
+    "EnemySkillLevelId": 2512003010,
+    "BossCautionLanguageId": 130000002512001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512004,
+    "Level": 1,
+    "ResourceId": 2512001010,
+    "EnemySkillLevelId": 2512004010,
+    "BossCautionLanguageId": 130000002512001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512005,
+    "Level": 1,
+    "ResourceId": 2512005010,
+    "EnemySkillLevelId": 2512005010,
+    "BossCautionLanguageId": 130000002512001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512006,
+    "Level": 1,
+    "ResourceId": 2512006010,
+    "EnemySkillLevelId": 2512006010,
+    "BossCautionLanguageId": 130000002512001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512007,
+    "Level": 1,
+    "ResourceId": 2512007010,
+    "EnemySkillLevelId": 2512007010,
+    "BossCautionLanguageId": 130000002512007,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512008,
+    "Level": 1,
+    "ResourceId": 2512008010,
+    "EnemySkillLevelId": 2512008010,
+    "BossCautionLanguageId": 130000002512007,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2512009,
+    "Level": 1,
+    "ResourceId": 2512009010,
+    "EnemySkillLevelId": 2512009010,
+    "BossCautionLanguageId": 130000002512007,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513001,
+    "Level": 1,
+    "ResourceId": 2513001010,
+    "EnemySkillLevelId": 2513001010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513003,
+    "Level": 1,
+    "ResourceId": 2513001010,
+    "EnemySkillLevelId": 2513003010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513004,
+    "Level": 1,
+    "ResourceId": 2513001010,
+    "EnemySkillLevelId": 2513004010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513005,
+    "Level": 1,
+    "ResourceId": 2513001010,
+    "EnemySkillLevelId": 2513005010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513006,
+    "Level": 1,
+    "ResourceId": 2513006010,
+    "EnemySkillLevelId": 2513006010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513008,
+    "Level": 1,
+    "ResourceId": 2513006010,
+    "EnemySkillLevelId": 2513008010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513009,
+    "Level": 1,
+    "ResourceId": 2513006010,
+    "EnemySkillLevelId": 2513009010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513010,
+    "Level": 1,
+    "ResourceId": 2513006010,
+    "EnemySkillLevelId": 2513010010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513011,
+    "Level": 1,
+    "ResourceId": 2513011010,
+    "EnemySkillLevelId": 2513011010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513012,
+    "Level": 1,
+    "ResourceId": 2513001010,
+    "EnemySkillLevelId": 2513012010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513013,
+    "Level": 1,
+    "ResourceId": 2513006010,
+    "EnemySkillLevelId": 2513013010,
+    "BossCautionLanguageId": 130000002513001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513101,
+    "Level": 1,
+    "ResourceId": 2513101010,
+    "EnemySkillLevelId": 2513101010,
+    "BossCautionLanguageId": 130000002513101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513103,
+    "Level": 1,
+    "ResourceId": 2513101010,
+    "EnemySkillLevelId": 2513103010,
+    "BossCautionLanguageId": 130000002513101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513104,
+    "Level": 1,
+    "ResourceId": 2513101010,
+    "EnemySkillLevelId": 2513104010,
+    "BossCautionLanguageId": 130000002513101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513105,
+    "Level": 1,
+    "ResourceId": 2513101010,
+    "EnemySkillLevelId": 2513105010,
+    "BossCautionLanguageId": 130000002513101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2513201,
+    "Level": 1,
+    "ResourceId": 2513201010,
+    "EnemySkillLevelId": 2513201010,
+    "BossCautionLanguageId": 130000002513201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514001,
+    "Level": 1,
+    "ResourceId": 2514001010,
+    "EnemySkillLevelId": 2514001010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514003,
+    "Level": 1,
+    "ResourceId": 2514001010,
+    "EnemySkillLevelId": 2514003010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514004,
+    "Level": 1,
+    "ResourceId": 2514001010,
+    "EnemySkillLevelId": 2514004010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514005,
+    "Level": 1,
+    "ResourceId": 2514001010,
+    "EnemySkillLevelId": 2514005010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514006,
+    "Level": 1,
+    "ResourceId": 2514006010,
+    "EnemySkillLevelId": 2514006010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514008,
+    "Level": 1,
+    "ResourceId": 2514006010,
+    "EnemySkillLevelId": 2514008010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514009,
+    "Level": 1,
+    "ResourceId": 2514006010,
+    "EnemySkillLevelId": 2514009010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514010,
+    "Level": 1,
+    "ResourceId": 2514006010,
+    "EnemySkillLevelId": 2514010010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514011,
+    "Level": 1,
+    "ResourceId": 2514011010,
+    "EnemySkillLevelId": 2514011010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514012,
+    "Level": 1,
+    "ResourceId": 2514001010,
+    "EnemySkillLevelId": 2514012010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514013,
+    "Level": 1,
+    "ResourceId": 2514006010,
+    "EnemySkillLevelId": 2514013010,
+    "BossCautionLanguageId": 130000002514001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514101,
+    "Level": 1,
+    "ResourceId": 2514101010,
+    "EnemySkillLevelId": 2514101010,
+    "BossCautionLanguageId": 130000002514101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514103,
+    "Level": 1,
+    "ResourceId": 2514101010,
+    "EnemySkillLevelId": 2514103010,
+    "BossCautionLanguageId": 130000002514101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514104,
+    "Level": 1,
+    "ResourceId": 2514101010,
+    "EnemySkillLevelId": 2514104010,
+    "BossCautionLanguageId": 130000002514101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514105,
+    "Level": 1,
+    "ResourceId": 2514101010,
+    "EnemySkillLevelId": 2514105010,
+    "BossCautionLanguageId": 130000002514101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2514201,
+    "Level": 1,
+    "ResourceId": 2514201010,
+    "EnemySkillLevelId": 2514201010,
+    "BossCautionLanguageId": 130000002514201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516031,
+    "Level": 1,
+    "ResourceId": 2516001010,
+    "EnemySkillLevelId": 2516001010,
+    "BossCautionLanguageId": 130000002516031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516033,
+    "Level": 1,
+    "ResourceId": 2516001010,
+    "EnemySkillLevelId": 2516003010,
+    "BossCautionLanguageId": 130000002516031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516034,
+    "Level": 1,
+    "ResourceId": 2516001010,
+    "EnemySkillLevelId": 2516004010,
+    "BossCautionLanguageId": 130000002516031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516035,
+    "Level": 1,
+    "ResourceId": 2516001010,
+    "EnemySkillLevelId": 2516005010,
+    "BossCautionLanguageId": 130000002516031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516036,
+    "Level": 1,
+    "ResourceId": 2516006010,
+    "EnemySkillLevelId": 2516001010,
+    "BossCautionLanguageId": 130000002516036,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516101,
+    "Level": 1,
+    "ResourceId": 2516101010,
+    "EnemySkillLevelId": 2516101010,
+    "BossCautionLanguageId": 130000002516101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516102,
+    "Level": 1,
+    "ResourceId": 2516101020,
+    "EnemySkillLevelId": 2516101010,
+    "BossCautionLanguageId": 130000002516101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516103,
+    "Level": 1,
+    "ResourceId": 2516101020,
+    "EnemySkillLevelId": 2516101010,
+    "BossCautionLanguageId": 130000002516101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516104,
+    "Level": 1,
+    "ResourceId": 2516101020,
+    "EnemySkillLevelId": 2516101010,
+    "BossCautionLanguageId": 130000002516101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2516105,
+    "Level": 1,
+    "ResourceId": 2516101030,
+    "EnemySkillLevelId": 2516101010,
+    "BossCautionLanguageId": 130000002516101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2517001,
+    "Level": 1,
+    "ResourceId": 2517001010,
+    "EnemySkillLevelId": 2517001010,
+    "BossCautionLanguageId": 130000002517001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2517003,
+    "Level": 1,
+    "ResourceId": 2517001010,
+    "EnemySkillLevelId": 2517003010,
+    "BossCautionLanguageId": 130000002517001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2517004,
+    "Level": 1,
+    "ResourceId": 2517001010,
+    "EnemySkillLevelId": 2517004010,
+    "BossCautionLanguageId": 130000002517001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2517005,
+    "Level": 1,
+    "ResourceId": 2517001010,
+    "EnemySkillLevelId": 2517005010,
+    "BossCautionLanguageId": 130000002517001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2517006,
+    "Level": 1,
+    "ResourceId": 2517001010,
+    "EnemySkillLevelId": 2517006010,
+    "BossCautionLanguageId": 130000002517001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2518001,
+    "Level": 1,
+    "ResourceId": 2518003010,
+    "EnemySkillLevelId": 2518001010,
+    "BossCautionLanguageId": 130000002518001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2518003,
+    "Level": 1,
+    "ResourceId": 2518003010,
+    "EnemySkillLevelId": 2518003010,
+    "BossCautionLanguageId": 130000002518001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2518011,
+    "Level": 1,
+    "ResourceId": 2518011010,
+    "EnemySkillLevelId": 2518011010,
+    "BossCautionLanguageId": 130000002518011,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2518101,
+    "Level": 1,
+    "ResourceId": 2518103010,
+    "EnemySkillLevelId": 2518101010,
+    "BossCautionLanguageId": 130000002518101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2518103,
+    "Level": 1,
+    "ResourceId": 2518103010,
+    "EnemySkillLevelId": 2518103010,
+    "BossCautionLanguageId": 130000002518101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520001,
+    "Level": 1,
+    "ResourceId": 2520001010,
+    "EnemySkillLevelId": 2520001010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520002,
+    "Level": 1,
+    "ResourceId": 2520002010,
+    "EnemySkillLevelId": 2520001010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520003,
+    "Level": 1,
+    "ResourceId": 2520002010,
+    "EnemySkillLevelId": 2520001010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520004,
+    "Level": 1,
+    "ResourceId": 2520002010,
+    "EnemySkillLevelId": 2520001010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520005,
+    "Level": 1,
+    "ResourceId": 2520003010,
+    "EnemySkillLevelId": 2520001010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520006,
+    "Level": 1,
+    "ResourceId": 2520003010,
+    "EnemySkillLevelId": 2520001010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520007,
+    "Level": 1,
+    "ResourceId": 2520004010,
+    "EnemySkillLevelId": 2520004010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520008,
+    "Level": 1,
+    "ResourceId": 2520005010,
+    "EnemySkillLevelId": 2520004010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520009,
+    "Level": 1,
+    "ResourceId": 2520005010,
+    "EnemySkillLevelId": 2520004010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520011,
+    "Level": 1,
+    "ResourceId": 2520002010,
+    "EnemySkillLevelId": 2520001010,
+    "BossCautionLanguageId": 130000002520001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2520031,
+    "Level": 1,
+    "ResourceId": 2520031010,
+    "EnemySkillLevelId": 2520031010,
+    "BossCautionLanguageId": 130000002520031,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521001,
+    "Level": 1,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521001010,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521001,
+    "Level": 40,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521001020,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521002,
+    "Level": 1,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521002010,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521002,
+    "Level": 40,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521002020,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521003,
+    "Level": 1,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521001010,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521003,
+    "Level": 40,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521001020,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521004,
+    "Level": 1,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521004010,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521004,
+    "Level": 40,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521004020,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521005,
+    "Level": 1,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521005010,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521006,
+    "Level": 1,
+    "ResourceId": 2521001010,
+    "EnemySkillLevelId": 2521006010,
+    "BossCautionLanguageId": 130000002521001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521101,
+    "Level": 1,
+    "ResourceId": 2521101010,
+    "EnemySkillLevelId": 2521101010,
+    "BossCautionLanguageId": 130000002521101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521102,
+    "Level": 1,
+    "ResourceId": 2521101010,
+    "EnemySkillLevelId": 2521102010,
+    "BossCautionLanguageId": 130000002521101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521103,
+    "Level": 1,
+    "ResourceId": 2521101010,
+    "EnemySkillLevelId": 2521103010,
+    "BossCautionLanguageId": 130000002521101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521104,
+    "Level": 1,
+    "ResourceId": 2521101010,
+    "EnemySkillLevelId": 2521101010,
+    "BossCautionLanguageId": 130000002521101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521201,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521201010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521202,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521202010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521203,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521203010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521204,
+    "Level": 1,
+    "ResourceId": 2521201010,
+    "EnemySkillLevelId": 2521204010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521205,
+    "Level": 1,
+    "ResourceId": 2521202010,
+    "EnemySkillLevelId": 2521201010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521206,
+    "Level": 1,
+    "ResourceId": 2521202010,
+    "EnemySkillLevelId": 2521201010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521207,
+    "Level": 1,
+    "ResourceId": 2521203010,
+    "EnemySkillLevelId": 2521201010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521208,
+    "Level": 1,
+    "ResourceId": 2521204010,
+    "EnemySkillLevelId": 2521201010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521209,
+    "Level": 1,
+    "ResourceId": 2521204010,
+    "EnemySkillLevelId": 2521201010,
+    "BossCautionLanguageId": 130000002541001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2521301,
+    "Level": 1,
+    "ResourceId": 2521301010,
+    "EnemySkillLevelId": 2521301010,
+    "BossCautionLanguageId": 130000002521004,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2522001,
+    "Level": 1,
+    "ResourceId": 2522001010,
+    "EnemySkillLevelId": 2522001010,
+    "BossCautionLanguageId": 130000002522001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2522002,
+    "Level": 1,
+    "ResourceId": 2522002010,
+    "EnemySkillLevelId": 2522002010,
+    "BossCautionLanguageId": 130000002522001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2522003,
+    "Level": 1,
+    "ResourceId": 2522002010,
+    "EnemySkillLevelId": 2522003010,
+    "BossCautionLanguageId": 130000002522001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2522004,
+    "Level": 1,
+    "ResourceId": 2522002010,
+    "EnemySkillLevelId": 2522004010,
+    "BossCautionLanguageId": 130000002522001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2522005,
+    "Level": 1,
+    "ResourceId": 2522003010,
+    "EnemySkillLevelId": 2522005010,
+    "BossCautionLanguageId": 130000002522001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523001,
+    "Level": 1,
+    "ResourceId": 2523003010,
+    "EnemySkillLevelId": 2523003010,
+    "BossCautionLanguageId": 130000002523001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523003,
+    "Level": 1,
+    "ResourceId": 2523003010,
+    "EnemySkillLevelId": 2523003010,
+    "BossCautionLanguageId": 130000002523001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523101,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523101010,
+    "BossCautionLanguageId": 130000002523101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523103,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523103010,
+    "BossCautionLanguageId": 130000002523101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523104,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523104010,
+    "BossCautionLanguageId": 130000002523101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523105,
+    "Level": 1,
+    "ResourceId": 2523103010,
+    "EnemySkillLevelId": 2523105010,
+    "BossCautionLanguageId": 130000002523101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523106,
+    "Level": 1,
+    "ResourceId": 2523104010,
+    "EnemySkillLevelId": 2523103010,
+    "BossCautionLanguageId": 130000002523101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523107,
+    "Level": 1,
+    "ResourceId": 2523104010,
+    "EnemySkillLevelId": 2523104010,
+    "BossCautionLanguageId": 130000002523101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523108,
+    "Level": 1,
+    "ResourceId": 2523104010,
+    "EnemySkillLevelId": 2523105010,
+    "BossCautionLanguageId": 130000002523101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2523201,
+    "Level": 1,
+    "ResourceId": 2523201010,
+    "EnemySkillLevelId": 2523201010,
+    "BossCautionLanguageId": 130000002523201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2524001,
+    "Level": 1,
+    "ResourceId": 2524001010,
+    "EnemySkillLevelId": 2524001010,
+    "BossCautionLanguageId": 130000002524001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2524101,
+    "Level": 1,
+    "ResourceId": 2524101010,
+    "EnemySkillLevelId": 2524101010,
+    "BossCautionLanguageId": 130000002524101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2524102,
+    "Level": 1,
+    "ResourceId": 2524102010,
+    "EnemySkillLevelId": 2524101010,
+    "BossCautionLanguageId": 130000002524101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2525001,
+    "Level": 1,
+    "ResourceId": 2525001010,
+    "EnemySkillLevelId": 2525001010,
+    "BossCautionLanguageId": 130000002525001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2525002,
+    "Level": 1,
+    "ResourceId": 2525002010,
+    "EnemySkillLevelId": 2525002010,
+    "BossCautionLanguageId": 130000002525001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2525003,
+    "Level": 1,
+    "ResourceId": 2525002010,
+    "EnemySkillLevelId": 2525003010,
+    "BossCautionLanguageId": 130000002525001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2525004,
+    "Level": 1,
+    "ResourceId": 2525002010,
+    "EnemySkillLevelId": 2525004010,
+    "BossCautionLanguageId": 130000002525001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2525010,
+    "Level": 1,
+    "ResourceId": 2525010010,
+    "EnemySkillLevelId": 2525005010,
+    "BossCautionLanguageId": 130000002525001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2525011,
+    "Level": 1,
+    "ResourceId": 2525010010,
+    "EnemySkillLevelId": 2525005010,
+    "BossCautionLanguageId": 130000002525001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2526001,
+    "Level": 1,
+    "ResourceId": 2526001010,
+    "EnemySkillLevelId": 2526001010,
+    "BossCautionLanguageId": 130000002526001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2526002,
+    "Level": 1,
+    "ResourceId": 2526002010,
+    "EnemySkillLevelId": 2526001010,
+    "BossCautionLanguageId": 130000002526001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527001,
+    "Level": 1,
+    "ResourceId": 2527001010,
+    "EnemySkillLevelId": 2527001010,
+    "BossCautionLanguageId": 130000002527001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527002,
+    "Level": 1,
+    "ResourceId": 2527002010,
+    "EnemySkillLevelId": 2527002010,
+    "BossCautionLanguageId": 130000002527001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527003,
+    "Level": 1,
+    "ResourceId": 2527002010,
+    "EnemySkillLevelId": 2527003010,
+    "BossCautionLanguageId": 130000002527001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527004,
+    "Level": 1,
+    "ResourceId": 2527002010,
+    "EnemySkillLevelId": 2527004010,
+    "BossCautionLanguageId": 130000002527001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527101,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527101010,
+    "BossCautionLanguageId": 130000002527101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527102,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527102010,
+    "BossCautionLanguageId": 130000002527101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527103,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527103010,
+    "BossCautionLanguageId": 130000002527101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527104,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527104010,
+    "BossCautionLanguageId": 130000002527101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527201,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527201010,
+    "BossCautionLanguageId": 130000002527201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527202,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527202010,
+    "BossCautionLanguageId": 130000002527201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527203,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527203010,
+    "BossCautionLanguageId": 130000002527201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527204,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527204010,
+    "BossCautionLanguageId": 130000002527201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527301,
+    "Level": 1,
+    "ResourceId": 2527301010,
+    "EnemySkillLevelId": 2527301010,
+    "BossCautionLanguageId": 130000002527301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527302,
+    "Level": 1,
+    "ResourceId": 2527301010,
+    "EnemySkillLevelId": 2527302010,
+    "BossCautionLanguageId": 130000002527301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527303,
+    "Level": 1,
+    "ResourceId": 2527303010,
+    "EnemySkillLevelId": 2527303010,
+    "BossCautionLanguageId": 130000002527301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527304,
+    "Level": 1,
+    "ResourceId": 2527303010,
+    "EnemySkillLevelId": 2527303010,
+    "BossCautionLanguageId": 130000002527301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527305,
+    "Level": 1,
+    "ResourceId": 2527305010,
+    "EnemySkillLevelId": 2527305010,
+    "BossCautionLanguageId": 130000002527301,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527401,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527401010,
+    "BossCautionLanguageId": 130000002527401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527402,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527402010,
+    "BossCautionLanguageId": 130000002527401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527403,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527403010,
+    "BossCautionLanguageId": 130000002527401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527404,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527403010,
+    "BossCautionLanguageId": 130000002527401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527405,
+    "Level": 1,
+    "ResourceId": 2527101010,
+    "EnemySkillLevelId": 2527405010,
+    "BossCautionLanguageId": 130000002527401,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527501,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527501010,
+    "BossCautionLanguageId": 130000002527501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527502,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527502010,
+    "BossCautionLanguageId": 130000002527501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527503,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527503010,
+    "BossCautionLanguageId": 130000002527501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527504,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527503010,
+    "BossCautionLanguageId": 130000002527501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2527505,
+    "Level": 1,
+    "ResourceId": 2527201010,
+    "EnemySkillLevelId": 2527505010,
+    "BossCautionLanguageId": 130000002527501,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2528001,
+    "Level": 1,
+    "ResourceId": 2528001010,
+    "EnemySkillLevelId": 2528001010,
+    "BossCautionLanguageId": 130000002528001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2528002,
+    "Level": 1,
+    "ResourceId": 2528001010,
+    "EnemySkillLevelId": 2528002010,
+    "BossCautionLanguageId": 130000002528001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2528003,
+    "Level": 1,
+    "ResourceId": 2528001010,
+    "EnemySkillLevelId": 2528003010,
+    "BossCautionLanguageId": 130000002528001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2528004,
+    "Level": 1,
+    "ResourceId": 2528001010,
+    "EnemySkillLevelId": 2528004010,
+    "BossCautionLanguageId": 130000002528001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529001,
+    "Level": 1,
+    "ResourceId": 2529001010,
+    "EnemySkillLevelId": 2529001010,
+    "BossCautionLanguageId": 130000002529001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529002,
+    "Level": 1,
+    "ResourceId": 2529002010,
+    "EnemySkillLevelId": 2529002010,
+    "BossCautionLanguageId": 130000002529001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529003,
+    "Level": 1,
+    "ResourceId": 2529002010,
+    "EnemySkillLevelId": 2529003010,
+    "BossCautionLanguageId": 130000002529001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529004,
+    "Level": 1,
+    "ResourceId": 2529002010,
+    "EnemySkillLevelId": 2529004010,
+    "BossCautionLanguageId": 130000002529001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529101,
+    "Level": 1,
+    "ResourceId": 2529101010,
+    "EnemySkillLevelId": 2529101010,
+    "BossCautionLanguageId": 130000002529101,
+    "FinalAttackSkillEnemyId": 325291119
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529102,
+    "Level": 1,
+    "ResourceId": 2529101010,
+    "EnemySkillLevelId": 2529101010,
+    "BossCautionLanguageId": 130000002529101,
+    "FinalAttackSkillEnemyId": 325291119
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529103,
+    "Level": 1,
+    "ResourceId": 2529102010,
+    "EnemySkillLevelId": 2529101010,
+    "BossCautionLanguageId": 130000002529101,
+    "FinalAttackSkillEnemyId": 325291120
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529104,
+    "Level": 1,
+    "ResourceId": 2529102010,
+    "EnemySkillLevelId": 2529101010,
+    "BossCautionLanguageId": 130000002529101,
+    "FinalAttackSkillEnemyId": 325291120
+  },
+  {
+    "EnemyLevelConstantGroupId": 2529105,
+    "Level": 1,
+    "ResourceId": 2529103010,
+    "EnemySkillLevelId": 2529101010,
+    "BossCautionLanguageId": 130000002529101,
+    "FinalAttackSkillEnemyId": 325291121
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530001,
+    "Level": 1,
+    "ResourceId": 2530001010,
+    "EnemySkillLevelId": 2530001010,
+    "BossCautionLanguageId": 130000002530001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530002,
+    "Level": 1,
+    "ResourceId": 2530001010,
+    "EnemySkillLevelId": 2530002010,
+    "BossCautionLanguageId": 130000002530001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530003,
+    "Level": 1,
+    "ResourceId": 2530001010,
+    "EnemySkillLevelId": 2530003010,
+    "BossCautionLanguageId": 130000002530001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530004,
+    "Level": 1,
+    "ResourceId": 2530001010,
+    "EnemySkillLevelId": 2530004010,
+    "BossCautionLanguageId": 130000002530001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530005,
+    "Level": 1,
+    "ResourceId": 2530005010,
+    "EnemySkillLevelId": 2530005010,
+    "BossCautionLanguageId": 130000002530001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530006,
+    "Level": 1,
+    "ResourceId": 2530006010,
+    "EnemySkillLevelId": 2530005010,
+    "BossCautionLanguageId": 130000002530001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530007,
+    "Level": 1,
+    "ResourceId": 2530007010,
+    "EnemySkillLevelId": 2530007010,
+    "BossCautionLanguageId": 130000002530007,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530008,
+    "Level": 1,
+    "ResourceId": 2530008010,
+    "EnemySkillLevelId": 2530008010,
+    "BossCautionLanguageId": 130000002530007,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2530009,
+    "Level": 1,
+    "ResourceId": 2530009010,
+    "EnemySkillLevelId": 2530009010,
+    "BossCautionLanguageId": 130000002530007,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531001,
+    "Level": 1,
+    "ResourceId": 2531001010,
+    "EnemySkillLevelId": 2531001010,
+    "BossCautionLanguageId": 130000002531001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531002,
+    "Level": 1,
+    "ResourceId": 2531001010,
+    "EnemySkillLevelId": 2531001020,
+    "BossCautionLanguageId": 130000002531001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531003,
+    "Level": 1,
+    "ResourceId": 2531001010,
+    "EnemySkillLevelId": 2531001030,
+    "BossCautionLanguageId": 130000002531001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531004,
+    "Level": 1,
+    "ResourceId": 2531001010,
+    "EnemySkillLevelId": 2531001040,
+    "BossCautionLanguageId": 130000002531001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531101,
+    "Level": 1,
+    "ResourceId": 2531101010,
+    "EnemySkillLevelId": 2531101010,
+    "BossCautionLanguageId": 130000002531101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531102,
+    "Level": 1,
+    "ResourceId": 2531101010,
+    "EnemySkillLevelId": 2531101020,
+    "BossCautionLanguageId": 130000002531101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531103,
+    "Level": 1,
+    "ResourceId": 2531101010,
+    "EnemySkillLevelId": 2531101030,
+    "BossCautionLanguageId": 130000002531101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531201,
+    "Level": 1,
+    "ResourceId": 2531201010,
+    "EnemySkillLevelId": 2531201010,
+    "BossCautionLanguageId": 130000002531201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531202,
+    "Level": 1,
+    "ResourceId": 2531201010,
+    "EnemySkillLevelId": 2531202010,
+    "BossCautionLanguageId": 130000002531201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531203,
+    "Level": 1,
+    "ResourceId": 2531202010,
+    "EnemySkillLevelId": 2531203010,
+    "BossCautionLanguageId": 130000002531201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2531204,
+    "Level": 1,
+    "ResourceId": 2531202010,
+    "EnemySkillLevelId": 2531204010,
+    "BossCautionLanguageId": 130000002531201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2532001,
+    "Level": 1,
+    "ResourceId": 2532001010,
+    "EnemySkillLevelId": 2532003010,
+    "BossCautionLanguageId": 130000002532001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2532002,
+    "Level": 1,
+    "ResourceId": 2532002010,
+    "EnemySkillLevelId": 2532001010,
+    "BossCautionLanguageId": 130000002532001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2532003,
+    "Level": 1,
+    "ResourceId": 2532002010,
+    "EnemySkillLevelId": 2532002010,
+    "BossCautionLanguageId": 130000002532001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2532004,
+    "Level": 1,
+    "ResourceId": 2532002010,
+    "EnemySkillLevelId": 2532003010,
+    "BossCautionLanguageId": 130000002532001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536001,
+    "Level": 1,
+    "ResourceId": 2536001010,
+    "EnemySkillLevelId": 2536001010,
+    "BossCautionLanguageId": 130000002536002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536002,
+    "Level": 1,
+    "ResourceId": 2536002010,
+    "EnemySkillLevelId": 2536002010,
+    "BossCautionLanguageId": 130000002536002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536003,
+    "Level": 1,
+    "ResourceId": 2536003010,
+    "EnemySkillLevelId": 2536003010,
+    "BossCautionLanguageId": 130000002536002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536004,
+    "Level": 1,
+    "ResourceId": 2536004010,
+    "EnemySkillLevelId": 2536004010,
+    "BossCautionLanguageId": 130000002536002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536005,
+    "Level": 1,
+    "ResourceId": 2536005010,
+    "EnemySkillLevelId": 2536005010,
+    "BossCautionLanguageId": 130000002536002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536006,
+    "Level": 1,
+    "ResourceId": 2536006010,
+    "EnemySkillLevelId": 2536006010,
+    "BossCautionLanguageId": 130000002536002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536101,
+    "Level": 1,
+    "ResourceId": 2536101010,
+    "EnemySkillLevelId": 2536101010,
+    "BossCautionLanguageId": 130000002536101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536102,
+    "Level": 1,
+    "ResourceId": 2536101010,
+    "EnemySkillLevelId": 2536102010,
+    "BossCautionLanguageId": 130000002536101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536103,
+    "Level": 1,
+    "ResourceId": 2536103010,
+    "EnemySkillLevelId": 2536103010,
+    "BossCautionLanguageId": 130000002536101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536104,
+    "Level": 1,
+    "ResourceId": 2536103010,
+    "EnemySkillLevelId": 2536104010,
+    "BossCautionLanguageId": 130000002536101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2536105,
+    "Level": 1,
+    "ResourceId": 2536105010,
+    "EnemySkillLevelId": 2536105010,
+    "BossCautionLanguageId": 130000002536101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2537001,
+    "Level": 1,
+    "ResourceId": 2537001010,
+    "EnemySkillLevelId": 2537001010,
+    "BossCautionLanguageId": 130000002537001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2537002,
+    "Level": 1,
+    "ResourceId": 2537001010,
+    "EnemySkillLevelId": 2537001010,
+    "BossCautionLanguageId": 130000002537001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2537101,
+    "Level": 1,
+    "ResourceId": 2537003010,
+    "EnemySkillLevelId": 2537101010,
+    "BossCautionLanguageId": 130000002537003,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2537102,
+    "Level": 1,
+    "ResourceId": 2537003010,
+    "EnemySkillLevelId": 2537101010,
+    "BossCautionLanguageId": 130000002537003,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2537103,
+    "Level": 1,
+    "ResourceId": 2537003020,
+    "EnemySkillLevelId": 2537103010,
+    "BossCautionLanguageId": 130000002537003,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2537104,
+    "Level": 1,
+    "ResourceId": 2537003030,
+    "EnemySkillLevelId": 2537104010,
+    "BossCautionLanguageId": 130000002537003,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2538001,
+    "Level": 1,
+    "ResourceId": 2538001010,
+    "EnemySkillLevelId": 2538001010,
+    "BossCautionLanguageId": 130000002538001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2538002,
+    "Level": 1,
+    "ResourceId": 2538001020,
+    "EnemySkillLevelId": 2538001010,
+    "BossCautionLanguageId": 130000002538001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2538003,
+    "Level": 1,
+    "ResourceId": 2538001020,
+    "EnemySkillLevelId": 2538001010,
+    "BossCautionLanguageId": 130000002538001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2538004,
+    "Level": 1,
+    "ResourceId": 2538001010,
+    "EnemySkillLevelId": 2538001010,
+    "BossCautionLanguageId": 130000002538001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2538005,
+    "Level": 1,
+    "ResourceId": 2538001030,
+    "EnemySkillLevelId": 2538001010,
+    "BossCautionLanguageId": 130000002538001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2539001,
+    "Level": 1,
+    "ResourceId": 2539001010,
+    "EnemySkillLevelId": 2539001010,
+    "BossCautionLanguageId": 130000002539001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2539002,
+    "Level": 1,
+    "ResourceId": 2539001020,
+    "EnemySkillLevelId": 2539001010,
+    "BossCautionLanguageId": 130000002539001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2539003,
+    "Level": 1,
+    "ResourceId": 2539001020,
+    "EnemySkillLevelId": 2539001010,
+    "BossCautionLanguageId": 130000002539001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2539004,
+    "Level": 1,
+    "ResourceId": 2539001010,
+    "EnemySkillLevelId": 2539001010,
+    "BossCautionLanguageId": 130000002539001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2539005,
+    "Level": 1,
+    "ResourceId": 2539001030,
+    "EnemySkillLevelId": 2539001010,
+    "BossCautionLanguageId": 130000002539001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2540001,
+    "Level": 1,
+    "ResourceId": 2540001010,
+    "EnemySkillLevelId": 2540001010,
+    "BossCautionLanguageId": 130000002540001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2540002,
+    "Level": 1,
+    "ResourceId": 2540001020,
+    "EnemySkillLevelId": 2540001010,
+    "BossCautionLanguageId": 130000002540001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2540003,
+    "Level": 1,
+    "ResourceId": 2540001020,
+    "EnemySkillLevelId": 2540001010,
+    "BossCautionLanguageId": 130000002540001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2540004,
+    "Level": 1,
+    "ResourceId": 2540001010,
+    "EnemySkillLevelId": 2540001010,
+    "BossCautionLanguageId": 130000002540001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2540005,
+    "Level": 1,
+    "ResourceId": 2540001030,
+    "EnemySkillLevelId": 2540001010,
+    "BossCautionLanguageId": 130000002540001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2541001,
+    "Level": 1,
+    "ResourceId": 2541001010,
+    "EnemySkillLevelId": 2541001010,
+    "BossCautionLanguageId": 130000002521201,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2542001,
+    "Level": 1,
+    "ResourceId": 2542001010,
+    "EnemySkillLevelId": 2542001010,
+    "BossCautionLanguageId": 130000002542001,
+    "FinalAttackSkillEnemyId": 325428005
+  },
+  {
+    "EnemyLevelConstantGroupId": 2542002,
+    "Level": 1,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542002010,
+    "BossCautionLanguageId": 130000002542001,
+    "FinalAttackSkillEnemyId": 325428002
+  },
+  {
+    "EnemyLevelConstantGroupId": 2542002,
+    "Level": 70,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542002010,
+    "BossCautionLanguageId": 130000002542001,
+    "FinalAttackSkillEnemyId": 325428003
+  },
+  {
+    "EnemyLevelConstantGroupId": 2542003,
+    "Level": 1,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542003010,
+    "BossCautionLanguageId": 130000002542001,
+    "FinalAttackSkillEnemyId": 325428002
+  },
+  {
+    "EnemyLevelConstantGroupId": 2542003,
+    "Level": 70,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542003010,
+    "BossCautionLanguageId": 130000002542001,
+    "FinalAttackSkillEnemyId": 325428003
+  },
+  {
+    "EnemyLevelConstantGroupId": 2542004,
+    "Level": 1,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542004010,
+    "BossCautionLanguageId": 130000002542001,
+    "FinalAttackSkillEnemyId": 325428002
+  },
+  {
+    "EnemyLevelConstantGroupId": 2542004,
+    "Level": 70,
+    "ResourceId": 2542002010,
+    "EnemySkillLevelId": 2542004010,
+    "BossCautionLanguageId": 130000002542001,
+    "FinalAttackSkillEnemyId": 325428003
+  },
+  {
+    "EnemyLevelConstantGroupId": 2543001,
+    "Level": 1,
+    "ResourceId": 2543001010,
+    "EnemySkillLevelId": 2543001010,
+    "BossCautionLanguageId": 130000002543001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2543002,
+    "Level": 1,
+    "ResourceId": 2543001010,
+    "EnemySkillLevelId": 2543002010,
+    "BossCautionLanguageId": 130000002543001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2543003,
+    "Level": 1,
+    "ResourceId": 2543001010,
+    "EnemySkillLevelId": 2543003010,
+    "BossCautionLanguageId": 130000002543001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2543004,
+    "Level": 1,
+    "ResourceId": 2543001010,
+    "EnemySkillLevelId": 2543004010,
+    "BossCautionLanguageId": 130000002543001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2543005,
+    "Level": 1,
+    "ResourceId": 2543001010,
+    "EnemySkillLevelId": 2543001010,
+    "BossCautionLanguageId": 130000002543001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2543006,
+    "Level": 1,
+    "ResourceId": 2543001010,
+    "EnemySkillLevelId": 2543001010,
+    "BossCautionLanguageId": 130000002543001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2543007,
+    "Level": 1,
+    "ResourceId": 2543001010,
+    "EnemySkillLevelId": 2543007010,
+    "BossCautionLanguageId": 130000002543001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2545001,
+    "Level": 1,
+    "ResourceId": 2545001010,
+    "EnemySkillLevelId": 2545001010,
+    "BossCautionLanguageId": 130000002545001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2546001,
+    "Level": 1,
+    "ResourceId": 2546001010,
+    "EnemySkillLevelId": 2546001010,
+    "BossCautionLanguageId": 130000002546001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547001,
+    "Level": 1,
+    "ResourceId": 2547001010,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547002,
+    "Level": 1,
+    "ResourceId": 2547001020,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547003,
+    "Level": 1,
+    "ResourceId": 2547001030,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547004,
+    "Level": 1,
+    "ResourceId": 2547001030,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547005,
+    "Level": 1,
+    "ResourceId": 2547001040,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547006,
+    "Level": 1,
+    "ResourceId": 2547001050,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547007,
+    "Level": 1,
+    "ResourceId": 2547001050,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547101,
+    "Level": 1,
+    "ResourceId": 2547101010,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547102,
+    "Level": 1,
+    "ResourceId": 2547101020,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547103,
+    "Level": 1,
+    "ResourceId": 2547101030,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547104,
+    "Level": 1,
+    "ResourceId": 2547101030,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547105,
+    "Level": 1,
+    "ResourceId": 2547101040,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547106,
+    "Level": 1,
+    "ResourceId": 2547101050,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547107,
+    "Level": 1,
+    "ResourceId": 2547101050,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2547110,
+    "Level": 1,
+    "ResourceId": 2547111010,
+    "EnemySkillLevelId": 2547001010,
+    "BossCautionLanguageId": 130000002547001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548001,
+    "Level": 1,
+    "ResourceId": 2548001010,
+    "EnemySkillLevelId": 2548001010,
+    "BossCautionLanguageId": 130000002548001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548002,
+    "Level": 1,
+    "ResourceId": 2548001010,
+    "EnemySkillLevelId": 2548001010,
+    "BossCautionLanguageId": 130000002548001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548003,
+    "Level": 1,
+    "ResourceId": 2548001010,
+    "EnemySkillLevelId": 2548001010,
+    "BossCautionLanguageId": 130000002548001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548004,
+    "Level": 1,
+    "ResourceId": 2548002010,
+    "EnemySkillLevelId": 2548001010,
+    "BossCautionLanguageId": 130000002548001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548005,
+    "Level": 1,
+    "ResourceId": 2548002010,
+    "EnemySkillLevelId": 2548001010,
+    "BossCautionLanguageId": 130000002548001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548101,
+    "Level": 1,
+    "ResourceId": 2548101010,
+    "EnemySkillLevelId": 2548101010,
+    "BossCautionLanguageId": 130000002548101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548102,
+    "Level": 1,
+    "ResourceId": 2548101010,
+    "EnemySkillLevelId": 2548101010,
+    "BossCautionLanguageId": 130000002548101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548103,
+    "Level": 1,
+    "ResourceId": 2548101010,
+    "EnemySkillLevelId": 2548101010,
+    "BossCautionLanguageId": 130000002548101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548104,
+    "Level": 1,
+    "ResourceId": 2548102010,
+    "EnemySkillLevelId": 2548101020,
+    "BossCautionLanguageId": 130000002548101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2548105,
+    "Level": 1,
+    "ResourceId": 2548102010,
+    "EnemySkillLevelId": 2548101020,
+    "BossCautionLanguageId": 130000002548101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2549001,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549001010,
+    "BossCautionLanguageId": 130000002549001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2549002,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549002010,
+    "BossCautionLanguageId": 130000002549001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2549003,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549003010,
+    "BossCautionLanguageId": 130000002549001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2549004,
+    "Level": 1,
+    "ResourceId": 2549001010,
+    "EnemySkillLevelId": 2549004010,
+    "BossCautionLanguageId": 130000002549001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2550001,
+    "Level": 1,
+    "ResourceId": 2550001010,
+    "EnemySkillLevelId": 2550002010,
+    "BossCautionLanguageId": 130000002550001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2550002,
+    "Level": 1,
+    "ResourceId": 2550001010,
+    "EnemySkillLevelId": 2550001010,
+    "BossCautionLanguageId": 130000002550001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2550003,
+    "Level": 1,
+    "ResourceId": 2550001010,
+    "EnemySkillLevelId": 2550002010,
+    "BossCautionLanguageId": 130000002550001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2550004,
+    "Level": 1,
+    "ResourceId": 2550001010,
+    "EnemySkillLevelId": 2550003010,
+    "BossCautionLanguageId": 130000002550001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2552001,
+    "Level": 1,
+    "ResourceId": 2552001010,
+    "EnemySkillLevelId": 2552001010,
+    "BossCautionLanguageId": 130000002552001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2552002,
+    "Level": 1,
+    "ResourceId": 2552002010,
+    "EnemySkillLevelId": 2552002010,
+    "BossCautionLanguageId": 130000002552001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2552003,
+    "Level": 1,
+    "ResourceId": 2552003010,
+    "EnemySkillLevelId": 2552003010,
+    "BossCautionLanguageId": 130000002552001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2554001,
+    "Level": 1,
+    "ResourceId": 2554001010,
+    "EnemySkillLevelId": 2554001010,
+    "BossCautionLanguageId": 130000002554001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2554002,
+    "Level": 1,
+    "ResourceId": 2554001010,
+    "EnemySkillLevelId": 2554002010,
+    "BossCautionLanguageId": 130000002554001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2554003,
+    "Level": 1,
+    "ResourceId": 2554001010,
+    "EnemySkillLevelId": 2554003010,
+    "BossCautionLanguageId": 130000002554001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2554004,
+    "Level": 1,
+    "ResourceId": 2554002010,
+    "EnemySkillLevelId": 2554004010,
+    "BossCautionLanguageId": 130000002554001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2554005,
+    "Level": 1,
+    "ResourceId": 2554002010,
+    "EnemySkillLevelId": 2554005010,
+    "BossCautionLanguageId": 130000002554001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2555001,
+    "Level": 1,
+    "ResourceId": 2555001010,
+    "EnemySkillLevelId": 2555001010,
+    "BossCautionLanguageId": 130000002555001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2555002,
+    "Level": 1,
+    "ResourceId": 2555001010,
+    "EnemySkillLevelId": 2555001010,
+    "BossCautionLanguageId": 130000002555001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2555003,
+    "Level": 1,
+    "ResourceId": 2555002010,
+    "EnemySkillLevelId": 2555001010,
+    "BossCautionLanguageId": 130000002555001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2555004,
+    "Level": 1,
+    "ResourceId": 2555002010,
+    "EnemySkillLevelId": 2555002010,
+    "BossCautionLanguageId": 130000002555001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2556101,
+    "Level": 1,
+    "ResourceId": 2556101010,
+    "EnemySkillLevelId": 2556101010,
+    "BossCautionLanguageId": 130000002556101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2556102,
+    "Level": 1,
+    "ResourceId": 2556101010,
+    "EnemySkillLevelId": 2556102010,
+    "BossCautionLanguageId": 130000002556101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2556103,
+    "Level": 1,
+    "ResourceId": 2556101010,
+    "EnemySkillLevelId": 2556103010,
+    "BossCautionLanguageId": 130000002556101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2556104,
+    "Level": 1,
+    "ResourceId": 2556102010,
+    "EnemySkillLevelId": 2556104010,
+    "BossCautionLanguageId": 130000002556101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2556105,
+    "Level": 1,
+    "ResourceId": 2556102010,
+    "EnemySkillLevelId": 2556105010,
+    "BossCautionLanguageId": 130000002556101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2561001,
+    "Level": 1,
+    "ResourceId": 2561001010,
+    "EnemySkillLevelId": 2561001010,
+    "BossCautionLanguageId": 130000002561001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2561007,
+    "Level": 1,
+    "ResourceId": 2561001010,
+    "EnemySkillLevelId": 2561001010,
+    "BossCautionLanguageId": 130000002561002,
+    "FinalAttackSkillEnemyId": 0
+  }
+]

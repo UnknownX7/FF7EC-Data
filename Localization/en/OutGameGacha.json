@@ -1,0 +1,808 @@
+{
+  "data": [
+    {
+      "id": 220004,
+      "value": "Stamps"
+    },
+    {
+      "id": 220005,
+      "value": "Feat. Weapons"
+    },
+    {
+      "id": 220006,
+      "value": "Draw Info"
+    },
+    {
+      "id": 220007,
+      "value": "{0} Draw(s)"
+    },
+    {
+      "id": 220008,
+      "value": "Purchase Items"
+    },
+    {
+      "id": 220009,
+      "value": "Odds"
+    },
+    {
+      "id": 220010,
+      "value": "Gear"
+    },
+    {
+      "id": 220011,
+      "value": "{0:0.00000}%"
+    },
+    {
+      "id": 220012,
+      "value": "Rarity"
+    },
+    {
+      "id": 220013,
+      "value": "Weapon"
+    },
+    {
+      "id": 220014,
+      "value": "Weapon Details"
+    },
+    {
+      "id": 220015,
+      "value": "Max. Level"
+    },
+    {
+      "id": 220016,
+      "value": "Support Materia"
+    },
+    {
+      "id": 220019,
+      "value": "Odds by Rarity"
+    },
+    {
+      "id": 220020,
+      "value": "Breakdown by Weapon"
+    },
+    {
+      "id": 220021,
+      "value": "Perform {2}\\n{3} time(s)?"
+    },
+    {
+      "id": 220023,
+      "value": "*Not enough crystals."
+    },
+    {
+      "id": 220024,
+      "value": "Skip"
+    },
+    {
+      "id": 220025,
+      "value": "The following rewards have been obtained."
+    },
+    {
+      "id": 220026,
+      "value": "{0} x {1}"
+    },
+    {
+      "id": 220027,
+      "value": "Back"
+    },
+    {
+      "id": 220028,
+      "value": "Draw Again"
+    },
+    {
+      "id": 220032,
+      "value": "Perform {1}\\n{2} time(s)?"
+    },
+    {
+      "id": 220034,
+      "value": "Step {0}"
+    },
+    {
+      "id": 220035,
+      "value": "Draw × {1} with crystal/magicite × {0}"
+    },
+    {
+      "id": 220036,
+      "value": "Draw × {1} with crystal × {0}"
+    },
+    {
+      "id": 220037,
+      "value": "Stamp Card Rewards"
+    },
+    {
+      "id": 220038,
+      "value": "Draw Bonus"
+    },
+    {
+      "id": 220039,
+      "value": "Converted Parts"
+    },
+    {
+      "id": 220040,
+      "value": "Tap"
+    },
+    {
+      "id": 220041,
+      "value": "Perform {1}\\n{2} time(s)?"
+    },
+    {
+      "id": 220042,
+      "value": "Cannot attempt any further Draws.\n"
+    },
+    {
+      "id": 220043,
+      "value": "Not enough tickets."
+    },
+    {
+      "id": 220048,
+      "value": "Draw Details"
+    },
+    {
+      "id": 220049,
+      "value": "Draw(s)"
+    },
+    {
+      "id": 220050,
+      "value": "Required Crystals"
+    },
+    {
+      "id": 220052,
+      "value": "*10 Draws guarantees the appearance of at least one 4★+ weapon.\n\\n*Blue Crystals will be consumed first."
+    },
+    {
+      "id": 220057,
+      "value": "Red Crystals Only"
+    },
+    {
+      "id": 220058,
+      "value": "{0} Draw(s) (Max. attempts: {1})"
+    },
+    {
+      "id": 220059,
+      "value": "{0} (Red Crystals only)"
+    },
+    {
+      "id": 220063,
+      "value": "Featured Weapons"
+    },
+    {
+      "id": 220064,
+      "value": "Card {0}"
+    },
+    {
+      "id": 220065,
+      "value": "Individual Odds"
+    },
+    {
+      "id": 220066,
+      "value": "Wielder"
+    },
+    {
+      "id": 220067,
+      "value": "General"
+    },
+    {
+      "id": 220068,
+      "value": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192> Or Higher Gtd."
+    },
+    {
+      "id": 220069,
+      "value": "<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> Or Higher Gtd."
+    },
+    {
+      "id": 220070,
+      "value": "Feature Guaranteed"
+    },
+    {
+      "id": 220071,
+      "value": "Draw Period"
+    },
+    {
+      "id": 220072,
+      "value": "Draw Types"
+    },
+    {
+      "id": 220073,
+      "value": "Featured"
+    },
+    {
+      "id": 220074,
+      "value": "Cannot attempt any further Draws.\\n*Resets every {0} at {1}."
+    },
+    {
+      "id": 220075,
+      "value": "*Shown as a main wpn. at Lv. 90 and Overboost tier 10.\\n*Tap \"Details\" for more information."
+    },
+    {
+      "id": 220076,
+      "value": "Applicable Draws"
+    },
+    {
+      "id": 220077,
+      "value": "Stamp Details"
+    },
+    {
+      "id": 220078,
+      "value": "Odds"
+    },
+    {
+      "id": 220079,
+      "value": "Stamp Cards"
+    },
+    {
+      "id": 220080,
+      "value": "You do not possess any Draw Tickets."
+    },
+    {
+      "id": 220081,
+      "value": "No Draws available."
+    },
+    {
+      "id": 220082,
+      "value": "Featured"
+    },
+    {
+      "id": 220083,
+      "value": "Guaranteed!"
+    },
+    {
+      "id": 220084,
+      "value": "Or Higher Guaranteed!"
+    },
+    {
+      "id": 220085,
+      "value": "Max. Daily: {0}"
+    },
+    {
+      "id": 220086,
+      "value": "Max.: {0}"
+    },
+    {
+      "id": 220087,
+      "value": "Featured <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> Weapon Square"
+    },
+    {
+      "id": 220088,
+      "value": "Guaranteed <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> or higher weapon"
+    },
+    {
+      "id": 220089,
+      "value": "<sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>+ Weapon Square"
+    },
+    {
+      "id": 220090,
+      "value": "When this stamp is active, the 10th slot of your Draw will have a 100% appearance rate for featured <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> weapons.\\nIf there is no featured weapon, the appearance rate of a <sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> weapon will be 100%."
+    },
+    {
+      "id": 220091,
+      "value": "When this square is stamped, one of the prizes\\nof the draw you perform will be a weapon of\\n<sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196> or higher that is offered in this draw."
+    },
+    {
+      "id": 220092,
+      "value": "When this Stamp is activated during a draw, <sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192><sprite=\"tmp_icon\" index=192>+ guaranteed in the 10th slot."
+    },
+    {
+      "id": 220093,
+      "value": "FEATURE"
+    },
+    {
+      "id": 220094,
+      "value": "NEW FEATURE"
+    },
+    {
+      "id": 220095,
+      "value": "Card Progress"
+    },
+    {
+      "id": 220096,
+      "value": "Card Details"
+    },
+    {
+      "id": 220097,
+      "value": "Spec. Rewards"
+    },
+    {
+      "id": 220098,
+      "value": "Overboost Tier 10"
+    },
+    {
+      "id": 220099,
+      "value": "Confirm"
+    },
+    {
+      "id": 220100,
+      "value": "Perform {0}\\n{1} time(s)?"
+    },
+    {
+      "id": 220101,
+      "value": "Select"
+    },
+    {
+      "id": 220102,
+      "value": "Special"
+    },
+    {
+      "id": 220103,
+      "value": "Ticket"
+    },
+    {
+      "id": 220104,
+      "value": "Draw Details"
+    },
+    {
+      "id": 220105,
+      "value": "STAMP CARD"
+    },
+    {
+      "id": 220106,
+      "value": "*Rewards will be sent to your gift box if your inv. is full."
+    },
+    {
+      "id": 220107,
+      "value": "Auto-conv.: {0}"
+    },
+    {
+      "id": 220108,
+      "value": "Marked weapons have been converted into items."
+    },
+    {
+      "id": 220109,
+      "value": "Marked weapons have been sent to the Armory."
+    },
+    {
+      "id": 220112,
+      "value": "Stamps Available"
+    },
+    {
+      "id": 220113,
+      "value": "*Not enough Crystals."
+    },
+    {
+      "id": 220114,
+      "value": "*Not enough Crystals."
+    },
+    {
+      "id": 220115,
+      "value": "Draw Rewards"
+    },
+    {
+      "id": 220116,
+      "value": "Draw"
+    },
+    {
+      "id": 220119,
+      "value": "Stamp Odds"
+    },
+    {
+      "id": 220120,
+      "value": "Select Weapon"
+    },
+    {
+      "id": 220121,
+      "value": "Select weapon to add."
+    },
+    {
+      "id": 220122,
+      "value": "Wielder:"
+    },
+    {
+      "id": 220123,
+      "value": "*Shown at Lv. 90 and Overboost tier 10."
+    },
+    {
+      "id": 220124,
+      "value": "Not Obtained"
+    },
+    {
+      "id": 220125,
+      "value": "Select Gear"
+    },
+    {
+      "id": 220126,
+      "value": "Select gear that will appear in the draw odds."
+    },
+    {
+      "id": 220127,
+      "value": "Selected"
+    },
+    {
+      "id": 220128,
+      "value": "Held"
+    },
+    {
+      "id": 220129,
+      "value": "Please make a selection."
+    },
+    {
+      "id": 220130,
+      "value": "Required Tickets"
+    },
+    {
+      "id": 220131,
+      "value": "NEW STAMP SHEET"
+    },
+    {
+      "id": 220132,
+      "value": "SELECT"
+    },
+    {
+      "id": 220133,
+      "value": "CHANCE"
+    },
+    {
+      "id": 220134,
+      "value": "Selected"
+    },
+    {
+      "id": 220135,
+      "value": "This gear has already been assigned to another square.\\nSet to this square instead?"
+    },
+    {
+      "id": 220136,
+      "value": "Confirm"
+    },
+    {
+      "id": 220137,
+      "value": "{0} 1"
+    },
+    {
+      "id": 220138,
+      "value": "{0} 2"
+    },
+    {
+      "id": 220139,
+      "value": "Lv. 90"
+    },
+    {
+      "id": 220140,
+      "value": "Wish List"
+    },
+    {
+      "id": 220141,
+      "value": "Featured"
+    },
+    {
+      "id": 220142,
+      "value": "Selectable"
+    },
+    {
+      "id": 220143,
+      "value": "Edit"
+    },
+    {
+      "id": 220144,
+      "value": "Wish List Settings"
+    },
+    {
+      "id": 220145,
+      "value": "Featured"
+    },
+    {
+      "id": 220146,
+      "value": "Selectable"
+    },
+    {
+      "id": 220147,
+      "value": "Reset"
+    },
+    {
+      "id": 220148,
+      "value": "Set"
+    },
+    {
+      "id": 220149,
+      "value": "Wish List Weapons Added"
+    },
+    {
+      "id": 220150,
+      "value": "Wish List Selectable Slots Expanded"
+    },
+    {
+      "id": 220151,
+      "value": "Ends: {1}\\n{0}"
+    },
+    {
+      "id": 220152,
+      "value": "Stamp Challenge"
+    },
+    {
+      "id": 220153,
+      "value": "> SKIP"
+    },
+    {
+      "id": 220154,
+      "value": "Max. Preview"
+    },
+    {
+      "id": 220155,
+      "value": "Page {0}"
+    },
+    {
+      "id": 220156,
+      "value": "Page EX"
+    },
+    {
+      "id": 220157,
+      "value": "*All subsequent pages after page {0} are EX."
+    },
+    {
+      "id": 220158,
+      "value": "*All subsequent pages are EX."
+    },
+    {
+      "id": 220159,
+      "value": "*At Lv. 90 and Overboost tier 10."
+    },
+    {
+      "id": 220160,
+      "value": "Overview"
+    },
+    {
+      "id": 220161,
+      "value": "Swap Square Rewards"
+    },
+    {
+      "id": 220162,
+      "value": "STAMP CARD"
+    },
+    {
+      "id": 220163,
+      "value": "Prog."
+    },
+    {
+      "id": 220164,
+      "value": "Card"
+    },
+    {
+      "id": 220165,
+      "value": "Square"
+    },
+    {
+      "id": 220166,
+      "value": "Details"
+    },
+    {
+      "id": 220167,
+      "value": "Confirm"
+    },
+    {
+      "id": 220168,
+      "value": "Set"
+    },
+    {
+      "id": 220169,
+      "value": "Featured"
+    },
+    {
+      "id": 220170,
+      "value": "Details/Odds"
+    },
+    {
+      "id": 220171,
+      "value": "* The selected item can be changed later."
+    },
+    {
+      "id": 220172,
+      "value": "Stamp Card Settings"
+    },
+    {
+      "id": 220173,
+      "value": "There are SELECT squares on the stamp card. \nDo you wish to draw without making changes?"
+    },
+    {
+      "id": 220174,
+      "value": "Current"
+    },
+    {
+      "id": 220175,
+      "value": "Card:{0} Square:{1}"
+    },
+    {
+      "id": 220176,
+      "value": "Change"
+    },
+    {
+      "id": 220177,
+      "value": "Draw"
+    },
+    {
+      "id": 220178,
+      "value": "Included ★5"
+    },
+    {
+      "id": 220179,
+      "value": "Wish List Details"
+    },
+    {
+      "id": 220180,
+      "value": "Claim Draw Rewards"
+    },
+    {
+      "id": 220181,
+      "value": "Claim Draw Rewards"
+    },
+    {
+      "id": 220182,
+      "value": "* The selected item can be changed later."
+    },
+    {
+      "id": 220183,
+      "value": "Featured"
+    },
+    {
+      "id": 220184,
+      "value": "Unable to select as it is a featured weapon."
+    },
+    {
+      "id": 220185,
+      "value": "Held Status"
+    },
+    {
+      "id": 220186,
+      "value": "Draw"
+    },
+    {
+      "id": 220187,
+      "value": "Perform {0}\\n{1} time(s)?"
+    },
+    {
+      "id": 220188,
+      "value": "Confirm"
+    },
+    {
+      "id": 220189,
+      "value": "Confirm Wishlist"
+    },
+    {
+      "id": 220190,
+      "value": "This is a new Draw.\\nPlease set a Wishlist."
+    },
+    {
+      "id": 220191,
+      "value": "Set"
+    },
+    {
+      "id": 220192,
+      "value": "{0} 3"
+    },
+    {
+      "id": 220193,
+      "value": "{0} 4"
+    },
+    {
+      "id": 220194,
+      "value": "{0} 5"
+    },
+    {
+      "id": 220195,
+      "value": "{0} 6"
+    },
+    {
+      "id": 220196,
+      "value": "{0} 7"
+    },
+    {
+      "id": 220197,
+      "value": "{0} 8"
+    },
+    {
+      "id": 220198,
+      "value": "{0} 9"
+    },
+    {
+      "id": 220199,
+      "value": "{0} 10"
+    },
+    {
+      "id": 220200,
+      "value": "Step"
+    },
+    {
+      "id": 220201,
+      "value": "Bonus"
+    },
+    {
+      "id": 220202,
+      "value": "Step {0}"
+    },
+    {
+      "id": 220203,
+      "value": "Step <command_size=H2>{0}</size>"
+    },
+    {
+      "id": 220204,
+      "value": "Step <command_size=H2>{0}</size> <command_color=common_02><command_size=min>(Loop</color></size> <command_size=H2>{1}</size><command_color=common_02><command_size=min>/{2})</size></color>"
+    },
+    {
+      "id": 220205,
+      "value": "<command_color=Common_03>Step</color> {0}"
+    },
+    {
+      "id": 220206,
+      "value": "<command_color=Common_03>Step</color> {0} (Loop {1}/{2})"
+    },
+    {
+      "id": 220207,
+      "value": "Step Up Bonus"
+    },
+    {
+      "id": 220208,
+      "value": "The game is currently undergoing maintenance and cannot be played.\\nPlease try again once maintenance has ended."
+    },
+    {
+      "id": 220209,
+      "value": "*The selected weapon will appear in slot 10."
+    },
+    {
+      "id": 220210,
+      "value": "*The set weapon will appear in slot 10."
+    },
+    {
+      "id": 220211,
+      "value": "Step Details"
+    },
+    {
+      "id": 220212,
+      "value": "<sprite=\"tmp_icon\" index=785>{0}\\n(Red crystals only)"
+    },
+    {
+      "id": 220213,
+      "value": "<sprite=\"tmp_icon\" index=783>{0}"
+    },
+    {
+      "id": 220214,
+      "value": "*The contents of this page will loop."
+    },
+    {
+      "id": 220217,
+      "value": "- Tickets are consumed immediately upon use, and draws cannot be canceled afterward.\\n- Items obtained are immediately added to your inventory,\\nand anything exceeding inventory capacity will be sent to your gift box."
+    },
+    {
+      "id": 220221,
+      "value": "- Stamps can only be obtained through \"Draw 10.\""
+    },
+    {
+      "id": 220222,
+      "value": "Item Selection"
+    },
+    {
+      "id": 220223,
+      "value": "Select items to obtain."
+    },
+    {
+      "id": 220224,
+      "value": "Limit Break"
+    },
+    {
+      "id": 220225,
+      "value": "Limit Break Draw\\nExclusive New Gear!"
+    },
+    {
+      "id": 220226,
+      "value": "Stamp Card Rewards"
+    },
+    {
+      "id": 220227,
+      "value": "Stamp card rewards have not been set.\\nPlease set stamp card rewards for this draw."
+    },
+    {
+      "id": 220228,
+      "value": "Set"
+    },
+    {
+      "id": 220229,
+      "value": "Reward Selection"
+    },
+    {
+      "id": 220230,
+      "value": "Select a reward to obtain."
+    },
+    {
+      "id": 220231,
+      "value": "*The reward can be changed later."
+    },
+    {
+      "id": 220232,
+      "value": "Ultimate Weapon"
+    }
+  ]
+}

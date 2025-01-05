@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "ChocoboFarmTermId": 1,
+    "Seq": 1,
+    "RewardSetId": 910000001,
+    "ResourceId": 1,
+    "PlaceId": 1
+  },
+  {
+    "Id": 2,
+    "ChocoboFarmTermId": 1,
+    "Seq": 2,
+    "RewardSetId": 910000002,
+    "ResourceId": 1,
+    "PlaceId": 2
+  },
+  {
+    "Id": 3,
+    "ChocoboFarmTermId": 2,
+    "Seq": 1,
+    "RewardSetId": 910000003,
+    "ResourceId": 1,
+    "PlaceId": 1
+  },
+  {
+    "Id": 4,
+    "ChocoboFarmTermId": 2,
+    "Seq": 2,
+    "RewardSetId": 910000004,
+    "ResourceId": 1,
+    "PlaceId": 2
+  }
+]
