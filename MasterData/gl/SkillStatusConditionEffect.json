@@ -7,7 +7,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 12,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 101008012,
@@ -17,7 +17,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 101008022,
@@ -27,7 +27,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 101008032,
@@ -37,7 +37,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 101008042,
@@ -47,7 +47,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 106008013,
@@ -57,7 +57,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 106008023,
@@ -67,7 +67,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 106008033,
@@ -77,7 +77,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 106008043,
@@ -87,7 +87,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 108010014,
@@ -97,7 +97,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 108010024,
@@ -107,7 +107,7 @@
     "MinDuplicationDurationSec": 4,
     "MaxDuplicationDurationSec": 4,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 108010034,
@@ -117,7 +117,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 108010044,
@@ -127,7 +127,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109001012,
@@ -137,7 +137,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109001022,
@@ -147,7 +147,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109001032,
@@ -157,7 +157,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109001042,
@@ -167,7 +167,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003012,
@@ -177,7 +177,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003013,
@@ -187,7 +187,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003022,
@@ -197,7 +197,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003023,
@@ -207,7 +207,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003032,
@@ -217,7 +217,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003033,
@@ -227,7 +227,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003042,
@@ -237,7 +237,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109003043,
@@ -247,7 +247,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109012012,
@@ -257,7 +257,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109012022,
@@ -267,7 +267,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109012032,
@@ -277,7 +277,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109012042,
@@ -287,7 +287,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109015012,
@@ -297,7 +297,7 @@
     "MinDuplicationDurationSec": 8,
     "MaxDuplicationDurationSec": 8,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109015022,
@@ -307,7 +307,7 @@
     "MinDuplicationDurationSec": 9,
     "MaxDuplicationDurationSec": 9,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109015032,
@@ -317,7 +317,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109015042,
@@ -327,7 +327,7 @@
     "MinDuplicationDurationSec": 14,
     "MaxDuplicationDurationSec": 14,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109016012,
@@ -337,7 +337,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109016022,
@@ -347,7 +347,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109016032,
@@ -357,7 +357,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 109016042,
@@ -367,7 +367,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 120008012,
@@ -377,7 +377,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 120008022,
@@ -387,7 +387,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 152010012,
@@ -397,7 +397,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 152010022,
@@ -407,7 +407,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 152010032,
@@ -417,7 +417,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 152010042,
@@ -427,7 +427,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901012,
@@ -437,7 +437,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901022,
@@ -447,7 +447,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901032,
@@ -457,7 +457,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901042,
@@ -467,7 +467,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901052,
@@ -477,7 +477,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901062,
@@ -487,7 +487,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901072,
@@ -497,7 +497,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901082,
@@ -507,7 +507,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901092,
@@ -517,7 +517,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100901102,
@@ -527,7 +527,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100903012,
@@ -537,7 +537,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100903022,
@@ -547,7 +547,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100903032,
@@ -557,7 +557,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100903042,
@@ -567,7 +567,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 2100903052,
@@ -577,7 +577,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101013133,
@@ -587,7 +587,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101013143,
@@ -597,7 +597,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101013153,
@@ -607,7 +607,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101014072,
@@ -617,7 +617,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101014082,
@@ -627,7 +627,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101014092,
@@ -637,7 +637,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101014102,
@@ -647,7 +647,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101014122,
@@ -657,7 +657,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101210022,
@@ -667,7 +667,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101210142,
@@ -677,7 +677,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101210152,
@@ -687,7 +687,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101210162,
@@ -697,7 +697,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101310132,
@@ -707,7 +707,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101310142,
@@ -717,7 +717,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101310152,
@@ -727,7 +727,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101320994,
@@ -737,7 +737,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101330011,
@@ -747,7 +747,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101330021,
@@ -757,7 +757,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101330031,
@@ -767,7 +767,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361331,
@@ -777,7 +777,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361341,
@@ -787,7 +787,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361351,
@@ -797,7 +797,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361361,
@@ -807,7 +807,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361371,
@@ -817,7 +817,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361381,
@@ -827,7 +827,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361391,
@@ -837,7 +837,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361401,
@@ -847,7 +847,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361411,
@@ -857,7 +857,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361421,
@@ -867,7 +867,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361431,
@@ -877,7 +877,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101361441,
@@ -887,7 +887,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101410311,
@@ -897,7 +897,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101410321,
@@ -907,7 +907,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101410331,
@@ -917,7 +917,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101510112,
@@ -927,7 +927,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101510122,
@@ -937,7 +937,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3101510372,
@@ -947,7 +947,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3105710052,
@@ -957,7 +957,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3105710062,
@@ -967,7 +967,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3105710084,
@@ -977,7 +977,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3105710094,
@@ -987,7 +987,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3105710104,
@@ -997,7 +997,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3105730051,
@@ -1007,7 +1007,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3190210252,
@@ -1017,7 +1017,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3190230091,
@@ -1027,7 +1027,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3200110042,
@@ -1037,7 +1037,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3200210042,
@@ -1047,7 +1047,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3200710052,
@@ -1057,7 +1057,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3201110062,
@@ -1067,7 +1067,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3201110072,
@@ -1077,7 +1077,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3201113062,
@@ -1087,7 +1087,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3201113072,
@@ -1097,7 +1097,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3201233042,
@@ -1107,7 +1107,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3201510052,
@@ -1117,7 +1117,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3201610042,
@@ -1127,7 +1127,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202210042,
@@ -1137,7 +1137,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202210052,
@@ -1147,7 +1147,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202210062,
@@ -1157,7 +1157,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202211102,
@@ -1167,7 +1167,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202211112,
@@ -1177,7 +1177,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202211122,
@@ -1187,7 +1187,7 @@
     "MinDuplicationDurationSec": 180,
     "MaxDuplicationDurationSec": 180,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202213042,
@@ -1197,7 +1197,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202213052,
@@ -1207,7 +1207,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202213062,
@@ -1217,7 +1217,7 @@
     "MinDuplicationDurationSec": 180,
     "MaxDuplicationDurationSec": 180,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202410022,
@@ -1227,7 +1227,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202710042,
@@ -1237,7 +1237,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202710052,
@@ -1247,7 +1247,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202710062,
@@ -1257,7 +1257,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202710072,
@@ -1267,7 +1267,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202713042,
@@ -1277,7 +1277,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202713052,
@@ -1287,7 +1287,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202713062,
@@ -1297,7 +1297,7 @@
     "MinDuplicationDurationSec": 45,
     "MaxDuplicationDurationSec": 45,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3202713072,
@@ -1307,7 +1307,7 @@
     "MinDuplicationDurationSec": 45,
     "MaxDuplicationDurationSec": 45,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203310032,
@@ -1317,7 +1317,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203310042,
@@ -1327,7 +1327,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203410032,
@@ -1337,7 +1337,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203410042,
@@ -1347,7 +1347,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203410052,
@@ -1357,7 +1357,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203413032,
@@ -1367,7 +1367,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203413042,
@@ -1377,7 +1377,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203413052,
@@ -1387,7 +1387,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203460102,
@@ -1397,7 +1397,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203510022,
@@ -1407,7 +1407,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203510062,
@@ -1417,7 +1417,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203510082,
@@ -1427,7 +1427,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203730011,
@@ -1437,7 +1437,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203730021,
@@ -1447,7 +1447,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3203810032,
@@ -1457,7 +1457,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204030021,
@@ -1467,7 +1467,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204210032,
@@ -1477,7 +1477,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204213032,
@@ -1487,7 +1487,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204213052,
@@ -1497,7 +1497,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204213062,
@@ -1507,7 +1507,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204213072,
@@ -1517,7 +1517,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204441011,
@@ -1527,7 +1527,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204441021,
@@ -1537,7 +1537,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204550011,
@@ -1547,7 +1547,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204581013,
@@ -1557,7 +1557,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204610062,
@@ -1567,7 +1567,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204610072,
@@ -1577,7 +1577,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204610082,
@@ -1587,7 +1587,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204630011,
@@ -1597,7 +1597,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3204630021,
@@ -1607,7 +1607,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205310042,
@@ -1617,7 +1617,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205310052,
@@ -1627,7 +1627,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205310062,
@@ -1637,7 +1637,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205311043,
@@ -1647,7 +1647,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205311053,
@@ -1657,7 +1657,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205311063,
@@ -1667,7 +1667,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205630011,
@@ -1677,7 +1677,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205630021,
@@ -1687,7 +1687,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205651011,
@@ -1697,7 +1697,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205651021,
@@ -1707,7 +1707,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205651031,
@@ -1717,7 +1717,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205651041,
@@ -1727,7 +1727,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205651051,
@@ -1737,7 +1737,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205810032,
@@ -1747,7 +1747,7 @@
     "MinDuplicationDurationSec": 9,
     "MaxDuplicationDurationSec": 9,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205810042,
@@ -1757,7 +1757,7 @@
     "MinDuplicationDurationSec": 9,
     "MaxDuplicationDurationSec": 9,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205810052,
@@ -1767,7 +1767,7 @@
     "MinDuplicationDurationSec": 12,
     "MaxDuplicationDurationSec": 12,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205810062,
@@ -1777,7 +1777,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205910022,
@@ -1787,7 +1787,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205930011,
@@ -1797,7 +1797,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3205930052,
@@ -1807,7 +1807,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3206410052,
@@ -1817,7 +1817,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3206410062,
@@ -1827,7 +1827,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3206510022,
@@ -1837,7 +1837,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250111112,
@@ -1847,7 +1847,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250111122,
@@ -1857,7 +1857,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250112252,
@@ -1867,7 +1867,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250112262,
@@ -1877,7 +1877,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250112272,
@@ -1887,7 +1887,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250112282,
@@ -1897,7 +1897,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250130082,
@@ -1907,7 +1907,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250210084,
@@ -1917,7 +1917,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250213123,
@@ -1927,7 +1927,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250213133,
@@ -1937,7 +1937,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250213143,
@@ -1947,7 +1947,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250213323,
@@ -1957,7 +1957,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250213333,
@@ -1967,7 +1967,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250510052,
@@ -1977,7 +1977,7 @@
     "MinDuplicationDurationSec": 40,
     "MaxDuplicationDurationSec": 40,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250510092,
@@ -1987,7 +1987,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250510102,
@@ -1997,7 +1997,7 @@
     "MinDuplicationDurationSec": 40,
     "MaxDuplicationDurationSec": 40,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250510112,
@@ -2007,7 +2007,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250511062,
@@ -2017,7 +2017,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250610092,
@@ -2027,7 +2027,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250630013,
@@ -2037,7 +2037,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713052,
@@ -2047,7 +2047,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713072,
@@ -2057,7 +2057,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713122,
@@ -2067,7 +2067,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713132,
@@ -2077,7 +2077,7 @@
     "MinDuplicationDurationSec": 120,
     "MaxDuplicationDurationSec": 120,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713142,
@@ -2087,7 +2087,7 @@
     "MinDuplicationDurationSec": 150,
     "MaxDuplicationDurationSec": 150,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713182,
@@ -2097,7 +2097,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713192,
@@ -2107,7 +2107,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250713202,
@@ -2117,7 +2117,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250714102,
@@ -2127,7 +2127,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250714112,
@@ -2137,7 +2137,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250714122,
@@ -2147,7 +2147,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250714132,
@@ -2157,7 +2157,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250714142,
@@ -2167,7 +2167,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810072,
@@ -2177,7 +2177,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810082,
@@ -2187,7 +2187,7 @@
     "MinDuplicationDurationSec": 180,
     "MaxDuplicationDurationSec": 180,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810092,
@@ -2197,7 +2197,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810102,
@@ -2207,7 +2207,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810112,
@@ -2217,7 +2217,7 @@
     "MinDuplicationDurationSec": 180,
     "MaxDuplicationDurationSec": 180,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810122,
@@ -2227,7 +2227,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810132,
@@ -2237,7 +2237,7 @@
     "MinDuplicationDurationSec": 4,
     "MaxDuplicationDurationSec": 4,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810142,
@@ -2247,7 +2247,7 @@
     "MinDuplicationDurationSec": 4,
     "MaxDuplicationDurationSec": 4,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250810152,
@@ -2257,7 +2257,7 @@
     "MinDuplicationDurationSec": 6,
     "MaxDuplicationDurationSec": 6,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3250931101,
@@ -2267,7 +2267,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251230062,
@@ -2277,7 +2277,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251231075,
@@ -2287,7 +2287,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251260073,
@@ -2297,7 +2297,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251260083,
@@ -2307,7 +2307,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251260093,
@@ -2317,7 +2317,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251260103,
@@ -2327,7 +2327,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251260113,
@@ -2337,7 +2337,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251260123,
@@ -2347,7 +2347,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251261032,
@@ -2357,7 +2357,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251261042,
@@ -2367,7 +2367,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251261072,
@@ -2377,7 +2377,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251261082,
@@ -2387,7 +2387,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251282011,
@@ -2397,7 +2397,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251282051,
@@ -2407,7 +2407,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251282091,
@@ -2417,7 +2417,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251610072,
@@ -2427,7 +2427,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251610082,
@@ -2437,7 +2437,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251610092,
@@ -2447,7 +2447,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251612052,
@@ -2457,7 +2457,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251612062,
@@ -2467,7 +2467,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251612072,
@@ -2477,7 +2477,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251630042,
@@ -2487,7 +2487,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251631012,
@@ -2497,7 +2497,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251632022,
@@ -2507,7 +2507,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810103,
@@ -2517,7 +2517,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810113,
@@ -2527,7 +2527,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810293,
@@ -2537,7 +2537,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810303,
@@ -2547,7 +2547,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810313,
@@ -2557,7 +2557,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810323,
@@ -2567,7 +2567,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810333,
@@ -2577,7 +2577,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810343,
@@ -2587,7 +2587,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810353,
@@ -2597,7 +2597,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810363,
@@ -2607,7 +2607,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810373,
@@ -2617,7 +2617,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810383,
@@ -2627,7 +2627,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810393,
@@ -2637,7 +2637,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810403,
@@ -2647,7 +2647,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810413,
@@ -2657,7 +2657,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810423,
@@ -2667,7 +2667,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810433,
@@ -2677,7 +2677,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810443,
@@ -2687,7 +2687,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810453,
@@ -2697,7 +2697,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3251810463,
@@ -2707,7 +2707,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010252,
@@ -2717,7 +2717,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010253,
@@ -2727,7 +2727,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010262,
@@ -2737,7 +2737,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010263,
@@ -2747,7 +2747,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010272,
@@ -2757,7 +2757,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010273,
@@ -2767,7 +2767,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010282,
@@ -2777,7 +2777,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010283,
@@ -2787,7 +2787,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010412,
@@ -2797,7 +2797,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010422,
@@ -2807,7 +2807,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010432,
@@ -2817,7 +2817,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010442,
@@ -2827,7 +2827,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010452,
@@ -2837,7 +2837,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010462,
@@ -2847,7 +2847,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010472,
@@ -2857,7 +2857,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010482,
@@ -2867,7 +2867,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010492,
@@ -2877,7 +2877,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010502,
@@ -2887,7 +2887,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010512,
@@ -2897,7 +2897,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010522,
@@ -2907,7 +2907,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010532,
@@ -2917,7 +2917,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010542,
@@ -2927,7 +2927,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010552,
@@ -2937,7 +2937,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010562,
@@ -2947,7 +2947,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010572,
@@ -2957,7 +2957,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010582,
@@ -2967,7 +2967,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010693,
@@ -2977,7 +2977,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010694,
@@ -2987,7 +2987,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252010734,
@@ -2997,7 +2997,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252012314,
@@ -3007,7 +3007,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252012324,
@@ -3017,7 +3017,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252012334,
@@ -3027,7 +3027,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252012344,
@@ -3037,7 +3037,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252012354,
@@ -3047,7 +3047,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252130012,
@@ -3057,7 +3057,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252311014,
@@ -3067,7 +3067,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252311015,
@@ -3077,7 +3077,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252331012,
@@ -3087,7 +3087,7 @@
     "MinDuplicationDurationSec": 12,
     "MaxDuplicationDurationSec": 12,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252430011,
@@ -3097,7 +3097,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252430021,
@@ -3107,7 +3107,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252431011,
@@ -3117,7 +3117,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252431021,
@@ -3127,7 +3127,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252431064,
@@ -3137,7 +3137,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252530185,
@@ -3147,7 +3147,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252650011,
@@ -3157,7 +3157,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252650021,
@@ -3167,7 +3167,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252650031,
@@ -3177,7 +3177,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252650041,
@@ -3187,7 +3187,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252650051,
@@ -3197,7 +3197,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252650061,
@@ -3207,7 +3207,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252710032,
@@ -3217,7 +3217,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252710062,
@@ -3227,7 +3227,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252710322,
@@ -3237,7 +3237,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252710352,
@@ -3247,7 +3247,7 @@
     "MinDuplicationDurationSec": 50,
     "MaxDuplicationDurationSec": 50,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711092,
@@ -3257,7 +3257,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711102,
@@ -3267,7 +3267,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711112,
@@ -3277,7 +3277,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711122,
@@ -3287,7 +3287,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711312,
@@ -3297,7 +3297,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711322,
@@ -3307,7 +3307,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711332,
@@ -3317,7 +3317,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711342,
@@ -3327,7 +3327,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711492,
@@ -3337,7 +3337,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252711502,
@@ -3347,7 +3347,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252781034,
@@ -3357,7 +3357,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252781074,
@@ -3367,7 +3367,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252781114,
@@ -3377,7 +3377,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252810072,
@@ -3387,7 +3387,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252810082,
@@ -3397,7 +3397,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252810092,
@@ -3407,7 +3407,7 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252810102,
@@ -3417,7 +3417,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252810112,
@@ -3427,7 +3427,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252810122,
@@ -3437,7 +3437,7 @@
     "MinDuplicationDurationSec": 2,
     "MaxDuplicationDurationSec": 2,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252830072,
@@ -3447,7 +3447,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252830082,
@@ -3457,7 +3457,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252830092,
@@ -3467,7 +3467,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3252931053,
@@ -3477,7 +3477,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253010022,
@@ -3487,7 +3487,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253010032,
@@ -3497,7 +3497,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253010042,
@@ -3507,7 +3507,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253010122,
@@ -3517,7 +3517,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253010132,
@@ -3527,7 +3527,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253010142,
@@ -3537,7 +3537,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253011022,
@@ -3547,7 +3547,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253011082,
@@ -3557,7 +3557,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253011102,
@@ -3567,7 +3567,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253011162,
@@ -3577,7 +3577,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253012032,
@@ -3587,7 +3587,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253012082,
@@ -3597,7 +3597,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253012122,
@@ -3607,7 +3607,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253012172,
@@ -3617,7 +3617,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253012212,
@@ -3627,7 +3627,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253012262,
@@ -3637,7 +3637,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111222,
@@ -3647,7 +3647,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111223,
@@ -3657,7 +3657,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111232,
@@ -3667,7 +3667,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111233,
@@ -3677,7 +3677,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111242,
@@ -3687,7 +3687,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111243,
@@ -3697,7 +3697,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111252,
@@ -3707,7 +3707,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253111253,
@@ -3717,7 +3717,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253130271,
@@ -3727,7 +3727,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253130281,
@@ -3737,7 +3737,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253130291,
@@ -3747,7 +3747,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253130301,
@@ -3757,7 +3757,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253130311,
@@ -3767,7 +3767,7 @@
     "MinDuplicationDurationSec": 7,
     "MaxDuplicationDurationSec": 7,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253210102,
@@ -3777,7 +3777,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253210112,
@@ -3787,7 +3787,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253210122,
@@ -3797,7 +3797,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253610252,
@@ -3807,7 +3807,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253610312,
@@ -3817,7 +3817,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253610313,
@@ -3827,7 +3827,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253611403,
@@ -3837,7 +3837,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253611553,
@@ -3847,7 +3847,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253611703,
@@ -3857,7 +3857,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253630013,
@@ -3867,7 +3867,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253650012,
@@ -3877,7 +3877,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253651014,
@@ -3887,7 +3887,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253651024,
@@ -3897,7 +3897,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253651034,
@@ -3907,7 +3907,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253651044,
@@ -3917,7 +3917,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253651054,
@@ -3927,7 +3927,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253730011,
@@ -3937,7 +3937,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253730121,
@@ -3947,7 +3947,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253730131,
@@ -3957,7 +3957,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3253760032,
@@ -3967,7 +3967,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254030011,
@@ -3977,7 +3977,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254030023,
@@ -3987,7 +3987,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254210032,
@@ -3997,7 +3997,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254210042,
@@ -4007,7 +4007,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254210052,
@@ -4017,7 +4017,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254230072,
@@ -4027,7 +4027,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254310123,
@@ -4037,7 +4037,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254310133,
@@ -4047,7 +4047,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254310143,
@@ -4057,7 +4057,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254310153,
@@ -4067,7 +4067,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254310163,
@@ -4077,7 +4077,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254310173,
@@ -4087,7 +4087,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254311012,
@@ -4097,7 +4097,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254311045,
@@ -4107,7 +4107,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254311046,
@@ -4117,7 +4117,7 @@
     "MinDuplicationDurationSec": 40,
     "MaxDuplicationDurationSec": 40,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254311055,
@@ -4127,7 +4127,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254311056,
@@ -4137,7 +4137,7 @@
     "MinDuplicationDurationSec": 40,
     "MaxDuplicationDurationSec": 40,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254410042,
@@ -4147,7 +4147,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254410052,
@@ -4157,7 +4157,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254410062,
@@ -4167,7 +4167,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254410162,
@@ -4177,7 +4177,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254410172,
@@ -4187,7 +4187,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254410182,
@@ -4197,7 +4197,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254510051,
@@ -4207,7 +4207,7 @@
     "MinDuplicationDurationSec": 450,
     "MaxDuplicationDurationSec": 450,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254530012,
@@ -4217,7 +4217,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254580031,
@@ -4227,7 +4227,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254610111,
@@ -4237,7 +4237,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254610121,
@@ -4247,7 +4247,7 @@
     "MinDuplicationDurationSec": 90,
     "MaxDuplicationDurationSec": 90,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710112,
@@ -4257,7 +4257,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710122,
@@ -4267,7 +4267,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710132,
@@ -4277,7 +4277,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710142,
@@ -4287,7 +4287,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710152,
@@ -4297,7 +4297,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710162,
@@ -4307,7 +4307,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710202,
@@ -4317,7 +4317,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710212,
@@ -4327,7 +4327,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710222,
@@ -4337,7 +4337,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710262,
@@ -4347,7 +4347,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710272,
@@ -4357,7 +4357,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710282,
@@ -4367,7 +4367,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710292,
@@ -4377,7 +4377,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710302,
@@ -4387,7 +4387,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254710312,
@@ -4397,7 +4397,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254711042,
@@ -4407,7 +4407,7 @@
     "MinDuplicationDurationSec": 5,
     "MaxDuplicationDurationSec": 5,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254711122,
@@ -4417,7 +4417,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254711202,
@@ -4427,7 +4427,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254711282,
@@ -4437,7 +4437,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254711362,
@@ -4447,7 +4447,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254711372,
@@ -4457,7 +4457,7 @@
     "MinDuplicationDurationSec": 300,
     "MaxDuplicationDurationSec": 300,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254730012,
@@ -4467,7 +4467,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254810292,
@@ -4477,7 +4477,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254810293,
@@ -4487,7 +4487,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254810302,
@@ -4497,7 +4497,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254810303,
@@ -4507,7 +4507,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254810312,
@@ -4517,7 +4517,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254810313,
@@ -4527,7 +4527,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254830011,
@@ -4537,7 +4537,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254830021,
@@ -4547,7 +4547,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254830031,
@@ -4557,7 +4557,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254830061,
@@ -4567,7 +4567,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254830071,
@@ -4577,7 +4577,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254830082,
@@ -4587,7 +4587,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860042,
@@ -4597,7 +4597,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860043,
@@ -4607,7 +4607,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860052,
@@ -4617,7 +4617,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860053,
@@ -4627,7 +4627,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860062,
@@ -4637,7 +4637,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860063,
@@ -4647,7 +4647,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860101,
@@ -4657,7 +4657,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860111,
@@ -4667,7 +4667,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860121,
@@ -4677,7 +4677,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860131,
@@ -4687,7 +4687,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254860141,
@@ -4697,7 +4697,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254910092,
@@ -4707,7 +4707,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254910102,
@@ -4717,7 +4717,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254910112,
@@ -4727,7 +4727,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254910122,
@@ -4737,7 +4737,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254910132,
@@ -4747,7 +4747,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3254910142,
@@ -4757,7 +4757,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255010102,
@@ -4767,7 +4767,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255010112,
@@ -4777,7 +4777,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255010122,
@@ -4787,7 +4787,7 @@
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210042,
@@ -4797,7 +4797,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210063,
@@ -4807,7 +4807,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210162,
@@ -4817,7 +4817,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210212,
@@ -4827,7 +4827,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210233,
@@ -4837,7 +4837,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210332,
@@ -4847,7 +4847,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210382,
@@ -4857,7 +4857,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255210403,
@@ -4867,7 +4867,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255260073,
@@ -4877,7 +4877,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255260183,
@@ -4887,7 +4887,7 @@
     "MinDuplicationDurationSec": 15,
     "MaxDuplicationDurationSec": 15,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255260293,
@@ -4897,7 +4897,137 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255310112,
+    "SkillStatusConditionType": 2,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255310152,
+    "SkillStatusConditionType": 15,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255310262,
+    "SkillStatusConditionType": 2,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 20,
+    "MaxDuplicationDurationSec": 20,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255310302,
+    "SkillStatusConditionType": 15,
+    "MinDurationSec": 300,
+    "MaxDurationSec": 300,
+    "MinDuplicationDurationSec": 300,
+    "MaxDuplicationDurationSec": 300,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255310592,
+    "SkillStatusConditionType": 2,
+    "MinDurationSec": 120,
+    "MaxDurationSec": 120,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255310632,
+    "SkillStatusConditionType": 15,
+    "MinDurationSec": 300,
+    "MaxDurationSec": 300,
+    "MinDuplicationDurationSec": 300,
+    "MaxDuplicationDurationSec": 300,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255310842,
+    "SkillStatusConditionType": 2,
+    "MinDurationSec": 120,
+    "MaxDurationSec": 120,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255340011,
+    "SkillStatusConditionType": 17,
+    "MinDurationSec": 15,
+    "MaxDurationSec": 15,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255340021,
+    "SkillStatusConditionType": 17,
+    "MinDurationSec": 17,
+    "MaxDurationSec": 17,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255340031,
+    "SkillStatusConditionType": 17,
+    "MinDurationSec": 17,
+    "MaxDurationSec": 17,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255360061,
+    "SkillStatusConditionType": 17,
+    "MinDurationSec": 17,
+    "MaxDurationSec": 17,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255360121,
+    "SkillStatusConditionType": 17,
+    "MinDurationSec": 17,
+    "MaxDurationSec": 17,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255360151,
+    "SkillStatusConditionType": 17,
+    "MinDurationSec": 17,
+    "MaxDurationSec": 17,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255410072,
@@ -4907,7 +5037,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255410082,
@@ -4917,7 +5047,7 @@
     "MinDuplicationDurationSec": 10,
     "MaxDuplicationDurationSec": 10,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255430042,
@@ -4927,7 +5057,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255510042,
@@ -4937,7 +5067,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255510052,
@@ -4947,7 +5077,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255510062,
@@ -4957,7 +5087,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255510072,
@@ -4967,7 +5097,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255530121,
@@ -4977,7 +5107,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   },
   {
     "Id": 3255530131,
@@ -4987,6 +5117,6 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
-    "UNK_07": 0
+    "EffectCoefficient": 0
   }
 ]

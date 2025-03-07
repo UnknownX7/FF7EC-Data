@@ -18,8 +18,8 @@
     "WeaponMedalItemId": 1001,
     "DisplayGrowthBoardItemGroupId": 2001,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12201,
+    "DefaultChallengeOveraccelId": 300101
   },
   {
     "Id": 2,
@@ -40,8 +40,8 @@
     "WeaponMedalItemId": 1002,
     "DisplayGrowthBoardItemGroupId": 2002,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12202,
+    "DefaultChallengeOveraccelId": 300201
   },
   {
     "Id": 3,
@@ -62,8 +62,8 @@
     "WeaponMedalItemId": 1003,
     "DisplayGrowthBoardItemGroupId": 2003,
     "CharacterRoleType": 2,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12201,
+    "DefaultChallengeOveraccelId": 300301
   },
   {
     "Id": 4,
@@ -84,8 +84,8 @@
     "WeaponMedalItemId": 1004,
     "DisplayGrowthBoardItemGroupId": 2004,
     "CharacterRoleType": 2,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12204,
+    "DefaultChallengeOveraccelId": 300401
   },
   {
     "Id": 5,
@@ -106,8 +106,8 @@
     "WeaponMedalItemId": 1005,
     "DisplayGrowthBoardItemGroupId": 2005,
     "CharacterRoleType": 2,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12204,
+    "DefaultChallengeOveraccelId": 300501
   },
   {
     "Id": 6,
@@ -128,8 +128,8 @@
     "WeaponMedalItemId": 1006,
     "DisplayGrowthBoardItemGroupId": 2006,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12201,
+    "DefaultChallengeOveraccelId": 300601
   },
   {
     "Id": 7,
@@ -150,8 +150,8 @@
     "WeaponMedalItemId": 1007,
     "DisplayGrowthBoardItemGroupId": 2007,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12203,
+    "DefaultChallengeOveraccelId": 300701
   },
   {
     "Id": 8,
@@ -172,8 +172,8 @@
     "WeaponMedalItemId": 1008,
     "DisplayGrowthBoardItemGroupId": 2008,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12201,
+    "DefaultChallengeOveraccelId": 300801
   },
   {
     "Id": 9,
@@ -194,8 +194,8 @@
     "WeaponMedalItemId": 1009,
     "DisplayGrowthBoardItemGroupId": 2009,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12203,
+    "DefaultChallengeOveraccelId": 300901
   },
   {
     "Id": 20,
@@ -216,8 +216,8 @@
     "WeaponMedalItemId": 1020,
     "DisplayGrowthBoardItemGroupId": 2020,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12201,
+    "DefaultChallengeOveraccelId": 302001
   },
   {
     "Id": 49,
@@ -238,8 +238,8 @@
     "WeaponMedalItemId": 1049,
     "DisplayGrowthBoardItemGroupId": 2049,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12201,
+    "DefaultChallengeOveraccelId": 304901
   },
   {
     "Id": 50,
@@ -260,8 +260,8 @@
     "WeaponMedalItemId": 1050,
     "DisplayGrowthBoardItemGroupId": 2050,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12202,
+    "DefaultChallengeOveraccelId": 305001
   },
   {
     "Id": 51,
@@ -282,8 +282,8 @@
     "WeaponMedalItemId": 1051,
     "DisplayGrowthBoardItemGroupId": 2051,
     "CharacterRoleType": 2,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12204,
+    "DefaultChallengeOveraccelId": 305101
   },
   {
     "Id": 52,
@@ -304,8 +304,8 @@
     "WeaponMedalItemId": 1052,
     "DisplayGrowthBoardItemGroupId": 2052,
     "CharacterRoleType": 1,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12203,
+    "DefaultChallengeOveraccelId": 305201
   },
   {
     "Id": 56,
@@ -326,7 +326,7 @@
     "WeaponMedalItemId": 1056,
     "DisplayGrowthBoardItemGroupId": 2056,
     "CharacterRoleType": 0,
-    "UNK_18": 0,
-    "UNK_19": 0
+    "DisplayGrowthBoardOveraccelItemGroupId": 12202,
+    "DefaultChallengeOveraccelId": 305601
   }
 ]

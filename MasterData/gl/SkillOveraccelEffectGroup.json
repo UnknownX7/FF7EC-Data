@@ -1,1 +1,1325 @@
-[]
+[
+  {
+    "Id": 3001011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3001012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3001012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3001012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3001013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3001013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3001013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3001014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3001014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3001014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3001015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3001015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3001015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3002011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3002012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3002012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3002012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3002013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3002013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3002013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3002014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3002014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3002014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3002015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3002015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3002015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3003011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3003012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3003012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3003012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3003013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3003013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3003013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3003014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3003014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3003014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3003015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3003015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3003015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3004011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3004012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3004012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3004013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3004013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3004014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3004014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3004015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3004015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3005011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3005012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3005012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3005013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3005013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3005014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3005014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3005015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3005015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3006011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3006012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3006012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3006012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3006013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3006013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3006013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3006014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3006014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3006014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3006015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3006015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3006015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007012,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 1,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3007013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3007013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007013,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 1,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3007014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3007014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007014,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 1,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3007015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3007015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3007015,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 1,
+    "EffectValue": 2,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3008011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3008012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3008012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3008012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3008013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3008013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3008013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3008014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3008014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3008014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3008015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3008015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3008015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009012,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3009013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3009013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009013,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3009014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3009014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009014,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3009015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3009015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3009015,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 2,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3020011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3020012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3020012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3020012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3020013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3020013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3020013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3020014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3020014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3020014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3020015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3020015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3020015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3049011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3049012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3049012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3049012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3049013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3049013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3049013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3049014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3049014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3049014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3049015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3049015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3049015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3050011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3050012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3050012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3050012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3050013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3050013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3050013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3050014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3050014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3050014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3050015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3050015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3050015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3051011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3051012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3051012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3051013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3051013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3051014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3051014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3051015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 6,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3051015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052012,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3052013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3052013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052013,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3052014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3052014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052014,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3052015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 3,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3052015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3052015,
+    "OveraccelSkillType": 3,
+    "OveraccelSkillDetailType": 2,
+    "EffectValue": 2,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3056011,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3056012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3056012,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 3056012,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3056013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3056013,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3056013,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3056014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3056014,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 3056014,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3056015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 4,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3056015,
+    "OveraccelSkillType": 1,
+    "OveraccelSkillDetailType": 5,
+    "EffectValue": 0,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 3056015,
+    "OveraccelSkillType": 2,
+    "OveraccelSkillDetailType": 0,
+    "EffectValue": -1,
+    "EffectCoefficient": 0
+  }
+]
