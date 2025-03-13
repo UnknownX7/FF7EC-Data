@@ -10308,6 +10308,54 @@
     "IsPenetrable": false
   },
   {
+    "Id": 108024011,
+    "AttackType": 1,
+    "ElementType": 3,
+    "SkillHealType": 0,
+    "SkillDamageType": 1,
+    "MinDamageCoefficient": 6200,
+    "MaxDamageCoefficient": 6200,
+    "SkillAnotherDungeonReduceMaxHpId": 0,
+    "SkillDamageEffectChangeMagnificationGroupId": 0,
+    "IsPenetrable": false
+  },
+  {
+    "Id": 108024021,
+    "AttackType": 1,
+    "ElementType": 3,
+    "SkillHealType": 0,
+    "SkillDamageType": 1,
+    "MinDamageCoefficient": 7400,
+    "MaxDamageCoefficient": 7400,
+    "SkillAnotherDungeonReduceMaxHpId": 0,
+    "SkillDamageEffectChangeMagnificationGroupId": 0,
+    "IsPenetrable": false
+  },
+  {
+    "Id": 108024031,
+    "AttackType": 1,
+    "ElementType": 3,
+    "SkillHealType": 0,
+    "SkillDamageType": 1,
+    "MinDamageCoefficient": 9300,
+    "MaxDamageCoefficient": 9300,
+    "SkillAnotherDungeonReduceMaxHpId": 0,
+    "SkillDamageEffectChangeMagnificationGroupId": 0,
+    "IsPenetrable": false
+  },
+  {
+    "Id": 108024041,
+    "AttackType": 1,
+    "ElementType": 3,
+    "SkillHealType": 0,
+    "SkillDamageType": 1,
+    "MinDamageCoefficient": 11200,
+    "MaxDamageCoefficient": 11200,
+    "SkillAnotherDungeonReduceMaxHpId": 0,
+    "SkillDamageEffectChangeMagnificationGroupId": 0,
+    "IsPenetrable": false
+  },
+  {
     "Id": 108025011,
     "AttackType": 3,
     "ElementType": 1,

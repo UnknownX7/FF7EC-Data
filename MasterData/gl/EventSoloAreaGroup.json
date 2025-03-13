@@ -662,5 +662,21 @@
     "NameLanguageId": 862000012001002,
     "ResourceId": 1200702,
     "LockConditionSetId": 870001200702
+  },
+  {
+    "Id": 1200801,
+    "EventBaseId": 12008,
+    "OrderNo": 1,
+    "NameLanguageId": 862000012001001,
+    "ResourceId": 1200801,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 1200802,
+    "EventBaseId": 12008,
+    "OrderNo": 2,
+    "NameLanguageId": 862000012001002,
+    "ResourceId": 1200802,
+    "LockConditionSetId": 870001200802
   }
 ]
