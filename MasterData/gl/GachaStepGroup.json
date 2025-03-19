@@ -1136,6 +1136,22 @@
     "IsStampProgress": false
   },
   {
+    "Id": 1007901,
+    "GachaId": 10079,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
+    "Id": 1007902,
+    "GachaId": 10079,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
     "Id": 2000101,
     "GachaId": 20001,
     "MaxCount": 0,
@@ -5328,6 +5344,134 @@
     "IsStampProgress": false
   },
   {
+    "Id": 2026901,
+    "GachaId": 20269,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2026902,
+    "GachaId": 20269,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027001,
+    "GachaId": 20270,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027002,
+    "GachaId": 20270,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027101,
+    "GachaId": 20271,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027102,
+    "GachaId": 20271,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027201,
+    "GachaId": 20272,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027202,
+    "GachaId": 20272,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027301,
+    "GachaId": 20273,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027302,
+    "GachaId": 20273,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027401,
+    "GachaId": 20274,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027402,
+    "GachaId": 20274,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027501,
+    "GachaId": 20275,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027502,
+    "GachaId": 20275,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027601,
+    "GachaId": 20276,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2027602,
+    "GachaId": 20276,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
     "Id": 3000301,
     "GachaId": 30003,
     "MaxCount": 1,
@@ -8768,8 +8912,24 @@
     "IsStampProgress": false
   },
   {
+    "Id": 3047701,
+    "GachaId": 30477,
+    "MaxCount": 14,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
     "Id": 3047801,
     "GachaId": 30478,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3047901,
+    "GachaId": 30479,
     "MaxCount": 1,
     "Priority": 1,
     "ResetId": 16,

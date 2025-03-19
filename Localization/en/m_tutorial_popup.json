@@ -1033,6 +1033,14 @@
       "value": "Force Gauge: Zantetsu"
     },
     {
+      "id": 970003100000381,
+      "value": "Force Gauge: D-Link"
+    },
+    {
+      "id": 970003100000391,
+      "value": "Force Gauge: Reload"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -1603,6 +1611,14 @@
     {
       "id": 971003100000371,
       "value": "The enemy's force gauge fills over time, but can be depleted by dealing <command_color=common_03>earth-element damage</color>. Once the gauge has been displayed for a certain amount of time, <command_color=common_03>the enemy will unleash a powerful ability</color>. <command_color=common_03>Stop them</color> from unleashing the ability by fully depleting the gauge."
+    },
+    {
+      "id": 971003100000381,
+      "value": "<command_color=common_03>Provoke</color> is applied to the enemy while the force gauge is active. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge, and emptying the gauge will cancel <command_color=common_03>Provoke</color>."
+    },
+    {
+      "id": 971003100000391,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of his abilities will be canceled</color>."
     },
     {
       "id": 971003200000011,

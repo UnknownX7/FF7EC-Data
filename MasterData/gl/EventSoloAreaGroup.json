@@ -120,6 +120,14 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 2018,
+    "EventBaseId": 2018,
+    "OrderNo": 1,
+    "NameLanguageId": 851000000002018,
+    "ResourceId": 0,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 3001,
     "EventBaseId": 3001,
     "OrderNo": 1,
@@ -460,6 +468,14 @@
     "EventBaseId": 13005,
     "OrderNo": 1,
     "NameLanguageId": 851000000013005,
+    "ResourceId": 0,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 13006,
+    "EventBaseId": 13006,
+    "OrderNo": 1,
+    "NameLanguageId": 851000000013006,
     "ResourceId": 0,
     "LockConditionSetId": 0
   },

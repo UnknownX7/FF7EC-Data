@@ -4786,5 +4786,29 @@
     "PassiveSkillTargetType": 0,
     "SkillStatusChangeEffectId": 0,
     "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 553011,
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "DescriptionLanguageId": 545000055301101,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 553012,
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "DescriptionLanguageId": 545000055301201,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
   }
 ]

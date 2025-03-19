@@ -238,6 +238,13 @@
     "DisplayConditionSetId": 0
   },
   {
+    "Id": 302503,
+    "EventDetailId": 3025003,
+    "BattleEnemyGroupId": 530251011,
+    "OrderNo": 0,
+    "DisplayConditionSetId": 0
+  },
+  {
     "Id": 700101,
     "EventDetailId": 7001,
     "BattleEnemyGroupId": 700101,
@@ -591,6 +598,20 @@
     "Id": 2017002,
     "EventDetailId": 2017002,
     "BattleEnemyGroupId": 520171013,
+    "OrderNo": 0,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 2018001,
+    "EventDetailId": 2018001,
+    "BattleEnemyGroupId": 520181011,
+    "OrderNo": 0,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 2018002,
+    "EventDetailId": 2018002,
+    "BattleEnemyGroupId": 520181011,
     "OrderNo": 0,
     "DisplayConditionSetId": 0
   }

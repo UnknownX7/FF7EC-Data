@@ -2637,7 +2637,7 @@
     "PhaseActionControlType": 1,
     "IsHideSkillName": false,
     "OverridePositioningLayoutType": 0,
-    "DisplaySkillAttackType": 0
+    "DisplaySkillAttackType": 1
   },
   {
     "Id": 31015600112,
@@ -2661,7 +2661,7 @@
     "PhaseActionControlType": 1,
     "IsHideSkillName": false,
     "OverridePositioningLayoutType": 0,
-    "DisplaySkillAttackType": 0
+    "DisplaySkillAttackType": 1
   },
   {
     "Id": 31015600212,
@@ -2978,6 +2978,270 @@
   {
     "Id": 31015605511,
     "SkillNameLanguageId": 540000310151023,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610111,
+    "SkillNameLanguageId": 540000310151156,
+    "PhaseActionControlType": 1,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610112,
+    "SkillNameLanguageId": 540000320011116,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610113,
+    "SkillNameLanguageId": 540000310151019,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610311,
+    "SkillNameLanguageId": 540000310151156,
+    "PhaseActionControlType": 1,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610312,
+    "SkillNameLanguageId": 540000320011116,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610313,
+    "SkillNameLanguageId": 540000310151019,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610411,
+    "SkillNameLanguageId": 540000310151156,
+    "PhaseActionControlType": 1,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610412,
+    "SkillNameLanguageId": 540000320011116,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610413,
+    "SkillNameLanguageId": 540000310151019,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610511,
+    "SkillNameLanguageId": 540000310151156,
+    "PhaseActionControlType": 1,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610512,
+    "SkillNameLanguageId": 540000320011116,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610513,
+    "SkillNameLanguageId": 540000310151019,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610611,
+    "SkillNameLanguageId": 540000310151171,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610811,
+    "SkillNameLanguageId": 540000310151171,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015610911,
+    "SkillNameLanguageId": 540000310151171,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611011,
+    "SkillNameLanguageId": 540000310151171,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611111,
+    "SkillNameLanguageId": 540000310151013,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611311,
+    "SkillNameLanguageId": 540000310151013,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611411,
+    "SkillNameLanguageId": 540000310151013,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611511,
+    "SkillNameLanguageId": 540000310151013,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611611,
+    "SkillNameLanguageId": 540000310151023,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611811,
+    "SkillNameLanguageId": 540000310151023,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015611911,
+    "SkillNameLanguageId": 540000310151023,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612011,
+    "SkillNameLanguageId": 540000310151023,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612111,
+    "SkillNameLanguageId": 540000310153141,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612211,
+    "SkillNameLanguageId": 540000310153141,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612311,
+    "SkillNameLanguageId": 540000310153141,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612411,
+    "SkillNameLanguageId": 540000310153141,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612511,
+    "SkillNameLanguageId": 540000310153141,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612611,
+    "SkillNameLanguageId": 540000310153146,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612711,
+    "SkillNameLanguageId": 540000310153141,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612811,
+    "SkillNameLanguageId": 540000310153141,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 31015612911,
+    "SkillNameLanguageId": 540000310153141,
     "PhaseActionControlType": 0,
     "IsHideSkillName": false,
     "OverridePositioningLayoutType": 0,
