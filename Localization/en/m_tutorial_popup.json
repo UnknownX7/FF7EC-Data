@@ -1041,6 +1041,10 @@
       "value": "Force Gauge: Reload"
     },
     {
+      "id": 970003100000401,
+      "value": "Force Gauge: Zantetsu Charge"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -1619,6 +1623,10 @@
     {
       "id": 971003100000391,
       "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of his abilities will be canceled</color>."
+    },
+    {
+      "id": 971003100000401,
+      "value": "The force gauge fills every time the enemy uses certain abilities, but can be depleted by dealing <command_color=common_03>earth-element damage</color>. When the gauge is full, <command_color=common_03>the enemy will unleash a powerful ability</color>."
     },
     {
       "id": 971003200000011,

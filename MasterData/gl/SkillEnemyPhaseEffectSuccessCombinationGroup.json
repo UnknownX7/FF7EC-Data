@@ -2989,7 +2989,7 @@
     "PhaseActionControlType": 1,
     "IsHideSkillName": false,
     "OverridePositioningLayoutType": 0,
-    "DisplaySkillAttackType": 0
+    "DisplaySkillAttackType": 1
   },
   {
     "Id": 31015610112,
@@ -3013,7 +3013,7 @@
     "PhaseActionControlType": 1,
     "IsHideSkillName": false,
     "OverridePositioningLayoutType": 0,
-    "DisplaySkillAttackType": 0
+    "DisplaySkillAttackType": 1
   },
   {
     "Id": 31015610312,
@@ -3037,7 +3037,7 @@
     "PhaseActionControlType": 1,
     "IsHideSkillName": false,
     "OverridePositioningLayoutType": 0,
-    "DisplaySkillAttackType": 0
+    "DisplaySkillAttackType": 1
   },
   {
     "Id": 31015610412,
@@ -3061,7 +3061,7 @@
     "PhaseActionControlType": 1,
     "IsHideSkillName": false,
     "OverridePositioningLayoutType": 0,
-    "DisplaySkillAttackType": 0
+    "DisplaySkillAttackType": 1
   },
   {
     "Id": 31015610512,
@@ -27056,6 +27056,22 @@
     "DisplaySkillAttackType": 0
   },
   {
+    "Id": 32553111821,
+    "SkillNameLanguageId": 540000325531013,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 32553111921,
+    "SkillNameLanguageId": 540000325531013,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
     "Id": 32553600111,
     "SkillNameLanguageId": 540000325531012,
     "PhaseActionControlType": 0,
@@ -27241,6 +27257,22 @@
   },
   {
     "Id": 32553602651,
+    "SkillNameLanguageId": 540000325531012,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 32553610121,
+    "SkillNameLanguageId": 540000325531012,
+    "PhaseActionControlType": 0,
+    "IsHideSkillName": false,
+    "OverridePositioningLayoutType": 0,
+    "DisplaySkillAttackType": 0
+  },
+  {
+    "Id": 32553610221,
     "SkillNameLanguageId": 540000325531012,
     "PhaseActionControlType": 0,
     "IsHideSkillName": false,

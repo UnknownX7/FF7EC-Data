@@ -1548,6 +1548,42 @@
     "EffectCoefficient": 100
   },
   {
+    "Id": 156019014,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 40,
+    "MaxDurationSec": 40,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
+    "EffectCoefficient": 40
+  },
+  {
+    "Id": 156019024,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 45,
+    "MaxDurationSec": 45,
+    "MinDuplicationDurationSec": 9,
+    "MaxDuplicationDurationSec": 9,
+    "EffectCoefficient": 50
+  },
+  {
+    "Id": 156019034,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 50,
+    "MaxDurationSec": 50,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "EffectCoefficient": 80
+  },
+  {
+    "Id": 156019044,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 12,
+    "MaxDuplicationDurationSec": 12,
+    "EffectCoefficient": 100
+  },
+  {
     "Id": 2100401012,
     "SkillStatusChangeType": 4,
     "MinDurationSec": 6,
