@@ -99,6 +99,42 @@
     "EffectCoefficient": 250
   },
   {
+    "Id": 55401101,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 30,
+    "MaxDuplicationDurationSec": 30,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 55401102,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 30,
+    "MaxDuplicationDurationSec": 30,
+    "EffectCoefficient": 250
+  },
+  {
+    "Id": 55401103,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 30,
+    "MaxDuplicationDurationSec": 30,
+    "EffectCoefficient": 300
+  },
+  {
+    "Id": 55401104,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 30,
+    "MaxDuplicationDurationSec": 30,
+    "EffectCoefficient": 400
+  },
+  {
     "Id": 101036012,
     "SkillStatusChangeType": 5,
     "MinDurationSec": 20,
@@ -961,6 +997,42 @@
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
     "EffectCoefficient": 300
+  },
+  {
+    "Id": 120031012,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "EffectCoefficient": 250
+  },
+  {
+    "Id": 120031022,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 35,
+    "MaxDurationSec": 35,
+    "MinDuplicationDurationSec": 7,
+    "MaxDuplicationDurationSec": 7,
+    "EffectCoefficient": 250
+  },
+  {
+    "Id": 120031032,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 45,
+    "MaxDurationSec": 45,
+    "MinDuplicationDurationSec": 9,
+    "MaxDuplicationDurationSec": 9,
+    "EffectCoefficient": 350
+  },
+  {
+    "Id": 120031042,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 12,
+    "MaxDuplicationDurationSec": 12,
+    "EffectCoefficient": 350
   },
   {
     "Id": 149004012,

@@ -3264,6 +3264,22 @@
     "ResetId": 0
   },
   {
+    "Id": 3206,
+    "LoginBonusType": 3,
+    "ContinuousType": 1,
+    "DisplayPriority": 3206,
+    "LoginBonusSheetGroupId": 3206,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2,
+    "BackgroundResourceId": 3206,
+    "LayoutResourceId": 4,
+    "TriggerConditionSetId": 0,
+    "StartDatetime": 1743732000000,
+    "TriggerEndDatetime": 1744228799000,
+    "ReceiveEndDatetime": 1744228799000,
+    "ResetId": 0
+  },
+  {
     "Id": 4001,
     "LoginBonusType": 3,
     "ContinuousType": 1,

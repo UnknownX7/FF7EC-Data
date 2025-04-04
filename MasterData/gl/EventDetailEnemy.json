@@ -252,6 +252,13 @@
     "DisplayConditionSetId": 0
   },
   {
+    "Id": 302601,
+    "EventDetailId": 3026,
+    "BattleEnemyGroupId": 530261121,
+    "OrderNo": 0,
+    "DisplayConditionSetId": 0
+  },
+  {
     "Id": 700101,
     "EventDetailId": 7001,
     "BattleEnemyGroupId": 700101,
@@ -507,6 +514,13 @@
     "Id": 1400101,
     "EventDetailId": 14001,
     "BattleEnemyGroupId": 140011021,
+    "OrderNo": 0,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 1400201,
+    "EventDetailId": 14002,
+    "BattleEnemyGroupId": 140021012,
     "OrderNo": 0,
     "DisplayConditionSetId": 0
   },

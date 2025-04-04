@@ -451,6 +451,26 @@
     {
       "id": 545000055301201,
       "value": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000055401101,
+      "value": "Applies Exploit Weakness to self when interrupting enemy\n(Pot: 20% / Dur.: 30s / Ext.: +30s)"
+    },
+    {
+      "id": 545000055401102,
+      "value": "Applies Exploit Weakness to self when interrupting enemy\n(Pot: 25% / Dur.: 30s / Ext.: +30s)"
+    },
+    {
+      "id": 545000055401103,
+      "value": "Applies Exploit Weakness to self when interrupting enemy\n(Pot: 30% / Dur.: 30s / Ext.: +30s)"
+    },
+    {
+      "id": 545000055401104,
+      "value": "Applies Exploit Weakness to self when interrupting enemy\n(Pot: 40% / Dur.: 30s / Ext.: +30s)"
+    },
+    {
+      "id": 545000055501101,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
     }
   ]
 }
