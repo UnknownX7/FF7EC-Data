@@ -397,6 +397,10 @@
       "value": "Raise Holiday Garm's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
     {
+      "id": 701000110009010,
+      "value": "Raise Dragoon Lance's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
       "id": 701000110020011,
       "value": "Raise Ceremonial Sword (Z)'s rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
@@ -479,6 +483,10 @@
     {
       "id": 701000110052025,
       "value": "Raise Marine Shooter's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
+      "id": 701000110052029,
+      "value": "Raise Rifle of the Hunt's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
     {
       "id": 701000190100101,
@@ -1165,6 +1173,10 @@
       "value": "Unlock {0} node(s) in Titan's summon stream."
     },
     {
+      "id": 701000190801201,
+      "value": "Unlock {0} node(s) in Odin's summon stream."
+    },
+    {
       "id": 701000190805101,
       "value": "Unlock {0} node(s) in Ifrit & Bahamut's summon stream."
     },
@@ -1235,6 +1247,14 @@
     {
       "id": 701000190901102,
       "value": "Raise Earthen Fury to Lv. {0}."
+    },
+    {
+      "id": 701000190901201,
+      "value": "Acquire Zantetsuken from a summon stream."
+    },
+    {
+      "id": 701000190901202,
+      "value": "Raise Zantetsuken to Lv. {0}."
     },
     {
       "id": 701000190905101,
@@ -2845,6 +2865,30 @@
       "value": "Deliver {0} Physical Chip(s)."
     },
     {
+      "id": 701000801201001,
+      "value": "Clear the Trial of the Summons - Odin - Normal {0} time(s)."
+    },
+    {
+      "id": 701000801201002,
+      "value": "Consume {0} stamina in Solo Content."
+    },
+    {
+      "id": 701000801201003,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701000801201004,
+      "value": "Deliver Odin's Memory x{0}."
+    },
+    {
+      "id": 701000801201005,
+      "value": "Deliver {0} Wind Ore(s)."
+    },
+    {
+      "id": 701000801201006,
+      "value": "Deliver {0} Physical Chip(s)."
+    },
+    {
       "id": 701000805101001,
       "value": "Clear the Trial of the Summons - Ifrit & Bahamut - Hard."
     },
@@ -3579,6 +3623,18 @@
     {
       "id": 701001100010017,
       "value": "Explore {0}% of the area Junon III."
+    },
+    {
+      "id": 701001100010018,
+      "value": "Explore {0}% of the area Corel I."
+    },
+    {
+      "id": 701001100010019,
+      "value": "Explore {0}% of the area Gold Saucer I."
+    },
+    {
+      "id": 701001100010020,
+      "value": "Explore {0}% of the area Gold Saucer II."
     },
     {
       "id": 701001100010039,

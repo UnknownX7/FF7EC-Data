@@ -208,6 +208,22 @@
     "SkillEquipmentType": 0
   },
   {
+    "Id": 20405,
+    "Seq": 0,
+    "PassiveSkillType": 2,
+    "PassiveSkillDetailType": 4,
+    "PassiveSkillEffectLevelId": 204051,
+    "SkillEquipmentType": 0
+  },
+  {
+    "Id": 20405,
+    "Seq": 1,
+    "PassiveSkillType": 23,
+    "PassiveSkillDetailType": 0,
+    "PassiveSkillEffectLevelId": 204052,
+    "SkillEquipmentType": 0
+  },
+  {
     "Id": 20501,
     "Seq": 0,
     "PassiveSkillType": 2,
@@ -1805,6 +1821,22 @@
     "PassiveSkillType": 2,
     "PassiveSkillDetailType": 7,
     "PassiveSkillEffectLevelId": 555016,
+    "SkillEquipmentType": 0
+  },
+  {
+    "Id": 55601,
+    "Seq": 0,
+    "PassiveSkillType": 2,
+    "PassiveSkillDetailType": 5,
+    "PassiveSkillEffectLevelId": 556011,
+    "SkillEquipmentType": 0
+  },
+  {
+    "Id": 55601,
+    "Seq": 1,
+    "PassiveSkillType": 22,
+    "PassiveSkillDetailType": 0,
+    "PassiveSkillEffectLevelId": 556012,
     "SkillEquipmentType": 0
   }
 ]

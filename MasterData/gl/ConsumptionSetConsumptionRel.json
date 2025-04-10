@@ -2784,6 +2784,18 @@
     "ConsumptionCount": 30
   },
   {
+    "Id": 200030120010,
+    "ConsumptionSetId": 200030120010,
+    "RewardId": 20003012,
+    "ConsumptionCount": 10
+  },
+  {
+    "Id": 200030120030,
+    "ConsumptionSetId": 200030120030,
+    "RewardId": 20003012,
+    "ConsumptionCount": 30
+  },
+  {
     "Id": 200030510300,
     "ConsumptionSetId": 200030510300,
     "RewardId": 20003051,
@@ -3081,6 +3093,54 @@
     "Id": 200031110600,
     "ConsumptionSetId": 200031110600,
     "RewardId": 20003111,
+    "ConsumptionCount": 600
+  },
+  {
+    "Id": 200031120060,
+    "ConsumptionSetId": 200031120060,
+    "RewardId": 20003112,
+    "ConsumptionCount": 60
+  },
+  {
+    "Id": 200031120080,
+    "ConsumptionSetId": 200031120080,
+    "RewardId": 20003112,
+    "ConsumptionCount": 80
+  },
+  {
+    "Id": 200031120100,
+    "ConsumptionSetId": 200031120100,
+    "RewardId": 20003112,
+    "ConsumptionCount": 100
+  },
+  {
+    "Id": 200031120300,
+    "ConsumptionSetId": 200031120300,
+    "RewardId": 20003112,
+    "ConsumptionCount": 300
+  },
+  {
+    "Id": 200031120400,
+    "ConsumptionSetId": 200031120400,
+    "RewardId": 20003112,
+    "ConsumptionCount": 400
+  },
+  {
+    "Id": 200031120450,
+    "ConsumptionSetId": 200031120450,
+    "RewardId": 20003112,
+    "ConsumptionCount": 450
+  },
+  {
+    "Id": 200031120500,
+    "ConsumptionSetId": 200031120500,
+    "RewardId": 20003112,
+    "ConsumptionCount": 500
+  },
+  {
+    "Id": 200031120600,
+    "ConsumptionSetId": 200031120600,
+    "RewardId": 20003112,
     "ConsumptionCount": 600
   },
   {
@@ -4383,6 +4443,12 @@
     "Id": 203000240001,
     "ConsumptionSetId": 203000240001,
     "RewardId": 20300024,
+    "ConsumptionCount": 1
+  },
+  {
+    "Id": 203000250001,
+    "ConsumptionSetId": 203000250001,
+    "RewardId": 20300025,
     "ConsumptionCount": 1
   },
   {

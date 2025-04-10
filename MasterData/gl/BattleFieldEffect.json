@@ -3640,6 +3640,526 @@
     "BattleFieldEffectDetailId": 0
   },
   {
+    "Id": 120091011,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 5000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091012,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 30000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091013,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 90000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091014,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 230000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091021,
+    "BattleFieldEffectType": 1305,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": -150,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091022,
+    "BattleFieldEffectType": 1305,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": -300,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091023,
+    "BattleFieldEffectType": 1305,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": -500,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091031,
+    "BattleFieldEffectType": 1201,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 1
+  },
+  {
+    "Id": 120091041,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1500,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091042,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 3000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091043,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 7000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091044,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 14000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091051,
+    "BattleFieldEffectType": 120,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091052,
+    "BattleFieldEffectType": 120,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1500,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091053,
+    "BattleFieldEffectType": 120,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 2000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091061,
+    "BattleFieldEffectType": 1201,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 3
+  },
+  {
+    "Id": 120091071,
+    "BattleFieldEffectType": 901,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": false,
+    "Value": -1,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091072,
+    "BattleFieldEffectType": 901,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": false,
+    "Value": -2,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091073,
+    "BattleFieldEffectType": 901,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": false,
+    "Value": -3,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091081,
+    "BattleFieldEffectType": 1601,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -300,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091082,
+    "BattleFieldEffectType": 1601,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -700,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091083,
+    "BattleFieldEffectType": 1601,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -900,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091091,
+    "BattleFieldEffectType": 401,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -500,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091101,
+    "BattleFieldEffectType": 103,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -300,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120091102,
+    "BattleFieldEffectType": 103,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -600,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092011,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 4,
+    "IsPermil": true,
+    "Value": 5000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092012,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 4,
+    "IsPermil": true,
+    "Value": 30000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092013,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 4,
+    "IsPermil": true,
+    "Value": 90000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092014,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 4,
+    "IsPermil": true,
+    "Value": 230000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092021,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 3,
+    "IsPermil": true,
+    "Value": 5000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092022,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 3,
+    "IsPermil": true,
+    "Value": 50000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092023,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 3,
+    "IsPermil": true,
+    "Value": 300000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092024,
+    "BattleFieldEffectType": 101,
+    "BattleFieldEffectTargetType": 3,
+    "IsPermil": true,
+    "Value": 600000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092031,
+    "BattleFieldEffectType": 1105,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092032,
+    "BattleFieldEffectType": 1105,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 2000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092041,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1500,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092042,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 3000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092043,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 7000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092044,
+    "BattleFieldEffectType": 119,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 14000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092051,
+    "BattleFieldEffectType": 201,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": false,
+    "Value": 1,
+    "EffectDurationSec": 900,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092052,
+    "BattleFieldEffectType": 201,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": false,
+    "Value": 3,
+    "EffectDurationSec": 900,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092061,
+    "BattleFieldEffectType": 202,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": false,
+    "Value": 1,
+    "EffectDurationSec": 900,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092062,
+    "BattleFieldEffectType": 202,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": false,
+    "Value": 3,
+    "EffectDurationSec": 900,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092071,
+    "BattleFieldEffectType": 1201,
+    "BattleFieldEffectTargetType": 1,
+    "IsPermil": true,
+    "Value": 1000,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 4
+  },
+  {
+    "Id": 120092081,
+    "BattleFieldEffectType": 805,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -200,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092082,
+    "BattleFieldEffectType": 805,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -500,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092083,
+    "BattleFieldEffectType": 805,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -700,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092091,
+    "BattleFieldEffectType": 702,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": false,
+    "Value": 1,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092092,
+    "BattleFieldEffectType": 702,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": false,
+    "Value": 2,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092101,
+    "BattleFieldEffectType": 1102,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -100,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092102,
+    "BattleFieldEffectType": 1102,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -500,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 120092103,
+    "BattleFieldEffectType": 1102,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": -800,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
     "Id": 3010100101,
     "BattleFieldEffectType": 102,
     "BattleFieldEffectTargetType": 2,

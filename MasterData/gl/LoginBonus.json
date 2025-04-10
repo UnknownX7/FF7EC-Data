@@ -3280,6 +3280,38 @@
     "ResetId": 0
   },
   {
+    "Id": 3207,
+    "LoginBonusType": 3,
+    "ContinuousType": 1,
+    "DisplayPriority": 3207,
+    "LoginBonusSheetGroupId": 3207,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2,
+    "BackgroundResourceId": 3206,
+    "LayoutResourceId": 4,
+    "TriggerConditionSetId": 0,
+    "StartDatetime": 1744250400000,
+    "TriggerEndDatetime": 1744833599000,
+    "ReceiveEndDatetime": 1744833599000,
+    "ResetId": 0
+  },
+  {
+    "Id": 3210,
+    "LoginBonusType": 3,
+    "ContinuousType": 1,
+    "DisplayPriority": 3210,
+    "LoginBonusSheetGroupId": 3210,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2,
+    "BackgroundResourceId": 3210,
+    "LayoutResourceId": 4,
+    "TriggerConditionSetId": 0,
+    "StartDatetime": 1744250400000,
+    "TriggerEndDatetime": 1745697599000,
+    "ReceiveEndDatetime": 1745697599000,
+    "ResetId": 0
+  },
+  {
     "Id": 4001,
     "LoginBonusType": 3,
     "ContinuousType": 1,
