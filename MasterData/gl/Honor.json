@@ -3377,6 +3377,28 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 340005,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000340005,
+    "OrderNo": 340005,
+    "NotHaveDisplayConditionSetId": 240190330022,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 340006,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000340006,
+    "OrderNo": 340006,
+    "NotHaveDisplayConditionSetId": 240190330022,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 410011,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -3671,6 +3693,17 @@
     "NameLanguageId": 560000000430094,
     "OrderNo": 430094,
     "NotHaveDisplayConditionSetId": 240190330017,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 430095,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 430095,
+    "NameLanguageId": 560000000430095,
+    "OrderNo": 430095,
+    "NotHaveDisplayConditionSetId": 240190330022,
     "LockLanguageId": 0
   },
   {
@@ -7961,6 +7994,39 @@
     "NameLanguageId": 560000001300078,
     "OrderNo": 1300078,
     "NotHaveDisplayConditionSetId": 700002018000,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300079,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300079,
+    "NameLanguageId": 560000001300079,
+    "OrderNo": 1300079,
+    "NotHaveDisplayConditionSetId": 611000002019,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300080,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300080,
+    "NameLanguageId": 560000001300080,
+    "OrderNo": 1300080,
+    "NotHaveDisplayConditionSetId": 700002019000,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300081,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300081,
+    "NameLanguageId": 560000001300081,
+    "OrderNo": 1300081,
+    "NotHaveDisplayConditionSetId": 700002019000,
     "LockLanguageId": 0
   },
   {
