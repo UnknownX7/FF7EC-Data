@@ -1684,6 +1684,10 @@
     "ConditionId": 10025044006
   },
   {
+    "ConditionSetId": 170000010083,
+    "ConditionId": 10025045007
+  },
+  {
     "ConditionSetId": 170000020001,
     "ConditionId": 700100001
   },
@@ -5388,6 +5392,14 @@
     "ConditionId": 10025032064
   },
   {
+    "ConditionSetId": 170000030516,
+    "ConditionId": 10025045008
+  },
+  {
+    "ConditionSetId": 170000030517,
+    "ConditionId": 10025045009
+  },
+  {
     "ConditionSetId": 170000030518,
     "ConditionId": 10025044011
   },
@@ -7932,6 +7944,10 @@
     "ConditionId": 10025044009
   },
   {
+    "ConditionSetId": 270000500080,
+    "ConditionId": 10025045010
+  },
+  {
     "ConditionSetId": 270000700102,
     "ConditionId": 10024042012
   },
@@ -8272,6 +8288,18 @@
     "ConditionId": 10025041005
   },
   {
+    "ConditionSetId": 270120901000,
+    "ConditionId": 10025045001
+  },
+  {
+    "ConditionSetId": 270120901001,
+    "ConditionId": 10025045003
+  },
+  {
+    "ConditionSetId": 270120901002,
+    "ConditionId": 10025045005
+  },
+  {
     "ConditionSetId": 270121100100,
     "ConditionId": 10024023011
   },
@@ -8518,6 +8546,18 @@
   {
     "ConditionSetId": 280120900902,
     "ConditionId": 10025041006
+  },
+  {
+    "ConditionSetId": 280120901000,
+    "ConditionId": 10025045002
+  },
+  {
+    "ConditionSetId": 280120901001,
+    "ConditionId": 10025045004
+  },
+  {
+    "ConditionSetId": 280120901002,
+    "ConditionId": 10025045006
   },
   {
     "ConditionSetId": 280121100100,
@@ -9214,6 +9254,14 @@
   {
     "ConditionSetId": 330000101104,
     "ConditionId": 10025044024
+  },
+  {
+    "ConditionSetId": 330000101105,
+    "ConditionId": 10025045012
+  },
+  {
+    "ConditionSetId": 330000101106,
+    "ConditionId": 10025045011
   },
   {
     "ConditionSetId": 330000205003,
@@ -13176,6 +13224,26 @@
     "ConditionId": 2501107005
   },
   {
+    "ConditionSetId": 350101005440,
+    "ConditionId": 2501108001
+  },
+  {
+    "ConditionSetId": 350101005441,
+    "ConditionId": 2501108002
+  },
+  {
+    "ConditionSetId": 350101005442,
+    "ConditionId": 2501108003
+  },
+  {
+    "ConditionSetId": 350101005443,
+    "ConditionId": 2501108004
+  },
+  {
+    "ConditionSetId": 350101005444,
+    "ConditionId": 2501108005
+  },
+  {
     "ConditionSetId": 350101006001,
     "ConditionId": 2200000001
   },
@@ -13342,6 +13410,10 @@
   {
     "ConditionSetId": 350101104001,
     "ConditionId": 10025044025
+  },
+  {
+    "ConditionSetId": 350101105001,
+    "ConditionId": 10025045013
   },
   {
     "ConditionSetId": 350141005014,
@@ -14034,6 +14106,14 @@
   {
     "ConditionSetId": 350501001040,
     "ConditionId": 10025041013
+  },
+  {
+    "ConditionSetId": 350501001041,
+    "ConditionId": 10025051032
+  },
+  {
+    "ConditionSetId": 350501001042,
+    "ConditionId": 10025051032
   },
   {
     "ConditionSetId": 360101006003,
@@ -15108,6 +15188,10 @@
     "ConditionId": 10025041001
   },
   {
+    "ConditionSetId": 611000009010,
+    "ConditionId": 10025045001
+  },
+  {
     "ConditionSetId": 611000011001,
     "ConditionId": 10024023011
   },
@@ -15802,6 +15886,10 @@
   {
     "ConditionSetId": 613000009009,
     "ConditionId": 10025041002
+  },
+  {
+    "ConditionSetId": 613000009010,
+    "ConditionId": 10025045002
   },
   {
     "ConditionSetId": 613000011001,
@@ -17554,6 +17642,10 @@
   {
     "ConditionSetId": 620000532001,
     "ConditionId": 2700000013
+  },
+  {
+    "ConditionSetId": 620000532001,
+    "ConditionId": 10025045014
   },
   {
     "ConditionSetId": 620000533001,
@@ -21340,6 +21432,46 @@
     "ConditionId": 10025044006
   },
   {
+    "ConditionSetId": 620001108001,
+    "ConditionId": 2600701701
+  },
+  {
+    "ConditionSetId": 620001108001,
+    "ConditionId": 10025045007
+  },
+  {
+    "ConditionSetId": 620001108002,
+    "ConditionId": 2600701702
+  },
+  {
+    "ConditionSetId": 620001108002,
+    "ConditionId": 10025045007
+  },
+  {
+    "ConditionSetId": 620001108003,
+    "ConditionId": 2600701703
+  },
+  {
+    "ConditionSetId": 620001108003,
+    "ConditionId": 10025045007
+  },
+  {
+    "ConditionSetId": 620001108004,
+    "ConditionId": 2600701704
+  },
+  {
+    "ConditionSetId": 620001108004,
+    "ConditionId": 10025045007
+  },
+  {
+    "ConditionSetId": 620001108005,
+    "ConditionId": 2600701705
+  },
+  {
+    "ConditionSetId": 620001108005,
+    "ConditionId": 10025045007
+  },
+  {
     "ConditionSetId": 630000000001,
     "ConditionId": 10000000022
   },
@@ -21418,6 +21550,10 @@
   {
     "ConditionSetId": 630000000020,
     "ConditionId": 10025041014
+  },
+  {
+    "ConditionSetId": 630000000021,
+    "ConditionId": 10025051033
   },
   {
     "ConditionSetId": 642070010000,
@@ -22980,6 +23116,10 @@
     "ConditionId": 10025044009
   },
   {
+    "ConditionSetId": 671003000158,
+    "ConditionId": 10025045010
+  },
+  {
     "ConditionSetId": 671004000001,
     "ConditionId": 10000000021
   },
@@ -23058,6 +23198,10 @@
   {
     "ConditionSetId": 671004000020,
     "ConditionId": 10025041013
+  },
+  {
+    "ConditionSetId": 671004000021,
+    "ConditionId": 10025051032
   },
   {
     "ConditionSetId": 671005000001,
@@ -23700,6 +23844,14 @@
     "ConditionId": 10025041004
   },
   {
+    "ConditionSetId": 671006901001,
+    "ConditionId": 10025045002
+  },
+  {
+    "ConditionSetId": 671006901002,
+    "ConditionId": 10025045004
+  },
+  {
     "ConditionSetId": 671061100101,
     "ConditionId": 10024023012
   },
@@ -23842,6 +23994,10 @@
   {
     "ConditionSetId": 680000010021,
     "ConditionId": 10025041015
+  },
+  {
+    "ConditionSetId": 680000010022,
+    "ConditionId": 10025051034
   },
   {
     "ConditionSetId": 680000020003,
@@ -29398,6 +29554,10 @@
   {
     "ConditionSetId": 860000102920,
     "ConditionId": 10025041015
+  },
+  {
+    "ConditionSetId": 860000102921,
+    "ConditionId": 10025051034
   },
   {
     "ConditionSetId": 860000202301,

@@ -1216,6 +1216,22 @@
     "IsStampProgress": false
   },
   {
+    "Id": 1008301,
+    "GachaId": 10083,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
+    "Id": 1008302,
+    "GachaId": 10083,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
     "Id": 2000101,
     "GachaId": 20001,
     "MaxCount": 0,
@@ -9285,6 +9301,22 @@
     "MaxCount": 1,
     "Priority": 1,
     "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3051601,
+    "GachaId": 30516,
+    "MaxCount": 3,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3051701,
+    "GachaId": 30517,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
     "IsStampProgress": false
   },
   {

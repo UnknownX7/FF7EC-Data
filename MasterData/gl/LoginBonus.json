@@ -3312,6 +3312,22 @@
     "ResetId": 0
   },
   {
+    "Id": 3209,
+    "LoginBonusType": 3,
+    "ContinuousType": 1,
+    "DisplayPriority": 3209,
+    "LoginBonusSheetGroupId": 3209,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2,
+    "BackgroundResourceId": 3209,
+    "LayoutResourceId": 4,
+    "TriggerConditionSetId": 0,
+    "StartDatetime": 1745460000000,
+    "TriggerEndDatetime": 1746043199000,
+    "ReceiveEndDatetime": 1746043199000,
+    "ResetId": 0
+  },
+  {
     "Id": 3210,
     "LoginBonusType": 3,
     "ContinuousType": 1,
@@ -3341,6 +3357,22 @@
     "StartDatetime": 1744855200000,
     "TriggerEndDatetime": 1746647999000,
     "ReceiveEndDatetime": 1746647999000,
+    "ResetId": 0
+  },
+  {
+    "Id": 3212,
+    "LoginBonusType": 3,
+    "ContinuousType": 1,
+    "DisplayPriority": 3212,
+    "LoginBonusSheetGroupId": 3212,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2,
+    "BackgroundResourceId": 3212,
+    "LayoutResourceId": 2,
+    "TriggerConditionSetId": 0,
+    "StartDatetime": 1745460000000,
+    "TriggerEndDatetime": 1745956799000,
+    "ReceiveEndDatetime": 1745956799000,
     "ResetId": 0
   },
   {
