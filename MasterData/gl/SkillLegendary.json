@@ -160,6 +160,14 @@
     "UseCountLimit": 1
   },
   {
+    "Id": 15002701,
+    "SkillBaseId": 15002701,
+    "ResourceId": 15002701,
+    "InitialChargeTimeSec": 15,
+    "RechargeTimeSec": 50,
+    "UseCountLimit": 3
+  },
+  {
     "Id": 15102401,
     "SkillBaseId": 15102401,
     "ResourceId": 15102401,

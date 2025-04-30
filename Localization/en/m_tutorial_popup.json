@@ -326,7 +326,7 @@
     },
     {
       "id": 970000206000101,
-      "value": "Draw Types"
+      "value": "Draws"
     },
     {
       "id": 970000206000102,
@@ -1049,6 +1049,14 @@
       "value": "Force Gauge: Forge"
     },
     {
+      "id": 970003100000421,
+      "value": "Force Gauge: Mentorship"
+    },
+    {
+      "id": 970003100000431,
+      "value": "Force Gauge: Leadership"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -1130,11 +1138,11 @@
     },
     {
       "id": 971000206000101,
-      "value": "There are three types of <command_color=common_03>draws</color>:\n- Special: A unique type of draw\n- Featured: A draw that yields a stamp for every 10 Draw\n- Tickets: A draw that requires tickets"
+      "value": "On the <command_color=common_03>draw screen</color>, you can perform a variety of draws by expending <command_color=common_03>blue crystals</color>, <command_color=common_03>red crystals</color>, and <command_color=common_03>tickets</color>. Some draws are available for <command_color=common_03>free</color>."
     },
     {
       "id": 971000206000102,
-      "value": "In a <command_color=common_03>New Weapon Featured Draw</color>, a <command_color=common_03>Draw 10</color> yields one or several stamps for your <command_color=common_03>stamp card.</color> You will <command_color=common_03>obtain the rewards on the stamped squares.</color>\n \n<command_color=common_02>*Progress can be viewed from stamp card details.</color>"
+      "value": "In <command_color=common_03>a part of Draw</color>, a <command_color=common_03>10 Draw</color> will yield one or several stamps for your <command_color=common_03>stamp card</color>.\nOnce stamped, you will receive the reward in a given square.\n<command_color=common_02>*Stamp cards can be viewed from stamp card details.</color>"
     },
     {
       "id": 971000206000105,
@@ -1635,6 +1643,14 @@
     {
       "id": 971003100000411,
       "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of its abilities will be canceled</color>."
+    },
+    {
+      "id": 971003100000421,
+      "value": "<command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>his Physical Resistance and Magic Resistance will be lost</color>."
+    },
+    {
+      "id": 971003100000431,
+      "value": "<command_color=common_03>Dealing wind-element damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of her abilities will be canceled</color>."
     },
     {
       "id": 971003200000011,

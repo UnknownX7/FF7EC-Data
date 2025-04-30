@@ -1125,6 +1125,10 @@
       "value": "Stamina Pass"
     },
     {
+      "id": 551000000020005,
+      "value": "Crystal Pass"
+    },
+    {
       "id": 551000000022001,
       "value": "Custom Box - Mythril"
     },
@@ -1155,6 +1159,14 @@
     {
       "id": 551000000022014,
       "value": "Custom Box - Ever Crisis Academy Countdown"
+    },
+    {
+      "id": 551000000022015,
+      "value": "Custom Box - Ever Crisis Academy Vol. 1"
+    },
+    {
+      "id": 551000000022016,
+      "value": "Custom Box - Ever Crisis Academy Vol. 2"
     },
     {
       "id": 551000000022017,
@@ -1813,6 +1825,10 @@
       "value": "Mako Gem (Missing Score)"
     },
     {
+      "id": 551000001002038,
+      "value": "Teacher's Paper Fan Parts"
+    },
+    {
       "id": 551000001003001,
       "value": "Leather Glove Parts"
     },
@@ -1927,6 +1943,10 @@
     {
       "id": 551000001003043,
       "value": "Járngreipr Parts"
+    },
+    {
+      "id": 551000001003047,
+      "value": "Class President's Bracelet Parts"
     },
     {
       "id": 551000001004001,
@@ -2681,6 +2701,10 @@
       "value": "Withering Blaze Parts"
     },
     {
+      "id": 551000001049034,
+      "value": "Folding Ruler Parts"
+    },
+    {
       "id": 551000001050001,
       "value": "Personal Style Parts"
     },
@@ -2763,6 +2787,14 @@
     {
       "id": 551000001050026,
       "value": "Stilva Glaive Parts"
+    },
+    {
+      "id": 551000001050027,
+      "value": "Mako Gem (Ogrekiller)"
+    },
+    {
+      "id": 551000001050029,
+      "value": "Set Square Parts"
     },
     {
       "id": 551000001051001,
@@ -3401,6 +3433,18 @@
       "value": "Green Egg"
     },
     {
+      "id": 551000002030271,
+      "value": "School Bag"
+    },
+    {
+      "id": 551000002030272,
+      "value": "Seventh High Pin"
+    },
+    {
+      "id": 551000002030273,
+      "value": "Academy Pin"
+    },
+    {
       "id": 551000002080021,
       "value": "Heart Cookies"
     },
@@ -3551,6 +3595,10 @@
     {
       "id": 551000002130058,
       "value": "Rampage of Ruin Weapon Voucher (LB)"
+    },
+    {
+      "id": 551000002130071,
+      "value": "The First Clash Wpn. Voucher"
     },
     {
       "id": 552000000000001,
@@ -4590,11 +4638,15 @@
     },
     {
       "id": 552000000020002,
-      "value": "Bonus 1: Added Co-op Battle Rewards\nBonus 2: Synthesis Time Reduction -30%\nBonus 3: Chocobo Expedition Rare Drop Rate +30%\nBonus 4: Chocobo Expedition Time Reduction -30%\n\n<color=#9DB2CC>*The effects of \"Bonus 1: Added Co-op Battle Rewards\" are shared with other players in the same lobby.</color>"
+      "value": "Bonus 1: More Co-op Medals Added to Rewards\nBonus 2: Synthesis Time Reduction -30%\nBonus 3: Chocobo Expedition Rare Drop Rate +30%\nBonus 4: Chocobo Expedition Time Reduction -30%\n\n<color=#9DB2CC>*The effects of \"Bonus 1: More Co-op Medals Added to Rewards\" are shared with other players in the same lobby.\n*You can hold up to 9,999 Co-op Medals.\n*Co-op Medals acquired through the SOLDIER Pass cannot be kept if they exceed inventory capacity.</color>"
     },
     {
       "id": 552000000020004,
       "value": "Bonus: Special Mission - Receive Stamina Tonic x20 per Day"
+    },
+    {
+      "id": 552000000020005,
+      "value": "Bonus: Special Mission - Receive Blue Crystal x100 per Day"
     },
     {
       "id": 552000000022001,
@@ -4626,6 +4678,14 @@
     },
     {
       "id": 552000000022014,
+      "value": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    {
+      "id": 552000000022015,
+      "value": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    {
+      "id": 552000000022016,
       "value": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
     },
     {
@@ -5285,6 +5345,10 @@
       "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
     },
     {
+      "id": 552000001002038,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Teacher's Paper Fan</color>."
+    },
+    {
       "id": 552000001003001,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Leather Gloves</color>."
     },
@@ -5399,6 +5463,10 @@
     {
       "id": 552000001003043,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Járngreipr</color>."
+    },
+    {
+      "id": 552000001003047,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Class President's Bracelet</color>."
     },
     {
       "id": 552000001004001,
@@ -6153,6 +6221,10 @@
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Withering Blaze</color>."
     },
     {
+      "id": 552000001049034,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Folding Ruler</color>."
+    },
+    {
       "id": 552000001050001,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Personal Style</color>."
     },
@@ -6235,6 +6307,14 @@
     {
       "id": 552000001050026,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Stilva Glaive</color>."
+    },
+    {
+      "id": 552000001050027,
+      "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    {
+      "id": 552000001050029,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Set Square</color>."
     },
     {
       "id": 552000001051001,
@@ -6873,6 +6953,18 @@
       "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
     },
     {
+      "id": 552000002030271,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030272,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030273,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
       "id": 552000002080021,
       "value": "Traded for items at the <command_color=common_03>Event Exchange</color>."
     },
@@ -7015,6 +7107,10 @@
     {
       "id": 552000002130058,
       "value": "Traded for weapons at the <command_color=common_03>Rampage of Ruin Exchange</color>.\n \n*This item has an expiration date."
+    },
+    {
+      "id": 552000002130071,
+      "value": "Traded for weapons at the <command_color=common_03>The First Clash Exchange</color>."
     }
   ]
 }

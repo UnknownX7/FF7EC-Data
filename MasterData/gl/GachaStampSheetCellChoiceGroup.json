@@ -1438,5 +1438,29 @@
     "StampCount": 8,
     "DefaultGachaStampSheetCellChoiceId": 810701,
     "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 8601,
+    "GachaStampSheetGroupId": 10086,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 1,
+    "DefaultGachaStampSheetCellChoiceId": 860101,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 8602,
+    "GachaStampSheetGroupId": 10086,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 6,
+    "DefaultGachaStampSheetCellChoiceId": 860202,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
+  },
+  {
+    "Id": 8603,
+    "GachaStampSheetGroupId": 10086,
+    "GachaStampSheetSeq": 1,
+    "StampCount": 12,
+    "DefaultGachaStampSheetCellChoiceId": 860303,
+    "DefaultAdditionalGachaStampSheetCellChoiceId": 0
   }
 ]

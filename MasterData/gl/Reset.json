@@ -297,6 +297,15 @@
     "TargetId": 0
   },
   {
+    "Id": 43,
+    "ResetOffsetDatetime": -32400000,
+    "CycleType": 4,
+    "ResetLength": 30,
+    "ResetDisplayType": 1,
+    "ResetOffsetDatetimeType": 2,
+    "TargetId": 20005
+  },
+  {
     "Id": 700101,
     "ResetOffsetDatetime": -32400000,
     "CycleType": 3,

@@ -176,6 +176,14 @@
     "RegisterId": 1
   },
   {
+    "Id": 20080101,
+    "NameLanguageId": 100000000000201,
+    "CharacterNovelId": 2,
+    "CharacterNovelCostumeId": 2008,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
     "Id": 29010101,
     "NameLanguageId": 100000000000201,
     "CharacterNovelId": 2,
@@ -292,6 +300,14 @@
     "NameLanguageId": 100000000000301,
     "CharacterNovelId": 3,
     "CharacterNovelCostumeId": 3018,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 30210101,
+    "NameLanguageId": 100000000000301,
+    "CharacterNovelId": 3,
+    "CharacterNovelCostumeId": 3021,
     "VariationType": "default",
     "RegisterId": 1
   },

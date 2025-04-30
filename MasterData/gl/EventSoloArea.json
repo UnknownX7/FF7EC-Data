@@ -605,6 +605,39 @@
     "IsDisplayBossChallenge": true
   },
   {
+    "Id": 14003,
+    "EventSoloAreaGroupId": 14003,
+    "OrderNo": 1,
+    "ResourceId": 14003,
+    "DisplayConditionSetId": 611000014003,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017002,
+    "EventAreaCategoryId": 14003,
+    "IsDisplayBossChallenge": true
+  },
+  {
+    "Id": 130071,
+    "EventSoloAreaGroupId": 13007,
+    "OrderNo": 1,
+    "ResourceId": 13007,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000000130071,
+    "EventAreaCategoryId": 1300701,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 130072,
+    "EventSoloAreaGroupId": 13007,
+    "OrderNo": 2,
+    "ResourceId": 13007,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 750000130072,
+    "NameLanguageId": 863000000130072,
+    "EventAreaCategoryId": 1300701,
+    "IsDisplayBossChallenge": false
+  },
+  {
     "Id": 800101,
     "EventSoloAreaGroupId": 8001,
     "OrderNo": 1,
@@ -1251,6 +1284,28 @@
     "LockConditionSetId": 0,
     "NameLanguageId": 863000003017002,
     "EventAreaCategoryId": 302501,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3027011,
+    "EventSoloAreaGroupId": 3027,
+    "OrderNo": 1,
+    "ResourceId": 3027,
+    "DisplayConditionSetId": 611000003027,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3027012,
+    "EventSoloAreaGroupId": 3027,
+    "OrderNo": 1,
+    "ResourceId": 3027,
+    "DisplayConditionSetId": 611000003027,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017002,
+    "EventAreaCategoryId": 302701,
     "IsDisplayBossChallenge": false
   },
   {

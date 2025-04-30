@@ -156,6 +156,10 @@
     "PassiveSkillId": 55401
   },
   {
+    "PassiveSkillUsedType": 1,
+    "PassiveSkillId": 56401
+  },
+  {
     "PassiveSkillUsedType": 2,
     "PassiveSkillId": 10101
   },
@@ -402,5 +406,13 @@
   {
     "PassiveSkillUsedType": 2,
     "PassiveSkillId": 55801
+  },
+  {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 55901
+  },
+  {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 56001
   }
 ]

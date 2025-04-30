@@ -7,7 +7,7 @@
     "DailyRewardGroupId": 0,
     "EcPassType": 1,
     "MissionGroupId": 0,
-    "UNK_07": 0
+    "ResourceId": 0
   },
   {
     "ItemId": 20002,
@@ -17,7 +17,7 @@
     "DailyRewardGroupId": 0,
     "EcPassType": 2,
     "MissionGroupId": 0,
-    "UNK_07": 0
+    "ResourceId": 0
   },
   {
     "ItemId": 20004,
@@ -27,6 +27,16 @@
     "DailyRewardGroupId": 0,
     "EcPassType": 4,
     "MissionGroupId": 2100001,
-    "UNK_07": 0
+    "ResourceId": 3
+  },
+  {
+    "ItemId": 20005,
+    "EffectiveMin": 43200,
+    "ShopItemId": 101006004,
+    "CampaignId": 0,
+    "DailyRewardGroupId": 0,
+    "EcPassType": 5,
+    "MissionGroupId": 2100002,
+    "ResourceId": 4
   }
 ]

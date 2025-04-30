@@ -1145,6 +1145,10 @@
       "value": "Withering Blaze"
     },
     {
+      "id": 510000000049034,
+      "value": "Folding Ruler"
+    },
+    {
       "id": 510000000050001,
       "value": "Personal Style"
     },
@@ -1219,6 +1223,14 @@
     {
       "id": 510000000050024,
       "value": "Ultimate Personal Style"
+    },
+    {
+      "id": 510000000050027,
+      "value": "Ogrekiller"
+    },
+    {
+      "id": 510000000050029,
+      "value": "Set Square"
     },
     {
       "id": 510000000051001,
@@ -1487,6 +1499,14 @@
     {
       "id": 532000214200204,
       "value": "Quake Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000216200103,
+      "value": "Aero (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000216200203,
+      "value": "Aero Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
     },
     {
       "id": 551000000000001,
@@ -4589,6 +4609,10 @@
       "value": "Stamina Pass"
     },
     {
+      "id": 802000101006004,
+      "value": "Crystal Pass"
+    },
+    {
       "id": 802000101007001,
       "value": "Daily Pack I"
     },
@@ -4790,11 +4814,15 @@
     },
     {
       "id": 804000101006002,
-      "value": "■ 480 Red Crystals + Bonuses (7 days)\nBonus 1: Added Co-op Battle Rewards\nBonus 2: Synthesis Time Reduction -30%\nBonus 3: Chocobo Expedition Rare Drop Rate +30%\nBonus 4: Chocobo Expedition Time Reduction -30%\n\n<color=#9DB2CC>*The effects of \"Bonus 1: Added Co-op Battle Rewards\" are shared with other players in the same lobby.</color>"
+      "value": "■ 480 Red Crystals + Bonuses (7 days)\nBonus 1: More Co-op Medals Added to Rewards\nBonus 2: Synthesis Time Reduction -30%\nBonus 3: Chocobo Expedition Rare Drop Rate +30%\nBonus 4: Chocobo Expedition Time Reduction -30%\n\n<color=#9DB2CC>*The effects of \"Bonus 1: More Co-op Medals Added to Rewards\" are shared with other players in the same lobby.\n*You can hold up to 9,999 Co-op Medals.\n*Co-op Medals acquired through the SOLDIER Pass cannot be kept if they exceed inventory capacity.</color>"
     },
     {
       "id": 804000101006003,
       "value": "■ 3,000 Red Crystals + Bonus (7 days)\nBonus: Special Mission - Receive Stamina Tonic x20 per Day"
+    },
+    {
+      "id": 804000101006004,
+      "value": "■ 650 Red Crystals + Bonus (30 days)\nBonus: Special Mission - Receive Blue Crystal x100 per Day\n*The mission will reset every day at 12:00 PM PST/1:00 PM PDT."
     },
     {
       "id": 804000501001002,
