@@ -74004,6 +74004,27 @@
     "TargetDurationMinute": 0
   },
   {
+    "Id": 10024052006,
+    "ConditionType": 2,
+    "TargetId": 0,
+    "TargetValue": 0,
+    "DescriptionLanguageId": 0,
+    "StartDatetime": 1748484000000,
+    "EndDatetime": 0,
+    "CycleType": 0,
+    "ParentLength": 0,
+    "ChildLength": 0,
+    "ChildOffsetLength": 0,
+    "UserCountType": 0,
+    "TargetId1": 0,
+    "TargetId2": 0,
+    "TargetId3": 0,
+    "Min": 0,
+    "Max": 0,
+    "UserTimeType": 1,
+    "TargetDurationMinute": 0
+  },
+  {
     "Id": 10024053001,
     "ConditionType": 2,
     "TargetId": 0,
