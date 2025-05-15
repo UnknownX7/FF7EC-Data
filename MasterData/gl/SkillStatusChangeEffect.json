@@ -2536,5 +2536,23 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 70
+  },
+  {
+    "Id": 3255730011,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 1000,
+    "MaxDurationSec": 1000,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "EffectCoefficient": 100
+  },
+  {
+    "Id": 3255730012,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 3000,
+    "MaxDurationSec": 3000,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "EffectCoefficient": 100
   }
 ]

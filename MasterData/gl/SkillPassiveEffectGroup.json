@@ -2056,6 +2056,22 @@
     "SkillEquipmentType": 0
   },
   {
+    "Id": 56101,
+    "Seq": 0,
+    "PassiveSkillType": 2,
+    "PassiveSkillDetailType": 6,
+    "PassiveSkillEffectLevelId": 561011,
+    "SkillEquipmentType": 0
+  },
+  {
+    "Id": 56101,
+    "Seq": 1,
+    "PassiveSkillType": 23,
+    "PassiveSkillDetailType": 0,
+    "PassiveSkillEffectLevelId": 561012,
+    "SkillEquipmentType": 0
+  },
+  {
     "Id": 56401,
     "Seq": 0,
     "PassiveSkillType": 24,

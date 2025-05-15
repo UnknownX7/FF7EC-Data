@@ -3672,6 +3672,23 @@
     "UNK_14": 0
   },
   {
+    "Id": 3220,
+    "LoginBonusType": 3,
+    "ContinuousType": 1,
+    "DisplayPriority": 3220,
+    "LoginBonusSheetGroupId": 3220,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2,
+    "BackgroundResourceId": 3220,
+    "LayoutResourceId": 1,
+    "TriggerConditionSetId": 0,
+    "StartDatetime": 1747274400000,
+    "TriggerEndDatetime": 1749067199000,
+    "ReceiveEndDatetime": 1749067199000,
+    "ResetId": 0,
+    "UNK_14": 0
+  },
+  {
     "Id": 4001,
     "LoginBonusType": 3,
     "ContinuousType": 1,

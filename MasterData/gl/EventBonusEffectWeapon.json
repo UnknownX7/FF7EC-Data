@@ -1911,6 +1911,13 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 30270103,
+    "WeaponId": 4040,
+    "EventBonusEffectWeaponGroupId": 302701,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000302702
+  },
+  {
     "Id": 30270104,
     "WeaponId": 49034,
     "EventBonusEffectWeaponGroupId": 302701,
@@ -1939,6 +1946,13 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 30270203,
+    "WeaponId": 4040,
+    "EventBonusEffectWeaponGroupId": 302702,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000302702
+  },
+  {
     "Id": 30270204,
     "WeaponId": 49034,
     "EventBonusEffectWeaponGroupId": 302702,
@@ -1965,6 +1979,13 @@
     "EventBonusEffectWeaponGroupId": 302703,
     "EventBonusEffectWeaponBonusGroupId": 1,
     "LockConditionSetId": 0
+  },
+  {
+    "Id": 30270303,
+    "WeaponId": 4040,
+    "EventBonusEffectWeaponGroupId": 302703,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000302702
   },
   {
     "Id": 30270304,

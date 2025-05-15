@@ -675,6 +675,33 @@
     "SectionOrderNo": 1
   },
   {
+    "Id": 231,
+    "StoryChapterId": 207,
+    "OrderNo": 1,
+    "StoryMapPositionId": 111,
+    "NameLanguageId": 200000000000231,
+    "StorySectionType": 1,
+    "SectionOrderNo": 1
+  },
+  {
+    "Id": 232,
+    "StoryChapterId": 207,
+    "OrderNo": 2,
+    "StoryMapPositionId": 109,
+    "NameLanguageId": 200000000000232,
+    "StorySectionType": 1,
+    "SectionOrderNo": 2
+  },
+  {
+    "Id": 233,
+    "StoryChapterId": 207,
+    "OrderNo": 3,
+    "StoryMapPositionId": 9999,
+    "NameLanguageId": 200000000000233,
+    "StorySectionType": 3,
+    "SectionOrderNo": 1
+  },
+  {
     "Id": 301,
     "StoryChapterId": 301,
     "OrderNo": 1,
