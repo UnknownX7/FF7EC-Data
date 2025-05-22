@@ -736,6 +736,22 @@
     "OrderNo": 0
   },
   {
+    "Id": 52,
+    "ItemType": 20,
+    "ItemRarityType": 3,
+    "MaxCapacity": 50000,
+    "ResourceId": 52,
+    "NameLanguageId": 551000000000052,
+    "DescriptionLanguageId": 552000000000052,
+    "ObtainCountMax": 50000,
+    "ObtainResetId": 52,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": 1747879200000,
+    "EndDatetime": 0,
+    "OrderNo": 0
+  },
+  {
     "Id": 1001,
     "ItemType": 18,
     "ItemRarityType": 3,
@@ -6880,6 +6896,22 @@
     "OrderNo": 0
   },
   {
+    "Id": 300029,
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300029,
+    "NameLanguageId": 551000000300029,
+    "DescriptionLanguageId": 552000000300029,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": 1747879200000,
+    "EndDatetime": 0,
+    "OrderNo": 0
+  },
+  {
     "Id": 1000001,
     "ItemType": 18,
     "ItemRarityType": 5,
@@ -11584,6 +11616,22 @@
     "OrderNo": 0
   },
   {
+    "Id": 1050012,
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1050012,
+    "NameLanguageId": 551000001050012,
+    "DescriptionLanguageId": 552000001050012,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": 1747879200000,
+    "EndDatetime": 0,
+    "OrderNo": 0
+  },
+  {
     "Id": 1050013,
     "ItemType": 18,
     "ItemRarityType": 3,
@@ -12780,6 +12828,22 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": 0,
+    "EndDatetime": 0,
+    "OrderNo": 0
+  },
+  {
+    "Id": 1056014,
+    "ItemType": 18,
+    "ItemRarityType": 3,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1056014,
+    "NameLanguageId": 551000001056014,
+    "DescriptionLanguageId": 552000001056014,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": 1747879200000,
     "EndDatetime": 0,
     "OrderNo": 0
   },

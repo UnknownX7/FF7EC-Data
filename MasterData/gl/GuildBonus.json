@@ -8,7 +8,7 @@
     "TitleLanguageId": 875000000000001,
     "UNK_06": 0,
     "UNK_07": 0,
-    "UNK_08": 0
+    "UNK_08": 5
   },
   {
     "Id": 2,
@@ -19,7 +19,7 @@
     "TitleLanguageId": 875000000000002,
     "UNK_06": 0,
     "UNK_07": 0,
-    "UNK_08": 0
+    "UNK_08": 1
   },
   {
     "Id": 3,
@@ -30,7 +30,7 @@
     "TitleLanguageId": 875000000000003,
     "UNK_06": 0,
     "UNK_07": 0,
-    "UNK_08": 0
+    "UNK_08": 2
   },
   {
     "Id": 4,
@@ -41,6 +41,17 @@
     "TitleLanguageId": 875000000000004,
     "UNK_06": 0,
     "UNK_07": 0,
-    "UNK_08": 0
+    "UNK_08": 4
+  },
+  {
+    "Id": 5,
+    "GuildBonusType": 8,
+    "GuildBonusLevelGroupId": 5,
+    "GuildBonusEffectGroupId": 5,
+    "NameLanguageId": 874000000000005,
+    "TitleLanguageId": 875000000000005,
+    "UNK_06": 52,
+    "UNK_07": 1,
+    "UNK_08": 3
   }
 ]

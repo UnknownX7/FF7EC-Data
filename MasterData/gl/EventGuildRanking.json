@@ -148,5 +148,20 @@
     "ArmouryPickupSettingId": 9010,
     "MainBattleStartDatetime": 1745719200000,
     "MainBattleEndDatetime": 1745956799000
+  },
+  {
+    "EventBaseId": 9011,
+    "TicketConsumptionCountResetId": 21,
+    "MaxTicketCount": 3,
+    "IngameResourceId": 9011,
+    "OutgameResourceId": 9011,
+    "EnemyRevivalResetId": 21,
+    "EventGuildRankingTotalScoreRewardGroupId": 9011,
+    "AggregateStartDatetime": 1748393999000,
+    "AggregateEndDatetime": 1748483999000,
+    "SkillArmouryGroupSettingId": 52,
+    "ArmouryPickupSettingId": 9011,
+    "MainBattleStartDatetime": 1748138400000,
+    "MainBattleEndDatetime": 1748393999000
   }
 ]

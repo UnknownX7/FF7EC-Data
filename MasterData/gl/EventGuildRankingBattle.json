@@ -634,5 +634,77 @@
     "EventGuildRankingBattleDamageBonusScoreGroupId": 901006,
     "NameLanguageId": 883000000000006,
     "UNK_09": 0
+  },
+  {
+    "Id": 901101,
+    "EventBaseId": 9011,
+    "EnemyLevel": 1,
+    "BattleId": 59011001,
+    "EventGuildRankingBattleScoreRankGroupId": 901101,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901101,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901101,
+    "NameLanguageId": 883000000000001,
+    "UNK_09": 0
+  },
+  {
+    "Id": 901102,
+    "EventBaseId": 9011,
+    "EnemyLevel": 2,
+    "BattleId": 59011002,
+    "EventGuildRankingBattleScoreRankGroupId": 901102,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901102,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901102,
+    "NameLanguageId": 883000000000002,
+    "UNK_09": 0
+  },
+  {
+    "Id": 901103,
+    "EventBaseId": 9011,
+    "EnemyLevel": 3,
+    "BattleId": 59011003,
+    "EventGuildRankingBattleScoreRankGroupId": 901103,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901103,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901103,
+    "NameLanguageId": 883000000000003,
+    "UNK_09": 0
+  },
+  {
+    "Id": 901104,
+    "EventBaseId": 9011,
+    "EnemyLevel": 4,
+    "BattleId": 59011004,
+    "EventGuildRankingBattleScoreRankGroupId": 901104,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901104,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901104,
+    "NameLanguageId": 883000000000004,
+    "UNK_09": 0
+  },
+  {
+    "Id": 901105,
+    "EventBaseId": 9011,
+    "EnemyLevel": 5,
+    "BattleId": 59011005,
+    "EventGuildRankingBattleScoreRankGroupId": 901105,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901105,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901105,
+    "NameLanguageId": 883000000000005,
+    "UNK_09": 0
+  },
+  {
+    "Id": 901106,
+    "EventBaseId": 9011,
+    "EnemyLevel": 6,
+    "BattleId": 59011006,
+    "EventGuildRankingBattleScoreRankGroupId": 901106,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901106,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901106,
+    "NameLanguageId": 883000000000006,
+    "UNK_09": 0
   }
 ]

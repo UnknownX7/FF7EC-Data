@@ -15336,6 +15336,54 @@
     "IgnoreStatusConditionRestrictSkill": false
   },
   {
+    "Id": 15001201,
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15001201,
+    "NameLanguageId": 540000015001201,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015001201,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 15001202,
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15001202,
+    "NameLanguageId": 540000015001202,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015001202,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 15001203,
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15001203,
+    "NameLanguageId": 540000015001203,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015001203,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 15001204,
+    "BaseAttackType": 1,
+    "ElementType": 1,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15001204,
+    "NameLanguageId": 540000015001204,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015001204,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
     "Id": 15001301,
     "BaseAttackType": 1,
     "ElementType": 3,
@@ -18705,6 +18753,54 @@
     "DescriptionLanguageId": 0,
     "SkillBaseGroupId": 0,
     "BattleNameLanguageId": 541000015601304,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 15601401,
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15601401,
+    "NameLanguageId": 540000015601401,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015601401,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 15601402,
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15601402,
+    "NameLanguageId": 540000015601402,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015601402,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 15601403,
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15601403,
+    "NameLanguageId": 540000015601403,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015601403,
+    "IgnoreStatusConditionRestrictSkill": false
+  },
+  {
+    "Id": 15601404,
+    "BaseAttackType": 2,
+    "ElementType": 6,
+    "SpecialGaugeCoefficient": 1000,
+    "SkillEffectGroupId": 15601404,
+    "NameLanguageId": 540000015601404,
+    "DescriptionLanguageId": 0,
+    "SkillBaseGroupId": 0,
+    "BattleNameLanguageId": 541000015601404,
     "IgnoreStatusConditionRestrictSkill": false
   },
   {

@@ -693,6 +693,42 @@
     "EnableStatusChange": true
   },
   {
+    "Id": 156014012,
+    "MinCount": 1,
+    "MaxCount": 999,
+    "EnableBuff": true,
+    "EnableDebuff": false,
+    "EnableStatusCondition": false,
+    "EnableStatusChange": true
+  },
+  {
+    "Id": 156014022,
+    "MinCount": 1,
+    "MaxCount": 999,
+    "EnableBuff": true,
+    "EnableDebuff": false,
+    "EnableStatusCondition": false,
+    "EnableStatusChange": true
+  },
+  {
+    "Id": 156014032,
+    "MinCount": 1,
+    "MaxCount": 999,
+    "EnableBuff": true,
+    "EnableDebuff": false,
+    "EnableStatusCondition": false,
+    "EnableStatusChange": true
+  },
+  {
+    "Id": 156014042,
+    "MinCount": 1,
+    "MaxCount": 999,
+    "EnableBuff": true,
+    "EnableDebuff": false,
+    "EnableStatusCondition": false,
+    "EnableStatusChange": true
+  },
+  {
     "Id": 2100103012,
     "MinCount": 1,
     "MaxCount": 999,
