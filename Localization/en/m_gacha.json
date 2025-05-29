@@ -341,6 +341,10 @@
       "value": "Glenn & Angeal New Weapon Featured Draw"
     },
     {
+      "id": 601000000010090,
+      "value": "Sephiroth New Weapon Featured Draw"
+    },
+    {
       "id": 601000000010095,
       "value": "Beginners' Returning Limit Break Draw"
     },
@@ -1065,6 +1069,10 @@
       "value": "Ever Crisis Academy Daily Free 10 Draw"
     },
     {
+      "id": 601000000030560,
+      "value": "11 Million DL Celebration Daily Free 10 Draw"
+    },
+    {
       "id": 601000000040001,
       "value": "Tutorial Draw"
     },
@@ -1314,6 +1322,10 @@
     },
     {
       "id": 603000000010088,
+      "value": "- The period and content are subject to change without notice.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Turning on auto-convert will automatically convert any weapons sent to the armory.\n- Experiencing connectivity issues may result in skipped or faulty draw animations, but it will not affect the outcome of the draw. Please check the weapon list for confirmation.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n- Actual probabilities are neither rounded up nor down.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- If both red and blue crystals are held, blue crystals will be used first.\n- If the required number of premium draw tickets are held, they will be used before red or blue crystals.\n- When performing a 10 Draw and a stamp is pressed within a weapon square on the Stamp Card, the tenth slot in that 10 Draw will yield the weapon on that square.\n- The appearance rate of Ultimate Weapons is subject to change without prior notice.\n- Ultimate Weapons are not limited-edition weapons. Newly introduced Ultimate Weapons will be included in certain upcoming Draws, in the same fashion as newly introduced weapons in past Featured Draws.\n- The Ultimate Weapons cannot be selected in the Daily Quest ‘Weapon Parts Request’."
+    },
+    {
+      "id": 603000000010090,
       "value": "- The period and content are subject to change without notice.\n- A draw may yield duplicate weapons. As two of the same weapon cannot be held, any duplicates are placed in the armory.\n- If a draw yields a higher rarity version of a weapon already held, it automatically replaces the currently held weapon. The weapon level of the lower rarity weapon is applied to the new weapon, and the lower rarity weapon is placed in the armory.\n- Turning on auto-convert will automatically convert any weapons sent to the armory.\n- Experiencing connectivity issues may result in skipped or faulty draw animations, but it will not affect the outcome of the draw. Please check the weapon list for confirmation.\n- The displayed probability for each weapon obtainable from a draw is accurate to the fifth decimal place, even if it extends to or beyond the sixth. Therefore, please be aware that even if you add up all displayed probabilities, the total may not reach 100%, or the sum of the probabilities for a specific rarity may not match the listed probability for that rarity.\n- Actual probabilities are neither rounded up nor down.\n- Each draw is based on probabilities. Specific weapons are not guaranteed from a fixed number of draws.\n- If both red and blue crystals are held, blue crystals will be used first.\n- If the required number of premium draw tickets are held, they will be used before red or blue crystals.\n- When performing a 10 Draw and a stamp is pressed within a weapon square on the Stamp Card, the tenth slot in that 10 Draw will yield the weapon on that square.\n- The appearance rate of Ultimate Weapons is subject to change without prior notice.\n- Ultimate Weapons are not limited-edition weapons. Newly introduced Ultimate Weapons will be included in certain upcoming Draws, in the same fashion as newly introduced weapons in past Featured Draws.\n- The Ultimate Weapons cannot be selected in the Daily Quest ‘Weapon Parts Request’."
     },
     {
@@ -2186,11 +2198,11 @@
     },
     {
       "id": 604000000010084,
-      "value": "{1} (Held from {0})!\n\nThis draw Features the Ever Crisis Academy Seven limited-edition weapon(s) for Tifa.\nThis draw Features ultimate weapon(s) for Glenn.\n\nAll Featured new weapon(s) and gear excluding Ultimate Weapons from this Draw are eligible to receive a <color=#95C7FF>Reward Bonus</color> from the event Ever Crisis Academy Seven: Episode - Brawler.\nDue to the reward bonus effect, the amount of obtainable <color=#95C7FF>Event Exchangeable Items School Bag, Seventh High Pin, and Academy Pin</color> increases.\n<color=#FF9292>*Exchangeable Item Academy Pin will be added at a later date.</color>\n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (Ogrekiller)×10\nReawakened: Limit Break Medal Fragment x1"
+      "value": "{1} (Held from {0})!\n\nThis draw Features the Ever Crisis Academy Seven limited-edition weapon(s) for Tifa.\nThis draw Features ultimate weapon(s) for Glenn.\n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (Ogrekiller)×10\nReawakened: Limit Break Medal Fragment x1"
     },
     {
       "id": 604000000010085,
-      "value": "{1} (Held from {0})!\n\nThis draw Features the Ever Crisis Academy Seven limited-edition weapon(s) for Barret.\nThis draw Features ultimate weapon(s) for Glenn.\n\nAll Featured new weapon(s) and gear excluding Ultimate Weapons from this Draw are eligible to receive a <color=#95C7FF>Reward Bonus</color> from the event Ever Crisis Academy Seven: Episode - Brawler.\nDue to the reward bonus effect, the amount of obtainable <color=#95C7FF>Event Exchangeable Items School Bag, Seventh High Pin, and Academy Pin</color> increases.\n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (Ogrekiller)×10\nReawakened: Limit Break Medal Fragment x1"
+      "value": "{1} (Held from {0})!\n\nThis draw Features the Ever Crisis Academy Seven limited-edition weapon(s) for Barret.\nThis draw Features ultimate weapon(s) for Glenn.\n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (Ogrekiller)×10\nReawakened: Limit Break Medal Fragment x1"
     },
     {
       "id": 604000000010086,
@@ -2198,11 +2210,15 @@
     },
     {
       "id": 604000000010087,
-      "value": "{1} (Held from {0})!\n\nThis draw Features the Ever Crisis Academy Seven limited-edition weapon(s) for Aerith.\nThis draw Features ultimate weapon(s) for Glenn.\n\nAll Featured new weapon(s) and gear excluding Ultimate Weapons from this Draw are eligible to receive a <color=#95C7FF>Reward Bonus</color> from the event Ever Crisis Academy Seven: Episode - Brawler.\nDue to the reward bonus effect, the amount of obtainable <color=#95C7FF>Event Exchangeable Items School Bag, Seventh High Pin, and Academy Pin</color> increases.\n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (Ogrekiller)×10\nReawakened: Limit Break Medal Fragment x1"
+      "value": "{1} (Held from {0})!\n\nThis draw Features the Ever Crisis Academy Seven limited-edition weapon(s) for Aerith.\nThis draw Features ultimate weapon(s) for Glenn.\n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (Ogrekiller)×10\nReawakened: Limit Break Medal Fragment x1"
     },
     {
       "id": 604000000010088,
       "value": "{1} (Held from {0})!\n\nThis draw Features new weapon(s) for Glenn and Angeal.\nThis draw Features ultimate weapon(s) for Glenn.\n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (Ogrekiller) x10\nReawakened: Limit Break Medal Fragment x1\n\n- New Weapon Featured Pack will appear when a certain number of new weapons, which are the featured weapons, are obtained from the Draw. Weapons obtained from the pack are not included in the number of conditions for purchase.\n- The purchase conditions for the New Weapon Featured Pack are only applicable during the same period as the draw event where the new weapon is a featured item."
+    },
+    {
+      "id": 604000000010090,
+      "value": "{1} (Held from {0})!\n\nThis draw Features new weapon(s) for Sephiroth.\nThis draw Features ultimate weapon(s) for Matt.\n\nAll Featured new weapon(s) and gear excluding ultimate weapons from this draw are eligible to receive a <color=#95C7FF>Reward Bonus</color> from the event Portal Battle: Angeal Penance.\nDue to the reward bonus effect, the amount of obtainable <color=#95C7FF>Event Exchangeable Items Penance Tail, Penance Wing, and Penance Shield</color> increases.\n<color=#FF9292>*Exchangeable Item Penance Shield will be added at a later date.</color> \n\n- Bonus Details (*Can be obtained when a 10 Draw is performed.)\nMako Gem (11 Million DL) x10\nReawakened: Limit Break Medal Fragment x1\n\n- New Weapon Featured Pack will appear when a certain number of new weapons, which are the featured weapons, are obtained from the draw. Weapons obtained from the pack are not included in the number of conditions for purchase.\n- The purchase conditions for the New Weapon Featured Pack are only applicable during the same period as the draw event where the new weapon is a featured item."
     },
     {
       "id": 604000000010095,
@@ -3063,6 +3079,10 @@
     {
       "id": 604000000030531,
       "value": "{1} (Held from {0})!\nPeriod: Apr. 29 7:00 PM–May 28 12:59 PM PDT\n\n*On Sundays, 5★ Appearance Rate increased by x1.5.\n*On Wednesdays, 5★ Appearance Rate increased by x2.\n*This draw is available once per day during the event period.\n*No Ultimate Weapons will appear in this draw."
+    },
+    {
+      "id": 604000000030560,
+      "value": "{1} (Held from {0})!\nPeriod: May 28 7:00 PM–Jun. 11 12:59 PM PDT\n\n*On Sundays, 5★ Appearance Rate increased by x1.5.\n*On Wednesdays, 5★ Appearance Rate increased by x2.\n*This draw is available once per day during the event period.\n*No ultimate weapons will appear in this draw."
     },
     {
       "id": 604000000040001,

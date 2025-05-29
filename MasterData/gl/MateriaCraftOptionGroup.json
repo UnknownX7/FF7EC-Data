@@ -648,5 +648,55 @@
     "Id": 101400,
     "OptionPointThreshold": 800,
     "MateriaOptionGroupId": 1405
+  },
+  {
+    "Id": 101500,
+    "OptionPointThreshold": 0,
+    "MateriaOptionGroupId": 1501
+  },
+  {
+    "Id": 101500,
+    "OptionPointThreshold": 20,
+    "MateriaOptionGroupId": 1502
+  },
+  {
+    "Id": 101500,
+    "OptionPointThreshold": 70,
+    "MateriaOptionGroupId": 1503
+  },
+  {
+    "Id": 101500,
+    "OptionPointThreshold": 250,
+    "MateriaOptionGroupId": 1504
+  },
+  {
+    "Id": 101500,
+    "OptionPointThreshold": 800,
+    "MateriaOptionGroupId": 1505
+  },
+  {
+    "Id": 101600,
+    "OptionPointThreshold": 0,
+    "MateriaOptionGroupId": 1601
+  },
+  {
+    "Id": 101600,
+    "OptionPointThreshold": 20,
+    "MateriaOptionGroupId": 1602
+  },
+  {
+    "Id": 101600,
+    "OptionPointThreshold": 70,
+    "MateriaOptionGroupId": 1603
+  },
+  {
+    "Id": 101600,
+    "OptionPointThreshold": 250,
+    "MateriaOptionGroupId": 1604
+  },
+  {
+    "Id": 101600,
+    "OptionPointThreshold": 800,
+    "MateriaOptionGroupId": 1605
   }
 ]

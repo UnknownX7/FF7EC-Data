@@ -701,6 +701,10 @@
       "value": "Profile"
     },
     {
+      "id": 907000000150102,
+      "value": "Badges"
+    },
+    {
       "id": 907000000150201,
       "value": "Friends"
     },
@@ -1594,7 +1598,11 @@
     },
     {
       "id": 908000000150101,
-      "value": "You can check and edit your own information.\n\n- Check/Edit name\n- Check/Copy player ID\n- Set profile pieces\n- Check/Edit self-introduction\n- Display play records\n- Check guild information/Display guild card"
+      "value": "You can check and edit your own information.\n\n- Check/Edit name\n- Check/Copy player ID\n- Set profile pieces\n- Check/Edit self-introduction\n- Display play records\n- Check guild information/Display guild card\n- Check badges"
+    },
+    {
+      "id": 908000000150102,
+      "value": "<color=#95C7FF>Badges</color> can be earned by completing the feats below.\n\nCrash Battle (Solo): Clear respective <color=#95C7FF>Crash Battles (solo)</color> in any event. For events with multiple crash battles (solo), you must clear the one with the highest difficulty.\nCrash Battle (Co-op): Clear respective <color=#95C7FF>Crash Battles (co-op)</color> in any event. For events with multiple crash battles (co-op), you must clear the the one with the highest difficulty.\nEscalation Challenge: Clear <color=#95C7FF>Lv. 20 Escalation Battles</color> in any event.\nBattle Ranking: Place within the <color=#95C7FF>top 20</color>.\nDungeon Ranking: Place within the <color=#95C7FF>top 20</color>.\nGuild Ranking: Place within the <color=#95C7FF>top 10</color>."
     },
     {
       "id": 908000000150201,

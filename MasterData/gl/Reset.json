@@ -306,6 +306,33 @@
     "TargetId": 20005
   },
   {
+    "Id": 44,
+    "ResetOffsetDatetime": -32400000,
+    "CycleType": 0,
+    "ResetLength": 0,
+    "ResetDisplayType": 0,
+    "ResetOffsetDatetimeType": 3,
+    "TargetId": 21
+  },
+  {
+    "Id": 45,
+    "ResetOffsetDatetime": -32400000,
+    "CycleType": 0,
+    "ResetLength": 0,
+    "ResetDisplayType": 0,
+    "ResetOffsetDatetimeType": 3,
+    "TargetId": 22
+  },
+  {
+    "Id": 46,
+    "ResetOffsetDatetime": -32400000,
+    "CycleType": 0,
+    "ResetLength": 0,
+    "ResetDisplayType": 0,
+    "ResetOffsetDatetimeType": 3,
+    "TargetId": 23
+  },
+  {
     "Id": 52,
     "ResetOffsetDatetime": 1748743200000,
     "CycleType": 6,
@@ -343,7 +370,7 @@
   },
   {
     "Id": 205002003,
-    "ResetOffsetDatetime": 1741917600000,
+    "ResetOffsetDatetime": 1750989600000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -361,7 +388,7 @@
   },
   {
     "Id": 205002005,
-    "ResetOffsetDatetime": 1743127200000,
+    "ResetOffsetDatetime": 1752199200000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -406,7 +433,7 @@
   },
   {
     "Id": 205002020,
-    "ResetOffsetDatetime": 1744941600000,
+    "ResetOffsetDatetime": 1754013600000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -415,7 +442,7 @@
   },
   {
     "Id": 205002049,
-    "ResetOffsetDatetime": 1743732000000,
+    "ResetOffsetDatetime": 1752804000000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -433,7 +460,7 @@
   },
   {
     "Id": 205002051,
-    "ResetOffsetDatetime": 1744336800000,
+    "ResetOffsetDatetime": 1753408800000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -442,7 +469,7 @@
   },
   {
     "Id": 205002052,
-    "ResetOffsetDatetime": 1742522400000,
+    "ResetOffsetDatetime": 1751594400000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,

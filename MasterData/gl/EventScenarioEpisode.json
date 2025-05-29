@@ -7760,6 +7760,22 @@
     "EpisodeLockConditionSetId": 0
   },
   {
+    "Id": 1400401,
+    "EventScenarioSectionId": 14004,
+    "PremiseEventScenarioEpisodeId": 0,
+    "DungeonId": 0,
+    "OrderNo": 1,
+    "FirstRewardSetId": 0,
+    "FirstRewardCount": 1,
+    "NameLanguageId": 1,
+    "IsDungeon": false,
+    "ScriptVersion": 0,
+    "StoryEpisodeType": 3,
+    "EventSoloBattleId": 14004001,
+    "EpisodeDisplayConditionSetId": 0,
+    "EpisodeLockConditionSetId": 0
+  },
+  {
     "Id": 13001001,
     "EventScenarioSectionId": 13001,
     "PremiseEventScenarioEpisodeId": 0,

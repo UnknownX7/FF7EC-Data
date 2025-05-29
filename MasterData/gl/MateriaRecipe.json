@@ -165,6 +165,36 @@
     "DisplayConditionSetId": 611000003017
   },
   {
+    "Id": 211200104,
+    "MateriaId": 2112001,
+    "ItemRarityType": 3,
+    "NotesSetId": 3,
+    "MateriaIngredientGroupId": 2112001,
+    "CraftGil": 100,
+    "TitleLanguageId": 532000211200104,
+    "DescriptionLanguageId": 533000211200104,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101500,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 2033,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 211200304,
+    "MateriaId": 2112003,
+    "ItemRarityType": 3,
+    "NotesSetId": 3,
+    "MateriaIngredientGroupId": 2112003,
+    "CraftGil": 100,
+    "TitleLanguageId": 532000211200304,
+    "DescriptionLanguageId": 533000211200304,
+    "ResourceId": 1,
+    "MateriaCraftOptionGroupId": 101600,
+    "ItemCraftOptionGroupId": 1,
+    "OrderNo": 2043,
+    "DisplayConditionSetId": 0
+  },
+  {
     "Id": 212100101,
     "MateriaId": 2121001,
     "ItemRarityType": 3,

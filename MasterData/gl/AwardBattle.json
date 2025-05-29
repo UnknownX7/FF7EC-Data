@@ -1,197 +1,202 @@
 [
-  [
-    10000,
-    2002113,
-    0
-  ],
-  [
-    10000,
-    2003113,
-    0
-  ],
-  [
-    10000,
-    2005013,
-    0
-  ],
-  [
-    10000,
-    2006013,
-    0
-  ],
-  [
-    10000,
-    2007115,
-    0
-  ],
-  [
-    10000,
-    2008115,
-    0
-  ],
-  [
-    10000,
-    2009116,
-    0
-  ],
-  [
-    10000,
-    2010115,
-    0
-  ],
-  [
-    10000,
-    2012115,
-    0
-  ],
-  [
-    10000,
-    2013115,
-    0
-  ],
-  [
-    10000,
-    2014116,
-    0
-  ],
-  [
-    10000,
-    2015110,
-    0
-  ],
-  [
-    10000,
-    2016115,
-    0
-  ],
-  [
-    10000,
-    2017116,
-    0
-  ],
-  [
-    10000,
-    2018115,
-    0
-  ],
-  [
-    10000,
-    2019115,
-    0
-  ],
-  [
-    10000,
-    2020116,
-    0
-  ],
-  [
-    10000,
-    3005110,
-    0
-  ],
-  [
-    20000,
-    200206,
-    0
-  ],
-  [
-    20000,
-    200306,
-    0
-  ],
-  [
-    20000,
-    200706,
-    0
-  ],
-  [
-    20000,
-    200806,
-    0
-  ],
-  [
-    20000,
-    200907,
-    0
-  ],
-  [
-    20000,
-    201006,
-    0
-  ],
-  [
-    20000,
-    201205,
-    0
-  ],
-  [
-    20000,
-    201305,
-    0
-  ],
-  [
-    20000,
-    201406,
-    0
-  ],
-  [
-    20000,
-    201506,
-    0
-  ],
-  [
-    20000,
-    201605,
-    0
-  ],
-  [
-    20000,
-    201706,
-    0
-  ],
-  [
-    20000,
-    201805,
-    0
-  ],
-  [
-    20000,
-    201905,
-    0
-  ],
-  [
-    20000,
-    202006,
-    0
-  ],
-  [
-    20000,
-    300505,
-    0
-  ],
-  [
-    20000,
-    2005107,
-    0
-  ],
-  [
-    20000,
-    2006106,
-    0
-  ],
-  [
-    30000,
-    14001002,
-    20
-  ],
-  [
-    30000,
-    14002002,
-    20
-  ],
-  [
-    30000,
-    14003002,
-    20
-  ]
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2002113,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2003113,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2005013,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2006013,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2007115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2008115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2009116,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2010115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2012115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2013115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2014116,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2015110,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2016115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2017116,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2018115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2019115,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 2020116,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
+    "EventBattleId": 3005110,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 200206,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 200306,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 200706,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 200806,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 200907,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201006,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201205,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201305,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201406,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201506,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201605,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201706,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201805,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 201905,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 202006,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 300505,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 2005107,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
+    "EventBattleId": 2006106,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 30000,
+    "EventBattleId": 14001002,
+    "BossChallengeLevel": 20
+  },
+  {
+    "AwardId": 30000,
+    "EventBattleId": 14002002,
+    "BossChallengeLevel": 20
+  },
+  {
+    "AwardId": 30000,
+    "EventBattleId": 14003002,
+    "BossChallengeLevel": 20
+  },
+  {
+    "AwardId": 30000,
+    "EventBattleId": 14004002,
+    "BossChallengeLevel": 20
+  }
 ]
