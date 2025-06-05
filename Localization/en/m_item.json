@@ -2937,6 +2937,10 @@
       "value": "Firefish Parts"
     },
     {
+      "id": 551000001051023,
+      "value": "Deroplatys Parts"
+    },
+    {
       "id": 551000001051025,
       "value": "Candle Rapier Parts"
     },
@@ -3695,6 +3699,10 @@
     {
       "id": 551000002130071,
       "value": "The First Clash Wpn. Voucher"
+    },
+    {
+      "id": 551000002130091,
+      "value": "The Second Clash Wpn. Voucher"
     },
     {
       "id": 552000000000001,
@@ -6553,6 +6561,10 @@
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Firefish</color>."
     },
     {
+      "id": 552000001051023,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Deroplatys</color>."
+    },
+    {
       "id": 552000001051025,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Candle Rapier</color>."
     },
@@ -7303,6 +7315,10 @@
     {
       "id": 552000002130071,
       "value": "Traded for weapons at the <command_color=common_03>The First Clash Exchange</color>."
+    },
+    {
+      "id": 552000002130091,
+      "value": "Traded for items at the <command_color=common_03>The Second Clash Exchange</color>."
     }
   ]
 }

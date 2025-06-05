@@ -671,6 +671,28 @@
     "IsDisplayBossChallenge": false
   },
   {
+    "Id": 130091,
+    "EventSoloAreaGroupId": 13009,
+    "OrderNo": 1,
+    "ResourceId": 13009,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000000130091,
+    "EventAreaCategoryId": 1300901,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 130092,
+    "EventSoloAreaGroupId": 13009,
+    "OrderNo": 2,
+    "ResourceId": 13009,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 750000130092,
+    "NameLanguageId": 863000000130092,
+    "EventAreaCategoryId": 1300901,
+    "IsDisplayBossChallenge": false
+  },
+  {
     "Id": 800101,
     "EventSoloAreaGroupId": 8001,
     "OrderNo": 1,
@@ -1217,6 +1239,50 @@
     "DisplayConditionSetId": 0,
     "LockConditionSetId": 750001200922,
     "NameLanguageId": 863000012009002,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 1201011,
+    "EventSoloAreaGroupId": 1201001,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000012010001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 1201012,
+    "EventSoloAreaGroupId": 1201001,
+    "OrderNo": 2,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000012010002,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 1201021,
+    "EventSoloAreaGroupId": 1201002,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 750001201021,
+    "NameLanguageId": 863000012010001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 1201022,
+    "EventSoloAreaGroupId": 1201002,
+    "OrderNo": 2,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 750001201022,
+    "NameLanguageId": 863000012010002,
     "EventAreaCategoryId": 0,
     "IsDisplayBossChallenge": false
   },

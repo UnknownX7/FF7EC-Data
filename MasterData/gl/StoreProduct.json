@@ -7340,8 +7340,8 @@
     "FreeStoneCount": 300,
     "Price": 3200,
     "PriceUsd": "19.99",
-    "AutoProductDescription": "プレミアムハント",
-    "AutoProductDescriptionEn": "Premium Hunt"
+    "AutoProductDescription": "強敵襲来開催記念パック VI",
+    "AutoProductDescriptionEn": "Critical Threat Pack VI"
   },
   {
     "Id": 1010083971,
@@ -13892,8 +13892,8 @@
     "FreeStoneCount": 0,
     "Price": 3200,
     "PriceUsd": "19.99",
-    "AutoProductDescription": "ハロウィン記念パック I",
-    "AutoProductDescriptionEn": "Pumpkin Fest Pack I"
+    "AutoProductDescription": "1000万DL記念パック I",
+    "AutoProductDescriptionEn": "10 Million DL Pack I"
   },
   {
     "Id": 1010710071,
@@ -13928,8 +13928,8 @@
     "FreeStoneCount": 600,
     "Price": 3200,
     "PriceUsd": "19.99",
-    "AutoProductDescription": "ハロウィン記念パック II",
-    "AutoProductDescriptionEn": "Pumpkin Fest Pack II"
+    "AutoProductDescription": "1000万DL記念パック II",
+    "AutoProductDescriptionEn": "10 Million DL Pack II"
   },
   {
     "Id": 1010710081,
@@ -13964,8 +13964,8 @@
     "FreeStoneCount": 600,
     "Price": 6200,
     "PriceUsd": "38.99",
-    "AutoProductDescription": "ハロウィン記念パック III",
-    "AutoProductDescriptionEn": "Pumpkin Fest Pack III"
+    "AutoProductDescription": "1000万DL記念パック III",
+    "AutoProductDescriptionEn": "10 Million DL Pack III"
   },
   {
     "Id": 1010710091,
@@ -14000,8 +14000,8 @@
     "FreeStoneCount": 0,
     "Price": 8800,
     "PriceUsd": "59.99",
-    "AutoProductDescription": "ハロウィン記念パック IV",
-    "AutoProductDescriptionEn": "Pumpkin Fest Pack IV"
+    "AutoProductDescription": "1000万DL記念パック IV",
+    "AutoProductDescriptionEn": "10 Million DL Pack IV"
   },
   {
     "Id": 1010710101,
@@ -14036,8 +14036,8 @@
     "FreeStoneCount": 2000,
     "Price": 10800,
     "PriceUsd": "69.99",
-    "AutoProductDescription": "ハロウィン記念パック V",
-    "AutoProductDescriptionEn": "Pumpkin Fest Pack V"
+    "AutoProductDescription": "1000万DL記念パック V",
+    "AutoProductDescriptionEn": "10 Million DL Pack V"
   },
   {
     "Id": 1010710111,
@@ -14072,8 +14072,8 @@
     "FreeStoneCount": 0,
     "Price": 10800,
     "PriceUsd": "69.99",
-    "AutoProductDescription": "ハロウィン記念パック VI",
-    "AutoProductDescriptionEn": "Pumpkin Fest Pack VI"
+    "AutoProductDescription": "1000万DL記念パック VI",
+    "AutoProductDescriptionEn": "10 Million DL Pack VI"
   },
   {
     "Id": 1010720041,
@@ -21418,6 +21418,222 @@
     "PriceUsd": "69.99",
     "AutoProductDescription": "1,100万DL記念パック VIII",
     "AutoProductDescriptionEn": "11 Million DL Pack VIII"
+  },
+  {
+    "Id": 1011210031,
+    "StoreProductGroupId": 101121003,
+    "StoreType": 1,
+    "ProductId": "pack.xm_wmc",
+    "PaidStoneCount": 3200,
+    "FreeStoneCount": 0,
+    "Price": 3200,
+    "PriceUsd": "19.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210032,
+    "StoreProductGroupId": 101121003,
+    "StoreType": 2,
+    "ProductId": "pack.xm_wmc",
+    "PaidStoneCount": 3200,
+    "FreeStoneCount": 0,
+    "Price": 3200,
+    "PriceUsd": "19.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210033,
+    "StoreProductGroupId": 101121003,
+    "StoreType": 5,
+    "ProductId": "101121003",
+    "PaidStoneCount": 3200,
+    "FreeStoneCount": 0,
+    "Price": 3200,
+    "PriceUsd": "19.99",
+    "AutoProductDescription": "1,100万DL記念vol.2パック III",
+    "AutoProductDescriptionEn": "11 Million DL Vol. 2 Pack III"
+  },
+  {
+    "Id": 1011210041,
+    "StoreProductGroupId": 101121004,
+    "StoreType": 1,
+    "ProductId": "pack.xn_wmc",
+    "PaidStoneCount": 3200,
+    "FreeStoneCount": 600,
+    "Price": 3200,
+    "PriceUsd": "19.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210042,
+    "StoreProductGroupId": 101121004,
+    "StoreType": 2,
+    "ProductId": "pack.xn_wmc",
+    "PaidStoneCount": 3200,
+    "FreeStoneCount": 600,
+    "Price": 3200,
+    "PriceUsd": "19.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210043,
+    "StoreProductGroupId": 101121004,
+    "StoreType": 5,
+    "ProductId": "101121004",
+    "PaidStoneCount": 3200,
+    "FreeStoneCount": 600,
+    "Price": 3200,
+    "PriceUsd": "19.99",
+    "AutoProductDescription": "1,100万DL記念vol.2パック IV",
+    "AutoProductDescriptionEn": "11 Million DL Vol. 2 Pack IV"
+  },
+  {
+    "Id": 1011210051,
+    "StoreProductGroupId": 101121005,
+    "StoreType": 1,
+    "ProductId": "pack.xo_wmc",
+    "PaidStoneCount": 6200,
+    "FreeStoneCount": 600,
+    "Price": 6200,
+    "PriceUsd": "38.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210052,
+    "StoreProductGroupId": 101121005,
+    "StoreType": 2,
+    "ProductId": "pack.xo_wmc",
+    "PaidStoneCount": 6200,
+    "FreeStoneCount": 600,
+    "Price": 6200,
+    "PriceUsd": "38.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210053,
+    "StoreProductGroupId": 101121005,
+    "StoreType": 5,
+    "ProductId": "101121005",
+    "PaidStoneCount": 6200,
+    "FreeStoneCount": 600,
+    "Price": 6200,
+    "PriceUsd": "38.99",
+    "AutoProductDescription": "1,100万DL記念vol.2パック V",
+    "AutoProductDescriptionEn": "11 Million DL Vol. 2 Pack V"
+  },
+  {
+    "Id": 1011210061,
+    "StoreProductGroupId": 101121006,
+    "StoreType": 1,
+    "ProductId": "pack.xp_wmc",
+    "PaidStoneCount": 8800,
+    "FreeStoneCount": 0,
+    "Price": 8800,
+    "PriceUsd": "59.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210062,
+    "StoreProductGroupId": 101121006,
+    "StoreType": 2,
+    "ProductId": "pack.xp_wmc",
+    "PaidStoneCount": 8800,
+    "FreeStoneCount": 0,
+    "Price": 8800,
+    "PriceUsd": "59.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210063,
+    "StoreProductGroupId": 101121006,
+    "StoreType": 5,
+    "ProductId": "101121006",
+    "PaidStoneCount": 8800,
+    "FreeStoneCount": 0,
+    "Price": 8800,
+    "PriceUsd": "59.99",
+    "AutoProductDescription": "1,100万DL記念vol.2パック VI",
+    "AutoProductDescriptionEn": "11 Million DL Vol. 2 Pack VI"
+  },
+  {
+    "Id": 1011210071,
+    "StoreProductGroupId": 101121007,
+    "StoreType": 1,
+    "ProductId": "pack.xq_wmc",
+    "PaidStoneCount": 10800,
+    "FreeStoneCount": 2000,
+    "Price": 10800,
+    "PriceUsd": "69.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210072,
+    "StoreProductGroupId": 101121007,
+    "StoreType": 2,
+    "ProductId": "pack.xq_wmc",
+    "PaidStoneCount": 10800,
+    "FreeStoneCount": 2000,
+    "Price": 10800,
+    "PriceUsd": "69.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210073,
+    "StoreProductGroupId": 101121007,
+    "StoreType": 5,
+    "ProductId": "101121007",
+    "PaidStoneCount": 10800,
+    "FreeStoneCount": 2000,
+    "Price": 10800,
+    "PriceUsd": "69.99",
+    "AutoProductDescription": "1,100万DL記念vol.2パック VII",
+    "AutoProductDescriptionEn": "11 Million DL Vol. 2 Pack VII"
+  },
+  {
+    "Id": 1011210081,
+    "StoreProductGroupId": 101121008,
+    "StoreType": 1,
+    "ProductId": "pack.xr_wmc",
+    "PaidStoneCount": 10800,
+    "FreeStoneCount": 0,
+    "Price": 10800,
+    "PriceUsd": "69.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210082,
+    "StoreProductGroupId": 101121008,
+    "StoreType": 2,
+    "ProductId": "pack.xr_wmc",
+    "PaidStoneCount": 10800,
+    "FreeStoneCount": 0,
+    "Price": 10800,
+    "PriceUsd": "69.99",
+    "AutoProductDescription": "",
+    "AutoProductDescriptionEn": ""
+  },
+  {
+    "Id": 1011210083,
+    "StoreProductGroupId": 101121008,
+    "StoreType": 5,
+    "ProductId": "101121008",
+    "PaidStoneCount": 10800,
+    "FreeStoneCount": 0,
+    "Price": 10800,
+    "PriceUsd": "69.99",
+    "AutoProductDescription": "1,100万DL記念vol.2パック VIII",
+    "AutoProductDescriptionEn": "11 Million DL Vol. 2 Pack VIII"
   },
   {
     "Id": 1011240031,
