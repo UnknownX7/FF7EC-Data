@@ -1632,6 +1632,66 @@
     "SkillEffectDetailId": 0
   },
   {
+    "Id": 203051,
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "DescriptionLanguageId": 545000020305101,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 203052,
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "DescriptionLanguageId": 545000020305201,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 203071,
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 300,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "DescriptionLanguageId": 545000020307101,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 203072,
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 6,
+    "PassiveSkillFilterGroupId": 2,
+    "DescriptionLanguageId": 545000020307201,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 203073,
+    "Level": 1,
+    "EffectValue": 0,
+    "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "DescriptionLanguageId": 545000020307301,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
     "Id": 204011,
     "Level": 1,
     "EffectValue": 0,
@@ -3912,10 +3972,34 @@
     "SkillEffectDetailId": 0
   },
   {
+    "Id": 533031,
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "DescriptionLanguageId": 545000053303101,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
     "Id": 533032,
     "Level": 1,
     "EffectValue": 0,
     "EffectCoefficient": 150,
+    "PassiveSkillTriggerType": 0,
+    "PassiveSkillFilterGroupId": 1,
+    "DescriptionLanguageId": 0,
+    "PassiveSkillTargetType": 0,
+    "SkillStatusChangeEffectId": 0,
+    "SkillEffectDetailId": 0
+  },
+  {
+    "Id": 533032,
+    "Level": 2,
+    "EffectValue": 0,
+    "EffectCoefficient": 200,
     "PassiveSkillTriggerType": 0,
     "PassiveSkillFilterGroupId": 1,
     "DescriptionLanguageId": 0,

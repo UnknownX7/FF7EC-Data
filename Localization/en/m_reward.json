@@ -257,6 +257,10 @@
       "value": "Bunny Apron"
     },
     {
+      "id": 102000000006013,
+      "value": "Rocker Outfit"
+    },
+    {
       "id": 102000000007002,
       "value": "Marching Jacket"
     },
@@ -1183,6 +1187,10 @@
     {
       "id": 510000000006035,
       "value": "Watch of the Hunt"
+    },
+    {
+      "id": 510000000006036,
+      "value": "Rocker's Guitar"
     },
     {
       "id": 510000000007001,
@@ -2149,6 +2157,10 @@
       "value": "Lightning Breach"
     },
     {
+      "id": 532000211100101,
+      "value": "Fire Recipe"
+    },
+    {
       "id": 532000211200104,
       "value": "Fire (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
@@ -2157,12 +2169,40 @@
       "value": "Fire Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
+      "id": 532000212100101,
+      "value": "Blizzard Recipe"
+    },
+    {
       "id": 532000212200102,
       "value": "Blizzard (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
+      "id": 532000212200103,
+      "value": "Blizzard (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
       "id": 532000212200302,
       "value": "Blizzard Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000212200303,
+      "value": "Blizzard Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000213100101,
+      "value": "Thunder Recipe"
+    },
+    {
+      "id": 532000214100101,
+      "value": "Quake Recipe"
+    },
+    {
+      "id": 532000215100101,
+      "value": "Water Recipe"
+    },
+    {
+      "id": 532000216100101,
+      "value": "Aero Recipe"
     },
     {
       "id": 532000216200103,
@@ -3473,6 +3513,10 @@
       "value": "Custom Box - Select Square Weapon"
     },
     {
+      "id": 551000000022018,
+      "value": "Custom Box - FFVI Crossover Reawakened"
+    },
+    {
       "id": 551000000022504,
       "value": "Lottery Box - 300 Days Since Release"
     },
@@ -3547,6 +3591,10 @@
     {
       "id": 551000000022523,
       "value": "Lottery Box - FFVII EC Spring Vol. 2"
+    },
+    {
+      "id": 551000000022524,
+      "value": "Lottery Box - FFVI Crossover 5<sprite=\"tmp_icon\" index=196> Weapon"
     },
     {
       "id": 551000000030001,
@@ -3937,8 +3985,16 @@
       "value": "Returning LB Gear Voucher (Beginners)"
     },
     {
+      "id": 551000000300030,
+      "value": "FFVI Crossover Reawakened Gear Voucher"
+    },
+    {
       "id": 551000001000001,
       "value": "Mako Gem (1st Anniv.)"
+    },
+    {
+      "id": 551000001000002,
+      "value": "Mako Gem (FFVI)"
     },
     {
       "id": 551000001000003,
@@ -4403,6 +4459,18 @@
     {
       "id": 551000002030283,
       "value": "Penance Shield"
+    },
+    {
+      "id": 551000002030307,
+      "value": "Earth Magicite"
+    },
+    {
+      "id": 551000002030308,
+      "value": "Water Magicite"
+    },
+    {
+      "id": 551000002030309,
+      "value": "Wind Magicite"
     },
     {
       "id": 551000002080021,
@@ -5821,6 +5889,14 @@
       "value": "Familiar Voice"
     },
     {
+      "id": 560000000340007,
+      "value": "Rosen"
+    },
+    {
+      "id": 560000000340008,
+      "value": "Heartache"
+    },
+    {
       "id": 560000000410011,
       "value": "Scorpion Sentinel"
     },
@@ -5935,6 +6011,10 @@
     {
       "id": 560000000430095,
       "value": "Spirit Demon Masamune"
+    },
+    {
+      "id": 560000000430096,
+      "value": "Blighted Spirit"
     },
     {
       "id": 560000000500001,
@@ -7121,6 +7201,10 @@
       "value": "Portal Battle: Angeal Penance"
     },
     {
+      "id": 560000001100252,
+      "value": "Harlequin"
+    },
+    {
       "id": 560000001200001,
       "value": "Mako Reactor 1: Full Clear"
     },
@@ -7719,6 +7803,10 @@
     {
       "id": 560000001600113,
       "value": "Penitent"
+    },
+    {
+      "id": 560000001600114,
+      "value": "Grr!"
     },
     {
       "id": 560000001700101,
@@ -8535,6 +8623,10 @@
     {
       "id": 570000000020077,
       "value": "Custom Suit"
+    },
+    {
+      "id": 570000000020081,
+      "value": "Rocker Outfit"
     },
     {
       "id": 570000000030001,

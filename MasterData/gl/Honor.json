@@ -3443,6 +3443,28 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 340007,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000340007,
+    "OrderNo": 340007,
+    "NotHaveDisplayConditionSetId": 240190330023,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 340008,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000340008,
+    "OrderNo": 340008,
+    "NotHaveDisplayConditionSetId": 240190330023,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 410011,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -3759,6 +3781,17 @@
     "NameLanguageId": 560000000430095,
     "OrderNo": 430095,
     "NotHaveDisplayConditionSetId": 240190330022,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 430096,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 430096,
+    "NameLanguageId": 560000000430096,
+    "OrderNo": 430096,
+    "NotHaveDisplayConditionSetId": 240190330023,
     "LockLanguageId": 0
   },
   {
@@ -7029,6 +7062,17 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 1100252,
+    "PositionType": 2,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100252,
+    "OrderNo": 1100252,
+    "NotHaveDisplayConditionSetId": 611000003030,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 1200001,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -8675,7 +8719,18 @@
     "ResourceId": 10003,
     "NameLanguageId": 560000001600113,
     "OrderNo": 1600113,
-    "NotHaveDisplayConditionSetId": 611000014004,
+    "NotHaveDisplayConditionSetId": 613000014004,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1600114,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001600114,
+    "OrderNo": 1600114,
+    "NotHaveDisplayConditionSetId": 613000014006,
     "LockLanguageId": 0
   },
   {
