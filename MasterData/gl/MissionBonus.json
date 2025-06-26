@@ -720,6 +720,36 @@
     "ResourceId": 0
   },
   {
+    "Id": 90150101,
+    "MissionBonusGroupId": 901501,
+    "Idx": 0,
+    "MissionBonusType": 1,
+    "BonusPoint": 3,
+    "Level": 0,
+    "RewardSetId": 140090150101,
+    "ResourceId": 0
+  },
+  {
+    "Id": 90150102,
+    "MissionBonusGroupId": 901501,
+    "Idx": 1,
+    "MissionBonusType": 1,
+    "BonusPoint": 6,
+    "Level": 0,
+    "RewardSetId": 140090150101,
+    "ResourceId": 0
+  },
+  {
+    "Id": 90150103,
+    "MissionBonusGroupId": 901501,
+    "Idx": 2,
+    "MissionBonusType": 1,
+    "BonusPoint": 9,
+    "Level": 0,
+    "RewardSetId": 140090150103,
+    "ResourceId": 0
+  },
+  {
     "Id": 230010100,
     "MissionBonusGroupId": 2300101,
     "Idx": 0,

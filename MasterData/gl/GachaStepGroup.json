@@ -1392,6 +1392,38 @@
     "IsStampProgress": true
   },
   {
+    "Id": 1009601,
+    "GachaId": 10096,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
+    "Id": 1009602,
+    "GachaId": 10096,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 1009901,
+    "GachaId": 10099,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
+    "Id": 1009902,
+    "GachaId": 10099,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
     "Id": 2000101,
     "GachaId": 20001,
     "MaxCount": 0,
@@ -10450,6 +10482,286 @@
   {
     "Id": 3059001,
     "GachaId": 30590,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059101,
+    "GachaId": 30591,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059201,
+    "GachaId": 30592,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059301,
+    "GachaId": 30593,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059401,
+    "GachaId": 30594,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059501,
+    "GachaId": 30595,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059601,
+    "GachaId": 30596,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059701,
+    "GachaId": 30597,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059801,
+    "GachaId": 30598,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3059901,
+    "GachaId": 30599,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060001,
+    "GachaId": 30600,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060101,
+    "GachaId": 30601,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060201,
+    "GachaId": 30602,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060301,
+    "GachaId": 30603,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060401,
+    "GachaId": 30604,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060501,
+    "GachaId": 30605,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060601,
+    "GachaId": 30606,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060701,
+    "GachaId": 30607,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060801,
+    "GachaId": 30608,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3060901,
+    "GachaId": 30609,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061001,
+    "GachaId": 30610,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061101,
+    "GachaId": 30611,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061201,
+    "GachaId": 30612,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061301,
+    "GachaId": 30613,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061401,
+    "GachaId": 30614,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061501,
+    "GachaId": 30615,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061601,
+    "GachaId": 30616,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061701,
+    "GachaId": 30617,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061801,
+    "GachaId": 30618,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3061901,
+    "GachaId": 30619,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3062001,
+    "GachaId": 30620,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3062101,
+    "GachaId": 30621,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3062201,
+    "GachaId": 30622,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3062301,
+    "GachaId": 30623,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3062401,
+    "GachaId": 30624,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3062501,
+    "GachaId": 30625,
     "MaxCount": 1,
     "Priority": 1,
     "ResetId": 16,

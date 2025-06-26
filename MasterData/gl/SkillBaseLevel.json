@@ -155,6 +155,26 @@
     "SkillEffectGroupId": 2131004
   },
   {
+    "SkillBaseId": 2132001,
+    "MaxLevel": 5,
+    "SkillEffectGroupId": 2132001
+  },
+  {
+    "SkillBaseId": 2132002,
+    "MaxLevel": 10,
+    "SkillEffectGroupId": 2132002
+  },
+  {
+    "SkillBaseId": 2132003,
+    "MaxLevel": 5,
+    "SkillEffectGroupId": 2132003
+  },
+  {
+    "SkillBaseId": 2132004,
+    "MaxLevel": 10,
+    "SkillEffectGroupId": 2132004
+  },
+  {
     "SkillBaseId": 2141001,
     "MaxLevel": 5,
     "SkillEffectGroupId": 2141001
@@ -1635,6 +1655,26 @@
     "SkillEffectGroupId": 10203804
   },
   {
+    "SkillBaseId": 10203901,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10203901
+  },
+  {
+    "SkillBaseId": 10203902,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10203902
+  },
+  {
+    "SkillBaseId": 10203903,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10203903
+  },
+  {
+    "SkillBaseId": 10203904,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10203904
+  },
+  {
     "SkillBaseId": 10300101,
     "MaxLevel": 1,
     "SkillEffectGroupId": 10300101
@@ -2815,6 +2855,26 @@
     "SkillEffectGroupId": 10403601
   },
   {
+    "SkillBaseId": 10403801,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10403801
+  },
+  {
+    "SkillBaseId": 10403802,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10403802
+  },
+  {
+    "SkillBaseId": 10403803,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10403803
+  },
+  {
+    "SkillBaseId": 10403804,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10403804
+  },
+  {
     "SkillBaseId": 10404001,
     "MaxLevel": 1,
     "SkillEffectGroupId": 10404001
@@ -3278,6 +3338,11 @@
     "SkillBaseId": 10503804,
     "MaxLevel": 1,
     "SkillEffectGroupId": 10503804
+  },
+  {
+    "SkillBaseId": 10504101,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10504101
   },
   {
     "SkillBaseId": 10600101,
@@ -4628,6 +4693,26 @@
     "SkillBaseId": 10802501,
     "MaxLevel": 1,
     "SkillEffectGroupId": 10802501
+  },
+  {
+    "SkillBaseId": 10802601,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10802601
+  },
+  {
+    "SkillBaseId": 10802602,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10802602
+  },
+  {
+    "SkillBaseId": 10802603,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10802603
+  },
+  {
+    "SkillBaseId": 10802604,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 10802604
   },
   {
     "SkillBaseId": 10900101,
@@ -29285,6 +29370,256 @@
     "SkillEffectGroupId": 325111036
   },
   {
+    "SkillBaseId": 325111037,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111037
+  },
+  {
+    "SkillBaseId": 325111038,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111038
+  },
+  {
+    "SkillBaseId": 325111039,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111039
+  },
+  {
+    "SkillBaseId": 325111040,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111040
+  },
+  {
+    "SkillBaseId": 325111041,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111041
+  },
+  {
+    "SkillBaseId": 325111042,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111042
+  },
+  {
+    "SkillBaseId": 325111043,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111043
+  },
+  {
+    "SkillBaseId": 325111044,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111044
+  },
+  {
+    "SkillBaseId": 325111045,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111045
+  },
+  {
+    "SkillBaseId": 325111046,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111046
+  },
+  {
+    "SkillBaseId": 325111047,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111047
+  },
+  {
+    "SkillBaseId": 325111048,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111048
+  },
+  {
+    "SkillBaseId": 325111049,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111049
+  },
+  {
+    "SkillBaseId": 325111050,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111050
+  },
+  {
+    "SkillBaseId": 325111051,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111051
+  },
+  {
+    "SkillBaseId": 325111052,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111052
+  },
+  {
+    "SkillBaseId": 325111053,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111053
+  },
+  {
+    "SkillBaseId": 325111054,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111054
+  },
+  {
+    "SkillBaseId": 325111055,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111055
+  },
+  {
+    "SkillBaseId": 325111056,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111056
+  },
+  {
+    "SkillBaseId": 325111057,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111057
+  },
+  {
+    "SkillBaseId": 325111058,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111058
+  },
+  {
+    "SkillBaseId": 325111059,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111059
+  },
+  {
+    "SkillBaseId": 325111060,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111060
+  },
+  {
+    "SkillBaseId": 325111061,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111061
+  },
+  {
+    "SkillBaseId": 325111062,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111062
+  },
+  {
+    "SkillBaseId": 325111063,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111063
+  },
+  {
+    "SkillBaseId": 325111064,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111064
+  },
+  {
+    "SkillBaseId": 325111065,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111065
+  },
+  {
+    "SkillBaseId": 325111066,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111066
+  },
+  {
+    "SkillBaseId": 325111067,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111067
+  },
+  {
+    "SkillBaseId": 325111068,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111068
+  },
+  {
+    "SkillBaseId": 325111069,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111069
+  },
+  {
+    "SkillBaseId": 325111070,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111070
+  },
+  {
+    "SkillBaseId": 325111071,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111071
+  },
+  {
+    "SkillBaseId": 325111072,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111072
+  },
+  {
+    "SkillBaseId": 325111073,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111073
+  },
+  {
+    "SkillBaseId": 325111074,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111074
+  },
+  {
+    "SkillBaseId": 325111075,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111075
+  },
+  {
+    "SkillBaseId": 325111076,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111076
+  },
+  {
+    "SkillBaseId": 325111077,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111077
+  },
+  {
+    "SkillBaseId": 325111078,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111078
+  },
+  {
+    "SkillBaseId": 325111079,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111079
+  },
+  {
+    "SkillBaseId": 325111080,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111080
+  },
+  {
+    "SkillBaseId": 325111081,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111081
+  },
+  {
+    "SkillBaseId": 325111082,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111082
+  },
+  {
+    "SkillBaseId": 325111083,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111083
+  },
+  {
+    "SkillBaseId": 325111084,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111084
+  },
+  {
+    "SkillBaseId": 325111085,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111085
+  },
+  {
+    "SkillBaseId": 325111086,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325111086
+  },
+  {
     "SkillBaseId": 325113001,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325113001
@@ -29318,6 +29653,66 @@
     "SkillBaseId": 325113007,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325113007
+  },
+  {
+    "SkillBaseId": 325113008,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113008
+  },
+  {
+    "SkillBaseId": 325113009,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113009
+  },
+  {
+    "SkillBaseId": 325113010,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113010
+  },
+  {
+    "SkillBaseId": 325113011,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113011
+  },
+  {
+    "SkillBaseId": 325113012,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113012
+  },
+  {
+    "SkillBaseId": 325113013,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113013
+  },
+  {
+    "SkillBaseId": 325113014,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113014
+  },
+  {
+    "SkillBaseId": 325113015,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113015
+  },
+  {
+    "SkillBaseId": 325113016,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113016
+  },
+  {
+    "SkillBaseId": 325113017,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113017
+  },
+  {
+    "SkillBaseId": 325113018,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113018
+  },
+  {
+    "SkillBaseId": 325113019,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325113019
   },
   {
     "SkillBaseId": 325116001,
@@ -29405,6 +29800,116 @@
     "SkillEffectGroupId": 325116017
   },
   {
+    "SkillBaseId": 325116018,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116018
+  },
+  {
+    "SkillBaseId": 325116019,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116019
+  },
+  {
+    "SkillBaseId": 325116020,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116020
+  },
+  {
+    "SkillBaseId": 325116021,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116021
+  },
+  {
+    "SkillBaseId": 325116022,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116022
+  },
+  {
+    "SkillBaseId": 325116023,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116023
+  },
+  {
+    "SkillBaseId": 325116024,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116024
+  },
+  {
+    "SkillBaseId": 325116025,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116025
+  },
+  {
+    "SkillBaseId": 325116026,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116026
+  },
+  {
+    "SkillBaseId": 325116027,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116027
+  },
+  {
+    "SkillBaseId": 325116028,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116028
+  },
+  {
+    "SkillBaseId": 325116029,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116029
+  },
+  {
+    "SkillBaseId": 325116030,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116030
+  },
+  {
+    "SkillBaseId": 325116031,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116031
+  },
+  {
+    "SkillBaseId": 325116032,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116032
+  },
+  {
+    "SkillBaseId": 325116033,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116033
+  },
+  {
+    "SkillBaseId": 325116034,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116034
+  },
+  {
+    "SkillBaseId": 325116035,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116035
+  },
+  {
+    "SkillBaseId": 325116036,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116036
+  },
+  {
+    "SkillBaseId": 325116037,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116037
+  },
+  {
+    "SkillBaseId": 325116038,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116038
+  },
+  {
+    "SkillBaseId": 325116039,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325116039
+  },
+  {
     "SkillBaseId": 325118001,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325118001
@@ -29428,6 +29933,31 @@
     "SkillBaseId": 325118005,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325118005
+  },
+  {
+    "SkillBaseId": 325118006,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325118006
+  },
+  {
+    "SkillBaseId": 325118007,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325118007
+  },
+  {
+    "SkillBaseId": 325118008,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325118008
+  },
+  {
+    "SkillBaseId": 325118009,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325118009
+  },
+  {
+    "SkillBaseId": 325118010,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325118010
   },
   {
     "SkillBaseId": 325121001,
@@ -33040,6 +33570,231 @@
     "SkillEffectGroupId": 325201073
   },
   {
+    "SkillBaseId": 325201074,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201074
+  },
+  {
+    "SkillBaseId": 325201075,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201075
+  },
+  {
+    "SkillBaseId": 325201076,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201076
+  },
+  {
+    "SkillBaseId": 325201077,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201077
+  },
+  {
+    "SkillBaseId": 325201078,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201078
+  },
+  {
+    "SkillBaseId": 325201079,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201079
+  },
+  {
+    "SkillBaseId": 325201080,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201080
+  },
+  {
+    "SkillBaseId": 325201081,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201081
+  },
+  {
+    "SkillBaseId": 325201082,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201082
+  },
+  {
+    "SkillBaseId": 325201083,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201083
+  },
+  {
+    "SkillBaseId": 325201084,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201084
+  },
+  {
+    "SkillBaseId": 325201085,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201085
+  },
+  {
+    "SkillBaseId": 325201086,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201086
+  },
+  {
+    "SkillBaseId": 325201087,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201087
+  },
+  {
+    "SkillBaseId": 325201088,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201088
+  },
+  {
+    "SkillBaseId": 325201089,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201089
+  },
+  {
+    "SkillBaseId": 325201090,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201090
+  },
+  {
+    "SkillBaseId": 325201091,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201091
+  },
+  {
+    "SkillBaseId": 325201092,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201092
+  },
+  {
+    "SkillBaseId": 325201093,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201093
+  },
+  {
+    "SkillBaseId": 325201094,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201094
+  },
+  {
+    "SkillBaseId": 325201095,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201095
+  },
+  {
+    "SkillBaseId": 325201096,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201096
+  },
+  {
+    "SkillBaseId": 325201097,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201097
+  },
+  {
+    "SkillBaseId": 325201098,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201098
+  },
+  {
+    "SkillBaseId": 325201099,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201099
+  },
+  {
+    "SkillBaseId": 325201100,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201100
+  },
+  {
+    "SkillBaseId": 325201101,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201101
+  },
+  {
+    "SkillBaseId": 325201102,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201102
+  },
+  {
+    "SkillBaseId": 325201103,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201103
+  },
+  {
+    "SkillBaseId": 325201104,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201104
+  },
+  {
+    "SkillBaseId": 325201105,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201105
+  },
+  {
+    "SkillBaseId": 325201106,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201106
+  },
+  {
+    "SkillBaseId": 325201107,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201107
+  },
+  {
+    "SkillBaseId": 325201108,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201108
+  },
+  {
+    "SkillBaseId": 325201109,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201109
+  },
+  {
+    "SkillBaseId": 325201110,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201110
+  },
+  {
+    "SkillBaseId": 325201111,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201111
+  },
+  {
+    "SkillBaseId": 325201112,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201112
+  },
+  {
+    "SkillBaseId": 325201113,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201113
+  },
+  {
+    "SkillBaseId": 325201114,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201114
+  },
+  {
+    "SkillBaseId": 325201115,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201115
+  },
+  {
+    "SkillBaseId": 325201116,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201116
+  },
+  {
+    "SkillBaseId": 325201117,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201117
+  },
+  {
+    "SkillBaseId": 325201118,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325201118
+  },
+  {
     "SkillBaseId": 325201201,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325201201
@@ -33390,6 +34145,106 @@
     "SkillEffectGroupId": 325203020
   },
   {
+    "SkillBaseId": 325203021,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203021
+  },
+  {
+    "SkillBaseId": 325203022,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203022
+  },
+  {
+    "SkillBaseId": 325203023,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203023
+  },
+  {
+    "SkillBaseId": 325203024,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203024
+  },
+  {
+    "SkillBaseId": 325203025,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203025
+  },
+  {
+    "SkillBaseId": 325203026,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203026
+  },
+  {
+    "SkillBaseId": 325203027,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203027
+  },
+  {
+    "SkillBaseId": 325203028,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203028
+  },
+  {
+    "SkillBaseId": 325203029,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203029
+  },
+  {
+    "SkillBaseId": 325203030,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203030
+  },
+  {
+    "SkillBaseId": 325203031,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203031
+  },
+  {
+    "SkillBaseId": 325203032,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203032
+  },
+  {
+    "SkillBaseId": 325203033,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203033
+  },
+  {
+    "SkillBaseId": 325203034,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203034
+  },
+  {
+    "SkillBaseId": 325203035,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203035
+  },
+  {
+    "SkillBaseId": 325203036,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203036
+  },
+  {
+    "SkillBaseId": 325203037,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203037
+  },
+  {
+    "SkillBaseId": 325203038,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203038
+  },
+  {
+    "SkillBaseId": 325203039,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203039
+  },
+  {
+    "SkillBaseId": 325203040,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325203040
+  },
+  {
     "SkillBaseId": 325206001,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325206001
@@ -33635,6 +34490,141 @@
     "SkillEffectGroupId": 325206049
   },
   {
+    "SkillBaseId": 325206050,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206050
+  },
+  {
+    "SkillBaseId": 325206051,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206051
+  },
+  {
+    "SkillBaseId": 325206052,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206052
+  },
+  {
+    "SkillBaseId": 325206053,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206053
+  },
+  {
+    "SkillBaseId": 325206054,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206054
+  },
+  {
+    "SkillBaseId": 325206055,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206055
+  },
+  {
+    "SkillBaseId": 325206056,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206056
+  },
+  {
+    "SkillBaseId": 325206057,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206057
+  },
+  {
+    "SkillBaseId": 325206058,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206058
+  },
+  {
+    "SkillBaseId": 325206059,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206059
+  },
+  {
+    "SkillBaseId": 325206060,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206060
+  },
+  {
+    "SkillBaseId": 325206061,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206061
+  },
+  {
+    "SkillBaseId": 325206062,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206062
+  },
+  {
+    "SkillBaseId": 325206063,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206063
+  },
+  {
+    "SkillBaseId": 325206064,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206064
+  },
+  {
+    "SkillBaseId": 325206065,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206065
+  },
+  {
+    "SkillBaseId": 325206066,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206066
+  },
+  {
+    "SkillBaseId": 325206067,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206067
+  },
+  {
+    "SkillBaseId": 325206068,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206068
+  },
+  {
+    "SkillBaseId": 325206069,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206069
+  },
+  {
+    "SkillBaseId": 325206070,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206070
+  },
+  {
+    "SkillBaseId": 325206071,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206071
+  },
+  {
+    "SkillBaseId": 325206072,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206072
+  },
+  {
+    "SkillBaseId": 325206073,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206073
+  },
+  {
+    "SkillBaseId": 325206074,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206074
+  },
+  {
+    "SkillBaseId": 325206075,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206075
+  },
+  {
+    "SkillBaseId": 325206076,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325206076
+  },
+  {
     "SkillBaseId": 325206206,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325206206
@@ -33858,6 +34848,106 @@
     "SkillBaseId": 325208030,
     "MaxLevel": 1,
     "SkillEffectGroupId": 325208030
+  },
+  {
+    "SkillBaseId": 325208031,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208031
+  },
+  {
+    "SkillBaseId": 325208032,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208032
+  },
+  {
+    "SkillBaseId": 325208033,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208033
+  },
+  {
+    "SkillBaseId": 325208034,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208034
+  },
+  {
+    "SkillBaseId": 325208035,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208035
+  },
+  {
+    "SkillBaseId": 325208036,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208036
+  },
+  {
+    "SkillBaseId": 325208037,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208037
+  },
+  {
+    "SkillBaseId": 325208038,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208038
+  },
+  {
+    "SkillBaseId": 325208039,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208039
+  },
+  {
+    "SkillBaseId": 325208040,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208040
+  },
+  {
+    "SkillBaseId": 325208041,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208041
+  },
+  {
+    "SkillBaseId": 325208042,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208042
+  },
+  {
+    "SkillBaseId": 325208043,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208043
+  },
+  {
+    "SkillBaseId": 325208044,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208044
+  },
+  {
+    "SkillBaseId": 325208045,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208045
+  },
+  {
+    "SkillBaseId": 325208046,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208046
+  },
+  {
+    "SkillBaseId": 325208047,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208047
+  },
+  {
+    "SkillBaseId": 325208048,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208048
+  },
+  {
+    "SkillBaseId": 325208049,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208049
+  },
+  {
+    "SkillBaseId": 325208050,
+    "MaxLevel": 1,
+    "SkillEffectGroupId": 325208050
   },
   {
     "SkillBaseId": 325208099,

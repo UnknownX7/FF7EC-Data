@@ -30622,5 +30622,869 @@
     "IsPickup": true,
     "RewardSetId": 0,
     "ResourceId": 3
+  },
+  {
+    "Id": 960101,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960102,
+    "GachaStampSheetCellType": 5,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000960106,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960103,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960104,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 960105,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960106,
+    "GachaStampSheetCellType": 5,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000960106,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960107,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960108,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101510010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960109,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960110,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960111,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960112,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000960112,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960201,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960202,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101510010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960203,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960204,
+    "GachaStampSheetCellType": 5,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000960106,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960205,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960206,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 960207,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960208,
+    "GachaStampSheetCellType": 5,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000960106,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960209,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960210,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960211,
+    "GachaStampSheetCellType": 5,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000960106,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960212,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000960112,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960301,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960302,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101510010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960303,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960304,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960305,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960306,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 960307,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960308,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101510010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960309,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960310,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960311,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 960312,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 990101,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990102,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990103,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990104,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 990105,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990106,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990107,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990108,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101510010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990109,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990110,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990111,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990112,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000990112,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990201,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990202,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990203,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990204,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990205,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990206,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 990207,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990208,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990209,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990210,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990211,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990212,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000990112,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990301,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990302,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990303,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990304,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990305,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990306,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 990307,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990308,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990309,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990310,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990311,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990312,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000990112,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990401,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990402,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990403,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990404,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990405,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990406,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 990407,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990408,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990409,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990410,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990411,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990412,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000990112,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990501,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990502,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990503,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990504,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990505,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990506,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 990507,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990508,
+    "GachaStampSheetCellType": 4,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990509,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990510,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990511,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990512,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": true,
+    "RewardSetId": 100000990112,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990601,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 10050000,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990602,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101510010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990603,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990604,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990605,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101610010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990606,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
+  },
+  {
+    "Id": 990607,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990608,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101510010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990609,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101810010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990610,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200090030040,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990611,
+    "GachaStampSheetCellType": 2,
+    "GachaFixedLotType": 0,
+    "IsPickup": false,
+    "RewardSetId": 200101910010,
+    "ResourceId": 0
+  },
+  {
+    "Id": 990612,
+    "GachaStampSheetCellType": 1,
+    "GachaFixedLotType": 2,
+    "IsPickup": true,
+    "RewardSetId": 0,
+    "ResourceId": 3
   }
 ]

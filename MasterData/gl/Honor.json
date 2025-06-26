@@ -1331,6 +1331,17 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 102923,
+    "PositionType": 4,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 102923,
+    "NameLanguageId": 560000000102923,
+    "OrderNo": 102923,
+    "NotHaveDisplayConditionSetId": 860000102923,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 103001,
     "PositionType": 4,
     "HonorCategoryId": 0,
@@ -7073,6 +7084,72 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 1100253,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100253,
+    "OrderNo": 1100253,
+    "NotHaveDisplayConditionSetId": 700003029000,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100254,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100254,
+    "OrderNo": 1100254,
+    "NotHaveDisplayConditionSetId": 611000003029,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100255,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100255,
+    "OrderNo": 1100255,
+    "NotHaveDisplayConditionSetId": 611000003029,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100256,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100256,
+    "OrderNo": 1100256,
+    "NotHaveDisplayConditionSetId": 700003029000,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100257,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100257,
+    "OrderNo": 1100257,
+    "NotHaveDisplayConditionSetId": 700003029000,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100258,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1100258,
+    "NameLanguageId": 560000001100258,
+    "OrderNo": 1100258,
+    "NotHaveDisplayConditionSetId": 611000003029,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 1200001,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -8753,6 +8830,17 @@
     "NameLanguageId": 560000001600114,
     "OrderNo": 1600114,
     "NotHaveDisplayConditionSetId": 613000014006,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1600115,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001600115,
+    "OrderNo": 1600115,
+    "NotHaveDisplayConditionSetId": 613000014005,
     "LockLanguageId": 0
   },
   {

@@ -889,6 +889,10 @@
       "value": "Doom"
     },
     {
+      "id": 970003000000181,
+      "value": "Damage Sigils"
+    },
+    {
       "id": 970003100000011,
       "value": "Force Gauge: Charge"
     },
@@ -1487,6 +1491,10 @@
     {
       "id": 971003000000171,
       "value": "When a character is inflicted with Doom, a counter will appear above their head. When it expires, <command_color=common_03>their HP will be forcibly reduced to 0</color>. <command_color=common_03>Doom is canceled</color> when transitioning to the next wave, or if the battle ends."
+    },
+    {
+      "id": 971003000000181,
+      "value": "During stream phase, <command_color=common_03>using an ability with a sigil corresponding to a damage sigil will increase your damage bonus based on the amount of sigils destroyed by that ability</color>. If you interrupt an enemy while the damage bonus increase is active, <command_color=common_03>you will deal more damage for as long as the enemy is in an interrupted state</color>. The damage bonus increase and its limit will vary depending on the enemy."
     },
     {
       "id": 971003100000011,

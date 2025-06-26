@@ -803,6 +803,39 @@
     "ShopGroupClusterId": 2
   },
   {
+    "Id": 289,
+    "NameLanguageId": 805000000000289,
+    "ShopGroupCategory": 2,
+    "OrderNo": 2,
+    "ResourceId": 227,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "ShopGroupClusterId": 3
+  },
+  {
+    "Id": 292,
+    "NameLanguageId": 805000000000292,
+    "ShopGroupCategory": 2,
+    "OrderNo": 9974,
+    "ResourceId": 292,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000292,
+    "LockConditionSetId": 650000000292,
+    "ShopGroupClusterId": 2
+  },
+  {
+    "Id": 293,
+    "NameLanguageId": 805000000000293,
+    "ShopGroupCategory": 2,
+    "OrderNo": 9973,
+    "ResourceId": 293,
+    "ShopGroupNotiType": 0,
+    "DisplayConditionSetId": 650000000293,
+    "LockConditionSetId": 650000000293,
+    "ShopGroupClusterId": 2
+  },
+  {
     "Id": 301,
     "NameLanguageId": 805000000000301,
     "ShopGroupCategory": 3,
