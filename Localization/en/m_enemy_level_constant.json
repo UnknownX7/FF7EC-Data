@@ -877,6 +877,10 @@
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses <command_color=common_03>powerful lightning-element magic abilities</color>. At the start of battle, uses <command_color=emphasis>Guard Sync</color> to even out PDEF and MDEF with Shiva.\n\n<command_color=common_03><sprite=\"tmp_icon\" index=413>Water Resistance Down</color> is effective against this enemy."
     },
     {
+      "id": 130000002530011,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n \n<command_color=common_03>Lightning potency</color> changes based on Force Gauge: <command_color=emphasis>Lightning</color>. The gauge can be depleted with damage. During <command_color=emphasis>Stormcharge</color>, the gauge fills quickly."
+    },
+    {
       "id": 130000002531001,
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses many <command_color=common_03>magic attacks</color>. Calls allies to battle, but after a certain amount of time, absorbs them to grant self <sprite=\"tmp_icon\" index=326><command_color=common_03>MATK Up</color>. The number of allies determines the potency of <command_color=emphasis>Glacial Breath</color>.\n\n<command_color=common_03>Wind-element abilities</color> are effective against its allies."
     },
