@@ -7240,6 +7240,26 @@
     "BattleFieldEffectDetailId": 0
   },
   {
+    "Id": 5202210101,
+    "BattleFieldEffectType": 102,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": 600,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
+    "Id": 5202210102,
+    "BattleFieldEffectType": 1105,
+    "BattleFieldEffectTargetType": 2,
+    "IsPermil": true,
+    "Value": 600,
+    "EffectDurationSec": 0,
+    "ReactivatesWhenWaveChangesOwnFlag": false,
+    "BattleFieldEffectDetailId": 0
+  },
+  {
     "Id": 5302910101,
     "BattleFieldEffectType": 102,
     "BattleFieldEffectTargetType": 2,

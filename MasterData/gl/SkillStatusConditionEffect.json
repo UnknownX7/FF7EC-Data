@@ -550,6 +550,46 @@
     "EffectCoefficient": 0
   },
   {
+    "Id": 156022012,
+    "SkillStatusConditionType": 22,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "IgnoreResist": false,
+    "EffectCoefficient": 150
+  },
+  {
+    "Id": 156022022,
+    "SkillStatusConditionType": 22,
+    "MinDurationSec": 40,
+    "MaxDurationSec": 40,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
+    "IgnoreResist": false,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 156022032,
+    "SkillStatusConditionType": 22,
+    "MinDurationSec": 50,
+    "MaxDurationSec": 50,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "IgnoreResist": false,
+    "EffectCoefficient": 300
+  },
+  {
+    "Id": 156022042,
+    "SkillStatusConditionType": 22,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 12,
+    "MaxDuplicationDurationSec": 12,
+    "IgnoreResist": false,
+    "EffectCoefficient": 300
+  },
+  {
     "Id": 2100901012,
     "SkillStatusConditionType": 17,
     "MinDurationSec": 5,
@@ -1396,6 +1436,36 @@
     "MaxDurationSec": 5,
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": true,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3190610492,
+    "SkillStatusConditionType": 26,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 30,
+    "MaxDuplicationDurationSec": 30,
+    "IgnoreResist": true,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3190610502,
+    "SkillStatusConditionType": 26,
+    "MinDurationSec": 120,
+    "MaxDurationSec": 120,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "IgnoreResist": true,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3190610512,
+    "SkillStatusConditionType": 26,
+    "MinDurationSec": 180,
+    "MaxDurationSec": 180,
+    "MinDuplicationDurationSec": 90,
+    "MaxDuplicationDurationSec": 90,
     "IgnoreResist": true,
     "EffectCoefficient": 0
   },

@@ -19728,6 +19728,24 @@
     "DummyLbBaseHp": 0
   },
   {
+    "EnemyLevelParameterBaseGroupId": 11906205,
+    "Level": 90,
+    "BaseHp": 80000,
+    "BaseLbHp": 60000,
+    "BasePhysicalAttack": 8000,
+    "BaseMagicalAttack": 8000,
+    "BasePhysicalDefense": 100,
+    "BaseMagicalDefense": 100,
+    "BaseHealingPower": 0,
+    "CharacterExpCoefficient": 0,
+    "UserExpCoefficient": 0,
+    "GilCoefficient": 0,
+    "CriticalPermilCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "DummyBaseHp": 0,
+    "DummyLbBaseHp": 0
+  },
+  {
     "EnemyLevelParameterBaseGroupId": 12001340,
     "Level": 90,
     "BaseHp": 35574,
