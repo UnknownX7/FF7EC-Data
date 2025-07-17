@@ -1656,6 +1656,14 @@
     "RegisterId": 1
   },
   {
+    "Id": 520110101,
+    "NameLanguageId": 100000000005201,
+    "CharacterNovelId": 52,
+    "CharacterNovelCostumeId": 52011,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
     "Id": 529020101,
     "NameLanguageId": 100000000005201,
     "CharacterNovelId": 52,
@@ -1764,6 +1772,14 @@
     "NameLanguageId": 100000000005601,
     "CharacterNovelId": 56,
     "CharacterNovelCostumeId": 56903,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 570010101,
+    "NameLanguageId": 100000000005701,
+    "CharacterNovelId": 57,
+    "CharacterNovelCostumeId": 57001,
     "VariationType": "default",
     "RegisterId": 1
   },
@@ -6518,6 +6534,14 @@
     "CharacterNovelCostumeId": 609001,
     "VariationType": "default",
     "RegisterId": 10
+  },
+  {
+    "Id": 6100010101,
+    "NameLanguageId": 100000000061001,
+    "CharacterNovelId": 610,
+    "CharacterNovelCostumeId": 610001,
+    "VariationType": "default",
+    "RegisterId": 1
   },
   {
     "Id": 6420010101,

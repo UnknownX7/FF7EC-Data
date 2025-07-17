@@ -1160,6 +1160,26 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 100000129,
+    "TransitionType": 14,
+    "TransitionId": 25074041,
+    "DisplayConditionSetId": 671003000171,
+    "ResourceId": 100000129,
+    "Priority": 25074003,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000130,
+    "TransitionType": 14,
+    "TransitionId": 25074031,
+    "DisplayConditionSetId": 270000500085,
+    "ResourceId": 100000130,
+    "Priority": 25074002,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 100000135,
     "TransitionType": 53,
     "TransitionId": 1,
@@ -2120,6 +2140,26 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 200010100,
+    "TransitionType": 12,
+    "TransitionId": 10100,
+    "DisplayConditionSetId": 170000010100,
+    "ResourceId": 200010100,
+    "Priority": 25074006,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010104,
+    "TransitionType": 12,
+    "TransitionId": 10104,
+    "DisplayConditionSetId": 170000010104,
+    "ResourceId": 200010104,
+    "Priority": 25074004,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 200020232,
     "TransitionType": 14,
     "TransitionId": 24125012,
@@ -3060,6 +3100,16 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 200030628,
+    "TransitionType": 12,
+    "TransitionId": 30628,
+    "DisplayConditionSetId": 170000030628,
+    "ResourceId": 200030628,
+    "Priority": 25074005,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 300002002,
     "TransitionType": 55,
     "TransitionId": 0,
@@ -3786,6 +3836,16 @@
     "DisplayConditionSetId": 613000009012,
     "ResourceId": 300009012,
     "Priority": 25064002,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300009013,
+    "TransitionType": 2,
+    "TransitionId": 9013,
+    "DisplayConditionSetId": 613000009013,
+    "ResourceId": 300009013,
+    "Priority": 25074001,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },

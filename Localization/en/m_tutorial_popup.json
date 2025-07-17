@@ -1065,6 +1065,18 @@
       "value": "Force Gauge: Curse Chant"
     },
     {
+      "id": 970003100000451,
+      "value": "Force Gauge: Grudge"
+    },
+    {
+      "id": 970003100000461,
+      "value": "Force Gauge: Jenova Barrier"
+    },
+    {
+      "id": 970003100000471,
+      "value": "Force Gauge: Demonic Wall"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -1671,6 +1683,18 @@
     {
       "id": 971003100000441,
       "value": "The more the force gauge is filled, the higher the enemy's <command_color=common_03>PATK</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. The more the gauge is depleted, <command_color=common_03>the less potent the enemy's powerful abilities</color>.\n"
+    },
+    {
+      "id": 971003100000451,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, <command_color=common_03>some of the enemy's abilities will be canceled</color>."
+    },
+    {
+      "id": 971003100000461,
+      "value": "<command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge. When the gauge is empty, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>some of their abilities will be canceled</color>."
+    },
+    {
+      "id": 971003100000471,
+      "value": "The enemy's force gauge fills over time and as they use their abilities. When the gauge is full, they will unleash the ability <command_color=common_03>Final Throes</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the force gauge."
     },
     {
       "id": 971003200000011,

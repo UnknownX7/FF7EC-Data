@@ -56,6 +56,13 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 1200250,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 1200300,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -2903,6 +2910,34 @@
     "ResourceId": 0,
     "NameLanguageId": 0,
     "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 30101090101,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 1,
+    "DescriptionLanguageId": 1
+  },
+  {
+    "Id": 30101090201,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 1,
+    "DescriptionLanguageId": 1
+  },
+  {
+    "Id": 30101090301,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 1,
+    "DescriptionLanguageId": 1
+  },
+  {
+    "Id": 30101090401,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 1,
+    "DescriptionLanguageId": 1
   },
   {
     "Id": 30102010101,
@@ -74900,6 +74935,62 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 60017101011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 60017102011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 60017103011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 60017201011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 60017301011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 60017401011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 60017701011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 60017801011,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 60020101011,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -77189,6 +77280,27 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 100001000106,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 100001000112,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 100001040112,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 100100130001,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -77498,6 +77610,20 @@
   },
   {
     "Id": 110305760101,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 110306280105,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 110306280107,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 0,
@@ -82901,6 +83027,125 @@
     "DescriptionLanguageId": 2
   },
   {
+    "Id": 151000901301,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901302,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901303,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901304,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901305,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901306,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901307,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901308,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901309,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901310,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901311,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901312,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901313,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901314,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901315,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901316,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 151000901317,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
     "Id": 151001100101,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -83630,6 +83875,13 @@
   },
   {
     "Id": 160101001008,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101001009,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 0,
@@ -86472,6 +86724,20 @@
   },
   {
     "Id": 160101005498,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101005501,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101005503,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 0,
@@ -93220,6 +93486,69 @@
   },
   {
     "Id": 160101127009,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128001,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128002,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128003,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128004,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128005,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128006,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128007,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128008,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160101128009,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 0,
@@ -115381,6 +115710,48 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 160285002001,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160285002002,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160285002003,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160285002004,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160285002005,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 160285002006,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 160287001001,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -118384,6 +118755,20 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 170001303121,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 170001303131,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 170001303231,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -118994,6 +119379,13 @@
   },
   {
     "Id": 200010040050,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 200010040100,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 0,
@@ -126735,7 +127127,28 @@
     "DescriptionLanguageId": 2
   },
   {
+    "Id": 220202230070,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 220202230075,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
     "Id": 220202230100,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 220202230125,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 2,
@@ -158438,6 +158851,20 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 403100170001,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 403100180001,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 403103010001,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -172277,6 +172704,41 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 500001040101,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 500001040102,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 500001040103,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 500001040104,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 500001040105,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 510000000001,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -179313,6 +179775,55 @@
   },
   {
     "Id": 530101127009,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 530101128003,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 530101128004,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 530101128005,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 530101128006,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 530101128007,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 530101128008,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 0,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 530101128009,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 0,
@@ -188573,6 +189084,76 @@
     "DescriptionLanguageId": 2
   },
   {
+    "Id": 590000901301,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901302,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901303,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901304,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901305,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901306,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901307,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901308,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901309,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 590000901310,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
     "Id": 591000900101,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -189028,6 +189609,48 @@
     "DescriptionLanguageId": 2
   },
   {
+    "Id": 591000901301,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 591000901302,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 591000901303,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 591000901304,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 591000901305,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 591000901306,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
     "Id": 592000900101,
     "RewardChooseType": 1,
     "ResourceId": 0,
@@ -189477,6 +190100,48 @@
   },
   {
     "Id": 592000901206,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 592000901301,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 592000901302,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 592000901303,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 592000901304,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 592000901305,
+    "RewardChooseType": 1,
+    "ResourceId": 0,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2
+  },
+  {
+    "Id": 592000901306,
     "RewardChooseType": 1,
     "ResourceId": 0,
     "NameLanguageId": 2,

@@ -778,5 +778,77 @@
     "EventGuildRankingBattleDamageBonusScoreGroupId": 901206,
     "NameLanguageId": 883000000000006,
     "MainBattleLockConditionSetId": 10025064010
+  },
+  {
+    "Id": 901301,
+    "EventBaseId": 9013,
+    "EnemyLevel": 1,
+    "BattleId": 59013001,
+    "EventGuildRankingBattleScoreRankGroupId": 901301,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901301,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901301,
+    "NameLanguageId": 883000000000001,
+    "MainBattleLockConditionSetId": 0
+  },
+  {
+    "Id": 901302,
+    "EventBaseId": 9013,
+    "EnemyLevel": 2,
+    "BattleId": 59013002,
+    "EventGuildRankingBattleScoreRankGroupId": 901302,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901302,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901302,
+    "NameLanguageId": 883000000000002,
+    "MainBattleLockConditionSetId": 0
+  },
+  {
+    "Id": 901303,
+    "EventBaseId": 9013,
+    "EnemyLevel": 3,
+    "BattleId": 59013003,
+    "EventGuildRankingBattleScoreRankGroupId": 901303,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901303,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901303,
+    "NameLanguageId": 883000000000003,
+    "MainBattleLockConditionSetId": 0
+  },
+  {
+    "Id": 901304,
+    "EventBaseId": 9013,
+    "EnemyLevel": 4,
+    "BattleId": 59013004,
+    "EventGuildRankingBattleScoreRankGroupId": 901304,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901304,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901304,
+    "NameLanguageId": 883000000000004,
+    "MainBattleLockConditionSetId": 0
+  },
+  {
+    "Id": 901305,
+    "EventBaseId": 9013,
+    "EnemyLevel": 5,
+    "BattleId": 59013005,
+    "EventGuildRankingBattleScoreRankGroupId": 901305,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901305,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901305,
+    "NameLanguageId": 883000000000005,
+    "MainBattleLockConditionSetId": 0
+  },
+  {
+    "Id": 901306,
+    "EventBaseId": 9013,
+    "EnemyLevel": 6,
+    "BattleId": 59013006,
+    "EventGuildRankingBattleScoreRankGroupId": 901306,
+    "EventGuildRankingBattleDefeatRewardGroupId": 901306,
+    "DisplayConditionSetId": 0,
+    "EventGuildRankingBattleDamageBonusScoreGroupId": 901306,
+    "NameLanguageId": 883000000000006,
+    "MainBattleLockConditionSetId": 10025074011
   }
 ]

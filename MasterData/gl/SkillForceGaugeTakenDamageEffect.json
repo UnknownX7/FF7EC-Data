@@ -378,6 +378,27 @@
     "EffectValue": -63
   },
   {
+    "Id": 32049100511,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -4000
+  },
+  {
+    "Id": 32049100611,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -4000
+  },
+  {
+    "Id": 32049100711,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -4000
+  },
+  {
     "Id": 32501620521,
     "SkillForceGaugeTakenDamageCalcType": 2,
     "SkillForceGaugeTakenDamageEffectType": 2,
@@ -411,6 +432,27 @@
     "SkillForceGaugeTakenDamageEffectType": 2,
     "ParameterDetailType": 7,
     "EffectValue": -750
+  },
+  {
+    "Id": 32508610131,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -16000
+  },
+  {
+    "Id": 32508610231,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -16000
+  },
+  {
+    "Id": 32508610331,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -16000
   },
   {
     "Id": 32510300411,
@@ -1155,6 +1197,13 @@
     "EffectValue": -750
   },
   {
+    "Id": 32521630721,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -250
+  },
+  {
     "Id": 32521820111,
     "SkillForceGaugeTakenDamageCalcType": 2,
     "SkillForceGaugeTakenDamageEffectType": 4,
@@ -1559,6 +1608,13 @@
     "SkillForceGaugeTakenDamageEffectType": 4,
     "ParameterDetailType": 0,
     "EffectValue": -15000
+  },
+  {
+    "Id": 32533602511,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -4000
   },
   {
     "Id": 32536310111,
