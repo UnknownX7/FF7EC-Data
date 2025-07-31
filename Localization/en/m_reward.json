@@ -65,6 +65,10 @@
       "value": "New Year's Battle Garb"
     },
     {
+      "id": 102000000001018,
+      "value": "Erdrick's Armour"
+    },
+    {
       "id": 102000000002002,
       "value": "Fiery Cape"
     },
@@ -205,6 +209,10 @@
       "value": "Pink Mermaid Beachwear"
     },
     {
+      "id": 102000000004019,
+      "value": "Supreme Sage Garb"
+    },
+    {
       "id": 102000000004020,
       "value": "Seventh High Team Cetra Uniform"
     },
@@ -227,6 +235,10 @@
     {
       "id": 102000000005006,
       "value": "The Hellhound"
+    },
+    {
+      "id": 102000000005008,
+      "value": "Great Sabrecat"
     },
     {
       "id": 102000000006002,
@@ -665,6 +677,10 @@
       "value": "Sleek Saber"
     },
     {
+      "id": 510000000001044,
+      "value": "Erdrick's Sword"
+    },
+    {
       "id": 510000000001045,
       "value": "Radblade"
     },
@@ -1037,6 +1053,10 @@
       "value": "Mermaid Rod"
     },
     {
+      "id": 510000000004039,
+      "value": "Supreme Sage's Staff"
+    },
+    {
       "id": 510000000004040,
       "value": "Team Leader's Bamboo Sword"
     },
@@ -1135,6 +1155,10 @@
     {
       "id": 510000000005041,
       "value": "Limited Moon"
+    },
+    {
+      "id": 510000000005042,
+      "value": "Great Sabrecat Collar"
     },
     {
       "id": 510000000006001,
@@ -2029,6 +2053,10 @@
       "value": "Shinra Ceremonial Rifle"
     },
     {
+      "id": 510000000052032,
+      "value": "Aldebaran"
+    },
+    {
       "id": 510000000056001,
       "value": "Type-90 Longsword"
     },
@@ -2269,8 +2297,16 @@
       "value": "Thunder Recipe"
     },
     {
+      "id": 532000213200103,
+      "value": "Thunder (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
       "id": 532000213200104,
       "value": "Thunder (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000213200303,
+      "value": "Thunder Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
     },
     {
       "id": 532000213200304,
@@ -3057,6 +3093,10 @@
       "value": "Mythril Ingot"
     },
     {
+      "id": 551000000010113,
+      "value": "Refined Mythril"
+    },
+    {
       "id": 551000000010131,
       "value": "Humacore Type B"
     },
@@ -3689,6 +3729,10 @@
       "value": "Lottery Box - FFVI Crossover 5<sprite=\"tmp_icon\" index=196> Weapon"
     },
     {
+      "id": 551000000022525,
+      "value": "Lottery Box - 700 Days Since Release"
+    },
+    {
       "id": 551000000030001,
       "value": "Score Battle Key"
     },
@@ -3969,6 +4013,10 @@
       "value": "11 Million DL Gear Medal"
     },
     {
+      "id": 551000000100058,
+      "value": "DQ TACT Crossover Special Draw Ticket"
+    },
+    {
       "id": 551000000300001,
       "value": "Winter Medal (2023)"
     },
@@ -4101,6 +4149,10 @@
       "value": "Swimwear Voucher Vol. 3"
     },
     {
+      "id": 551000000300037,
+      "value": "DQ TACT Crossover Wpn. Voucher Vol. 1"
+    },
+    {
       "id": 551000000300039,
       "value": "Reawakened LB Gear Voucher Vol. 2 (Bgn.)"
     },
@@ -4167,6 +4219,10 @@
     {
       "id": 551000001051029,
       "value": "Mako Gem (Gladius)"
+    },
+    {
+      "id": 551000001052032,
+      "value": "Mako Gem (Aldebaran)"
     },
     {
       "id": 551000002020051,
@@ -4619,6 +4675,22 @@
     {
       "id": 551000002030309,
       "value": "Wind Magicite"
+    },
+    {
+      "id": 551000002030311,
+      "value": "DRAGON QUEST TACT Gold"
+    },
+    {
+      "id": 551000002030312,
+      "value": "TACT Coin"
+    },
+    {
+      "id": 551000002030313,
+      "value": "Master Coin"
+    },
+    {
+      "id": 551000002030314,
+      "value": "Mini medal"
     },
     {
       "id": 551000002080021,
@@ -7413,6 +7485,42 @@
       "value": "The Pirate King's Challenge"
     },
     {
+      "id": 560000001100259,
+      "value": "Mane"
+    },
+    {
+      "id": 560000001100260,
+      "value": "Great Sabrecat"
+    },
+    {
+      "id": 560000001100261,
+      "value": "Slime"
+    },
+    {
+      "id": 560000001100262,
+      "value": "Slime"
+    },
+    {
+      "id": 560000001100263,
+      "value": "Metal Slime"
+    },
+    {
+      "id": 560000001100264,
+      "value": "King Slime"
+    },
+    {
+      "id": 560000001100265,
+      "value": "King She-Slime"
+    },
+    {
+      "id": 560000001100266,
+      "value": "Banesword Sephiroth"
+    },
+    {
+      "id": 560000001100267,
+      "value": "Banesword"
+    },
+    {
       "id": 560000001200001,
       "value": "Mako Reactor 1: Full Clear"
     },
@@ -9011,6 +9119,14 @@
     {
       "id": 570000000030028,
       "value": "The Pirate King's Challenge"
+    },
+    {
+      "id": 570000000030029,
+      "value": "The All-knowing Slime and the Thespian SOLDIER"
+    },
+    {
+      "id": 570000000030031,
+      "value": "Heroes Who Will Save the World"
     },
     {
       "id": 872000000100101,

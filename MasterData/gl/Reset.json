@@ -333,6 +333,33 @@
     "TargetId": 23
   },
   {
+    "Id": 47,
+    "ResetOffsetDatetime": 1754251200000,
+    "CycleType": 5,
+    "ResetLength": 1,
+    "ResetDisplayType": 0,
+    "ResetOffsetDatetimeType": 0,
+    "TargetId": 0
+  },
+  {
+    "Id": 48,
+    "ResetOffsetDatetime": 1753927200000,
+    "CycleType": 4,
+    "ResetLength": 1,
+    "ResetDisplayType": 1,
+    "ResetOffsetDatetimeType": 0,
+    "TargetId": 0
+  },
+  {
+    "Id": 49,
+    "ResetOffsetDatetime": 1753927200000,
+    "CycleType": 5,
+    "ResetLength": 10,
+    "ResetDisplayType": 0,
+    "ResetOffsetDatetimeType": 0,
+    "TargetId": 0
+  },
+  {
     "Id": 52,
     "ResetOffsetDatetime": 1748743200000,
     "CycleType": 6,

@@ -385,6 +385,10 @@
       "value": "Stream Phase"
     },
     {
+      "id": 907000000050602,
+      "value": "Trigger Markers"
+    },
+    {
       "id": 907000000050701,
       "value": "Sigils"
     },
@@ -1291,6 +1295,10 @@
     {
       "id": 908000000050601,
       "value": "There are bosses that enter a special state called a <color=#95C7FF>Stream Phase</color>.\nWhen <color=#95C7FF>Stream Phase</color> is activated, \na gauge that indicates the start and end will appear at the top of the battle screen.\nThe following are some of the main effects during the <color=#95C7FF>Stream Phase</color>:\n\n・During the <color=#95C7FF>Stream Phase</color>, there may be <color=#95C7FF>continuous advantageous effects</color> that benefit the\nenemy.\n・During the <color=#95C7FF>Stream Phase</color>, the <color=#95C7FF>enemy's behavior</color> may change.\n・When the <color=#95C7FF>Stream Phase</color> ends, the enemy may use a <color=#95C7FF>powerful technique</color>."
+    },
+    {
+      "id": 908000000050602,
+      "value": "During stream phase, when the timer gauge advances to a <color=#95C7FF>\"trigger\" marker</color>, the enemy <color=#95C7FF>unleashes a powerful ability</color>. You can cancel these abilities by <color=#95C7FF>interrupting</color> the stream phase before it reaches the marker.\n\n*If there are multiple markers, an ability will be triggered for each marker reached.\n*The name of the next ability that will trigger is displayed in the upper portion of the battle screen."
     },
     {
       "id": 908000000050701,

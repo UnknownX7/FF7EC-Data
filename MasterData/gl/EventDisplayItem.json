@@ -780,6 +780,30 @@
     "DisplayConditionSetId": 615000003030
   },
   {
+    "EventDisplayItemGroupId": 3031,
+    "Idx": 0,
+    "ItemId": 2030311,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventDisplayItemGroupId": 3031,
+    "Idx": 1,
+    "ItemId": 2030312,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventDisplayItemGroupId": 3031,
+    "Idx": 2,
+    "ItemId": 2030313,
+    "DisplayConditionSetId": 615000003031
+  },
+  {
+    "EventDisplayItemGroupId": 3031,
+    "Idx": 3,
+    "ItemId": 2030314,
+    "DisplayConditionSetId": 0
+  },
+  {
     "EventDisplayItemGroupId": 8001,
     "Idx": 0,
     "ItemId": 28,
@@ -955,6 +979,12 @@
   },
   {
     "EventDisplayItemGroupId": 14006,
+    "Idx": 0,
+    "ItemId": 300013,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventDisplayItemGroupId": 14007,
     "Idx": 0,
     "ItemId": 300013,
     "DisplayConditionSetId": 0

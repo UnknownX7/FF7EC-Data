@@ -903,6 +903,13 @@
     "RewardSetId": 0
   },
   {
+    "Id": 300000019,
+    "TutorialStepType": 180,
+    "Step": 1,
+    "ConditionSetId": 0,
+    "RewardSetId": 0
+  },
+  {
     "Id": 310000001,
     "TutorialStepType": 143,
     "Step": 1,
@@ -1220,6 +1227,13 @@
   {
     "Id": 310000047,
     "TutorialStepType": 240,
+    "Step": 1,
+    "ConditionSetId": 0,
+    "RewardSetId": 0
+  },
+  {
+    "Id": 310000048,
+    "TutorialStepType": 241,
     "Step": 1,
     "ConditionSetId": 0,
     "RewardSetId": 0

@@ -41,6 +41,10 @@
       "value": "Mag. Attack +{0} / +{1}%"
     },
     {
+      "id": 545000011101101,
+      "value": "All Allies' HP +{0} / +{1}%"
+    },
+    {
       "id": 545000011201101,
       "value": "All Allies' Phys. Attack +{0} / +{1}%"
     },
@@ -633,6 +637,34 @@
       "value": "HP +{1}%"
     },
     {
+      "id": 545000056901101,
+      "value": "Lightning Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000056901201,
+      "value": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000056901301,
+      "value": "HP +{1}%"
+    },
+    {
+      "id": 545000057001101,
+      "value": "Healing Pot. +{1}%"
+    },
+    {
+      "id": 545000057001201,
+      "value": "Phys. & Mag. Defense +{1}%"
+    },
+    {
+      "id": 545000057101101,
+      "value": "Lightning Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000057101201,
+      "value": "Mag. Defense +{1}%"
+    },
+    {
       "id": 545000057401101,
       "value": "HP +{1}%"
     },
@@ -659,6 +691,22 @@
     {
       "id": 545000057601201,
       "value": "Attack Stance Cmd. Gauge Max.: Phys. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000057701101,
+      "value": "Applies Haste to all allies when battle begins\n(Effect Dur.: 3s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000057701201,
+      "value": "Applies Haste to all allies when battle begins\n(Effect Dur.: 5s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000057701301,
+      "value": "Applies Haste to all allies when battle begins\n(Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000057701401,
+      "value": "Applies Haste to all allies when battle begins\n(Effect Dur.: 15s / Effect Dur. Ext.: +0s)"
     }
   ]
 }

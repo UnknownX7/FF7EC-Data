@@ -73,6 +73,10 @@
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses many <command_color=common_03>magic abilities</color> and attacks often. Randomly uses either <command_color=emphasis>Fire Ninjutsu</color>, <command_color=emphasis>Lightning Ninjutsu</color>, or <command_color=emphasis>Frost Ninjutsu</color>.\n\n"
     },
     {
+      "id": 130000001949001,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down\n\nUses many <command_color=common_03>powerful physical and magic abilities</color>. Unleashes <command_color=emphasis>Lightning Storm</color> when Force Gauge: <command_color=emphasis>Magic Power</color> is filled a certain amount. Use of the ability depletes the gauge; it can also be depleted with damage. Potency of <command_color=emphasis>Raging Flow</color> increases when target is debuffed. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with <command_color=emphasis>Telluric Fury</color> and <command_color=common_03><sprite=\"tmp_icon\" index=413>Water Resistance Down</color> with <command_color=emphasis>Torrential Thrust</color>."
+    },
+    {
       "id": 130000002001001,
       "value": "Immunities: None\n \nHas high physical attack and attacks often."
     },
@@ -645,6 +649,14 @@
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses <command_color=common_03>powerful physical and magic abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Claw Attack</color> and <command_color=common_03><sprite=\"tmp_icon\" index=407>pain</color> with <command_color=emphasis>Pummel</color>. Frequently uses magic attacks that target all enemies while <command_color=emphasis>Disperse Magic</color> is active.\n"
     },
     {
+      "id": 130000002070001,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison\n\nRaises own MATK with <command_color=emphasis>Scorching Stance</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Sap</color>."
+    },
+    {
+      "id": 130000002070101,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nUses many <command_color=common_03>magic abilities</color> and attacks often. Uses <command_color=emphasis>Metal slime flees!</color> to escape from battle. If successful, <command_color=common_03>no rewards will be obtained from them</color>.\n\nHas high resistance to all attacks."
+    },
+    {
       "id": 130000002501001,
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUses the <command_color=common_03>powerful magic attack</color> <command_color=emphasis>Tail Laser</color>. Also uses <command_color=common_03>a wide variety of stream phase skills</color>, such as <command_color=emphasis>Counter Mode</color> to unleash counterattacks, or <command_color=emphasis>Target Scanner</color> to focus attacks on a single target.\n\n<command_color=common_03>Quickly destroying sigils</color> is an effective strategy."
     },
@@ -1047,6 +1059,14 @@
     {
       "id": 130000002561002,
       "value": "Immunities: <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=416>Stop\n\nWeak against both physical and magic attacks. Does nothing but comment on your combat prowess."
+    },
+    {
+      "id": 130000002563001,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n\nGrants self <command_color=common_03><sprite=\"tmp_icon\" index=324>PATK Up</color> and uses many <command_color=common_03>powerful physical attacks</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Blow Away</color> and <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> with <command_color=emphasis>Royal Crush</color>."
+    },
+    {
+      "id": 130000002563101,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n\nGrants self <command_color=common_03><sprite=\"tmp_icon\" index=578>Fire Potency Up</color> and uses many <command_color=common_03>powerful physical and magic abilities</color>. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with <command_color=emphasis>Blow Away</color> and <command_color=emphasis>Searing Press</color>. Grants all allies <command_color=common_03><sprite=\"tmp_icon\" index=325>MDEF Up</color> with <command_color=emphasis>Magic Barrier</color>. Counters <command_color=common_03>physical attacks</color> during <command_color=emphasis>Ready to Wallop</color>."
     }
   ]
 }

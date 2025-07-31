@@ -240,6 +240,22 @@
     "ArmouryPoint": 100
   },
   {
+    "Id": 1018,
+    "CharacterId": 1,
+    "ResourceId": 1018,
+    "SetWeaponId": 1044,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 20401,
+    "PassiveSkillId1": 56901,
+    "PassiveSkillPoint0": 15,
+    "PassiveSkillPoint1": 10,
+    "NameLanguageId": 102000000001018,
+    "CharacterNovelCostumeId": 1018,
+    "PanelRenderEnvironmentId": 1018,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 100
+  },
+  {
     "Id": 2001,
     "CharacterId": 2,
     "ResourceId": 2001,
@@ -848,6 +864,22 @@
     "ArmouryPoint": 100
   },
   {
+    "Id": 4019,
+    "CharacterId": 4,
+    "ResourceId": 4019,
+    "SetWeaponId": 4039,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 11101,
+    "PassiveSkillId1": 57001,
+    "PassiveSkillPoint0": 5,
+    "PassiveSkillPoint1": 10,
+    "NameLanguageId": 102000000004019,
+    "CharacterNovelCostumeId": 4019,
+    "PanelRenderEnvironmentId": 4019,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 100
+  },
+  {
     "Id": 4020,
     "CharacterId": 4,
     "ResourceId": 4020,
@@ -958,6 +990,22 @@
     "PanelRenderEnvironmentId": 5006,
     "ItemRarityType": 5,
     "ArmouryPoint": 100
+  },
+  {
+    "Id": 5008,
+    "CharacterId": 5,
+    "ResourceId": 5008,
+    "SetWeaponId": 5042,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 10101,
+    "PassiveSkillId1": 57101,
+    "PassiveSkillPoint0": 10,
+    "PassiveSkillPoint1": 10,
+    "NameLanguageId": 102000000005008,
+    "CharacterNovelCostumeId": 5008,
+    "PanelRenderEnvironmentId": 5008,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 30
   },
   {
     "Id": 6001,

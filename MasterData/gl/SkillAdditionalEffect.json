@@ -525,6 +525,34 @@
     "MaxValue": 100
   },
   {
+    "Id": 101044012,
+    "SkillAdditionalType": 15,
+    "IsRandom": false,
+    "MinValue": 1500,
+    "MaxValue": 1500
+  },
+  {
+    "Id": 101044022,
+    "SkillAdditionalType": 15,
+    "IsRandom": false,
+    "MinValue": 1500,
+    "MaxValue": 1500
+  },
+  {
+    "Id": 101044032,
+    "SkillAdditionalType": 15,
+    "IsRandom": false,
+    "MinValue": 1500,
+    "MaxValue": 1500
+  },
+  {
+    "Id": 101044042,
+    "SkillAdditionalType": 15,
+    "IsRandom": false,
+    "MinValue": 1500,
+    "MaxValue": 1500
+  },
+  {
     "Id": 101046012,
     "SkillAdditionalType": 16,
     "IsRandom": false,
@@ -1639,6 +1667,62 @@
   },
   {
     "Id": 104035043,
+    "SkillAdditionalType": 14,
+    "IsRandom": false,
+    "MinValue": 100,
+    "MaxValue": 100
+  },
+  {
+    "Id": 104039012,
+    "SkillAdditionalType": 16,
+    "IsRandom": false,
+    "MinValue": 20000,
+    "MaxValue": 20000
+  },
+  {
+    "Id": 104039014,
+    "SkillAdditionalType": 14,
+    "IsRandom": false,
+    "MinValue": 100,
+    "MaxValue": 100
+  },
+  {
+    "Id": 104039022,
+    "SkillAdditionalType": 16,
+    "IsRandom": false,
+    "MinValue": 40000,
+    "MaxValue": 40000
+  },
+  {
+    "Id": 104039024,
+    "SkillAdditionalType": 14,
+    "IsRandom": false,
+    "MinValue": 100,
+    "MaxValue": 100
+  },
+  {
+    "Id": 104039032,
+    "SkillAdditionalType": 16,
+    "IsRandom": false,
+    "MinValue": 60000,
+    "MaxValue": 60000
+  },
+  {
+    "Id": 104039034,
+    "SkillAdditionalType": 14,
+    "IsRandom": false,
+    "MinValue": 100,
+    "MaxValue": 100
+  },
+  {
+    "Id": 104039042,
+    "SkillAdditionalType": 16,
+    "IsRandom": false,
+    "MinValue": 80000,
+    "MaxValue": 80000
+  },
+  {
+    "Id": 104039044,
     "SkillAdditionalType": 14,
     "IsRandom": false,
     "MinValue": 100,
