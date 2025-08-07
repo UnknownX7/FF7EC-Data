@@ -1285,5 +1285,31 @@
     "ComplementLanguageId": 614000000000001,
     "PickupLanguageId": 615000000000001,
     "ResourceId": 104
+  },
+  {
+    "Id": 10105,
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010105,
+    "GachaStampLotGroupId": 1,
+    "TitleLanguageId": 610000000010103,
+    "DescriptionTemplateLanguageId": 611000000000002,
+    "LotRatioLanguageId": 612000000000001,
+    "StampLanguageId": 613000000000001,
+    "ComplementLanguageId": 614000000000001,
+    "PickupLanguageId": 615000000000001,
+    "ResourceId": 105
+  },
+  {
+    "Id": 10106,
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010106,
+    "GachaStampLotGroupId": 1,
+    "TitleLanguageId": 610000000010106,
+    "DescriptionTemplateLanguageId": 611000000000002,
+    "LotRatioLanguageId": 612000000000001,
+    "StampLanguageId": 613000000000001,
+    "ComplementLanguageId": 614000000000001,
+    "PickupLanguageId": 615000000000001,
+    "ResourceId": 106
   }
 ]

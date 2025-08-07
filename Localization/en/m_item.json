@@ -1709,8 +1709,16 @@
       "value": "DQ TACT Crossover Wpn. Voucher Vol. 1"
     },
     {
+      "id": 551000000300038,
+      "value": "DQ TACT Crossover Wpn. Voucher Vol. 2"
+    },
+    {
       "id": 551000000300039,
       "value": "Reawakened LB Gear Voucher Vol. 2 (Bgn.)"
+    },
+    {
+      "id": 551000000300040,
+      "value": "Reawakened LB Gear Voucher Vol. 3"
     },
     {
       "id": 551000001000001,
@@ -2761,6 +2769,10 @@
       "value": "Sword of the Hunt Parts"
     },
     {
+      "id": 551000001020032,
+      "value": "Zenithian Sword Parts"
+    },
+    {
       "id": 551000001020033,
       "value": "Buster Sword Origin Parts"
     },
@@ -2879,6 +2891,10 @@
     {
       "id": 551000001049032,
       "value": "Serrated Remiges Parts"
+    },
+    {
+      "id": 551000001049033,
+      "value": "Pandemonic Sword Parts"
     },
     {
       "id": 551000001049034,
@@ -3899,6 +3915,10 @@
     {
       "id": 551000002130101,
       "value": "The Third Clash Wpn. Voucher"
+    },
+    {
+      "id": 551000002130111,
+      "value": "The Fourth Clash Wpn. Voucher"
     },
     {
       "id": 552000000000001,
@@ -5470,7 +5490,7 @@
     },
     {
       "id": 552000000300020,
-      "value": "Traded for rare items at the <command_color=common_03>Returning Limit Break Gear Exchange</color>."
+      "value": "Traded for rare items at the <command_color=common_03>Reawakened Limit Break Gear Exchange</color>."
     },
     {
       "id": 552000000300021,
@@ -5478,7 +5498,7 @@
     },
     {
       "id": 552000000300022,
-      "value": "Traded for rare items at the <command_color=common_03>Returning Limit Break Gear Vol. 2 Exchange</color>."
+      "value": "Traded for rare items at the <command_color=common_03>Reawakened Limit Break Gear Exchange</color>."
     },
     {
       "id": 552000000300023,
@@ -5529,8 +5549,16 @@
       "value": "Traded for items at the <command_color=common_03>DQ TACT Crossover Wpn. Exchange</color>."
     },
     {
+      "id": 552000000300038,
+      "value": "Traded for items at the <command_color=common_03>DQ TACT Crossover Wpn. Exchange</color>."
+    },
+    {
       "id": 552000000300039,
       "value": "Traded for items at the <command_color=common_03>Reawakened LB Gear Exchange (Beginners)</color>."
+    },
+    {
+      "id": 552000000300040,
+      "value": "Traded for rare items at the <command_color=common_03>Reawakened Limit Break Gear Exchange</color>."
     },
     {
       "id": 552000001000001,
@@ -6581,6 +6609,10 @@
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Sword of the Hunt</color>."
     },
     {
+      "id": 552000001020032,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Zenithian Sword</color>."
+    },
+    {
       "id": 552000001020033,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Buster Sword Origin</color>."
     },
@@ -6699,6 +6731,10 @@
     {
       "id": 552000001049032,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Serrated Remiges</color>."
+    },
+    {
+      "id": 552000001049033,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Pandemonic Sword</color>."
     },
     {
       "id": 552000001049034,
@@ -7711,6 +7747,10 @@
     {
       "id": 552000002130101,
       "value": "Traded for items at the <command_color=common_03>The Third Clash Exchange</color>."
+    },
+    {
+      "id": 552000002130111,
+      "value": "Traded for weapons at the <command_color=common_03>The Fourth Clash Exchange</color>."
     }
   ]
 }

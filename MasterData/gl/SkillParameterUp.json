@@ -1224,6 +1224,12 @@
     "FixedValue": 0
   },
   {
+    "Id": 3200831061,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 2000,
+    "FixedValue": 0
+  },
+  {
     "Id": 3201160011,
     "ParameterType": 2,
     "ParameterUpCoefficient": 300,
@@ -1726,6 +1732,18 @@
     "ParameterType": 5,
     "ParameterUpCoefficient": 0,
     "FixedValue": 200
+  },
+  {
+    "Id": 3203560161,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 1200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3203560161,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 1200,
+    "FixedValue": 0
   },
   {
     "Id": 3203760011,
@@ -5539,6 +5557,30 @@
   },
   {
     "Id": 3252830031,
+    "ParameterType": 5,
+    "ParameterUpCoefficient": 0,
+    "FixedValue": -50
+  },
+  {
+    "Id": 3252830101,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3252830101,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3252830101,
+    "ParameterType": 4,
+    "ParameterUpCoefficient": 0,
+    "FixedValue": -50
+  },
+  {
+    "Id": 3252830101,
     "ParameterType": 5,
     "ParameterUpCoefficient": 0,
     "FixedValue": -50

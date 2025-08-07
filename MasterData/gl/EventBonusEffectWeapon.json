@@ -2415,6 +2415,20 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 30310103,
+    "WeaponId": 20032,
+    "EventBonusEffectWeaponGroupId": 303101,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
+  },
+  {
+    "Id": 30310104,
+    "WeaponId": 49033,
+    "EventBonusEffectWeaponGroupId": 303101,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
+  },
+  {
     "Id": 30310105,
     "WeaponId": 5042,
     "EventBonusEffectWeaponGroupId": 303101,
@@ -2434,6 +2448,20 @@
     "EventBonusEffectWeaponGroupId": 303102,
     "EventBonusEffectWeaponBonusGroupId": 1,
     "LockConditionSetId": 0
+  },
+  {
+    "Id": 30310203,
+    "WeaponId": 20032,
+    "EventBonusEffectWeaponGroupId": 303102,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
+  },
+  {
+    "Id": 30310204,
+    "WeaponId": 49033,
+    "EventBonusEffectWeaponGroupId": 303102,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
   },
   {
     "Id": 30310205,
@@ -2457,6 +2485,20 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 30310303,
+    "WeaponId": 20032,
+    "EventBonusEffectWeaponGroupId": 303103,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
+  },
+  {
+    "Id": 30310304,
+    "WeaponId": 49033,
+    "EventBonusEffectWeaponGroupId": 303103,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
+  },
+  {
     "Id": 30310305,
     "WeaponId": 5042,
     "EventBonusEffectWeaponGroupId": 303103,
@@ -2476,6 +2518,20 @@
     "EventBonusEffectWeaponGroupId": 303104,
     "EventBonusEffectWeaponBonusGroupId": 1,
     "LockConditionSetId": 0
+  },
+  {
+    "Id": 30310403,
+    "WeaponId": 20032,
+    "EventBonusEffectWeaponGroupId": 303104,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
+  },
+  {
+    "Id": 30310404,
+    "WeaponId": 49033,
+    "EventBonusEffectWeaponGroupId": 303104,
+    "EventBonusEffectWeaponBonusGroupId": 1,
+    "LockConditionSetId": 783000303101
   },
   {
     "Id": 30310405,

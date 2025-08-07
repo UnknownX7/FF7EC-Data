@@ -1,5 +1,11 @@
 [
   {
+    "Id": 3251160433,
+    "SkillNotesSetId": 11000,
+    "BreakNoteDamageRatePermil": 40,
+    "MaxDamageRatePermil": 2000
+  },
+  {
     "Id": 3252060543,
     "SkillNotesSetId": 13000,
     "BreakNoteDamageRatePermil": 90,
@@ -72,6 +78,18 @@
     "MaxDamageRatePermil": 1000
   },
   {
+    "Id": 3252060771,
+    "SkillNotesSetId": 11000,
+    "BreakNoteDamageRatePermil": 150,
+    "MaxDamageRatePermil": 2500
+  },
+  {
+    "Id": 3252060781,
+    "SkillNotesSetId": 11000,
+    "BreakNoteDamageRatePermil": 200,
+    "MaxDamageRatePermil": 2500
+  },
+  {
     "Id": 3252163081,
     "SkillNotesSetId": 12000,
     "BreakNoteDamageRatePermil": 50,
@@ -106,6 +124,30 @@
     "SkillNotesSetId": 12000,
     "BreakNoteDamageRatePermil": 50,
     "MaxDamageRatePermil": 2000
+  },
+  {
+    "Id": 3252860322,
+    "SkillNotesSetId": 13000,
+    "BreakNoteDamageRatePermil": 80,
+    "MaxDamageRatePermil": 2000
+  },
+  {
+    "Id": 3252860342,
+    "SkillNotesSetId": 13000,
+    "BreakNoteDamageRatePermil": 150,
+    "MaxDamageRatePermil": 2000
+  },
+  {
+    "Id": 3253161462,
+    "SkillNotesSetId": 13000,
+    "BreakNoteDamageRatePermil": 200,
+    "MaxDamageRatePermil": 3000
+  },
+  {
+    "Id": 3253161492,
+    "SkillNotesSetId": 13000,
+    "BreakNoteDamageRatePermil": 300,
+    "MaxDamageRatePermil": 3000
   },
   {
     "Id": 3256360022,

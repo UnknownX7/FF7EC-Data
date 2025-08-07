@@ -700,6 +700,27 @@
     "EffectValue": -100
   },
   {
+    "Id": 32511302011,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -9000
+  },
+  {
+    "Id": 32511302111,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -5000
+  },
+  {
+    "Id": 32511302211,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -1000
+  },
+  {
     "Id": 32512300111,
     "SkillForceGaugeTakenDamageCalcType": 2,
     "SkillForceGaugeTakenDamageEffectType": 2,
@@ -1552,6 +1573,13 @@
     "SkillForceGaugeTakenDamageEffectType": 4,
     "ParameterDetailType": 0,
     "EffectValue": -5000
+  },
+  {
+    "Id": 32531113141,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -2500
   },
   {
     "Id": 32532600111,
