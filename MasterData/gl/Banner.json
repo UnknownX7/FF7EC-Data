@@ -1210,6 +1210,16 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 100000133,
+    "TransitionType": 14,
+    "TransitionId": 25083031,
+    "DisplayConditionSetId": 270000500088,
+    "ResourceId": 100000133,
+    "Priority": 25083002,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 100000135,
     "TransitionType": 53,
     "TransitionId": 1,
@@ -2226,6 +2236,26 @@
     "DisplayConditionSetId": 170000010106,
     "ResourceId": 200010106,
     "Priority": 25082003,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010107,
+    "TransitionType": 12,
+    "TransitionId": 10107,
+    "DisplayConditionSetId": 170000010107,
+    "ResourceId": 200010107,
+    "Priority": 25083004,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010108,
+    "TransitionType": 12,
+    "TransitionId": 10108,
+    "DisplayConditionSetId": 170000010108,
+    "ResourceId": 200010108,
+    "Priority": 25083003,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },
@@ -3406,6 +3436,16 @@
     "DisplayConditionSetId": 613000002022,
     "ResourceId": 300002022,
     "Priority": 25073001,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300002023,
+    "TransitionType": 2,
+    "TransitionId": 2023,
+    "DisplayConditionSetId": 613000002023,
+    "ResourceId": 300002023,
+    "Priority": 25083001,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },
