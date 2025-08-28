@@ -2381,6 +2381,10 @@
       "value": "Mako Gem (Missing Score)"
     },
     {
+      "id": 551000001003040,
+      "value": "Mako Gem (Premium Heart)"
+    },
+    {
       "id": 551000001004036,
       "value": "Mako Gem (Princess Guard)"
     },
@@ -2397,12 +2401,28 @@
       "value": "Mako Gem (HP Shout)"
     },
     {
+      "id": 551000001008025,
+      "value": "Mako Gem (Death Penalty)"
+    },
+    {
+      "id": 551000001020028,
+      "value": "Mako Gem (Durandal)"
+    },
+    {
       "id": 551000001049027,
       "value": "Mako Gem (Genji Blade)"
     },
     {
+      "id": 551000001050027,
+      "value": "Mako Gem (Ogrekiller)"
+    },
+    {
       "id": 551000001051029,
       "value": "Mako Gem (Gladius)"
+    },
+    {
+      "id": 551000001052032,
+      "value": "Mako Gem (Aldebaran)"
     },
     {
       "id": 551000002030184,
@@ -2414,7 +2434,7 @@
     },
     {
       "id": 552000000000025,
-      "value": "Traded for items at the <command_color=common_03>Memory Exchange</color>."
+      "value": "Traded for items at the <command_color=common_03>Enhancement Exch.</color>"
     },
     {
       "id": 552000000001001,
@@ -2813,11 +2833,19 @@
       "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
     },
     {
+      "id": 552000000038022,
+      "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    {
       "id": 552000000038023,
       "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
     },
     {
       "id": 552000000038031,
+      "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    {
+      "id": 552000000038032,
       "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
     },
     {
@@ -5243,6 +5271,10 @@
     {
       "id": 804000501001038,
       "value": "- 5<sprite=\"tmp_icon\" index=196> Weapon Voucher\n- Wallpaper\n- Mythril Ore x60\n- 7,500 Blue Crystals\n*Total amount received at Max. Exploration Lv."
+    },
+    {
+      "id": 804000501001050,
+      "value": "- 5<sprite=\"tmp_icon\" index=196> Weapon Voucher\n- Wallpaper\n- Mythril Ingot x10\n- 7,500 Blue Crystals\n*Total amount received at Max. Exploration Lv."
     }
   ]
 }
