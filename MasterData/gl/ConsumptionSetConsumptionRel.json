@@ -4440,6 +4440,18 @@
     "ConsumptionCount": 200
   },
   {
+    "Id": 201000590100,
+    "ConsumptionSetId": 201000590100,
+    "RewardId": 20100059,
+    "ConsumptionCount": 100
+  },
+  {
+    "Id": 201000590200,
+    "ConsumptionSetId": 201000590200,
+    "RewardId": 20100059,
+    "ConsumptionCount": 200
+  },
+  {
     "Id": 203000010001,
     "ConsumptionSetId": 203000010001,
     "RewardId": 20300001,
@@ -4920,6 +4932,18 @@
     "ConsumptionCount": 1
   },
   {
+    "Id": 203000500001,
+    "ConsumptionSetId": 203000500001,
+    "RewardId": 20300050,
+    "ConsumptionCount": 1
+  },
+  {
+    "Id": 203000520001,
+    "ConsumptionSetId": 203000520001,
+    "RewardId": 20300052,
+    "ConsumptionCount": 1
+  },
+  {
     "Id": 210000010001,
     "ConsumptionSetId": 210000010001,
     "RewardId": 21000001,
@@ -4953,6 +4977,12 @@
     "Id": 210000060001,
     "ConsumptionSetId": 210000060001,
     "RewardId": 21000006,
+    "ConsumptionCount": 1
+  },
+  {
+    "Id": 210000070001,
+    "ConsumptionSetId": 210000070001,
+    "RewardId": 21000007,
     "ConsumptionCount": 1
   },
   {

@@ -6382,5 +6382,24 @@
     "RewardSetId": 0,
     "MaxRewardCount": 0,
     "ForceGaugeType": 0
+  },
+  {
+    "Id": 3256461032,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": 40,
+    "IsStopMin": false,
+    "IsStopMax": false,
+    "NameLanguageId": 548003256461032,
+    "DescriptionLanguageId": 549003252680011,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 3256461032,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3256461032,
+    "TutorialStepType": 0,
+    "SkillForceGaugeTriggerType": 0,
+    "SkillEnemyId": 0,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 1
   }
 ]

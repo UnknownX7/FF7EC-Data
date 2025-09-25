@@ -9771,7 +9771,7 @@
   },
   {
     "Id": 6301202901,
-    "BattleFieldEffectType": 102,
+    "BattleFieldEffectType": 103,
     "BattleFieldEffectTargetType": 2,
     "IsPermil": true,
     "Value": 600,
@@ -9781,20 +9781,20 @@
   },
   {
     "Id": 6301202902,
-    "BattleFieldEffectType": 1102,
+    "BattleFieldEffectType": 102,
     "BattleFieldEffectTargetType": 2,
     "IsPermil": true,
-    "Value": 600,
+    "Value": 300,
     "EffectDurationSec": 0,
     "ReactivatesWhenWaveChangesOwnFlag": false,
     "BattleFieldEffectDetailId": 0
   },
   {
     "Id": 6301202903,
-    "BattleFieldEffectType": 103,
+    "BattleFieldEffectType": 1104,
     "BattleFieldEffectTargetType": 2,
     "IsPermil": true,
-    "Value": -200,
+    "Value": 600,
     "EffectDurationSec": 0,
     "ReactivatesWhenWaveChangesOwnFlag": false,
     "BattleFieldEffectDetailId": 0

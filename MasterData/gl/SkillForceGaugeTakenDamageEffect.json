@@ -2462,5 +2462,12 @@
     "SkillForceGaugeTakenDamageEffectType": 4,
     "ParameterDetailType": 1,
     "EffectValue": -18000
+  },
+  {
+    "Id": 32564610321,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -100000
   }
 ]
