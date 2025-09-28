@@ -6,9 +6,9 @@
     "GuildBonusEffectGroupId": 1,
     "NameLanguageId": 874000000000001,
     "TitleLanguageId": 875000000000001,
-    "UNK_06": 0,
-    "UNK_07": 0,
-    "UNK_08": 5
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 5
   },
   {
     "Id": 2,
@@ -17,9 +17,9 @@
     "GuildBonusEffectGroupId": 2,
     "NameLanguageId": 874000000000002,
     "TitleLanguageId": 875000000000002,
-    "UNK_06": 0,
-    "UNK_07": 0,
-    "UNK_08": 1
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 1
   },
   {
     "Id": 3,
@@ -28,9 +28,9 @@
     "GuildBonusEffectGroupId": 3,
     "NameLanguageId": 874000000000003,
     "TitleLanguageId": 875000000000003,
-    "UNK_06": 0,
-    "UNK_07": 0,
-    "UNK_08": 2
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 2
   },
   {
     "Id": 4,
@@ -39,9 +39,9 @@
     "GuildBonusEffectGroupId": 4,
     "NameLanguageId": 874000000000004,
     "TitleLanguageId": 875000000000004,
-    "UNK_06": 0,
-    "UNK_07": 0,
-    "UNK_08": 4
+    "ResetId": 0,
+    "DefaultLevel": 0,
+    "OrderNo": 4
   },
   {
     "Id": 5,
@@ -50,8 +50,8 @@
     "GuildBonusEffectGroupId": 5,
     "NameLanguageId": 874000000000005,
     "TitleLanguageId": 875000000000005,
-    "UNK_06": 52,
-    "UNK_07": 1,
-    "UNK_08": 3
+    "ResetId": 52,
+    "DefaultLevel": 1,
+    "OrderNo": 3
   }
 ]

@@ -1,17 +1,17 @@
 [
-  [
-    1,
-    1,
-    50
-  ],
-  [
-    2,
-    2,
-    250
-  ],
-  [
-    3,
-    3,
-    1000
-  ]
+  {
+    "Id": 1,
+    "RarityType": 1,
+    "OverlapExchangeItemCount": 50
+  },
+  {
+    "Id": 2,
+    "RarityType": 2,
+    "OverlapExchangeItemCount": 250
+  },
+  {
+    "Id": 3,
+    "RarityType": 3,
+    "OverlapExchangeItemCount": 1000
+  }
 ]

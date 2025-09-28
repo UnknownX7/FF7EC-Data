@@ -1,12 +1,12 @@
 [
-  [
-    15100012,
-    22800,
-    10
-  ],
-  [
-    15100013,
-    100000,
-    10
-  ]
+  {
+    "MemoriaSkillId": 15100012,
+    "ThresholdAnalysisPoint": 22800,
+    "AddSkillPoint": 10
+  },
+  {
+    "MemoriaSkillId": 15100013,
+    "ThresholdAnalysisPoint": 100000,
+    "AddSkillPoint": 10
+  }
 ]

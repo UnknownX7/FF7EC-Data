@@ -1,50 +1,50 @@
 [
-  [
-    10000,
-    4,
-    0,
-    572000000010000,
-    573000000000001,
-    1
-  ],
-  [
-    20000,
-    5,
-    0,
-    572000000020000,
-    573000000000001,
-    2
-  ],
-  [
-    30000,
-    6,
-    0,
-    572000000030000,
-    573000000000003,
-    3
-  ],
-  [
-    40000,
-    2,
-    0,
-    572000000040000,
-    573000000000002,
-    4
-  ],
-  [
-    50000,
-    1,
-    0,
-    572000000050000,
-    573000000000002,
-    5
-  ],
-  [
-    60000,
-    3,
-    0,
-    572000000060000,
-    573000000000004,
-    6
-  ]
+  {
+    "Id": 10000,
+    "AwardType": 4,
+    "DisplayConditionSetId": 0,
+    "NameLanguageId": 572000000010000,
+    "DescriptionLanguageId": 573000000000001,
+    "OrderNo": 1
+  },
+  {
+    "Id": 20000,
+    "AwardType": 5,
+    "DisplayConditionSetId": 0,
+    "NameLanguageId": 572000000020000,
+    "DescriptionLanguageId": 573000000000001,
+    "OrderNo": 2
+  },
+  {
+    "Id": 30000,
+    "AwardType": 6,
+    "DisplayConditionSetId": 0,
+    "NameLanguageId": 572000000030000,
+    "DescriptionLanguageId": 573000000000003,
+    "OrderNo": 3
+  },
+  {
+    "Id": 40000,
+    "AwardType": 2,
+    "DisplayConditionSetId": 0,
+    "NameLanguageId": 572000000040000,
+    "DescriptionLanguageId": 573000000000002,
+    "OrderNo": 4
+  },
+  {
+    "Id": 50000,
+    "AwardType": 1,
+    "DisplayConditionSetId": 0,
+    "NameLanguageId": 572000000050000,
+    "DescriptionLanguageId": 573000000000002,
+    "OrderNo": 5
+  },
+  {
+    "Id": 60000,
+    "AwardType": 3,
+    "DisplayConditionSetId": 0,
+    "NameLanguageId": 572000000060000,
+    "DescriptionLanguageId": 573000000000004,
+    "OrderNo": 6
+  }
 ]
