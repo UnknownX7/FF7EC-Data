@@ -10241,6 +10241,94 @@
     "IgnoreResist": false
   },
   {
+    "Id": 150030012,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 150030013,
+    "SkillBuffDebuffType": 18,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 150030022,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 150030023,
+    "SkillBuffDebuffType": 18,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 150030032,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 3,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 150030033,
+    "SkillBuffDebuffType": 18,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 3,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 150030042,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 3,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 150030043,
+    "SkillBuffDebuffType": 18,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 3,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "IgnoreResist": false
+  },
+  {
     "Id": 151006012,
     "SkillBuffDebuffType": 4,
     "TriggerEffectLevel": 2,
@@ -10893,6 +10981,50 @@
     "Id": 151027042,
     "SkillBuffDebuffType": 18,
     "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 28,
+    "MaxDurationSec": 28,
+    "MinDuplicationDurationSec": 9,
+    "MaxDuplicationDurationSec": 9,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 151031012,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 151031022,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 22,
+    "MaxDurationSec": 22,
+    "MinDuplicationDurationSec": 7,
+    "MaxDuplicationDurationSec": 7,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 151031032,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 2,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 7,
+    "MaxDuplicationDurationSec": 7,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 151031042,
+    "SkillBuffDebuffType": 5,
+    "TriggerEffectLevel": 1,
     "TriggerEffectLevelMax": 2,
     "MinDurationSec": 28,
     "MaxDurationSec": 28,
@@ -33077,6 +33209,138 @@
     "IgnoreResist": false
   },
   {
+    "Id": 3252811042,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811052,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811062,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 4,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811102,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811112,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811122,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811132,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811142,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811152,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811162,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811172,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252811182,
+    "SkillBuffDebuffType": 6,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
     "Id": 3252830042,
     "SkillBuffDebuffType": 3,
     "TriggerEffectLevel": 2,
@@ -33294,6 +33558,83 @@
     "MaxDurationSec": 150,
     "MinDuplicationDurationSec": 150,
     "MaxDuplicationDurationSec": 150,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252861012,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252861022,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252861032,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 4,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252861042,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252861052,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 3,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252861062,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 4,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3252861072,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 5,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 999,
+    "MaxDuplicationDurationSec": 999,
     "IgnoreResist": false
   },
   {
@@ -40469,6 +40810,39 @@
     "IgnoreResist": false
   },
   {
+    "Id": 3255212062,
+    "SkillBuffDebuffType": 18,
+    "TriggerEffectLevel": 2,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 17,
+    "MaxDurationSec": 17,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3255212072,
+    "SkillBuffDebuffType": 34,
+    "TriggerEffectLevel": 1,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 1,
+    "MaxDurationSec": 1,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": true
+  },
+  {
+    "Id": 3255212192,
+    "SkillBuffDebuffType": 7,
+    "TriggerEffectLevel": 4,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 900,
+    "MaxDurationSec": 900,
+    "MinDuplicationDurationSec": 900,
+    "MaxDuplicationDurationSec": 900,
+    "IgnoreResist": false
+  },
+  {
     "Id": 3255230011,
     "SkillBuffDebuffType": 1,
     "TriggerEffectLevel": 5,
@@ -40499,6 +40873,50 @@
     "MaxDurationSec": 35,
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3255232011,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 5,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 50,
+    "MaxDurationSec": 50,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3255232021,
+    "SkillBuffDebuffType": 1,
+    "TriggerEffectLevel": 5,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 900,
+    "MaxDurationSec": 900,
+    "MinDuplicationDurationSec": 900,
+    "MaxDuplicationDurationSec": 900,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3255232041,
+    "SkillBuffDebuffType": 33,
+    "TriggerEffectLevel": 5,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 50,
+    "MaxDurationSec": 50,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false
+  },
+  {
+    "Id": 3255232052,
+    "SkillBuffDebuffType": 4,
+    "TriggerEffectLevel": 5,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 900,
+    "MaxDurationSec": 900,
+    "MinDuplicationDurationSec": 900,
+    "MaxDuplicationDurationSec": 900,
     "IgnoreResist": false
   },
   {
@@ -40544,6 +40962,17 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true
+  },
+  {
+    "Id": 3255262053,
+    "SkillBuffDebuffType": 4,
+    "TriggerEffectLevel": 5,
+    "TriggerEffectLevelMax": 5,
+    "MinDurationSec": 900,
+    "MaxDurationSec": 900,
+    "MinDuplicationDurationSec": 900,
+    "MaxDuplicationDurationSec": 900,
+    "IgnoreResist": false
   },
   {
     "Id": 3255310062,

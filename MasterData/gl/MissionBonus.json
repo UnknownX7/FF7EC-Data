@@ -1080,6 +1080,66 @@
     "ResourceId": 0
   },
   {
+    "Id": 90180101,
+    "MissionBonusGroupId": 901801,
+    "Idx": 0,
+    "MissionBonusType": 1,
+    "BonusPoint": 3,
+    "Level": 0,
+    "RewardSetId": 140090180101,
+    "ResourceId": 0
+  },
+  {
+    "Id": 90180102,
+    "MissionBonusGroupId": 901801,
+    "Idx": 1,
+    "MissionBonusType": 1,
+    "BonusPoint": 6,
+    "Level": 0,
+    "RewardSetId": 140090180101,
+    "ResourceId": 0
+  },
+  {
+    "Id": 90180103,
+    "MissionBonusGroupId": 901801,
+    "Idx": 2,
+    "MissionBonusType": 1,
+    "BonusPoint": 9,
+    "Level": 0,
+    "RewardSetId": 140090180103,
+    "ResourceId": 0
+  },
+  {
+    "Id": 90180201,
+    "MissionBonusGroupId": 901802,
+    "Idx": 0,
+    "MissionBonusType": 1,
+    "BonusPoint": 3,
+    "Level": 0,
+    "RewardSetId": 140090180101,
+    "ResourceId": 0
+  },
+  {
+    "Id": 90180202,
+    "MissionBonusGroupId": 901802,
+    "Idx": 1,
+    "MissionBonusType": 1,
+    "BonusPoint": 6,
+    "Level": 0,
+    "RewardSetId": 140090180101,
+    "ResourceId": 0
+  },
+  {
+    "Id": 90180203,
+    "MissionBonusGroupId": 901802,
+    "Idx": 2,
+    "MissionBonusType": 1,
+    "BonusPoint": 9,
+    "Level": 0,
+    "RewardSetId": 140090180203,
+    "ResourceId": 0
+  },
+  {
     "Id": 230010100,
     "MissionBonusGroupId": 2300101,
     "Idx": 0,

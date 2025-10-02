@@ -180,6 +180,10 @@
     "PassiveSkillId": 58201
   },
   {
+    "PassiveSkillUsedType": 1,
+    "PassiveSkillId": 59901
+  },
+  {
     "PassiveSkillUsedType": 2,
     "PassiveSkillId": 10101
   },
@@ -552,12 +556,20 @@
     "PassiveSkillId": 59701
   },
   {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 59801
+  },
+  {
     "PassiveSkillUsedType": 3,
     "PassiveSkillId": 112101
   },
   {
     "PassiveSkillUsedType": 3,
     "PassiveSkillId": 120301
+  },
+  {
+    "PassiveSkillUsedType": 3,
+    "PassiveSkillId": 120501
   },
   {
     "PassiveSkillUsedType": 3,
@@ -570,5 +582,9 @@
   {
     "PassiveSkillUsedType": 3,
     "PassiveSkillId": 161101
+  },
+  {
+    "PassiveSkillUsedType": 3,
+    "PassiveSkillId": 161201
   }
 ]

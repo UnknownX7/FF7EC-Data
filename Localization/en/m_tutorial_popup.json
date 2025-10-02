@@ -1133,6 +1133,10 @@
       "value": "Force Gauge: Magic Power"
     },
     {
+      "id": 970003100000491,
+      "value": "Force Gauge: Mutation"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -1807,6 +1811,10 @@
     {
       "id": 971003100000481,
       "value": "The enemy's force gauge fills over time. When the gauge fills to a certain amount, they will unleash the ability <command_color=common_03>Lightning Storm</color>, which will deplete the gauge. The gauge can also be depleted by <command_color=common_03>dealing damage</color> to the enemy."
+    },
+    {
+      "id": 971003100000491,
+      "value": "<command_color=common_03>Dealing earth-element damage</color> to the enemy will deplete the force gauge. When the gauge is fully depleted, the enemy will be <command_color=common_03>temporarily incapacitated</color>, and <command_color=common_03>their PDEF and MDEF will be greatly reduced</color>."
     },
     {
       "id": 971003200000011,
