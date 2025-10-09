@@ -2950,6 +2950,16 @@
     "EffectCoefficient": 0
   },
   {
+    "Id": 3250511143,
+    "SkillStatusConditionType": 4,
+    "MinDurationSec": 70,
+    "MaxDurationSec": 70,
+    "MinDuplicationDurationSec": 70,
+    "MaxDuplicationDurationSec": 70,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
     "Id": 3250610092,
     "SkillStatusConditionType": 5,
     "MinDurationSec": 5,
