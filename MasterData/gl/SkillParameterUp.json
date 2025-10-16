@@ -1062,6 +1062,42 @@
     "FixedValue": 0
   },
   {
+    "Id": 3194918011,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3194918011,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3194918021,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 210,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3194918021,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 210,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3194918031,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3194918031,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
     "Id": 3194930021,
     "ParameterType": 2,
     "ParameterUpCoefficient": 200,
@@ -1155,6 +1191,42 @@
     "Id": 3194960062,
     "ParameterType": 3,
     "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3195680011,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3195680011,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3195680021,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 210,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3195680021,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 210,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3195680031,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3195680031,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 250,
     "FixedValue": 0
   },
   {
@@ -6426,6 +6498,36 @@
     "FixedValue": 0
   },
   {
+    "Id": 3253611872,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253611882,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253611892,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253611902,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 800,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3253611912,
+    "ParameterType": 2,
+    "ParameterUpCoefficient": 1200,
+    "FixedValue": 0
+  },
+  {
     "Id": 3253630012,
     "ParameterType": 4,
     "ParameterUpCoefficient": -500,
@@ -8194,6 +8296,240 @@
     "ParameterType": 5,
     "ParameterUpCoefficient": 0,
     "FixedValue": -20
+  },
+  {
+    "Id": 3255910291,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255910301,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 105,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255910311,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 110,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960132,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960142,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960152,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960162,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960172,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 5000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960182,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960192,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960202,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960212,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 350,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960222,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 5000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960232,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960242,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960252,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960262,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960272,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 5000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960282,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 105,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960292,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 120,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960302,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960312,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960322,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960332,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 350,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960342,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 10000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960352,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 110,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960362,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960372,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960382,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960392,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960402,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 450,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960412,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 10000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960422,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 115,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960432,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 150,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960442,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 250,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960452,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960462,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 450,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960472,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 600,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3255960482,
+    "ParameterType": 3,
+    "ParameterUpCoefficient": 10000,
+    "FixedValue": 0
   },
   {
     "Id": 3256060012,

@@ -265,6 +265,11 @@
     "DescriptionLanguageId": 981010025064010
   },
   {
+    "Id": 10025104008,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 40002010101,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -1011,6 +1016,21 @@
   },
   {
     "Id": 120000000020,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 120000000021,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 120000000022,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 120000000023,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -1981,6 +2001,11 @@
   },
   {
     "Id": 170000010121,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 170000010123,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -9320,6 +9345,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 240000051032,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 240000052013,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -9416,6 +9446,16 @@
   },
   {
     "Id": 240190330023,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 240190330024,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 240190330025,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -9620,6 +9660,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 241100001006,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 241100002003,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -9630,12 +9675,22 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 241100002005,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 241100003003,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
   {
     "Id": 241100003004,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 241100003005,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -9681,6 +9736,21 @@
   },
   {
     "Id": 241100010020,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 241100010021,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 241100010022,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 241100010023,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -10361,6 +10431,11 @@
   },
   {
     "Id": 270000500090,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 270000500091,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -12655,6 +12730,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 330000101142,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 330000205003,
     "OperatorType": 2,
     "DescriptionLanguageId": 0
@@ -13346,6 +13426,11 @@
   },
   {
     "Id": 330000324002,
+    "OperatorType": 2,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 330000324003,
     "OperatorType": 2,
     "DescriptionLanguageId": 0
   },
@@ -14415,6 +14500,16 @@
     "DescriptionLanguageId": 981340285001006
   },
   {
+    "Id": 340324003001,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 981340234001001
+  },
+  {
+    "Id": 340324003002,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 981340285001006
+  },
+  {
     "Id": 350101001000,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -14566,6 +14661,16 @@
   },
   {
     "Id": 350101001064,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101001065,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101001066,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -19155,6 +19260,31 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 350101005580,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101005581,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101005582,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101005583,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101005584,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 350101006001,
     "OperatorType": 3,
     "DescriptionLanguageId": 0
@@ -19341,6 +19471,26 @@
   },
   {
     "Id": 350101010022,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101010023,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101010024,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101010025,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101010026,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -19586,6 +19736,11 @@
   },
   {
     "Id": 350101141001,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 350101142001,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -21200,6 +21355,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 611000002025,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 611000003001,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -22265,6 +22425,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 613000002025,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 613000003001,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -22875,6 +23040,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 614000002025,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 614000003003,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -23111,6 +23281,11 @@
   },
   {
     "Id": 615000002024,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 615000002025,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -23385,6 +23560,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 616000002025,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 616000003003,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -23645,6 +23825,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 617000002025,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 620000000001,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -23886,6 +24071,16 @@
   },
   {
     "Id": 620000104004,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620000104005,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620000104006,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -25721,6 +25916,26 @@
   },
   {
     "Id": 620000568004,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620000569001,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620000569002,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620000569003,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620000569004,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -28570,6 +28785,31 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 620001136001,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620001136002,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620001136003,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620001136004,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 620001136005,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 630000000001,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -28795,6 +29035,21 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 642070010019,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 642070010020,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 642070010021,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 642080010000,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -28890,6 +29145,21 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 642080010019,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 642080010020,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 642080010021,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 642090010000,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -28981,6 +29251,21 @@
   },
   {
     "Id": 642090010018,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 642090010019,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 642090010020,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 642090010021,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -30151,6 +30436,11 @@
   },
   {
     "Id": 671003000184,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 671003000186,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -31875,6 +32165,21 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 690001004009,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 690001004010,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 690001004011,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 690002101001,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -33336,6 +33641,56 @@
   },
   {
     "Id": 700002024109,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025000,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025102,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025103,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025104,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025105,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025106,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025107,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025108,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025109,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 700002025110,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -37570,6 +37925,11 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 782000303502,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 782001100101,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -37741,6 +38101,11 @@
   },
   {
     "Id": 783000303501,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 783000303502,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
@@ -39295,6 +39660,16 @@
     "DescriptionLanguageId": 0
   },
   {
+    "Id": 11120202501001,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 11120202501002,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
     "Id": 11120300300000,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
@@ -39961,6 +40336,16 @@
   },
   {
     "Id": 12120202401002,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 12120202501001,
+    "OperatorType": 1,
+    "DescriptionLanguageId": 0
+  },
+  {
+    "Id": 12120202501002,
     "OperatorType": 1,
     "DescriptionLanguageId": 0
   },
