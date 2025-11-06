@@ -1,357 +1,417 @@
 [
-  [
-    1008601,
-    0,
-    1008601
-  ],
-  [
-    1012501,
-    1012501,
-    1012501
-  ],
-  [
-    1012502,
-    1012502,
-    1012502
-  ],
-  [
-    1012503,
-    1012503,
-    1012503
-  ],
-  [
-    1012601,
-    1012601,
-    1012601
-  ],
-  [
-    1012602,
-    1012602,
-    1012602
-  ],
-  [
-    1012603,
-    1012603,
-    1012603
-  ],
-  [
-    1012604,
-    1012604,
-    1012604
-  ],
-  [
-    2000101,
-    0,
-    2000101
-  ],
-  [
-    2000201,
-    0,
-    2000201
-  ],
-  [
-    2000301,
-    0,
-    2000301
-  ],
-  [
-    2000401,
-    0,
-    2000401
-  ],
-  [
-    2000501,
-    0,
-    2000501
-  ],
-  [
-    2000601,
-    0,
-    2000601
-  ],
-  [
-    2000701,
-    0,
-    2000701
-  ],
-  [
-    2000801,
-    0,
-    2000801
-  ],
-  [
-    2000901,
-    0,
-    2000901
-  ],
-  [
-    2001001,
-    0,
-    2001001
-  ],
-  [
-    2001101,
-    0,
-    2001101
-  ],
-  [
-    2001201,
-    0,
-    2001201
-  ],
-  [
-    2001301,
-    0,
-    2001301
-  ],
-  [
-    2001401,
-    0,
-    2001401
-  ],
-  [
-    2001501,
-    0,
-    2001501
-  ],
-  [
-    2001601,
-    0,
-    2001601
-  ],
-  [
-    2001701,
-    0,
-    2001701
-  ],
-  [
-    2001801,
-    0,
-    2001801
-  ],
-  [
-    2001901,
-    0,
-    2001901
-  ],
-  [
-    2002001,
-    0,
-    2002001
-  ],
-  [
-    2002101,
-    0,
-    2002101
-  ],
-  [
-    2002201,
-    0,
-    2002201
-  ],
-  [
-    2002301,
-    0,
-    2002301
-  ],
-  [
-    2002401,
-    0,
-    2002401
-  ],
-  [
-    2002501,
-    0,
-    2002501
-  ],
-  [
-    2005901,
-    0,
-    2005901
-  ],
-  [
-    2006001,
-    0,
-    2006001
-  ],
-  [
-    2006101,
-    0,
-    2006101
-  ],
-  [
-    2007101,
-    0,
-    2007101
-  ],
-  [
-    2009401,
-    0,
-    2009401
-  ],
-  [
-    2012301,
-    0,
-    2012301
-  ],
-  [
-    2012401,
-    0,
-    2012401
-  ],
-  [
-    2012901,
-    0,
-    2012901
-  ],
-  [
-    2016601,
-    0,
-    2016601
-  ],
-  [
-    2016701,
-    0,
-    2016701
-  ],
-  [
-    2020901,
-    0,
-    2020901
-  ],
-  [
-    2021001,
-    0,
-    2021001
-  ],
-  [
-    2022801,
-    0,
-    2022801
-  ],
-  [
-    2022901,
-    0,
-    2022901
-  ],
-  [
-    2023001,
-    0,
-    2023001
-  ],
-  [
-    2023101,
-    0,
-    2023101
-  ],
-  [
-    2023201,
-    0,
-    2023201
-  ],
-  [
-    2023202,
-    0,
-    2023202
-  ],
-  [
-    2023701,
-    0,
-    2023701
-  ],
-  [
-    2023801,
-    0,
-    2023801
-  ],
-  [
-    2030101,
-    0,
-    2030101
-  ],
-  [
-    2030201,
-    0,
-    2030201
-  ],
-  [
-    2031301,
-    0,
-    2031301
-  ],
-  [
-    2033001,
-    0,
-    2033001
-  ],
-  [
-    2033101,
-    0,
-    2033101
-  ],
-  [
-    3041301,
-    0,
-    3041301
-  ],
-  [
-    3073501,
-    0,
-    3073501
-  ],
-  [
-    3073502,
-    0,
-    3073502
-  ],
-  [
-    3073503,
-    0,
-    3073503
-  ],
-  [
-    3073504,
-    0,
-    3073504
-  ],
-  [
-    3073505,
-    0,
-    3073505
-  ],
-  [
-    3073506,
-    0,
-    3073506
-  ],
-  [
-    3073507,
-    0,
-    3073507
-  ],
-  [
-    3073701,
-    0,
-    3073701
-  ],
-  [
-    3073801,
-    0,
-    3073801
-  ],
-  [
-    3074101,
-    0,
-    3074101
-  ],
-  [
-    3080201,
-    0,
-    3080201
-  ],
-  [
-    4000101,
-    0,
-    4000101
-  ]
+  {
+    "Id": 1008601,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 1008601
+  },
+  {
+    "Id": 1012501,
+    "GachaAppeal2WeaponGroupId": 1012501,
+    "ResourceId": 1012501
+  },
+  {
+    "Id": 1012502,
+    "GachaAppeal2WeaponGroupId": 1012502,
+    "ResourceId": 1012502
+  },
+  {
+    "Id": 1012503,
+    "GachaAppeal2WeaponGroupId": 1012503,
+    "ResourceId": 1012503
+  },
+  {
+    "Id": 1012601,
+    "GachaAppeal2WeaponGroupId": 1012601,
+    "ResourceId": 1012601
+  },
+  {
+    "Id": 1012602,
+    "GachaAppeal2WeaponGroupId": 1012602,
+    "ResourceId": 1012602
+  },
+  {
+    "Id": 1012603,
+    "GachaAppeal2WeaponGroupId": 1012603,
+    "ResourceId": 1012603
+  },
+  {
+    "Id": 1012604,
+    "GachaAppeal2WeaponGroupId": 1012604,
+    "ResourceId": 1012604
+  },
+  {
+    "Id": 1012701,
+    "GachaAppeal2WeaponGroupId": 1012701,
+    "ResourceId": 1012701
+  },
+  {
+    "Id": 1012702,
+    "GachaAppeal2WeaponGroupId": 1012702,
+    "ResourceId": 1012702
+  },
+  {
+    "Id": 1012703,
+    "GachaAppeal2WeaponGroupId": 1012703,
+    "ResourceId": 1012703
+  },
+  {
+    "Id": 1012704,
+    "GachaAppeal2WeaponGroupId": 1012704,
+    "ResourceId": 1012704
+  },
+  {
+    "Id": 2000101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000101
+  },
+  {
+    "Id": 2000201,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000201
+  },
+  {
+    "Id": 2000301,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000301
+  },
+  {
+    "Id": 2000401,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000401
+  },
+  {
+    "Id": 2000501,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000501
+  },
+  {
+    "Id": 2000601,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000601
+  },
+  {
+    "Id": 2000701,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000701
+  },
+  {
+    "Id": 2000801,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000801
+  },
+  {
+    "Id": 2000901,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2000901
+  },
+  {
+    "Id": 2001001,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001001
+  },
+  {
+    "Id": 2001101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001101
+  },
+  {
+    "Id": 2001201,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001201
+  },
+  {
+    "Id": 2001301,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001301
+  },
+  {
+    "Id": 2001401,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001401
+  },
+  {
+    "Id": 2001501,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001501
+  },
+  {
+    "Id": 2001601,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001601
+  },
+  {
+    "Id": 2001701,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001701
+  },
+  {
+    "Id": 2001801,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001801
+  },
+  {
+    "Id": 2001901,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2001901
+  },
+  {
+    "Id": 2002001,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2002001
+  },
+  {
+    "Id": 2002101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2002101
+  },
+  {
+    "Id": 2002201,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2002201
+  },
+  {
+    "Id": 2002301,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2002301
+  },
+  {
+    "Id": 2002401,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2002401
+  },
+  {
+    "Id": 2002501,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2002501
+  },
+  {
+    "Id": 2005901,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2005901
+  },
+  {
+    "Id": 2006001,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2006001
+  },
+  {
+    "Id": 2006101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2006101
+  },
+  {
+    "Id": 2007101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2007101
+  },
+  {
+    "Id": 2009401,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2009401
+  },
+  {
+    "Id": 2012301,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2012301
+  },
+  {
+    "Id": 2012401,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2012401
+  },
+  {
+    "Id": 2012901,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2012901
+  },
+  {
+    "Id": 2016601,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2016601
+  },
+  {
+    "Id": 2016701,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2016701
+  },
+  {
+    "Id": 2020901,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2020901
+  },
+  {
+    "Id": 2021001,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2021001
+  },
+  {
+    "Id": 2022801,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2022801
+  },
+  {
+    "Id": 2022901,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2022901
+  },
+  {
+    "Id": 2023001,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2023001
+  },
+  {
+    "Id": 2023101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2023101
+  },
+  {
+    "Id": 2023201,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2023201
+  },
+  {
+    "Id": 2023202,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2023202
+  },
+  {
+    "Id": 2023701,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2023701
+  },
+  {
+    "Id": 2023801,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2023801
+  },
+  {
+    "Id": 2030101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2030101
+  },
+  {
+    "Id": 2030201,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2030201
+  },
+  {
+    "Id": 2031301,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2031301
+  },
+  {
+    "Id": 2033001,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2033001
+  },
+  {
+    "Id": 2033101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 2033101
+  },
+  {
+    "Id": 3041301,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3041301
+  },
+  {
+    "Id": 3073501,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073501
+  },
+  {
+    "Id": 3073502,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073502
+  },
+  {
+    "Id": 3073503,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073503
+  },
+  {
+    "Id": 3073504,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073504
+  },
+  {
+    "Id": 3073505,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073505
+  },
+  {
+    "Id": 3073506,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073506
+  },
+  {
+    "Id": 3073507,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073507
+  },
+  {
+    "Id": 3073601,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073601
+  },
+  {
+    "Id": 3073602,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073602
+  },
+  {
+    "Id": 3073603,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073603
+  },
+  {
+    "Id": 3073604,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073604
+  },
+  {
+    "Id": 3073605,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073605
+  },
+  {
+    "Id": 3073606,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073606
+  },
+  {
+    "Id": 3073607,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073607
+  },
+  {
+    "Id": 3073701,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073701
+  },
+  {
+    "Id": 3073801,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3073801
+  },
+  {
+    "Id": 3074101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3074101
+  },
+  {
+    "Id": 3080201,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3080201
+  },
+  {
+    "Id": 3080301,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 3080301
+  },
+  {
+    "Id": 4000101,
+    "GachaAppeal2WeaponGroupId": 0,
+    "ResourceId": 4000101
+  }
 ]

@@ -1,34 +1,50 @@
 [
-  [
-    12501,
-    125,
-    1,
-    616000000012501,
-    0,
-    1
-  ],
-  [
-    12502,
-    125,
-    2,
-    616000000012502,
-    0,
-    1
-  ],
-  [
-    12601,
-    126,
-    1,
-    616000000012601,
-    0,
-    1
-  ],
-  [
-    12602,
-    126,
-    2,
-    616000000012602,
-    0,
-    1
-  ]
+  {
+    "Id": 12501,
+    "GachaStampSheetTopGroupId": 125,
+    "GachaStampSheetTopTextType": 1,
+    "LanguageId": 616000000012501,
+    "RewardId": 0,
+    "OrderNo": 1
+  },
+  {
+    "Id": 12502,
+    "GachaStampSheetTopGroupId": 125,
+    "GachaStampSheetTopTextType": 2,
+    "LanguageId": 616000000012502,
+    "RewardId": 0,
+    "OrderNo": 1
+  },
+  {
+    "Id": 12601,
+    "GachaStampSheetTopGroupId": 126,
+    "GachaStampSheetTopTextType": 1,
+    "LanguageId": 616000000012601,
+    "RewardId": 0,
+    "OrderNo": 1
+  },
+  {
+    "Id": 12602,
+    "GachaStampSheetTopGroupId": 126,
+    "GachaStampSheetTopTextType": 2,
+    "LanguageId": 616000000012602,
+    "RewardId": 0,
+    "OrderNo": 1
+  },
+  {
+    "Id": 12701,
+    "GachaStampSheetTopGroupId": 127,
+    "GachaStampSheetTopTextType": 1,
+    "LanguageId": 616000000012701,
+    "RewardId": 0,
+    "OrderNo": 1
+  },
+  {
+    "Id": 12702,
+    "GachaStampSheetTopGroupId": 127,
+    "GachaStampSheetTopTextType": 2,
+    "LanguageId": 616000000012702,
+    "RewardId": 0,
+    "OrderNo": 1
+  }
 ]

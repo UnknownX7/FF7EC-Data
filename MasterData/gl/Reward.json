@@ -1284,6 +1284,12 @@
     "NameLanguageId": 102000000001019
   },
   {
+    "Id": 1001020,
+    "RewardType": 9,
+    "TargetId": 1020,
+    "NameLanguageId": 102000000001020
+  },
+  {
     "Id": 1002002,
     "RewardType": 9,
     "TargetId": 2002,
@@ -3844,6 +3850,24 @@
     "RewardType": 5,
     "TargetId": 1048,
     "NameLanguageId": 510000000001048
+  },
+  {
+    "Id": 10010491,
+    "RewardType": 5,
+    "TargetId": 1049,
+    "NameLanguageId": 510000000001049
+  },
+  {
+    "Id": 10010492,
+    "RewardType": 5,
+    "TargetId": 1049,
+    "NameLanguageId": 510000000001049
+  },
+  {
+    "Id": 10010493,
+    "RewardType": 5,
+    "TargetId": 1049,
+    "NameLanguageId": 510000000001049
   },
   {
     "Id": 10020011,
@@ -9114,6 +9138,24 @@
     "NameLanguageId": 510000000050030
   },
   {
+    "Id": 10500311,
+    "RewardType": 5,
+    "TargetId": 50031,
+    "NameLanguageId": 510000000050031
+  },
+  {
+    "Id": 10500312,
+    "RewardType": 5,
+    "TargetId": 50031,
+    "NameLanguageId": 510000000050031
+  },
+  {
+    "Id": 10500313,
+    "RewardType": 5,
+    "TargetId": 50031,
+    "NameLanguageId": 510000000050031
+  },
+  {
     "Id": 10510011,
     "RewardType": 5,
     "TargetId": 51001,
@@ -13828,6 +13870,12 @@
     "RewardType": 1,
     "TargetId": 300057,
     "NameLanguageId": 920000000300057
+  },
+  {
+    "Id": 20300058,
+    "RewardType": 1,
+    "TargetId": 300058,
+    "NameLanguageId": 920000000300058
   },
   {
     "Id": 20300059,
@@ -20004,6 +20052,30 @@
     "NameLanguageId": 560000001200089
   },
   {
+    "Id": 31200090,
+    "RewardType": 18,
+    "TargetId": 1200090,
+    "NameLanguageId": 560000001200090
+  },
+  {
+    "Id": 31200091,
+    "RewardType": 18,
+    "TargetId": 1200091,
+    "NameLanguageId": 560000001200091
+  },
+  {
+    "Id": 31200092,
+    "RewardType": 18,
+    "TargetId": 1200092,
+    "NameLanguageId": 560000001200092
+  },
+  {
+    "Id": 31200093,
+    "RewardType": 18,
+    "TargetId": 1200093,
+    "NameLanguageId": 560000001200093
+  },
+  {
     "Id": 31210001,
     "RewardType": 18,
     "TargetId": 1210001,
@@ -21483,6 +21555,18 @@
     "Id": 50004099,
     "RewardType": 27,
     "TargetId": 10000004099,
+    "NameLanguageId": 0
+  },
+  {
+    "Id": 50004100,
+    "RewardType": 27,
+    "TargetId": 10000004100,
+    "NameLanguageId": 0
+  },
+  {
+    "Id": 50004101,
+    "RewardType": 27,
+    "TargetId": 10000004101,
     "NameLanguageId": 0
   },
   {
@@ -31498,6 +31582,12 @@
     "RewardType": 15,
     "TargetId": 1007,
     "NameLanguageId": 561000000000904
+  },
+  {
+    "Id": 11000001008,
+    "RewardType": 15,
+    "TargetId": 1008,
+    "NameLanguageId": 561000000000905
   },
   {
     "Id": 11011011101,
