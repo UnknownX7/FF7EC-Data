@@ -6064,6 +6064,22 @@
     "OrderNo": 0
   },
   {
+    "Id": 22531,
+    "ItemType": 37,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 22004,
+    "NameLanguageId": 551000000022531,
+    "DescriptionLanguageId": 552000000022531,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": 0,
+    "EndDatetime": 0,
+    "OrderNo": 0
+  },
+  {
     "Id": 30001,
     "ItemType": 32,
     "ItemRarityType": 3,
@@ -8352,6 +8368,22 @@
     "OrderNo": 0
   },
   {
+    "Id": 300065,
+    "ItemType": 20,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999,
+    "ResourceId": 300065,
+    "NameLanguageId": 551000000300065,
+    "DescriptionLanguageId": 552000000300065,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": 1763604000000,
+    "EndDatetime": 0,
+    "OrderNo": 0
+  },
+  {
     "Id": 1000001,
     "ItemType": 18,
     "ItemRarityType": 5,
@@ -8460,6 +8492,22 @@
     "ConsumptionCountMax": 0,
     "ConsumptionResetId": 0,
     "StartDatetime": 1758765600000,
+    "EndDatetime": 0,
+    "OrderNo": 0
+  },
+  {
+    "Id": 1000008,
+    "ItemType": 18,
+    "ItemRarityType": 5,
+    "MaxCapacity": 99999999,
+    "ResourceId": 1000008,
+    "NameLanguageId": 551000001000008,
+    "DescriptionLanguageId": 552000001000008,
+    "ObtainCountMax": 0,
+    "ObtainResetId": 0,
+    "ConsumptionCountMax": 0,
+    "ConsumptionResetId": 0,
+    "StartDatetime": 1763604000000,
     "EndDatetime": 0,
     "OrderNo": 0
   },

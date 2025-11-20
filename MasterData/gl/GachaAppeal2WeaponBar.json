@@ -1,17 +1,22 @@
 [
-  [
-    1,
-    622000000000001,
-    1
-  ],
-  [
-    2,
-    622000000000002,
-    2
-  ],
-  [
-    4,
-    622000000000001,
-    4
-  ]
+  {
+    "Id": 1,
+    "CategoryLanguageId": 622000000000001,
+    "ResourceId": 1
+  },
+  {
+    "Id": 2,
+    "CategoryLanguageId": 622000000000002,
+    "ResourceId": 2
+  },
+  {
+    "Id": 3,
+    "CategoryLanguageId": 622000000000003,
+    "ResourceId": 3
+  },
+  {
+    "Id": 4,
+    "CategoryLanguageId": 622000000000001,
+    "ResourceId": 4
+  }
 ]
