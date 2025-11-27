@@ -1,29 +1,29 @@
 [
-  [
-    3256560072,
-    0,
-    1000,
-    -5,
-    10,
-    300,
-    3256560072
-  ],
-  [
-    3256560082,
-    0,
-    1000,
-    -5,
-    15,
-    300,
-    3256560082
-  ],
-  [
-    3256560092,
-    0,
-    1000,
-    -5,
-    20,
-    300,
-    3256560092
-  ]
+  {
+    "Id": 3256560072,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": -5,
+    "BreakTimeSec": 10,
+    "BreakTakenDamagePermil": 300,
+    "SkillChainGaugeTakenDamageEffectId": 3256560072
+  },
+  {
+    "Id": 3256560082,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": -5,
+    "BreakTimeSec": 15,
+    "BreakTakenDamagePermil": 300,
+    "SkillChainGaugeTakenDamageEffectId": 3256560082
+  },
+  {
+    "Id": 3256560092,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": -5,
+    "BreakTimeSec": 20,
+    "BreakTakenDamagePermil": 300,
+    "SkillChainGaugeTakenDamageEffectId": 3256560092
+  }
 ]

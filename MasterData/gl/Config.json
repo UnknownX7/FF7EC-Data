@@ -141,11 +141,11 @@
     "BattleSkipCharacterExpCoefficient": 3000,
     "BattleSkipMemoriaAnalysisPointCoefficient": 1000,
     "AbilityEnemyPieceCount": 1000,
-    "UNK_141": 500,
-    "UNK_142": 1,
-    "UNK_143": 200,
-    "UNK_144": 9999,
-    "UNK_145": 205002,
-    "UNK_146": 206003
+    "CostumeSubPassiveSkillPointCoefficient": 500,
+    "WeaponMedalToLimitMedalCount": 1,
+    "WeaponLimitResetToWeaponMedalCount": 200,
+    "MaxWeaponLimitMedalExchangeCount": 9999,
+    "DefaultWeaponMedalExchangeShopId": 205002,
+    "DefaultWeaponLimitMedalExchangeShopId": 206003
   }
 ]
