@@ -21,7 +21,7 @@
     "BattleScoreSettingId": 0,
     "BattleMultiIdleLimitSecond": 20,
     "DefaultAccessoryLimit": 100,
-    "DefaultMateriaLimit": 100,
+    "DefaultMateriaLimit": 200,
     "DefaultCraftLimit": 2,
     "DefaultChocoboLimit": 30,
     "AnotherDungeonKeyResetId": 10,
@@ -145,7 +145,7 @@
     "WeaponMedalToLimitMedalCount": 1,
     "WeaponLimitResetToWeaponMedalCount": 200,
     "MaxWeaponLimitMedalExchangeCount": 9999,
-    "DefaultWeaponMedalExchangeShopId": 205002,
-    "DefaultWeaponLimitMedalExchangeShopId": 206003
+    "DefaultWeaponMedalExchangeShopId": 231003,
+    "DefaultWeaponLimitMedalExchangeShopId": 205012
   }
 ]
