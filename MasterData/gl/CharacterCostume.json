@@ -1785,6 +1785,23 @@
     "SkillCharacterCostumeId": 0
   },
   {
+    "Id": 9006,
+    "CharacterId": 9,
+    "ResourceId": 9006,
+    "SetWeaponId": 9026,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 53101,
+    "PassiveSkillId1": 60401,
+    "PassiveSkillPoint0": 15,
+    "PassiveSkillPoint1": 10,
+    "NameLanguageId": 102000000009006,
+    "CharacterNovelCostumeId": 9006,
+    "PanelRenderEnvironmentId": 9006,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 100,
+    "SkillCharacterCostumeId": 9006
+  },
+  {
     "Id": 20001,
     "CharacterId": 20,
     "ResourceId": 20001,

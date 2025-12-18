@@ -2554,7 +2554,7 @@
     },
     {
       "id": 260709,
-      "value": "*If a guild member defeats the boss(es) before you join, you will not use up an attempt nor will you obtain a battle score or rewards."
+      "value": "*If another Guild member defeats the boss before you, you won't receive any points or rewards from the battle. Depending on the boss’s remaining HP, your attempt may still be used up."
     },
     {
       "id": 260710,
@@ -3366,11 +3366,11 @@
     },
     {
       "id": 260913,
-      "value": "Attempt Unused"
+      "value": "Defeated"
     },
     {
       "id": 260914,
-      "value": "Attempt was not used up\\nas a guild member had already defeated the boss(es)."
+      "value": "Another Guild member has already defeated the boss."
     },
     {
       "id": 260915,

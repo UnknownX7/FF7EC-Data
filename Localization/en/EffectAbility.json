@@ -815,6 +815,14 @@
     {
       "id": 504245,
       "value": "{0}\\nUses: {1}"
+    },
+    {
+      "id": 504262,
+      "value": "This effect is only valid against enemies that have a {0} sigil."
+    },
+    {
+      "id": 504263,
+      "value": "Applies {3} ATB Conservation Effect\n{2} [{3} Weapon/Gear C. Ability ATB Cost: -{4}] [Dur.: {5}s] [Ext.: +{6}s] {0} {1}"
     }
   ]
 }

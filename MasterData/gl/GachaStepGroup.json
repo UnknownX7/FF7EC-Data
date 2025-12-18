@@ -1896,6 +1896,38 @@
     "IsStampProgress": false
   },
   {
+    "Id": 1013301,
+    "GachaId": 10133,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
+    "Id": 1013302,
+    "GachaId": 10133,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 1013401,
+    "GachaId": 10134,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
+    "Id": 1013501,
+    "GachaId": 10135,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
     "Id": 2000101,
     "GachaId": 20001,
     "MaxCount": 0,
@@ -7258,6 +7290,22 @@
   {
     "Id": 2034702,
     "GachaId": 20347,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2034801,
+    "GachaId": 20348,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2034802,
+    "GachaId": 20348,
     "MaxCount": 0,
     "Priority": 1,
     "ResetId": 0,
@@ -13402,6 +13450,30 @@
   {
     "Id": 3081401,
     "GachaId": 30814,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3081501,
+    "GachaId": 30815,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3081601,
+    "GachaId": 30816,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3081701,
+    "GachaId": 30817,
     "MaxCount": 1,
     "Priority": 1,
     "ResetId": 16,

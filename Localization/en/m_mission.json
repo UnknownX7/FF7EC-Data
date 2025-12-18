@@ -429,6 +429,10 @@
       "value": "Raise Dragoon Lance's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
     {
+      "id": 701000110009026,
+      "value": "Raise Antler Pike's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
       "id": 701000110020011,
       "value": "Raise Ceremonial Sword (Z)'s rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
@@ -6439,6 +6443,22 @@
     {
       "id": 701120303702002,
       "value": "Clear any battle {0} time(s) in \"YoRHa No.2 Type B Intercept\"."
+    },
+    {
+      "id": 701120304302001,
+      "value": "Obtain {0} Materia Hunt Medal(s)."
+    },
+    {
+      "id": 701120304302002,
+      "value": "Consume {0} stamina in \"Materia Hunt\"."
+    },
+    {
+      "id": 701120304302003,
+      "value": "Log in."
+    },
+    {
+      "id": 701120304302004,
+      "value": "Consume {0} stamina in any battle."
     },
     {
       "id": 701120900501008,

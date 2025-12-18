@@ -9,6 +9,24 @@
     "EffectCoefficient": 400
   },
   {
+    "Id": 10400512,
+    "SkillStatusChangeType": 23,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "EffectCoefficient": 500
+  },
+  {
+    "Id": 10400513,
+    "SkillStatusChangeType": 4,
+    "MinDurationSec": 15,
+    "MaxDurationSec": 15,
+    "MinDuplicationDurationSec": 15,
+    "MaxDuplicationDurationSec": 15,
+    "EffectCoefficient": 300
+  },
+  {
     "Id": 10402212,
     "SkillStatusChangeType": 11,
     "MinDurationSec": 60,
@@ -16,6 +34,33 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "EffectCoefficient": 300
+  },
+  {
+    "Id": 10700612,
+    "SkillStatusChangeType": 10,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "EffectCoefficient": 80
+  },
+  {
+    "Id": 15000512,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "EffectCoefficient": 300
+  },
+  {
+    "Id": 15600612,
+    "SkillStatusChangeType": 6,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "EffectCoefficient": 100
   },
   {
     "Id": 53101101,
@@ -1752,6 +1797,42 @@
     "MaxDurationSec": 60,
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
+    "EffectCoefficient": 300
+  },
+  {
+    "Id": 109026012,
+    "SkillStatusChangeType": 28,
+    "MinDurationSec": 15,
+    "MaxDurationSec": 15,
+    "MinDuplicationDurationSec": 5,
+    "MaxDuplicationDurationSec": 5,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 109026022,
+    "SkillStatusChangeType": 28,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "EffectCoefficient": 200
+  },
+  {
+    "Id": 109026032,
+    "SkillStatusChangeType": 28,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "EffectCoefficient": 250
+  },
+  {
+    "Id": 109026042,
+    "SkillStatusChangeType": 28,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
     "EffectCoefficient": 300
   },
   {

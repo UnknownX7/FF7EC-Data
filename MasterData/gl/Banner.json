@@ -1340,6 +1340,16 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 100000146,
+    "TransitionType": 14,
+    "TransitionId": 25124031,
+    "DisplayConditionSetId": 170000010133,
+    "ResourceId": 100000146,
+    "Priority": 25124003,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 200010003,
     "TransitionType": 12,
     "TransitionId": 10003,
@@ -2596,6 +2606,36 @@
     "DisplayConditionSetId": 170000010132,
     "ResourceId": 200010132,
     "Priority": 25123003,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010133,
+    "TransitionType": 12,
+    "TransitionId": 10133,
+    "DisplayConditionSetId": 170000010133,
+    "ResourceId": 200010133,
+    "Priority": 25124006,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010134,
+    "TransitionType": 12,
+    "TransitionId": 10134,
+    "DisplayConditionSetId": 170000010133,
+    "ResourceId": 200010134,
+    "Priority": 25124005,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010135,
+    "TransitionType": 12,
+    "TransitionId": 10135,
+    "DisplayConditionSetId": 170000010135,
+    "ResourceId": 200010135,
+    "Priority": 25124004,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },
@@ -4320,6 +4360,16 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 300003043,
+    "TransitionType": 2,
+    "TransitionId": 3043,
+    "DisplayConditionSetId": 613000003043,
+    "ResourceId": 300003043,
+    "Priority": 25124002,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 300007001,
     "TransitionType": 55,
     "TransitionId": 0,
@@ -4646,6 +4696,16 @@
     "DisplayConditionSetId": 613000009017,
     "ResourceId": 300009017,
     "Priority": 25114001,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300009018,
+    "TransitionType": 60,
+    "TransitionId": 0,
+    "DisplayConditionSetId": 613000009018,
+    "ResourceId": 300009018,
+    "Priority": 25124001,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },
