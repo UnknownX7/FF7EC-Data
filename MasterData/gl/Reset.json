@@ -387,6 +387,15 @@
     "TargetId": 0
   },
   {
+    "Id": 58000001,
+    "ResetOffsetDatetime": -14400000,
+    "CycleType": 4,
+    "ResetLength": 1,
+    "ResetDisplayType": 1,
+    "ResetOffsetDatetimeType": 0,
+    "TargetId": 0
+  },
+  {
     "Id": 205002001,
     "ResetOffsetDatetime": 1767319200000,
     "CycleType": 5,
@@ -406,7 +415,7 @@
   },
   {
     "Id": 205002003,
-    "ResetOffsetDatetime": 1760061600000,
+    "ResetOffsetDatetime": 1769738400000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -415,7 +424,7 @@
   },
   {
     "Id": 205002004,
-    "ResetOffsetDatetime": 1758852000000,
+    "ResetOffsetDatetime": 1768528800000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -424,7 +433,7 @@
   },
   {
     "Id": 205002005,
-    "ResetOffsetDatetime": 1761271200000,
+    "ResetOffsetDatetime": 1770948000000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -433,7 +442,7 @@
   },
   {
     "Id": 205002006,
-    "ResetOffsetDatetime": 1763690400000,
+    "ResetOffsetDatetime": 1773367200000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -469,7 +478,7 @@
   },
   {
     "Id": 205002020,
-    "ResetOffsetDatetime": 1763085600000,
+    "ResetOffsetDatetime": 1772762400000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -478,7 +487,7 @@
   },
   {
     "Id": 205002049,
-    "ResetOffsetDatetime": 1761876000000,
+    "ResetOffsetDatetime": 1771552800000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -487,7 +496,7 @@
   },
   {
     "Id": 205002050,
-    "ResetOffsetDatetime": 1759456800000,
+    "ResetOffsetDatetime": 1769133600000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -496,7 +505,7 @@
   },
   {
     "Id": 205002051,
-    "ResetOffsetDatetime": 1762480800000,
+    "ResetOffsetDatetime": 1772157600000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,
@@ -505,7 +514,7 @@
   },
   {
     "Id": 205002052,
-    "ResetOffsetDatetime": 1760666400000,
+    "ResetOffsetDatetime": 1770343200000,
     "CycleType": 5,
     "ResetLength": 5,
     "ResetDisplayType": 0,

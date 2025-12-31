@@ -28,6 +28,13 @@
     "UseCountLimit": 1
   },
   {
+    "Id": 1020061,
+    "SkillBaseId": 1020061,
+    "ResourceId": 1020061,
+    "Cost": 4,
+    "UseCountLimit": 3
+  },
+  {
     "Id": 1030061,
     "SkillBaseId": 1030061,
     "ResourceId": 1030061,
@@ -45,6 +52,13 @@
     "Id": 1030241,
     "SkillBaseId": 1030241,
     "ResourceId": 1030241,
+    "Cost": 4,
+    "UseCountLimit": 2
+  },
+  {
+    "Id": 1030261,
+    "SkillBaseId": 1030261,
+    "ResourceId": 1030261,
     "Cost": 4,
     "UseCountLimit": 2
   },
@@ -94,6 +108,13 @@
     "Id": 1060151,
     "SkillBaseId": 1060151,
     "ResourceId": 1060151,
+    "Cost": 4,
+    "UseCountLimit": 2
+  },
+  {
+    "Id": 1060161,
+    "SkillBaseId": 1060161,
+    "ResourceId": 1060161,
     "Cost": 4,
     "UseCountLimit": 2
   },
@@ -208,6 +229,13 @@
     "ResourceId": 1600011,
     "Cost": 4,
     "UseCountLimit": 1
+  },
+  {
+    "Id": 1600021,
+    "SkillBaseId": 1600021,
+    "ResourceId": 1600021,
+    "Cost": 4,
+    "UseCountLimit": 2
   },
   {
     "Id": 2101001,
@@ -3112,6 +3140,34 @@
     "SkillBaseId": 10003299,
     "ResourceId": 10203299,
     "Cost": 5,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10203301,
+    "SkillBaseId": 10203301,
+    "ResourceId": 10203301,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10203302,
+    "SkillBaseId": 10203302,
+    "ResourceId": 10203301,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10203303,
+    "SkillBaseId": 10203303,
+    "ResourceId": 10203303,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10203304,
+    "SkillBaseId": 10203304,
+    "ResourceId": 10203304,
+    "Cost": 4,
     "UseCountLimit": 0
   },
   {
@@ -7675,6 +7731,34 @@
     "Id": 10603904,
     "SkillBaseId": 10603904,
     "ResourceId": 10603904,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10604001,
+    "SkillBaseId": 10604001,
+    "ResourceId": 10604001,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10604002,
+    "SkillBaseId": 10604002,
+    "ResourceId": 10604001,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10604003,
+    "SkillBaseId": 10604003,
+    "ResourceId": 10604003,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10604004,
+    "SkillBaseId": 10604004,
+    "ResourceId": 10604004,
     "Cost": 4,
     "UseCountLimit": 0
   },
@@ -16086,6 +16170,34 @@
     "UseCountLimit": 0
   },
   {
+    "Id": 16000701,
+    "SkillBaseId": 16000701,
+    "ResourceId": 16000701,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 16000702,
+    "SkillBaseId": 16000702,
+    "ResourceId": 16000701,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 16000703,
+    "SkillBaseId": 16000703,
+    "ResourceId": 16000703,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 16000704,
+    "SkillBaseId": 16000704,
+    "ResourceId": 16000704,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
     "Id": 16000799,
     "SkillBaseId": 10000799,
     "ResourceId": 16000799,
@@ -16096,6 +16208,34 @@
     "Id": 16000899,
     "SkillBaseId": 10000899,
     "ResourceId": 16000899,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 16000901,
+    "SkillBaseId": 16000901,
+    "ResourceId": 16000901,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 16000902,
+    "SkillBaseId": 16000902,
+    "ResourceId": 16000901,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 16000903,
+    "SkillBaseId": 16000903,
+    "ResourceId": 16000903,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 16000904,
+    "SkillBaseId": 16000904,
+    "ResourceId": 16000904,
     "Cost": 4,
     "UseCountLimit": 0
   },

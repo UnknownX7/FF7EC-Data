@@ -169,5 +169,24 @@
     "ReleaseStartDatetime": 1765418400000,
     "MemoriaParameterAnalysisPointGroupId": 1,
     "MemoriaSkillGroupId": 1510010
+  },
+  {
+    "Id": 1510011,
+    "RarityType": 3,
+    "BaseHp": 2400,
+    "BasePhysicalAttack": 160,
+    "BaseMagicalAttack": 800,
+    "BasePhysicalDefense": 120,
+    "BaseMagicalDefense": 40,
+    "BaseHealingPower": 400,
+    "RequiredFragmentCount": 30,
+    "ResourceId": 1510011,
+    "NameLanguageId": 556000001510011,
+    "FlavorTextLanguageId": 557000001510011,
+    "SourceInformationLanguageId": 558000001510011,
+    "CopyrightLanguageId": 559000001510011,
+    "ReleaseStartDatetime": 1767193200000,
+    "MemoriaParameterAnalysisPointGroupId": 1,
+    "MemoriaSkillGroupId": 1510011
   }
 ]

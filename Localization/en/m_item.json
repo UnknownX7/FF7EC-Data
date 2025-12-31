@@ -1294,7 +1294,7 @@
     },
     {
       "id": 551000000022020,
-      "value": "Custom Box - 5★ Synth Catalysts"
+      "value": "Custom Box - 5<sprite=\"tmp_icon\" index=196> Synth Catalysts"
     },
     {
       "id": 551000000022501,
@@ -1419,6 +1419,34 @@
     {
       "id": 551000000022532,
       "value": "Lottery Box - FFVII EC Winter"
+    },
+    {
+      "id": 551000000022533,
+      "value": "New Year 2026 Lucky Bag Vol. 1"
+    },
+    {
+      "id": 551000000022534,
+      "value": "New Year 2026 Lucky Bag Vol. 2"
+    },
+    {
+      "id": 551000000022535,
+      "value": "New Year 2026 Lucky Bag Vol. 3"
+    },
+    {
+      "id": 551000000022536,
+      "value": "New Year 2026 Lucky Bag Vol. 4"
+    },
+    {
+      "id": 551000000022537,
+      "value": "New Year 2026 Lucky Bag Vol. 5"
+    },
+    {
+      "id": 551000000022538,
+      "value": "New Year 2026 Lucky Bag Vol. 6"
+    },
+    {
+      "id": 551000000022539,
+      "value": "New Year 2026 Lucky Bag Vol. 7"
     },
     {
       "id": 551000000030001,
@@ -1993,12 +2021,24 @@
       "value": "Custom Box - 2B Incursion Event Weapon"
     },
     {
+      "id": 551000000300067,
+      "value": "New Year 2026 New Wpn. Voucher"
+    },
+    {
+      "id": 551000000300068,
+      "value": "New Year 2026 Medal"
+    },
+    {
       "id": 551000000300069,
       "value": "Holidays Attire Voucher"
     },
     {
       "id": 551000000300070,
       "value": "Winter Gear Voucher Vol. 5"
+    },
+    {
+      "id": 551000000300071,
+      "value": "Reawakened Gear Voucher Vol. 1"
     },
     {
       "id": 551000001000001,
@@ -2259,6 +2299,10 @@
     {
       "id": 551000001002032,
       "value": "Escutcheon Cannon Parts"
+    },
+    {
+      "id": 551000001002033,
+      "value": "Sunrise Cannon Parts"
     },
     {
       "id": 551000001002035,
@@ -2797,6 +2841,14 @@
       "value": "Fatum Ex Machina Parts"
     },
     {
+      "id": 551000001006040,
+      "value": "Heirloom Brush Parts"
+    },
+    {
+      "id": 551000001006043,
+      "value": "Mako Gem (Rising Sun)"
+    },
+    {
       "id": 551000001007001,
       "value": "Yellow Megaphone Parts"
     },
@@ -3026,7 +3078,7 @@
     },
     {
       "id": 551000001009018,
-      "value": "N/A"
+      "value": "#N/A"
     },
     {
       "id": 551000001009019,
@@ -3666,7 +3718,7 @@
     },
     {
       "id": 551000001056012,
-      "value": "Ultimate Type-90 Longsword Parts"
+      "value": "#N/A"
     },
     {
       "id": 551000001056013,
@@ -3749,8 +3801,16 @@
       "value": "Kikuichimonji Parts"
     },
     {
+      "id": 551000001060007,
+      "value": "Muramasa Parts"
+    },
+    {
       "id": 551000001060008,
       "value": "Mako Gem (Heaven's Cloud)"
+    },
+    {
+      "id": 551000001060009,
+      "value": "Divine Steed Blade Parts"
     },
     {
       "id": 551000002020051,
@@ -4327,6 +4387,22 @@
     {
       "id": 551000002030373,
       "value": "Black Pearl"
+    },
+    {
+      "id": 551000002030381,
+      "value": "Kakuriyo-nushi Certificate"
+    },
+    {
+      "id": 551000002030382,
+      "value": "Kakuriyo-nushi Certificate α"
+    },
+    {
+      "id": 551000002030383,
+      "value": "Kakuriyo-nushi Certificate β"
+    },
+    {
+      "id": 551000002030384,
+      "value": "Rare Enemy Medal"
     },
     {
       "id": 551000002030431,
@@ -5869,6 +5945,10 @@
       "value": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
     },
     {
+      "id": 552000000022533,
+      "value": "Used to obtain one type of item at random. \nEach item that appears has the same appearance rate.\nCan be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    {
       "id": 552000000030001,
       "value": "Used to participate in score battles."
     },
@@ -6441,12 +6521,24 @@
       "value": "Used to obtain one 2B Incursion Crossover Weapon of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
     },
     {
+      "id": 552000000300067,
+      "value": "Traded for rare items at the <command_color=common_03>Selectable Wpn. Exchange</color>."
+    },
+    {
+      "id": 552000000300068,
+      "value": "Traded for items at the <command_color=common_03>New Year 2026 Lucky Bag Exchange</color>."
+    },
+    {
       "id": 552000000300069,
       "value": "Traded for rare items at the <command_color=common_03>Holidays Gear Exchange</color>."
     },
     {
       "id": 552000000300070,
       "value": "Traded for items at the <command_color=common_03>Winter Reawakened Gear Exchange</color>."
+    },
+    {
+      "id": 552000000300071,
+      "value": "Traded for rare items at the <command_color=common_03>Reawakened Gear Exchange</color>."
     },
     {
       "id": 552000001000001,
@@ -6707,6 +6799,10 @@
     {
       "id": 552000001002032,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Escutcheon Cannon</color>."
+    },
+    {
+      "id": 552000001002033,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Sunrise Cannon</color>."
     },
     {
       "id": 552000001002035,
@@ -7243,6 +7339,14 @@
     {
       "id": 552000001006039,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Fatum Ex Machina</color>."
+    },
+    {
+      "id": 552000001006040,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Heirloom Brush</color>."
+    },
+    {
+      "id": 552000001006043,
+      "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
     },
     {
       "id": 552000001007001,
@@ -8197,8 +8301,16 @@
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Kikuichimonji</color>."
     },
     {
+      "id": 552000001060007,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Muramasa</color>."
+    },
+    {
       "id": 552000001060008,
       "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    {
+      "id": 552000001060009,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Divine Steed Blade</color>."
     },
     {
       "id": 552000002020051,
@@ -8774,6 +8886,22 @@
     },
     {
       "id": 552000002030373,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030381,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030382,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030383,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030384,
       "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
     },
     {

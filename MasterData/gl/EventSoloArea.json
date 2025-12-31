@@ -814,6 +814,17 @@
     "IsDisplayBossChallenge": true
   },
   {
+    "Id": 14012,
+    "EventSoloAreaGroupId": 14012,
+    "OrderNo": 1,
+    "ResourceId": 14012,
+    "DisplayConditionSetId": 613000014012,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017002,
+    "EventAreaCategoryId": 14012,
+    "IsDisplayBossChallenge": true
+  },
+  {
     "Id": 130071,
     "EventSoloAreaGroupId": 13007,
     "OrderNo": 1,
@@ -1672,6 +1683,28 @@
     "IsDisplayBossChallenge": false
   },
   {
+    "Id": 1500111,
+    "EventSoloAreaGroupId": 1500101,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000015001001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 1500112,
+    "EventSoloAreaGroupId": 1500101,
+    "OrderNo": 2,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000015001002,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
     "Id": 3017011,
     "EventSoloAreaGroupId": 3017,
     "OrderNo": 1,
@@ -2131,6 +2164,39 @@
     "LockConditionSetId": 0,
     "NameLanguageId": 863000003017002,
     "EventAreaCategoryId": 303701,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3038011,
+    "EventSoloAreaGroupId": 3038,
+    "OrderNo": 1,
+    "ResourceId": 3038,
+    "DisplayConditionSetId": 611000003038,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017002,
+    "EventAreaCategoryId": 303801,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3038012,
+    "EventSoloAreaGroupId": 3038,
+    "OrderNo": 1,
+    "ResourceId": 3038,
+    "DisplayConditionSetId": 611000003038,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3038021,
+    "EventSoloAreaGroupId": 3038,
+    "OrderNo": 1,
+    "ResourceId": 3038,
+    "DisplayConditionSetId": 611000003038,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017002,
+    "EventAreaCategoryId": 303802,
     "IsDisplayBossChallenge": false
   },
   {

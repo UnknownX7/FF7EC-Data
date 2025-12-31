@@ -2670,6 +2670,36 @@
     "MateriaDurationGroupId": 15
   },
   {
+    "Id": 21620010201,
+    "MateriaRecipeId": 216200102,
+    "QualityType": 1,
+    "MateriaDurationGroupId": 31
+  },
+  {
+    "Id": 21620010202,
+    "MateriaRecipeId": 216200102,
+    "QualityType": 2,
+    "MateriaDurationGroupId": 32
+  },
+  {
+    "Id": 21620010203,
+    "MateriaRecipeId": 216200102,
+    "QualityType": 3,
+    "MateriaDurationGroupId": 33
+  },
+  {
+    "Id": 21620010204,
+    "MateriaRecipeId": 216200102,
+    "QualityType": 4,
+    "MateriaDurationGroupId": 34
+  },
+  {
+    "Id": 21620010205,
+    "MateriaRecipeId": 216200102,
+    "QualityType": 5,
+    "MateriaDurationGroupId": 35
+  },
+  {
     "Id": 21620010301,
     "MateriaRecipeId": 216200103,
     "QualityType": 1,
@@ -2696,6 +2726,36 @@
   {
     "Id": 21620010305,
     "MateriaRecipeId": 216200103,
+    "QualityType": 5,
+    "MateriaDurationGroupId": 35
+  },
+  {
+    "Id": 21620020201,
+    "MateriaRecipeId": 216200202,
+    "QualityType": 1,
+    "MateriaDurationGroupId": 31
+  },
+  {
+    "Id": 21620020202,
+    "MateriaRecipeId": 216200202,
+    "QualityType": 2,
+    "MateriaDurationGroupId": 32
+  },
+  {
+    "Id": 21620020203,
+    "MateriaRecipeId": 216200202,
+    "QualityType": 3,
+    "MateriaDurationGroupId": 33
+  },
+  {
+    "Id": 21620020204,
+    "MateriaRecipeId": 216200202,
+    "QualityType": 4,
+    "MateriaDurationGroupId": 34
+  },
+  {
+    "Id": 21620020205,
+    "MateriaRecipeId": 216200202,
     "QualityType": 5,
     "MateriaDurationGroupId": 35
   },

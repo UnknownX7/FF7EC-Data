@@ -1617,6 +1617,27 @@
     "DescriptionLanguageId": 971000234010101
   },
   {
+    "TutorialPopupGroupId": 2350001,
+    "Seq": 1,
+    "ResourceId": 235000101,
+    "TitleLanguageId": 970000235000101,
+    "DescriptionLanguageId": 971000235000101
+  },
+  {
+    "TutorialPopupGroupId": 2350001,
+    "Seq": 2,
+    "ResourceId": 235000102,
+    "TitleLanguageId": 970000235000102,
+    "DescriptionLanguageId": 971000235000102
+  },
+  {
+    "TutorialPopupGroupId": 2350001,
+    "Seq": 3,
+    "ResourceId": 235000103,
+    "TitleLanguageId": 970000235000103,
+    "DescriptionLanguageId": 971000235000103
+  },
+  {
     "TutorialPopupGroupId": 3010001,
     "Seq": 1,
     "ResourceId": 0,
@@ -2203,6 +2224,13 @@
     "ResourceId": 3100000551,
     "TitleLanguageId": 970003100000551,
     "DescriptionLanguageId": 971003100000551
+  },
+  {
+    "TutorialPopupGroupId": 310000056,
+    "Seq": 1,
+    "ResourceId": 3100000561,
+    "TitleLanguageId": 970003100000561,
+    "DescriptionLanguageId": 971003100000561
   },
   {
     "TutorialPopupGroupId": 320000001,

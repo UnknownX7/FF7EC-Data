@@ -93,6 +93,10 @@
       "value": "Fire Ability Dmg. +{1}%"
     },
     {
+      "id": 545000020208101,
+      "value": "All Allies' Fire Ability Dmg. +{1}%"
+    },
+    {
       "id": 545000020301101,
       "value": "Ice Ability Dmg. +{1}%"
     },
@@ -1025,6 +1029,62 @@
       "value": "Buff/Debuff (Stats/Pot./Res.) Effect Duration +{1}%"
     },
     {
+      "id": 545000060601101,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000060601201,
+      "value": "HP +{1}%"
+    },
+    {
+      "id": 545000060701101,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000060701201,
+      "value": "HP +{1}%"
+    },
+    {
+      "id": 545000060801101,
+      "value": "All Allies' Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000060901101,
+      "value": "Applies HP Gain on all allies when stream phase is activated\n(Effect Dur.: 30s / Effect Dur. Ext.: +30s / When triggered: restores 3% of target's max HP)"
+    },
+    {
+      "id": 545000060901102,
+      "value": "Applies HP Gain on all allies when stream phase is activated\n(Effect Dur.: 30s / Effect Dur. Ext.: +30s / When triggered: restores 5% of target's max HP)"
+    },
+    {
+      "id": 545000060901103,
+      "value": "Applies HP Gain on all allies when stream phase is activated\n(Effect Dur.: 30s / Effect Dur. Ext.: +30s / When triggered: restores 7% of target's max HP)"
+    },
+    {
+      "id": 545000060901104,
+      "value": "Applies HP Gain on all allies when stream phase is activated\n(Effect Dur.: 30s / Effect Dur. Ext.: +30s / When triggered: restores 10% of target's max HP)"
+    },
+    {
+      "id": 545000061001101,
+      "value": "Fire Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000061001201,
+      "value": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000061001301,
+      "value": "HP +{1}%"
+    },
+    {
+      "id": 545000061101101,
+      "value": "When granting Phys. Defense Up: Max. Pot. Tier +1\n(Only affects max. tier)"
+    },
+    {
+      "id": 545000061101201,
+      "value": "Phys. & Mag. Defense +{1}%"
+    },
+    {
       "id": 545000112101101,
       "value": "Max. ATB +{0}"
     },
@@ -1043,6 +1103,10 @@
     {
       "id": 545000120601101,
       "value": "Water Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000120701101,
+      "value": "Wind Ability Dmg. +{1}%"
     },
     {
       "id": 545000151101101,

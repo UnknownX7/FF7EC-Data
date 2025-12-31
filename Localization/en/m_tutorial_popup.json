@@ -869,6 +869,18 @@
       "value": "Sub Gear Slot Unlocked"
     },
     {
+      "id": 970000235000101,
+      "value": "Damage Ranking Battle Effects 1"
+    },
+    {
+      "id": 970000235000102,
+      "value": "Damage Ranking Battle Effects 2"
+    },
+    {
+      "id": 970000235000103,
+      "value": "Total Points"
+    },
+    {
       "id": 970000301000101,
       "value": "The Auto-battle feature is now available. \nYou can choose from the Manual-battle."
     },
@@ -1203,6 +1215,10 @@
     {
       "id": 970003100000551,
       "value": "Force Gauge: M Shield"
+    },
+    {
+      "id": 970003100000561,
+      "value": "Force Gauge: Purification"
     },
     {
       "id": 970003200000011,
@@ -1633,6 +1649,18 @@
       "value": "<command_color=common_03>Sub gear equipment slot</color> has been unlocked.\nSub gear will have their R. abilities reflected. Equippable sub gear will vary according to the character."
     },
     {
+      "id": 971000235000101,
+      "value": "In <command_color=common_03>Damage Ranking</color>, you can set <command_color=common_03>battle effects</color> before taking on quests. Setting these effects will grant you the <command_color=common_03>effect of strengthening allies</color> at the start of battle.\n<command_color=common_02>*Unlike Battle Ranking, there are no stage levels or bonuses tied to battle effects.</color>"
+    },
+    {
+      "id": 971000235000102,
+      "value": "For Damage Ranking battle effects, there is a set <command_color=common_03>cost</color> for each effect value, and the effects must be set within the <command_color=common_03>cost limit</color>. The <command_color=common_03>cost limit</color> can be raised by progressing through the event."
+    },
+    {
+      "id": 971000235000103,
+      "value": "In <command_color=common_03>Damage Ranking</color>, you can obtain <command_color=common_03>total points for the event based on your battle score</color>. Before battle, you will be given the option of setting the <command_color=common_03>points boost feature</color>. Setting the points boost feature will <command_color=common_03>increase the number of total points you obtain</color>.\n<command_color=common_02>*The points boost feature can only be used a limited number of times.</color>"
+    },
+    {
       "id": 971000330000101,
       "value": "A new role stream has been added.\n\nTap the button in the bottom left of the character stream to switch streams."
     },
@@ -1951,6 +1979,10 @@
     {
       "id": 971003100000551,
       "value": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. When the force gauge is reduced to 0, <command_color=common_03>the enemy will be temporarily incapacitated</color> and <command_color=common_03>their increased magic resistance and MDEF Down resistance will be removed</color>."
+    },
+    {
+      "id": 971003100000561,
+      "value": "The enemy's force gauge fills <command_color=common_03>over time and as they use certain abilities</color>. <command_color=common_03>Dealing damage</color> will deplete the gauge. <command_color=common_03>Use of certain abilities</color> is dependent on the amount the gauge is filled."
     },
     {
       "id": 971003200000011,

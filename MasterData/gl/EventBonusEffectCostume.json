@@ -1911,6 +1911,34 @@
     "LockConditionSetId": 782000303702
   },
   {
+    "Id": 30380101,
+    "EventBonusEffectCostumeGroupId": 303801,
+    "CostumeId": 60002,
+    "BonusCoefficientPermil": 200,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 30380102,
+    "EventBonusEffectCostumeGroupId": 303801,
+    "CostumeId": 6016,
+    "BonusCoefficientPermil": 200,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 30380103,
+    "EventBonusEffectCostumeGroupId": 303801,
+    "CostumeId": 2006,
+    "BonusCoefficientPermil": 200,
+    "LockConditionSetId": 782000303801
+  },
+  {
+    "Id": 30380105,
+    "EventBonusEffectCostumeGroupId": 303801,
+    "CostumeId": 3026,
+    "BonusCoefficientPermil": 200,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 110010101,
     "EventBonusEffectCostumeGroupId": 1100101,
     "CostumeId": 3012,

@@ -601,6 +601,18 @@
       "value": "Enemy Ability Streams"
     },
     {
+      "id": 911000000006101,
+      "value": "Damage Ranking Battle Effects 1"
+    },
+    {
+      "id": 911000000006102,
+      "value": "Damage Ranking Battle Effects 2"
+    },
+    {
+      "id": 911000000006103,
+      "value": "Total Points"
+    },
+    {
       "id": 911000000010001,
       "value": "Crash Battles"
     },
@@ -1207,6 +1219,18 @@
     {
       "id": 912000000006001,
       "value": "Obtaining enemy abilities will unlock the <command_color=common_03>enemy ability stream</color>. You can then <command_color=common_03>unlock nodes</color> to improve various stats.\n<command_color=common_02>*Enemy ability memories are required to unlock nodes.</color>\n<command_color=common_02>*Enemy ability shown in image differs from those obtainable in-game.</color>"
+    },
+    {
+      "id": 912000000006101,
+      "value": "In <command_color=common_03>Damage Ranking</color>, you can set <command_color=common_03>battle effects</color> before taking on quests. Setting these effects will grant you the <command_color=common_03>effect of strengthening allies</color> at the start of battle.\n<command_color=common_02>*Unlike Battle Ranking, there are no stage levels or bonuses tied to battle effects.</color>"
+    },
+    {
+      "id": 912000000006102,
+      "value": "For Damage Ranking battle effects, there is a set <command_color=common_03>cost</color> for each effect value, and the effects must be set within the <command_color=common_03>cost limit</color>. The <command_color=common_03>cost limit</color> can be raised by progressing through the event."
+    },
+    {
+      "id": 912000000006103,
+      "value": "In <command_color=common_03>Damage Ranking</color>, you can obtain <command_color=common_03>total points for the event based on your battle score</color>. Before battle, you will be given the option of setting the <command_color=common_03>points boost feature</color>. Setting the points boost feature will <command_color=common_03>increase the number of total points you obtain</color>.\n<command_color=common_02>*The points boost feature can only be used a limited number of times.</color>"
     },
     {
       "id": 912000000010001,

@@ -93,6 +93,10 @@
       "value": "Scrap Armor"
     },
     {
+      "id": 102000000002006,
+      "value": "Sunrise Hakama"
+    },
+    {
       "id": 102000000002007,
       "value": "Dragon King Varvados"
     },
@@ -171,6 +175,10 @@
     {
       "id": 102000000003024,
       "value": "Battler Ensemble"
+    },
+    {
+      "id": 102000000003026,
+      "value": "Golden Flower Kimono"
     },
     {
       "id": 102000000004002,
@@ -327,6 +335,10 @@
     {
       "id": 102000000006015,
       "value": "Savior Ensemble"
+    },
+    {
+      "id": 102000000006016,
+      "value": "Heirloom Kimono"
     },
     {
       "id": 102000000007002,
@@ -637,6 +649,10 @@
       "value": "Ghost Robe"
     },
     {
+      "id": 102000000060002,
+      "value": "One with the Blade"
+    },
+    {
       "id": 102000000060003,
       "value": "Corruptor of the Planet"
     },
@@ -887,6 +903,10 @@
     {
       "id": 510000000002032,
       "value": "Escutcheon Cannon"
+    },
+    {
+      "id": 510000000002033,
+      "value": "Sunrise Cannon"
     },
     {
       "id": 510000000002035,
@@ -1435,6 +1455,14 @@
     {
       "id": 510000000006039,
       "value": "Fatum Ex Machina"
+    },
+    {
+      "id": 510000000006040,
+      "value": "Heirloom Brush"
+    },
+    {
+      "id": 510000000006043,
+      "value": "Rising Sun"
     },
     {
       "id": 510000000007001,
@@ -2421,8 +2449,16 @@
       "value": "Ultimate Masamune"
     },
     {
+      "id": 510000000060007,
+      "value": "Muramasa"
+    },
+    {
       "id": 510000000060008,
       "value": "Heaven's Cloud"
+    },
+    {
+      "id": 510000000060009,
+      "value": "Divine Steed Blade"
     },
     {
       "id": 530000002101001,
@@ -2733,8 +2769,16 @@
       "value": "Aero Recipe"
     },
     {
+      "id": 532000216200102,
+      "value": "Aero (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
       "id": 532000216200103,
       "value": "Aero (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000216200202,
+      "value": "Aero Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
       "id": 532000216200203,
@@ -4158,7 +4202,7 @@
     },
     {
       "id": 551000000022020,
-      "value": "Custom Box - 5★ Synth Catalysts"
+      "value": "Custom Box - 5<sprite=\"tmp_icon\" index=196> Synth Catalysts"
     },
     {
       "id": 551000000022504,
@@ -4271,6 +4315,34 @@
     {
       "id": 551000000022532,
       "value": "Lottery Box - FFVII EC Winter"
+    },
+    {
+      "id": 551000000022533,
+      "value": "New Year 2026 Lucky Bag Vol. 1"
+    },
+    {
+      "id": 551000000022534,
+      "value": "New Year 2026 Lucky Bag Vol. 2"
+    },
+    {
+      "id": 551000000022535,
+      "value": "New Year 2026 Lucky Bag Vol. 3"
+    },
+    {
+      "id": 551000000022536,
+      "value": "New Year 2026 Lucky Bag Vol. 4"
+    },
+    {
+      "id": 551000000022537,
+      "value": "New Year 2026 Lucky Bag Vol. 5"
+    },
+    {
+      "id": 551000000022538,
+      "value": "New Year 2026 Lucky Bag Vol. 6"
+    },
+    {
+      "id": 551000000022539,
+      "value": "New Year 2026 Lucky Bag Vol. 7"
     },
     {
       "id": 551000000030001,
@@ -4837,12 +4909,24 @@
       "value": "Custom Box - 2B Incursion Event Weapon"
     },
     {
+      "id": 551000000300067,
+      "value": "New Year 2026 New Wpn. Voucher"
+    },
+    {
+      "id": 551000000300068,
+      "value": "New Year 2026 Medal"
+    },
+    {
       "id": 551000000300069,
       "value": "Holidays Attire Voucher"
     },
     {
       "id": 551000000300070,
       "value": "Winter Gear Voucher Vol. 5"
+    },
+    {
+      "id": 551000000300071,
+      "value": "Reawakened Gear Voucher Vol. 1"
     },
     {
       "id": 551000001000001,
@@ -4915,6 +4999,10 @@
     {
       "id": 551000001006032,
       "value": "Mako Gem (Conformer)"
+    },
+    {
+      "id": 551000001006043,
+      "value": "Mako Gem (Rising Sun)"
     },
     {
       "id": 551000001007032,
@@ -5535,6 +5623,22 @@
     {
       "id": 551000002030373,
       "value": "Black Pearl"
+    },
+    {
+      "id": 551000002030381,
+      "value": "Kakuriyo-nushi Certificate"
+    },
+    {
+      "id": 551000002030382,
+      "value": "Kakuriyo-nushi Certificate α"
+    },
+    {
+      "id": 551000002030383,
+      "value": "Kakuriyo-nushi Certificate β"
+    },
+    {
+      "id": 551000002030384,
+      "value": "Rare Enemy Medal"
     },
     {
       "id": 551000002030431,
@@ -8645,6 +8749,26 @@
       "value": "Lightning"
     },
     {
+      "id": 560000001100297,
+      "value": "Heavens"
+    },
+    {
+      "id": 560000001100298,
+      "value": "Divine Steed"
+    },
+    {
+      "id": 560000001100299,
+      "value": "Happy Turtle"
+    },
+    {
+      "id": 560000001100300,
+      "value": "Purifier"
+    },
+    {
+      "id": 560000001100301,
+      "value": "Stallion of Good Fortune"
+    },
+    {
       "id": 560000001200001,
       "value": "Mako Reactor 1: Full Clear"
     },
@@ -9453,6 +9577,22 @@
       "value": "The Sixth Clash: Bottom Level Crusher"
     },
     {
+      "id": 560000001510001,
+      "value": "Damage Ranking #1: Highest Rank"
+    },
+    {
+      "id": 560000001510002,
+      "value": "Damage Ranking #1: High Rank"
+    },
+    {
+      "id": 560000001510003,
+      "value": "Kugutsu"
+    },
+    {
+      "id": 560000001510004,
+      "value": "Pawn"
+    },
+    {
       "id": 560000001600101,
       "value": "Gatekeeper"
     },
@@ -9491,6 +9631,10 @@
     {
       "id": 560000001600119,
       "value": "Fated"
+    },
+    {
+      "id": 560000001600120,
+      "value": "Kakuriyo-nushi"
     },
     {
       "id": 560000001700101,
@@ -10599,6 +10743,14 @@
     {
       "id": 570000000030041,
       "value": "Replicants' Respite"
+    },
+    {
+      "id": 570000000030042,
+      "value": "Kakuriyo-nushi the Purifier"
+    },
+    {
+      "id": 570000000030043,
+      "value": "One with the Blade"
     },
     {
       "id": 872000000100101,

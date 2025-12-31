@@ -176,6 +176,11 @@
   },
   {
     "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 5,
+    "TargetId": 14012
+  },
+  {
+    "CampaignTargetGroupId": 2001,
     "CampaignTargetType": 7,
     "TargetId": 11010131
   },
@@ -2333,6 +2338,56 @@
     "CampaignTargetGroupId": 2001,
     "CampaignTargetType": 12,
     "TargetId": 3037008
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038004
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038006
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038007
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038008
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038101
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038102
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038103
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038401
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038402
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 3038403
   },
   {
     "CampaignTargetGroupId": 2001,
@@ -5442,6 +5497,16 @@
   {
     "CampaignTargetGroupId": 2001,
     "CampaignTargetType": 12,
+    "TargetId": 14012001
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
+    "TargetId": 14012002
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 12,
     "TargetId": 58001101
   },
   {
@@ -5927,6 +5992,11 @@
   {
     "CampaignTargetGroupId": 2001,
     "CampaignTargetType": 13,
+    "TargetId": 3038204
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 13,
     "TargetId": 11002205
   },
   {
@@ -6013,6 +6083,21 @@
     "CampaignTargetGroupId": 2001,
     "CampaignTargetType": 13,
     "TargetId": 14011203
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 13,
+    "TargetId": 14012201
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 13,
+    "TargetId": 14012202
+  },
+  {
+    "CampaignTargetGroupId": 2001,
+    "CampaignTargetType": 13,
+    "TargetId": 14012203
   },
   {
     "CampaignTargetGroupId": 2002,
@@ -6262,6 +6347,11 @@
   {
     "CampaignTargetGroupId": 2002,
     "CampaignTargetType": 11,
+    "TargetId": 3038
+  },
+  {
+    "CampaignTargetGroupId": 2002,
+    "CampaignTargetType": 11,
     "TargetId": 11002
   },
   {
@@ -6338,6 +6428,11 @@
     "CampaignTargetGroupId": 2002,
     "CampaignTargetType": 11,
     "TargetId": 14011
+  },
+  {
+    "CampaignTargetGroupId": 2002,
+    "CampaignTargetType": 11,
+    "TargetId": 14012
   },
   {
     "CampaignTargetGroupId": 2002,
@@ -7202,6 +7297,56 @@
   {
     "CampaignTargetGroupId": 3006,
     "CampaignTargetType": 12,
+    "TargetId": 3038004
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038006
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038007
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038008
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038101
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038102
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038103
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038401
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038402
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
+    "TargetId": 3038403
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 12,
     "TargetId": 5013101
   },
   {
@@ -7338,6 +7483,11 @@
     "CampaignTargetGroupId": 3006,
     "CampaignTargetType": 13,
     "TargetId": 3037204
+  },
+  {
+    "CampaignTargetGroupId": 3006,
+    "CampaignTargetType": 13,
+    "TargetId": 3038204
   },
   {
     "CampaignTargetGroupId": 3006,
