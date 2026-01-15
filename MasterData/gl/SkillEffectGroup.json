@@ -222,6 +222,24 @@
     "ParentSkillEffectId": 0
   },
   {
+    "Id": 1070031,
+    "Seq": 0,
+    "SkillEffectId": 10700311,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 1070031,
+    "Seq": 1,
+    "SkillEffectId": 10700312,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 1070031,
+    "Seq": 2,
+    "SkillEffectId": 10700313,
+    "ParentSkillEffectId": 0
+  },
+  {
     "Id": 1070061,
     "Seq": 0,
     "SkillEffectId": 10700611,
@@ -13593,6 +13611,78 @@
     "Id": 10701404,
     "Seq": 2,
     "SkillEffectId": 107014043,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701501,
+    "Seq": 0,
+    "SkillEffectId": 107015011,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701501,
+    "Seq": 1,
+    "SkillEffectId": 107015012,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701501,
+    "Seq": 2,
+    "SkillEffectId": 107015013,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701502,
+    "Seq": 0,
+    "SkillEffectId": 107015021,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701502,
+    "Seq": 1,
+    "SkillEffectId": 107015022,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701502,
+    "Seq": 2,
+    "SkillEffectId": 107015023,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701503,
+    "Seq": 0,
+    "SkillEffectId": 107015031,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701503,
+    "Seq": 1,
+    "SkillEffectId": 107015032,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701503,
+    "Seq": 2,
+    "SkillEffectId": 107015033,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701504,
+    "Seq": 0,
+    "SkillEffectId": 107015041,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701504,
+    "Seq": 1,
+    "SkillEffectId": 107015042,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 10701504,
+    "Seq": 2,
+    "SkillEffectId": 107015043,
     "ParentSkillEffectId": 0
   },
   {
@@ -40950,6 +41040,252 @@
     "ParentSkillEffectId": 0
   },
   {
+    "Id": 310151214,
+    "Seq": 0,
+    "SkillEffectId": 3101512141,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151214,
+    "Seq": 1,
+    "SkillEffectId": 3101512142,
+    "ParentSkillEffectId": 3101512141
+  },
+  {
+    "Id": 310151215,
+    "Seq": 0,
+    "SkillEffectId": 3101512151,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151215,
+    "Seq": 1,
+    "SkillEffectId": 3101512152,
+    "ParentSkillEffectId": 3101512151
+  },
+  {
+    "Id": 310151216,
+    "Seq": 0,
+    "SkillEffectId": 3101512161,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151216,
+    "Seq": 1,
+    "SkillEffectId": 3101512162,
+    "ParentSkillEffectId": 3101512161
+  },
+  {
+    "Id": 310151217,
+    "Seq": 0,
+    "SkillEffectId": 3101512171,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151217,
+    "Seq": 1,
+    "SkillEffectId": 3101512172,
+    "ParentSkillEffectId": 3101512171
+  },
+  {
+    "Id": 310151218,
+    "Seq": 0,
+    "SkillEffectId": 3101512181,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151218,
+    "Seq": 1,
+    "SkillEffectId": 3101512182,
+    "ParentSkillEffectId": 3101512181
+  },
+  {
+    "Id": 310151219,
+    "Seq": 0,
+    "SkillEffectId": 3101512191,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151219,
+    "Seq": 1,
+    "SkillEffectId": 3101512192,
+    "ParentSkillEffectId": 3101512191
+  },
+  {
+    "Id": 310151220,
+    "Seq": 0,
+    "SkillEffectId": 3101512201,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151220,
+    "Seq": 1,
+    "SkillEffectId": 3101512202,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151221,
+    "Seq": 0,
+    "SkillEffectId": 3101512211,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151221,
+    "Seq": 1,
+    "SkillEffectId": 3101512212,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151222,
+    "Seq": 0,
+    "SkillEffectId": 3101512221,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151222,
+    "Seq": 1,
+    "SkillEffectId": 3101512222,
+    "ParentSkillEffectId": 3101512221
+  },
+  {
+    "Id": 310151222,
+    "Seq": 2,
+    "SkillEffectId": 3101512223,
+    "ParentSkillEffectId": 3101512221
+  },
+  {
+    "Id": 310151223,
+    "Seq": 0,
+    "SkillEffectId": 3101512231,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151223,
+    "Seq": 1,
+    "SkillEffectId": 3101512232,
+    "ParentSkillEffectId": 3101512231
+  },
+  {
+    "Id": 310151223,
+    "Seq": 2,
+    "SkillEffectId": 3101512233,
+    "ParentSkillEffectId": 3101512231
+  },
+  {
+    "Id": 310151224,
+    "Seq": 0,
+    "SkillEffectId": 3101512241,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151224,
+    "Seq": 1,
+    "SkillEffectId": 3101512242,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151225,
+    "Seq": 0,
+    "SkillEffectId": 3101512251,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151226,
+    "Seq": 0,
+    "SkillEffectId": 3101512261,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151226,
+    "Seq": 1,
+    "SkillEffectId": 3101512262,
+    "ParentSkillEffectId": 3101512261
+  },
+  {
+    "Id": 310151227,
+    "Seq": 0,
+    "SkillEffectId": 3101512271,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151228,
+    "Seq": 0,
+    "SkillEffectId": 3101512281,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151228,
+    "Seq": 1,
+    "SkillEffectId": 3101512282,
+    "ParentSkillEffectId": 3101512281
+  },
+  {
+    "Id": 310151228,
+    "Seq": 2,
+    "SkillEffectId": 3101512283,
+    "ParentSkillEffectId": 3101512281
+  },
+  {
+    "Id": 310151229,
+    "Seq": 0,
+    "SkillEffectId": 3101512291,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151229,
+    "Seq": 1,
+    "SkillEffectId": 3101512292,
+    "ParentSkillEffectId": 3101512291
+  },
+  {
+    "Id": 310151229,
+    "Seq": 2,
+    "SkillEffectId": 3101512293,
+    "ParentSkillEffectId": 3101512291
+  },
+  {
+    "Id": 310151230,
+    "Seq": 0,
+    "SkillEffectId": 3101512301,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151231,
+    "Seq": 0,
+    "SkillEffectId": 3101512311,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151231,
+    "Seq": 1,
+    "SkillEffectId": 3101512312,
+    "ParentSkillEffectId": 3101512311
+  },
+  {
+    "Id": 310151232,
+    "Seq": 0,
+    "SkillEffectId": 3101512321,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151232,
+    "Seq": 1,
+    "SkillEffectId": 3101512322,
+    "ParentSkillEffectId": 3101512321
+  },
+  {
+    "Id": 310151233,
+    "Seq": 0,
+    "SkillEffectId": 3101512331,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310151233,
+    "Seq": 1,
+    "SkillEffectId": 3101512332,
+    "ParentSkillEffectId": 3101512331
+  },
+  {
     "Id": 310153001,
     "Seq": 0,
     "SkillEffectId": 3101530011,
@@ -41205,6 +41541,102 @@
     "Id": 310153210,
     "Seq": 0,
     "SkillEffectId": 3101532101,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153211,
+    "Seq": 0,
+    "SkillEffectId": 3101532111,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153212,
+    "Seq": 0,
+    "SkillEffectId": 3101532121,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153213,
+    "Seq": 0,
+    "SkillEffectId": 3101532131,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153214,
+    "Seq": 0,
+    "SkillEffectId": 3101532141,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153214,
+    "Seq": 1,
+    "SkillEffectId": 3101532142,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153215,
+    "Seq": 0,
+    "SkillEffectId": 3101532151,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153216,
+    "Seq": 0,
+    "SkillEffectId": 3101532161,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153216,
+    "Seq": 1,
+    "SkillEffectId": 3101532162,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153216,
+    "Seq": 2,
+    "SkillEffectId": 3101532163,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153217,
+    "Seq": 0,
+    "SkillEffectId": 3101532171,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153217,
+    "Seq": 1,
+    "SkillEffectId": 3101532172,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153218,
+    "Seq": 0,
+    "SkillEffectId": 3101532181,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153218,
+    "Seq": 1,
+    "SkillEffectId": 3101532182,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153218,
+    "Seq": 2,
+    "SkillEffectId": 3101532183,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153219,
+    "Seq": 0,
+    "SkillEffectId": 3101532191,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310153220,
+    "Seq": 0,
+    "SkillEffectId": 3101532201,
     "ParentSkillEffectId": 0
   },
   {
@@ -41760,6 +42192,126 @@
     "ParentSkillEffectId": 0
   },
   {
+    "Id": 310156212,
+    "Seq": 0,
+    "SkillEffectId": 3101562121,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156213,
+    "Seq": 0,
+    "SkillEffectId": 3101562131,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156213,
+    "Seq": 1,
+    "SkillEffectId": 3101562132,
+    "ParentSkillEffectId": 3101562131
+  },
+  {
+    "Id": 310156213,
+    "Seq": 2,
+    "SkillEffectId": 3101562133,
+    "ParentSkillEffectId": 3101562131
+  },
+  {
+    "Id": 310156214,
+    "Seq": 0,
+    "SkillEffectId": 3101562141,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156214,
+    "Seq": 1,
+    "SkillEffectId": 3101562142,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156215,
+    "Seq": 0,
+    "SkillEffectId": 3101562151,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156215,
+    "Seq": 1,
+    "SkillEffectId": 3101562152,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156216,
+    "Seq": 0,
+    "SkillEffectId": 3101562161,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156216,
+    "Seq": 1,
+    "SkillEffectId": 3101562162,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156217,
+    "Seq": 0,
+    "SkillEffectId": 3101562171,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156217,
+    "Seq": 1,
+    "SkillEffectId": 3101562172,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156218,
+    "Seq": 0,
+    "SkillEffectId": 3101562181,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156218,
+    "Seq": 1,
+    "SkillEffectId": 3101562182,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156219,
+    "Seq": 0,
+    "SkillEffectId": 3101562191,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156219,
+    "Seq": 1,
+    "SkillEffectId": 3101562192,
+    "ParentSkillEffectId": 3101562191
+  },
+  {
+    "Id": 310156219,
+    "Seq": 2,
+    "SkillEffectId": 3101562193,
+    "ParentSkillEffectId": 3101562191
+  },
+  {
+    "Id": 310156220,
+    "Seq": 0,
+    "SkillEffectId": 3101562201,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310156220,
+    "Seq": 1,
+    "SkillEffectId": 3101562202,
+    "ParentSkillEffectId": 3101562201
+  },
+  {
+    "Id": 310156220,
+    "Seq": 2,
+    "SkillEffectId": 3101562203,
+    "ParentSkillEffectId": 3101562201
+  },
+  {
     "Id": 310158001,
     "Seq": 0,
     "SkillEffectId": 3101580011,
@@ -41793,6 +42345,12 @@
     "Id": 310158201,
     "Seq": 0,
     "SkillEffectId": 3101582011,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 310158202,
+    "Seq": 0,
+    "SkillEffectId": 3101582021,
     "ParentSkillEffectId": 0
   },
   {
@@ -47586,6 +48144,72 @@
     "ParentSkillEffectId": 0
   },
   {
+    "Id": 320011127,
+    "Seq": 0,
+    "SkillEffectId": 3200111271,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320011128,
+    "Seq": 0,
+    "SkillEffectId": 3200111281,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320011129,
+    "Seq": 0,
+    "SkillEffectId": 3200111291,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320011130,
+    "Seq": 0,
+    "SkillEffectId": 3200111301,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320011130,
+    "Seq": 1,
+    "SkillEffectId": 3200111302,
+    "ParentSkillEffectId": 3200111301
+  },
+  {
+    "Id": 320011131,
+    "Seq": 0,
+    "SkillEffectId": 3200111311,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320011131,
+    "Seq": 1,
+    "SkillEffectId": 3200111312,
+    "ParentSkillEffectId": 3200111311
+  },
+  {
+    "Id": 320011131,
+    "Seq": 2,
+    "SkillEffectId": 3200111313,
+    "ParentSkillEffectId": 3200111311
+  },
+  {
+    "Id": 320011132,
+    "Seq": 0,
+    "SkillEffectId": 3200111321,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320011133,
+    "Seq": 0,
+    "SkillEffectId": 3200111331,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320011134,
+    "Seq": 0,
+    "SkillEffectId": 3200111341,
+    "ParentSkillEffectId": 0
+  },
+  {
     "Id": 320012001,
     "Seq": 0,
     "SkillEffectId": 3200120011,
@@ -47595,6 +48219,12 @@
     "Id": 320012101,
     "Seq": 0,
     "SkillEffectId": 3200121011,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320012102,
+    "Seq": 0,
+    "SkillEffectId": 3200121021,
     "ParentSkillEffectId": 0
   },
   {
@@ -47691,6 +48321,18 @@
     "Id": 320013110,
     "Seq": 0,
     "SkillEffectId": 3200131101,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320013111,
+    "Seq": 0,
+    "SkillEffectId": 3200131111,
+    "ParentSkillEffectId": 0
+  },
+  {
+    "Id": 320013112,
+    "Seq": 0,
+    "SkillEffectId": 3200131121,
     "ParentSkillEffectId": 0
   },
   {

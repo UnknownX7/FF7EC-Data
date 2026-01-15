@@ -30,6 +30,24 @@
     "FixedValue": 0
   },
   {
+    "Id": 3101512312,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3101512322,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3101512332,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 1000,
+    "FixedValue": 0
+  },
+  {
     "Id": 3201160191,
     "ElementType": 3,
     "ElementDamageUpCoefficient": 100,

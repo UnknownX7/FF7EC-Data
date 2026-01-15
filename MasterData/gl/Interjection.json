@@ -1995,6 +1995,21 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 1010138,
+    "MovieResourceId": 1010138,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 1010138,
+    "Priority": 26012003,
+    "DisplayConditionSetId": 170000010138,
+    "VisibleOpenConditionSetId": 170000010138,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 1010139,
     "MovieResourceId": 1010139,
     "LayoutResourceId": 1,
@@ -6165,6 +6180,21 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 3000198,
+    "MovieResourceId": 3000198,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 3000198,
+    "Priority": 26012002,
+    "DisplayConditionSetId": 270000500097,
+    "VisibleOpenConditionSetId": 270000500097,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 4000001,
     "MovieResourceId": 4000001,
     "LayoutResourceId": 1,
@@ -9712,6 +9742,21 @@
     "Priority": 25124005,
     "DisplayConditionSetId": 12120202701001,
     "VisibleOpenConditionSetId": 613000002027,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
+    "Id": 6202801,
+    "MovieResourceId": 6202801,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 6202801,
+    "Priority": 26012001,
+    "DisplayConditionSetId": 613000002028,
+    "VisibleOpenConditionSetId": 613000002028,
     "TransitionType": 0,
     "TransitionId": 0,
     "EnableHomeBgm": false,

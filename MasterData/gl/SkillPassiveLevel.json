@@ -2625,6 +2625,16 @@
     "PassivePoint": 10
   },
   {
+    "PassiveSkillId": 61201,
+    "Level": 1,
+    "PassivePoint": 1
+  },
+  {
+    "PassiveSkillId": 61201,
+    "Level": 2,
+    "PassivePoint": 10
+  },
+  {
     "PassiveSkillId": 112101,
     "Level": 1,
     "PassivePoint": 1
@@ -2666,6 +2676,21 @@
   },
   {
     "PassiveSkillId": 120301,
+    "Level": 3,
+    "PassivePoint": 15
+  },
+  {
+    "PassiveSkillId": 120401,
+    "Level": 1,
+    "PassivePoint": 1
+  },
+  {
+    "PassiveSkillId": 120401,
+    "Level": 2,
+    "PassivePoint": 5
+  },
+  {
+    "PassiveSkillId": 120401,
     "Level": 3,
     "PassivePoint": 15
   },
