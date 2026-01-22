@@ -370,9 +370,18 @@
   },
   {
     "Id": 53,
-    "ResetOffsetDatetime": 1764514800000,
-    "CycleType": 6,
-    "ResetLength": 1,
+    "ResetOffsetDatetime": 1767193200000,
+    "CycleType": 5,
+    "ResetLength": 5,
+    "ResetDisplayType": 0,
+    "ResetOffsetDatetimeType": 0,
+    "TargetId": 0
+  },
+  {
+    "Id": 54,
+    "ResetOffsetDatetime": 1769871600000,
+    "CycleType": 5,
+    "ResetLength": 5,
     "ResetDisplayType": 0,
     "ResetOffsetDatetimeType": 0,
     "TargetId": 0

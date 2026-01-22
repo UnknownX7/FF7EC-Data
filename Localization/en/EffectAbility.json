@@ -823,6 +823,26 @@
     {
       "id": 504263,
       "value": "Applies {3} ATB Conservation Effect {2} [{3} Weapon/Gear C. Ability ATB Cost: -{4}] [Dur.: {5}s] [Ext.: +{6}s] {0} {1}"
+    },
+    {
+      "id": 504264,
+      "value": "Applies {3}\n{2} [{5} C./UC. Ability: Damage +{6}% up to {4} time(s)] [Dur.: {7}s] [Ext.: +{8}s] {0} {1}"
+    },
+    {
+      "id": 504265,
+      "value": "Applies Amp. Critical Rate\n{2} [C./UC. Ability: Critical Rate x{4} up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s] {0} {1}"
+    },
+    {
+      "id": 504266,
+      "value": "Applies Amp. Healing Abilities\n{2} [C./UC. Ability: Healing +{4}% up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s] {0} {1}"
+    },
+    {
+      "id": 504267,
+      "value": "{1} overspeed gauge by {0}% (Not applied while overspeed is active)"
+    },
+    {
+      "id": 504269,
+      "value": "{4} overspeed gauge [Pot.: {3}%] {2} {0} {1} (Not applied while overspeed is active)"
     }
   ]
 }

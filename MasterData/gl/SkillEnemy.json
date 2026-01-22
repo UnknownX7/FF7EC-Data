@@ -15918,6 +15918,18 @@
     "ResourceId": 320351001
   },
   {
+    "Id": 320351013,
+    "SkillBaseId": 320351013,
+    "CostValue": 1,
+    "ResourceId": 320351006
+  },
+  {
+    "Id": 320351014,
+    "SkillBaseId": 320351014,
+    "CostValue": 1,
+    "ResourceId": 320351006
+  },
+  {
     "Id": 320356001,
     "SkillBaseId": 320356001,
     "CostValue": 1,
@@ -16022,6 +16034,30 @@
   {
     "Id": 320356018,
     "SkillBaseId": 320356018,
+    "CostValue": 1,
+    "ResourceId": 320356001
+  },
+  {
+    "Id": 320356019,
+    "SkillBaseId": 320356019,
+    "CostValue": 1,
+    "ResourceId": 320356001
+  },
+  {
+    "Id": 320356020,
+    "SkillBaseId": 320356020,
+    "CostValue": 1,
+    "ResourceId": 320356001
+  },
+  {
+    "Id": 320356021,
+    "SkillBaseId": 320356021,
+    "CostValue": 1,
+    "ResourceId": 320356001
+  },
+  {
+    "Id": 320356022,
+    "SkillBaseId": 320356022,
     "CostValue": 1,
     "ResourceId": 320356001
   },
@@ -24378,6 +24414,66 @@
     "ResourceId": 325051108
   },
   {
+    "Id": 325051201,
+    "SkillBaseId": 325051201,
+    "CostValue": 1,
+    "ResourceId": 325051001
+  },
+  {
+    "Id": 325051202,
+    "SkillBaseId": 325051202,
+    "CostValue": 1,
+    "ResourceId": 325051002
+  },
+  {
+    "Id": 325051203,
+    "SkillBaseId": 325051203,
+    "CostValue": 1,
+    "ResourceId": 325051003
+  },
+  {
+    "Id": 325051204,
+    "SkillBaseId": 325051204,
+    "CostValue": 1,
+    "ResourceId": 325051009
+  },
+  {
+    "Id": 325051205,
+    "SkillBaseId": 325051205,
+    "CostValue": 1,
+    "ResourceId": 325051009
+  },
+  {
+    "Id": 325051206,
+    "SkillBaseId": 325051206,
+    "CostValue": 1,
+    "ResourceId": 325051010
+  },
+  {
+    "Id": 325051207,
+    "SkillBaseId": 325051207,
+    "CostValue": 1,
+    "ResourceId": 325051010
+  },
+  {
+    "Id": 325051208,
+    "SkillBaseId": 325051208,
+    "CostValue": 1,
+    "ResourceId": 325051011
+  },
+  {
+    "Id": 325051209,
+    "SkillBaseId": 325051209,
+    "CostValue": 1,
+    "ResourceId": 325051011
+  },
+  {
+    "Id": 325051210,
+    "SkillBaseId": 325051210,
+    "CostValue": 1,
+    "ResourceId": 325051007
+  },
+  {
     "Id": 325056001,
     "SkillBaseId": 325056001,
     "CostValue": 1,
@@ -24552,6 +24648,24 @@
     "ResourceId": 325056001
   },
   {
+    "Id": 325056201,
+    "SkillBaseId": 325056201,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325056202,
+    "SkillBaseId": 325056202,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325056203,
+    "SkillBaseId": 325056203,
+    "CostValue": 1,
+    "ResourceId": 325056001
+  },
+  {
     "Id": 325058001,
     "SkillBaseId": 325058001,
     "CostValue": 1,
@@ -24580,6 +24694,72 @@
     "SkillBaseId": 325058104,
     "CostValue": 1,
     "ResourceId": 325058101
+  },
+  {
+    "Id": 325058201,
+    "SkillBaseId": 325058201,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058202,
+    "SkillBaseId": 325058202,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058203,
+    "SkillBaseId": 325058203,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058204,
+    "SkillBaseId": 325058204,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058205,
+    "SkillBaseId": 325058205,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058206,
+    "SkillBaseId": 325058206,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058207,
+    "SkillBaseId": 325058207,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058208,
+    "SkillBaseId": 325058208,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058209,
+    "SkillBaseId": 325058209,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058210,
+    "SkillBaseId": 325058210,
+    "CostValue": 1,
+    "ResourceId": 325056002
+  },
+  {
+    "Id": 325058211,
+    "SkillBaseId": 325058211,
+    "CostValue": 1,
+    "ResourceId": 325056002
   },
   {
     "Id": 325061001,
@@ -46852,6 +47032,264 @@
     "SkillBaseId": 325338006,
     "CostValue": 1,
     "ResourceId": 325338002
+  },
+  {
+    "Id": 325341001,
+    "SkillBaseId": 325341001,
+    "CostValue": 1,
+    "ResourceId": 325341001
+  },
+  {
+    "Id": 325341002,
+    "SkillBaseId": 325341002,
+    "CostValue": 1,
+    "ResourceId": 325341002
+  },
+  {
+    "Id": 325341003,
+    "SkillBaseId": 325341003,
+    "CostValue": 1,
+    "ResourceId": 325341003
+  },
+  {
+    "Id": 325341004,
+    "SkillBaseId": 325341004,
+    "CostValue": 1,
+    "ResourceId": 325341004
+  },
+  {
+    "Id": 325341005,
+    "SkillBaseId": 325341005,
+    "CostValue": 1,
+    "ResourceId": 325341004
+  },
+  {
+    "Id": 325341006,
+    "SkillBaseId": 325341006,
+    "CostValue": 1,
+    "ResourceId": 325341005
+  },
+  {
+    "Id": 325341007,
+    "SkillBaseId": 325341007,
+    "CostValue": 1,
+    "ResourceId": 325341006
+  },
+  {
+    "Id": 325341008,
+    "SkillBaseId": 325341008,
+    "CostValue": 1,
+    "ResourceId": 325341007
+  },
+  {
+    "Id": 325341009,
+    "SkillBaseId": 325341009,
+    "CostValue": 1,
+    "ResourceId": 325341007
+  },
+  {
+    "Id": 325341010,
+    "SkillBaseId": 325341010,
+    "CostValue": 1,
+    "ResourceId": 325341008
+  },
+  {
+    "Id": 325341011,
+    "SkillBaseId": 325341011,
+    "CostValue": 1,
+    "ResourceId": 325341008
+  },
+  {
+    "Id": 325341012,
+    "SkillBaseId": 325341012,
+    "CostValue": 1,
+    "ResourceId": 325341007
+  },
+  {
+    "Id": 325343001,
+    "SkillBaseId": 325343001,
+    "CostValue": 1,
+    "ResourceId": 325343001
+  },
+  {
+    "Id": 325343002,
+    "SkillBaseId": 325343002,
+    "CostValue": 1,
+    "ResourceId": 325343001
+  },
+  {
+    "Id": 325343003,
+    "SkillBaseId": 325343003,
+    "CostValue": 1,
+    "ResourceId": 325343001
+  },
+  {
+    "Id": 325343004,
+    "SkillBaseId": 325343004,
+    "CostValue": 1,
+    "ResourceId": 325343002
+  },
+  {
+    "Id": 325343005,
+    "SkillBaseId": 325343005,
+    "CostValue": 1,
+    "ResourceId": 325343002
+  },
+  {
+    "Id": 325343006,
+    "SkillBaseId": 325343006,
+    "CostValue": 1,
+    "ResourceId": 325343002
+  },
+  {
+    "Id": 325343007,
+    "SkillBaseId": 325343007,
+    "CostValue": 1,
+    "ResourceId": 325348001
+  },
+  {
+    "Id": 325343008,
+    "SkillBaseId": 325343008,
+    "CostValue": 1,
+    "ResourceId": 325348001
+  },
+  {
+    "Id": 325343009,
+    "SkillBaseId": 325343009,
+    "CostValue": 1,
+    "ResourceId": 325348001
+  },
+  {
+    "Id": 325346001,
+    "SkillBaseId": 325346001,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346002,
+    "SkillBaseId": 325346002,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346003,
+    "SkillBaseId": 325346003,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346004,
+    "SkillBaseId": 325346004,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346005,
+    "SkillBaseId": 325346005,
+    "CostValue": 1,
+    "ResourceId": 325346002
+  },
+  {
+    "Id": 325346006,
+    "SkillBaseId": 325346006,
+    "CostValue": 1,
+    "ResourceId": 325346002
+  },
+  {
+    "Id": 325346007,
+    "SkillBaseId": 325346007,
+    "CostValue": 1,
+    "ResourceId": 325346002
+  },
+  {
+    "Id": 325346008,
+    "SkillBaseId": 325346008,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346009,
+    "SkillBaseId": 325346009,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346010,
+    "SkillBaseId": 325346010,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346011,
+    "SkillBaseId": 325346011,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346012,
+    "SkillBaseId": 325346012,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346013,
+    "SkillBaseId": 325346013,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346014,
+    "SkillBaseId": 325346014,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346015,
+    "SkillBaseId": 325346015,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346016,
+    "SkillBaseId": 325346016,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325346017,
+    "SkillBaseId": 325346017,
+    "CostValue": 1,
+    "ResourceId": 325346001
+  },
+  {
+    "Id": 325348001,
+    "SkillBaseId": 325348001,
+    "CostValue": 1,
+    "ResourceId": 325348002
+  },
+  {
+    "Id": 325348002,
+    "SkillBaseId": 325348002,
+    "CostValue": 1,
+    "ResourceId": 325348002
+  },
+  {
+    "Id": 325348003,
+    "SkillBaseId": 325348003,
+    "CostValue": 1,
+    "ResourceId": 325348002
+  },
+  {
+    "Id": 325348004,
+    "SkillBaseId": 325348004,
+    "CostValue": 1,
+    "ResourceId": 325348002
+  },
+  {
+    "Id": 325348005,
+    "SkillBaseId": 325348005,
+    "CostValue": 1,
+    "ResourceId": 325348002
   },
   {
     "Id": 325361001,

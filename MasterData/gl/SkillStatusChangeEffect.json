@@ -27,7 +27,7 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "EffectCoefficient": 500,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 10400513,
@@ -61,6 +61,16 @@
   },
   {
     "Id": 10700612,
+    "SkillStatusChangeType": 10,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "EffectCoefficient": 80,
+    "UNK_07": 0
+  },
+  {
+    "Id": 12000713,
     "SkillStatusChangeType": 10,
     "MinDurationSec": 60,
     "MaxDurationSec": 60,
@@ -327,7 +337,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "EffectCoefficient": 150,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 57901102,
@@ -337,7 +347,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 200,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 57901103,
@@ -347,7 +357,7 @@
     "MinDuplicationDurationSec": 35,
     "MaxDuplicationDurationSec": 35,
     "EffectCoefficient": 250,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 57901104,
@@ -357,7 +367,7 @@
     "MinDuplicationDurationSec": 40,
     "MaxDuplicationDurationSec": 40,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 57901201,
@@ -367,7 +377,7 @@
     "MinDuplicationDurationSec": 25,
     "MaxDuplicationDurationSec": 25,
     "EffectCoefficient": 150,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 57901202,
@@ -377,7 +387,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 200,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 57901203,
@@ -387,7 +397,7 @@
     "MinDuplicationDurationSec": 35,
     "MaxDuplicationDurationSec": 35,
     "EffectCoefficient": 250,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 57901204,
@@ -397,7 +407,7 @@
     "MinDuplicationDurationSec": 40,
     "MaxDuplicationDurationSec": 40,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 59901101,
@@ -607,7 +617,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 400,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 101047013,
@@ -617,7 +627,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 400,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 101048012,
@@ -2117,7 +2127,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 400,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 108025013,
@@ -2127,7 +2137,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 400,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 109025012,
@@ -2226,6 +2236,46 @@
     "MaxDurationSec": 9,
     "MinDuplicationDurationSec": 3,
     "MaxDuplicationDurationSec": 3,
+    "EffectCoefficient": 300,
+    "UNK_07": 0
+  },
+  {
+    "Id": 120018012,
+    "SkillStatusChangeType": 31,
+    "MinDurationSec": 15,
+    "MaxDurationSec": 15,
+    "MinDuplicationDurationSec": 5,
+    "MaxDuplicationDurationSec": 5,
+    "EffectCoefficient": 200,
+    "UNK_07": 0
+  },
+  {
+    "Id": 120018022,
+    "SkillStatusChangeType": 31,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "EffectCoefficient": 200,
+    "UNK_07": 0
+  },
+  {
+    "Id": 120018032,
+    "SkillStatusChangeType": 31,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "EffectCoefficient": 250,
+    "UNK_07": 0
+  },
+  {
+    "Id": 120018042,
+    "SkillStatusChangeType": 31,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
     "EffectCoefficient": 300,
     "UNK_07": 0
   },
@@ -2977,7 +3027,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 500,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 152032012,
@@ -2997,7 +3047,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 152032014,
@@ -3007,7 +3057,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 156001012,
@@ -3907,7 +3957,7 @@
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2100602013,
@@ -4137,7 +4187,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2104903024,
@@ -4147,7 +4197,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2105003024,
@@ -4277,7 +4327,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "EffectCoefficient": 200,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205101073,
@@ -4287,7 +4337,7 @@
     "MinDuplicationDurationSec": 22,
     "MaxDuplicationDurationSec": 22,
     "EffectCoefficient": 220,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205101083,
@@ -4297,7 +4347,7 @@
     "MinDuplicationDurationSec": 24,
     "MaxDuplicationDurationSec": 24,
     "EffectCoefficient": 240,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205101093,
@@ -4307,7 +4357,7 @@
     "MinDuplicationDurationSec": 27,
     "MaxDuplicationDurationSec": 27,
     "EffectCoefficient": 270,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205101103,
@@ -4317,7 +4367,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205201063,
@@ -4327,7 +4377,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "EffectCoefficient": 200,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205201073,
@@ -4337,7 +4387,7 @@
     "MinDuplicationDurationSec": 22,
     "MaxDuplicationDurationSec": 22,
     "EffectCoefficient": 220,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205201083,
@@ -4347,7 +4397,7 @@
     "MinDuplicationDurationSec": 24,
     "MaxDuplicationDurationSec": 24,
     "EffectCoefficient": 240,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205201093,
@@ -4357,7 +4407,7 @@
     "MinDuplicationDurationSec": 27,
     "MaxDuplicationDurationSec": 27,
     "EffectCoefficient": 270,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205201103,
@@ -4367,7 +4417,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205202063,
@@ -4377,7 +4427,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "EffectCoefficient": 200,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205202073,
@@ -4387,7 +4437,7 @@
     "MinDuplicationDurationSec": 22,
     "MaxDuplicationDurationSec": 22,
     "EffectCoefficient": 220,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205202083,
@@ -4397,7 +4447,7 @@
     "MinDuplicationDurationSec": 24,
     "MaxDuplicationDurationSec": 24,
     "EffectCoefficient": 240,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205202093,
@@ -4407,7 +4457,7 @@
     "MinDuplicationDurationSec": 27,
     "MaxDuplicationDurationSec": 27,
     "EffectCoefficient": 270,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205202103,
@@ -4417,7 +4467,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205301063,
@@ -4427,7 +4477,7 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "EffectCoefficient": 200,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205301073,
@@ -4437,7 +4487,7 @@
     "MinDuplicationDurationSec": 22,
     "MaxDuplicationDurationSec": 22,
     "EffectCoefficient": 220,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205301083,
@@ -4447,7 +4497,7 @@
     "MinDuplicationDurationSec": 24,
     "MaxDuplicationDurationSec": 24,
     "EffectCoefficient": 240,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205301093,
@@ -4457,7 +4507,7 @@
     "MinDuplicationDurationSec": 27,
     "MaxDuplicationDurationSec": 27,
     "EffectCoefficient": 270,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 2205301103,
@@ -4467,7 +4517,7 @@
     "MinDuplicationDurationSec": 30,
     "MaxDuplicationDurationSec": 30,
     "EffectCoefficient": 300,
-    "UNK_07": 0
+    "UNK_07": 1
   },
   {
     "Id": 3105720011,
