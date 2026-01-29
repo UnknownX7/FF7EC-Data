@@ -1225,6 +1225,14 @@
       "value": "Force Gauge: Divine Gift"
     },
     {
+      "id": 970003100000581,
+      "value": "Force Gauge: Barbarity"
+    },
+    {
+      "id": 970003100000591,
+      "value": "Force Gauge: Armor Resilience"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -1991,6 +1999,14 @@
     {
       "id": 971003100000571,
       "value": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. Once the gauge has been displayed for a certain amount of time, <command_color=common_03>the enemy will unleash a powerful ability</color>. <command_color=common_03>Stop them</color> from unleashing the ability by fully depleting the gauge."
+    },
+    {
+      "id": 971003100000581,
+      "value": "<command_color=common_03>Dealing wind-element damage</color> will deplete the enemy's force gauge. When the force gauge is reduced to 0, <command_color=common_03>the enemy will be temporarily incapacitated</color> and <command_color=common_03>their increased PATK will be nulled</color>."
+    },
+    {
+      "id": 971003100000591,
+      "value": "<command_color=common_03>Dealing wind-element damage</color> will deplete the enemy's force gauge. When the force gauge is reduced to 0, <command_color=common_03>the enemy will be temporarily incapacitated</color>, and <command_color=common_03>their Physical Resistance and Magic Resistance will be removed, decreasing their DEF</color>. Furthermore, <command_color=common_03>the limit gauges of all party members will be completely filled</color>."
     },
     {
       "id": 971003200000011,

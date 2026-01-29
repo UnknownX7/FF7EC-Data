@@ -1348,5 +1348,23 @@
     "ResourceId": 30043,
     "ItemRarityType": 4,
     "DescriptionLanguageId": 571000000030043
+  },
+  {
+    "Id": 30044,
+    "DisplayConditionSetId": 680000030044,
+    "NameLanguageId": 570000000030044,
+    "Weight": 1,
+    "ResourceId": 30044,
+    "ItemRarityType": 4,
+    "DescriptionLanguageId": 571000000030044
+  },
+  {
+    "Id": 30045,
+    "DisplayConditionSetId": 680000030045,
+    "NameLanguageId": 570000000030045,
+    "Weight": 1,
+    "ResourceId": 30045,
+    "ItemRarityType": 4,
+    "DescriptionLanguageId": 571000000030045
   }
 ]

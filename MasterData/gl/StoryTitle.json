@@ -63,5 +63,18 @@
     "SeriesLanguageId": 232000000000005,
     "ResourceId": 5,
     "IsSuffixSeriesName": false
+  },
+  {
+    "Id": 6,
+    "EntryStoryCharacterGroupId": 113,
+    "DisplayName": "DC FFVII",
+    "DisplayConditionSetId": 700003039500,
+    "LockConditionSetId": 0,
+    "OrderNo": 6,
+    "DescriptionLanguageId": 2,
+    "NameLanguageId": 231000000000006,
+    "SeriesLanguageId": 232000000000006,
+    "ResourceId": 6,
+    "IsSuffixSeriesName": true
   }
 ]

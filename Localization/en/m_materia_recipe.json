@@ -169,12 +169,20 @@
       "value": "Aero (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
     },
     {
+      "id": 532000216200104,
+      "value": "Aero (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
       "id": 532000216200202,
       "value": "Aero Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
       "id": 532000216200203,
       "value": "Aero Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000216200204,
+      "value": "Aero Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
       "id": 532000220000101,
@@ -191,6 +199,10 @@
     {
       "id": 532000230000301,
       "value": "Bravery Recipe"
+    },
+    {
+      "id": 532000230000401,
+      "value": "Faith Recipe"
     },
     {
       "id": 532000240000101,
@@ -461,12 +473,20 @@
       "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
+      "id": 533000216200104,
+      "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
       "id": 533000216200202,
       "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
     },
     {
       "id": 533000216200203,
       "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000216200204,
+      "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
       "id": 533000220000101,
@@ -483,6 +503,10 @@
     {
       "id": 533000230000301,
       "value": "Used to synthesize Bravery materia."
+    },
+    {
+      "id": 533000230000401,
+      "value": "Used to synthesize Faith materia."
     },
     {
       "id": 533000240000101,

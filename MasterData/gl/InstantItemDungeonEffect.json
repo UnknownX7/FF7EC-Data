@@ -126,6 +126,15 @@
     "InstantItemDungeonEffectDetailId": 0
   },
   {
+    "Id": 1076,
+    "Priority": 6,
+    "EffectType": 22,
+    "GrantValueType": 2,
+    "EffectValue": 100,
+    "InstantItemTriggerType": 1,
+    "InstantItemDungeonEffectDetailId": 0
+  },
+  {
     "Id": 1081,
     "Priority": 1,
     "EffectType": 1,
@@ -165,6 +174,15 @@
     "Id": 1085,
     "Priority": 5,
     "EffectType": 4,
+    "GrantValueType": 2,
+    "EffectValue": 100,
+    "InstantItemTriggerType": 1,
+    "InstantItemDungeonEffectDetailId": 0
+  },
+  {
+    "Id": 1086,
+    "Priority": 6,
+    "EffectType": 22,
     "GrantValueType": 2,
     "EffectValue": 100,
     "InstantItemTriggerType": 1,
