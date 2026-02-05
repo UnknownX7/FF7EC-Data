@@ -4230,6 +4230,24 @@
     "LevelUpDescriptionLanguageId": 0
   },
   {
+    "SkillSpecialId": 200101,
+    "Level": 11,
+    "Cost": 2000,
+    "DamageCoefficient": 1550,
+    "SkillEffectGroupId": 220010101,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
+    "SkillSpecialId": 200101,
+    "Level": 12,
+    "Cost": 2000,
+    "DamageCoefficient": 1600,
+    "SkillEffectGroupId": 220010101,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
     "SkillSpecialId": 200102,
     "Level": 1,
     "Cost": 2000,

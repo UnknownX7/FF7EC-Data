@@ -102,6 +102,18 @@
     "FixedValue": 0
   },
   {
+    "Id": 3201263131,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3201263151,
+    "ElementType": 4,
+    "ElementDamageUpCoefficient": 5000,
+    "FixedValue": 0
+  },
+  {
     "Id": 3201560012,
     "ElementType": 7,
     "ElementDamageUpCoefficient": 50,
@@ -505,6 +517,30 @@
   },
   {
     "Id": 3251062271,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 5000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062361,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 100,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062371,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 400,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062382,
+    "ElementType": 2,
+    "ElementDamageUpCoefficient": 800,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3251062391,
     "ElementType": 2,
     "ElementDamageUpCoefficient": 5000,
     "FixedValue": 0

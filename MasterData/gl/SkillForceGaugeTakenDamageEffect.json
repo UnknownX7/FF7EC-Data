@@ -560,6 +560,20 @@
     "EffectValue": -4000
   },
   {
+    "Id": 32049600111,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 1,
+    "EffectValue": -4000
+  },
+  {
+    "Id": 32049600311,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 1,
+    "EffectValue": -6500
+  },
+  {
     "Id": 32049610111,
     "SkillForceGaugeTakenDamageCalcType": 2,
     "SkillForceGaugeTakenDamageEffectType": 4,
@@ -749,6 +763,13 @@
     "EffectValue": -17050
   },
   {
+    "Id": 32510820411,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 3,
+    "EffectValue": -32850
+  },
+  {
     "Id": 32511300111,
     "SkillForceGaugeTakenDamageCalcType": 2,
     "SkillForceGaugeTakenDamageEffectType": 2,
@@ -918,6 +939,48 @@
   },
   {
     "Id": 32511302511,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -1000
+  },
+  {
+    "Id": 32511302611,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -7500
+  },
+  {
+    "Id": 32511302711,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -5000
+  },
+  {
+    "Id": 32511302811,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -1000
+  },
+  {
+    "Id": 32511302911,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -12000
+  },
+  {
+    "Id": 32511303011,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 2,
+    "ParameterDetailType": 4,
+    "EffectValue": -8000
+  },
+  {
+    "Id": 32511303111,
     "SkillForceGaugeTakenDamageCalcType": 2,
     "SkillForceGaugeTakenDamageEffectType": 2,
     "ParameterDetailType": 4,
