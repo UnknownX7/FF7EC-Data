@@ -833,6 +833,20 @@
     "RewardSetId": 0
   },
   {
+    "Id": 23601,
+    "TutorialStepType": 286,
+    "Step": 1,
+    "ConditionSetId": 160000000145,
+    "RewardSetId": 0
+  },
+  {
+    "Id": 23602,
+    "TutorialStepType": 287,
+    "Step": 1,
+    "ConditionSetId": 160000000145,
+    "RewardSetId": 0
+  },
+  {
     "Id": 30100,
     "TutorialStepType": 122,
     "Step": 1,
@@ -1395,6 +1409,20 @@
   {
     "Id": 310000059,
     "TutorialStepType": 258,
+    "Step": 1,
+    "ConditionSetId": 0,
+    "RewardSetId": 0
+  },
+  {
+    "Id": 310000060,
+    "TutorialStepType": 259,
+    "Step": 1,
+    "ConditionSetId": 0,
+    "RewardSetId": 0
+  },
+  {
+    "Id": 310000061,
+    "TutorialStepType": 260,
     "Step": 1,
     "ConditionSetId": 0,
     "RewardSetId": 0

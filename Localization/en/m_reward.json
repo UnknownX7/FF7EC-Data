@@ -177,6 +177,10 @@
       "value": "Battler Ensemble"
     },
     {
+      "id": 102000000003025,
+      "value": "Festive Style"
+    },
+    {
       "id": 102000000003026,
       "value": "Golden Flower Kimono"
     },
@@ -685,6 +689,10 @@
       "value": "Corruptor of the Planet"
     },
     {
+      "id": 102000000060004,
+      "value": "Conqueror of the Planet"
+    },
+    {
       "id": 104000000000060,
       "value": "Sephiroth <size=80%>(Original)</size>"
     },
@@ -1101,8 +1109,16 @@
       "value": "Lightning's Gloves"
     },
     {
+      "id": 510000000003051,
+      "value": "Dragon Claw"
+    },
+    {
       "id": 510000000003052,
       "value": "Demon's Impetus"
+    },
+    {
+      "id": 510000000003053,
+      "value": "Festive Gloves"
     },
     {
       "id": 510000000004001,
@@ -1785,6 +1801,10 @@
       "value": "Patissier's Spear"
     },
     {
+      "id": 510000000009029,
+      "value": "Festive Spear"
+    },
+    {
       "id": 510000000020001,
       "value": "Type-99 Longsword"
     },
@@ -1915,6 +1935,10 @@
     {
       "id": 510000000020037,
       "value": "Rousing Arc Sword"
+    },
+    {
+      "id": 510000000020041,
+      "value": "Divine Emissary"
     },
     {
       "id": 510000000049001,
@@ -2529,6 +2553,10 @@
       "value": "Divine Steed Blade"
     },
     {
+      "id": 510000000060010,
+      "value": "Starsoul Blade"
+    },
+    {
       "id": 530000002101001,
       "value": "Ruin"
     },
@@ -2745,12 +2773,36 @@
       "value": "Fire Recipe"
     },
     {
+      "id": 532000211200102,
+      "value": "Fire (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000211200103,
+      "value": "Fire (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
       "id": 532000211200104,
       "value": "Fire (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
+      "id": 532000211200302,
+      "value": "Fire Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000211200303,
+      "value": "Fire Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
       "id": 532000211200304,
       "value": "Fire Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000211300101,
+      "value": "Fire Recipe (Advanced)"
+    },
+    {
+      "id": 532000211300301,
+      "value": "Fire Blow Recipe (Advanced)"
     },
     {
       "id": 532000212100101,
@@ -2785,12 +2837,20 @@
       "value": "Thunder Recipe"
     },
     {
+      "id": 532000213200102,
+      "value": "Thunder (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
       "id": 532000213200103,
       "value": "Thunder (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
     },
     {
       "id": 532000213200104,
       "value": "Thunder (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000213200302,
+      "value": "Thunder Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
       "id": 532000213200303,
@@ -2829,8 +2889,24 @@
       "value": "Water (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
+      "id": 532000215200103,
+      "value": "Water (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000215200104,
+      "value": "Water (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
       "id": 532000215200202,
       "value": "Water Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000215200203,
+      "value": "Water Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000215200204,
+      "value": "Water Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
       "id": 532000216100101,
@@ -2861,8 +2937,16 @@
       "value": "Aero Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
+      "id": 532000220300101,
+      "value": "Cure Recipe (Advanced)"
+    },
+    {
       "id": 532000230000401,
       "value": "Faith Recipe"
+    },
+    {
+      "id": 532000260300501,
+      "value": "Fire Breach Recipe (Advanced)"
     },
     {
       "id": 550000000000091,
@@ -3569,6 +3653,10 @@
       "value": "Synth Catalyst Sliver – Night"
     },
     {
+      "id": 551000000006013,
+      "value": "Synth Catalyst – First Light"
+    },
+    {
       "id": 551000000008001,
       "value": "Bookmark"
     },
@@ -3759,6 +3847,34 @@
     {
       "id": 551000000012305,
       "value": "Unknown Noble Memory"
+    },
+    {
+      "id": 551000000013001,
+      "value": "Heart Customizer"
+    },
+    {
+      "id": 551000000013002,
+      "value": "Spade Customizer"
+    },
+    {
+      "id": 551000000013003,
+      "value": "Diamond Customizer"
+    },
+    {
+      "id": 551000000013101,
+      "value": "White Customization Kit"
+    },
+    {
+      "id": 551000000013201,
+      "value": "Red Customization Kit"
+    },
+    {
+      "id": 551000000013202,
+      "value": "Blue Customization Kit"
+    },
+    {
+      "id": 551000000013301,
+      "value": "Guild Customization Kit"
     },
     {
       "id": 551000000015006,
@@ -4493,6 +4609,30 @@
       "value": "Greater Defense Branding Stone"
     },
     {
+      "id": 551000000038061,
+      "value": "Lesser PATK Branding Stone"
+    },
+    {
+      "id": 551000000038062,
+      "value": "PATK Branding Stone"
+    },
+    {
+      "id": 551000000038063,
+      "value": "Greater PATK Branding Stone"
+    },
+    {
+      "id": 551000000038071,
+      "value": "Lesser MATK Branding Stone"
+    },
+    {
+      "id": 551000000038072,
+      "value": "MATK Branding Stone"
+    },
+    {
+      "id": 551000000038073,
+      "value": "Greater MATK Branding Stone"
+    },
+    {
       "id": 551000000040001,
       "value": "Small Memorial Shard"
     },
@@ -4743,6 +4883,14 @@
     {
       "id": 551000000100061,
       "value": "2nd Anniversary Draw Ticket Vol. 2"
+    },
+    {
+      "id": 551000000100062,
+      "value": "2.5 Year Anniv. Draw Ticket"
+    },
+    {
+      "id": 551000000100063,
+      "value": "2.5 Year Anniv. LB Medal"
     },
     {
       "id": 551000000300001,
@@ -5033,8 +5181,20 @@
       "value": "Moogle Hat & Cape Voucher"
     },
     {
+      "id": 551000000300077,
+      "value": "2.5 Year Anniv. New Wpn. Voucher"
+    },
+    {
       "id": 551000000300078,
       "value": "Reawakened LB Gear Voucher Vol. 11"
+    },
+    {
+      "id": 551000000300079,
+      "value": "2.5 Year Anniv. Gear Voucher"
+    },
+    {
+      "id": 551000000300080,
+      "value": "2.5 Year Anniv. Medal"
     },
     {
       "id": 551000001000001,
@@ -5073,6 +5233,14 @@
       "value": "Mako Gem (Winter 2025)"
     },
     {
+      "id": 551000001000010,
+      "value": "Mako Gem (2.5 Year Anniv.)"
+    },
+    {
+      "id": 551000001000011,
+      "value": "Mako Gem (Special)"
+    },
+    {
       "id": 551000001001001,
       "value": "Buster Sword Parts"
     },
@@ -5087,6 +5255,10 @@
     {
       "id": 551000001003040,
       "value": "Mako Gem (Premium Heart)"
+    },
+    {
+      "id": 551000001003051,
+      "value": "Mako Gem (Dragon Claw)"
     },
     {
       "id": 551000001004036,
@@ -5135,6 +5307,10 @@
     {
       "id": 551000001020037,
       "value": "Rousing Arc Sword Parts"
+    },
+    {
+      "id": 551000001020041,
+      "value": "Mako Gem (Divine Emissary)"
     },
     {
       "id": 551000001049027,
@@ -5789,8 +5965,24 @@
       "value": "Arch Azul Certificate β"
     },
     {
+      "id": 551000002030401,
+      "value": "Ultima Weapon Majeure Certificate"
+    },
+    {
+      "id": 551000002030402,
+      "value": "Ultima Weapon Majeure Certificate α"
+    },
+    {
+      "id": 551000002030403,
+      "value": "Ultima Weapon Majeure Certificate β"
+    },
+    {
       "id": 551000002030431,
       "value": "Materia Hunt Medal"
+    },
+    {
+      "id": 551000002030461,
+      "value": "Customization Medal"
     },
     {
       "id": 551000002080021,
@@ -5987,6 +6179,10 @@
     {
       "id": 551000004002011,
       "value": "Whirling Ravager's Memory"
+    },
+    {
+      "id": 551000004003011,
+      "value": "Shadow Flare's Memory"
     },
     {
       "id": 556000001510001,
@@ -6523,6 +6719,10 @@
     {
       "id": 560000000102930,
       "value": "Season Pass 30"
+    },
+    {
+      "id": 560000000102931,
+      "value": "Season Pass 31"
     },
     {
       "id": 560000000103001,
@@ -8961,6 +9161,26 @@
       "value": "DCFF7-Arising Crisis"
     },
     {
+      "id": 560000001100307,
+      "value": "Festa"
+    },
+    {
+      "id": 560000001100308,
+      "value": "Anniv."
+    },
+    {
+      "id": 560000001100309,
+      "value": "24th Wish"
+    },
+    {
+      "id": 560000001100310,
+      "value": "Planet's Story"
+    },
+    {
+      "id": 560000001100311,
+      "value": "Weapon Showdown"
+    },
+    {
       "id": 560000001200001,
       "value": "Mako Reactor 1: Full Clear"
     },
@@ -9881,6 +10101,34 @@
       "value": "Arch Azul"
     },
     {
+      "id": 560000001600122,
+      "value": "Creation"
+    },
+    {
+      "id": 560000001600123,
+      "value": "Spirit"
+    },
+    {
+      "id": 560000001600124,
+      "value": "Iron Giant"
+    },
+    {
+      "id": 560000001600125,
+      "value": "Underscale"
+    },
+    {
+      "id": 560000001600126,
+      "value": "AC"
+    },
+    {
+      "id": 560000001600127,
+      "value": "EC"
+    },
+    {
+      "id": 560000001600128,
+      "value": "Great Beast"
+    },
+    {
       "id": 560000001700101,
       "value": "Fire Battler"
     },
@@ -10537,6 +10785,10 @@
       "value": "Heartfelt Gift"
     },
     {
+      "id": 570000000010032,
+      "value": "Voice from the Sleeping Forest"
+    },
+    {
       "id": 570000000020001,
       "value": "Murasame Battle Garb"
     },
@@ -11007,6 +11259,10 @@
     {
       "id": 570000000030045,
       "value": "Vincent the Bodyguard"
+    },
+    {
+      "id": 570000000030047,
+      "value": "Ultima Weapon Majeure"
     },
     {
       "id": 872000000100101,

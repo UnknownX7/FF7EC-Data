@@ -418,5 +418,19 @@
     "TitleLanguageId": 580000000000030,
     "NameLanguageId": 2,
     "ResourceId": 30
+  },
+  {
+    "Id": 31,
+    "SeasonPassStepGroupId": 31,
+    "DisplayConditionSetId": 630000000031,
+    "OpenConditionSetId": 350501001061,
+    "LockConditionSetId": 630000000031,
+    "LevelProgressMaxCount": 7,
+    "ExpiredSendGiftStartDatetime": 1774836000000,
+    "LevelShopItemId": 501001061,
+    "ExtraShopItemId": 501001062,
+    "TitleLanguageId": 580000000000031,
+    "NameLanguageId": 2,
+    "ResourceId": 31
   }
 ]

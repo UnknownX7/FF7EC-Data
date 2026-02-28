@@ -17,6 +17,10 @@
       "value": "Maritime Sailor"
     },
     {
+      "id": 102000000001005,
+      "value": "Rider Style"
+    },
+    {
       "id": 102000000001006,
       "value": "Mystic Coat"
     },
@@ -209,6 +213,10 @@
       "value": "Bunny Apron"
     },
     {
+      "id": 102000000006013,
+      "value": "Rocker Outfit"
+    },
+    {
       "id": 102000000006014,
       "value": "AC Outfit"
     },
@@ -255,6 +263,10 @@
     {
       "id": 102000000008008,
       "value": "Coat of the Worthy"
+    },
+    {
+      "id": 102000000008009,
+      "value": "Galian Beast Mantle"
     },
     {
       "id": 102000000008010,
@@ -419,6 +431,10 @@
     {
       "id": 102000000056005,
       "value": "Garb of the Worthy"
+    },
+    {
+      "id": 102000000056008,
+      "value": "Ghost Robe"
     },
     {
       "id": 102000000060003,
@@ -745,8 +761,16 @@
       "value": "Lightning's Gloves"
     },
     {
+      "id": 510000000003051,
+      "value": "Dragon Claw"
+    },
+    {
       "id": 510000000003052,
       "value": "Demon's Impetus"
+    },
+    {
+      "id": 510000000003053,
+      "value": "Festive Gloves"
     },
     {
       "id": 510000000004001,
@@ -1285,6 +1309,10 @@
       "value": "Antler Pike"
     },
     {
+      "id": 510000000009029,
+      "value": "Festive Spear"
+    },
+    {
       "id": 510000000020001,
       "value": "Type-99 Longsword"
     },
@@ -1391,6 +1419,10 @@
     {
       "id": 510000000020036,
       "value": "Virtuous Contract"
+    },
+    {
+      "id": 510000000020041,
+      "value": "Divine Emissary"
     },
     {
       "id": 510000000049001,
@@ -1909,6 +1941,10 @@
       "value": "Divine Steed Blade"
     },
     {
+      "id": 510000000060010,
+      "value": "Starsoul Blade"
+    },
+    {
       "id": 530000002101001,
       "value": "Ruin"
     },
@@ -1977,12 +2013,36 @@
       "value": "Fire Recipe"
     },
     {
+      "id": 532000211200102,
+      "value": "Fire (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000211200103,
+      "value": "Fire (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
       "id": 532000211200104,
       "value": "Fire (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
+      "id": 532000211200302,
+      "value": "Fire Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000211200303,
+      "value": "Fire Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
       "id": 532000211200304,
       "value": "Fire Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000211300101,
+      "value": "Fire Recipe (Advanced)"
+    },
+    {
+      "id": 532000211300301,
+      "value": "Fire Blow Recipe (Advanced)"
     },
     {
       "id": 532000212100101,
@@ -2017,12 +2077,20 @@
       "value": "Thunder Recipe"
     },
     {
+      "id": 532000213200102,
+      "value": "Thunder (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
       "id": 532000213200103,
       "value": "Thunder (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
     },
     {
       "id": 532000213200104,
       "value": "Thunder (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000213200302,
+      "value": "Thunder Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
       "id": 532000213200303,
@@ -2061,8 +2129,24 @@
       "value": "Water (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
+      "id": 532000215200103,
+      "value": "Water (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000215200104,
+      "value": "Water (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
       "id": 532000215200202,
       "value": "Water Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000215200203,
+      "value": "Water Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000215200204,
+      "value": "Water Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
       "id": 532000216200102,
@@ -2089,12 +2173,36 @@
       "value": "Aero Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
+      "id": 532000220300101,
+      "value": "Cure Recipe (Advanced)"
+    },
+    {
       "id": 532000230000401,
       "value": "Faith Recipe"
     },
     {
+      "id": 532000260300501,
+      "value": "Fire Breach Recipe (Advanced)"
+    },
+    {
+      "id": 533000211200102,
+      "value": "Used to synthesize Fire (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000211200103,
+      "value": "Used to synthesize Fire (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
       "id": 533000211200104,
       "value": "Used to synthesize Fire (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000211200302,
+      "value": "Used to synthesize Fire Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000211200303,
+      "value": "Used to synthesize Fire Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
       "id": 533000211200304,
@@ -2109,12 +2217,24 @@
       "value": "Used to synthesize Blizzard (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
+      "id": 533000212200104,
+      "value": "Used to synthesize Blizzard (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
       "id": 533000212200302,
       "value": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
     },
     {
       "id": 533000212200303,
       "value": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000212200304,
+      "value": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000213200102,
+      "value": "Used to synthesize Thunder (<sprite=\"tmp_icon\" index=71>Circle) materia."
     },
     {
       "id": 533000213200103,
@@ -2125,6 +2245,10 @@
       "value": "Used to synthesize Thunder (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
+      "id": 533000213200302,
+      "value": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
       "id": 533000213200303,
       "value": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
@@ -2133,20 +2257,80 @@
       "value": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
+      "id": 533000214200102,
+      "value": "Used to synthesize Quake (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000214200103,
+      "value": "Used to synthesize Quake (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
       "id": 533000214200104,
       "value": "Used to synthesize Quake (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000214200202,
+      "value": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000214200203,
+      "value": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
       "id": 533000214200204,
       "value": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
+      "id": 533000215200102,
+      "value": "Used to synthesize Water (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000215200103,
+      "value": "Used to synthesize Water (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000215200104,
+      "value": "Used to synthesize Water (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000215200202,
+      "value": "Used to synthesize Water Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000215200203,
+      "value": "Used to synthesize Water Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000215200204,
+      "value": "Used to synthesize Water Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000216200102,
+      "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
       "id": 533000216200103,
       "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
+      "id": 533000216200104,
+      "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000216200202,
+      "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
       "id": 533000216200203,
       "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000216200204,
+      "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000230000401,
+      "value": "Used to synthesize Faith materia."
     },
     {
       "id": 540000000400101,
@@ -2481,6 +2665,10 @@
       "value": "Synth Catalyst Sliver – Night"
     },
     {
+      "id": 551000000006013,
+      "value": "Synth Catalyst – First Light"
+    },
+    {
       "id": 551000000008001,
       "value": "Bookmark"
     },
@@ -2629,6 +2817,14 @@
       "value": "Healer's Noble Memory"
     },
     {
+      "id": 551000000013001,
+      "value": "Heart Customizer"
+    },
+    {
+      "id": 551000000013201,
+      "value": "Red Customization Kit"
+    },
+    {
       "id": 551000000015006,
       "value": "Chocobooster"
     },
@@ -2739,6 +2935,14 @@
     {
       "id": 551000000038053,
       "value": "Greater Defense Branding Stone"
+    },
+    {
+      "id": 551000000038063,
+      "value": "Greater PATK Branding Stone"
+    },
+    {
+      "id": 551000000038073,
+      "value": "Greater MATK Branding Stone"
     },
     {
       "id": 551000000040001,
@@ -2961,6 +3165,10 @@
       "value": "Mako Gem (Premium Heart)"
     },
     {
+      "id": 551000001003051,
+      "value": "Mako Gem (Dragon Claw)"
+    },
+    {
       "id": 551000001004036,
       "value": "Mako Gem (Princess Guard)"
     },
@@ -2981,6 +3189,10 @@
       "value": "Mako Gem (Conformer)"
     },
     {
+      "id": 551000001006043,
+      "value": "Mako Gem (Rising Sun)"
+    },
+    {
       "id": 551000001007032,
       "value": "Mako Gem (HP Shout)"
     },
@@ -2999,6 +3211,10 @@
     {
       "id": 551000001020037,
       "value": "Rousing Arc Sword Parts"
+    },
+    {
+      "id": 551000001020041,
+      "value": "Mako Gem (Divine Emissary)"
     },
     {
       "id": 551000001049027,
@@ -3041,8 +3257,16 @@
       "value": "Whirling Ravager's Memory"
     },
     {
+      "id": 551000004003011,
+      "value": "Shadow Flare's Memory"
+    },
+    {
       "id": 552000000000001,
       "value": "Used to enhance weapons, buy items, etc."
+    },
+    {
+      "id": 552000000000022,
+      "value": "Traded for items at the <command_color=common_03>Weapon Exchange</color>.\n\n*Some weapons, such as those currently featured, may not be eligible for exchange. \nPlease check the exchangeable lineup at the Weapon Exchange."
     },
     {
       "id": 552000000000025,
@@ -3301,6 +3525,10 @@
       "value": "Used in synthesis to <command_color=common_03>affect materia creation</color>."
     },
     {
+      "id": 552000000006013,
+      "value": "Used in synthesis to <command_color=common_03>affect materia creation</color>."
+    },
+    {
       "id": 552000000008001,
       "value": "Used to shorten synthesis time by <command_color=common_03>an hour</color>."
     },
@@ -3470,6 +3698,22 @@
     },
     {
       "id": 552000000038033,
+      "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    {
+      "id": 552000000038043,
+      "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    {
+      "id": 552000000038053,
+      "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    {
+      "id": 552000000038063,
+      "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    {
+      "id": 552000000038073,
       "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
     },
     {
@@ -5941,6 +6185,22 @@
       "value": "5<sprite=\"tmp_icon\" index=196> Killer Falcon Pack II"
     },
     {
+      "id": 802000101005701,
+      "value": "5<sprite=\"tmp_icon\" index=196> Festive Gloves Pack I"
+    },
+    {
+      "id": 802000101005703,
+      "value": "5<sprite=\"tmp_icon\" index=196> Festive Gloves Pack II"
+    },
+    {
+      "id": 802000101005706,
+      "value": "5<sprite=\"tmp_icon\" index=196> Starsoul Blade Pack I"
+    },
+    {
+      "id": 802000101005708,
+      "value": "5<sprite=\"tmp_icon\" index=196> Starsoul Blade Pack II"
+    },
+    {
       "id": 802000101006001,
       "value": "Boost Pass"
     },
@@ -6203,6 +6463,10 @@
     {
       "id": 804000501001050,
       "value": "- 5<sprite=\"tmp_icon\" index=196> Weapon Voucher\n- Wallpaper\n- Mythril Ingot x10\n- 7,500 Blue Crystals\n*Total amount received at Max. Exploration Lv."
+    },
+    {
+      "id": 804000501001062,
+      "value": "- Reawakened: Limit Break Medal Fragment x20\n- 8,000 Blue Crystals\n- Refined Mythril x10\n- Wallpaper\n*Total amount received at Max. Exploration Lv."
     }
   ]
 }

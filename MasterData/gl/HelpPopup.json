@@ -416,7 +416,7 @@
   {
     "Id": 1603,
     "HelpPopupGroupId": 16,
-    "Seq": 4,
+    "Seq": 6,
     "ResourceId": 1603,
     "TitleLanguageId": 911000000001603,
     "DescriptionLanguageId": 912000000001603,
@@ -425,7 +425,7 @@
   {
     "Id": 1604,
     "HelpPopupGroupId": 16,
-    "Seq": 5,
+    "Seq": 7,
     "ResourceId": 1604,
     "TitleLanguageId": 911000000001604,
     "DescriptionLanguageId": 912000000001604,
@@ -434,7 +434,7 @@
   {
     "Id": 1605,
     "HelpPopupGroupId": 16,
-    "Seq": 6,
+    "Seq": 8,
     "ResourceId": 1605,
     "TitleLanguageId": 911000000001605,
     "DescriptionLanguageId": 912000000001605,
@@ -443,7 +443,7 @@
   {
     "Id": 1606,
     "HelpPopupGroupId": 16,
-    "Seq": 7,
+    "Seq": 9,
     "ResourceId": 1606,
     "TitleLanguageId": 911000000001606,
     "DescriptionLanguageId": 912000000001606,
@@ -452,7 +452,7 @@
   {
     "Id": 1607,
     "HelpPopupGroupId": 16,
-    "Seq": 8,
+    "Seq": 10,
     "ResourceId": 1607,
     "TitleLanguageId": 911000000001607,
     "DescriptionLanguageId": 912000000001607,
@@ -465,6 +465,24 @@
     "ResourceId": 1608,
     "TitleLanguageId": 911000000001608,
     "DescriptionLanguageId": 912000000001608,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1609,
+    "HelpPopupGroupId": 16,
+    "Seq": 4,
+    "ResourceId": 1609,
+    "TitleLanguageId": 911000000001609,
+    "DescriptionLanguageId": 912000000001609,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 1610,
+    "HelpPopupGroupId": 16,
+    "Seq": 5,
+    "ResourceId": 1610,
+    "TitleLanguageId": 911000000001610,
+    "DescriptionLanguageId": 912000000001610,
     "ConditionSetId": 0
   },
   {
@@ -681,6 +699,15 @@
     "ResourceId": 2019,
     "TitleLanguageId": 911000000002019,
     "DescriptionLanguageId": 912000000002019,
+    "ConditionSetId": 0
+  },
+  {
+    "Id": 2020,
+    "HelpPopupGroupId": 20,
+    "Seq": 20,
+    "ResourceId": 2020,
+    "TitleLanguageId": 911000000002020,
+    "DescriptionLanguageId": 912000000002020,
     "ConditionSetId": 0
   },
   {

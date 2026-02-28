@@ -48,6 +48,14 @@
     "UseCountLimit": 3
   },
   {
+    "Id": 10305101,
+    "SkillBaseId": 10305101,
+    "ResourceId": 10305101,
+    "InitialChargeTimeSec": 0,
+    "RechargeTimeSec": 60,
+    "UseCountLimit": 2
+  },
+  {
     "Id": 10403001,
     "SkillBaseId": 10403001,
     "ResourceId": 10403001,
@@ -182,6 +190,14 @@
     "InitialChargeTimeSec": 15,
     "RechargeTimeSec": 50,
     "UseCountLimit": 3
+  },
+  {
+    "Id": 12004101,
+    "SkillBaseId": 12004101,
+    "ResourceId": 12004101,
+    "InitialChargeTimeSec": 0,
+    "RechargeTimeSec": 60,
+    "UseCountLimit": 2
   },
   {
     "Id": 14902601,

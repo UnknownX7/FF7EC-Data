@@ -209,6 +209,14 @@
       "value": "Enhancing Weapons 3"
     },
     {
+      "id": 911000000001609,
+      "value": "Customizations 1"
+    },
+    {
+      "id": 911000000001610,
+      "value": "Customizations 2"
+    },
+    {
       "id": 911000000001701,
       "value": "The Armory"
     },
@@ -303,6 +311,10 @@
     {
       "id": 911000000002019,
       "value": "Sub Gear"
+    },
+    {
+      "id": 911000000002020,
+      "value": "Switching Customizations"
     },
     {
       "id": 911000000002101,
@@ -829,6 +841,14 @@
       "value": "<command_color=common_03>Branding stones</color> can be used to <command_color=common_03>brand</color> weapons and apply <command_color=common_03>up to three random effects</color>."
     },
     {
+      "id": 912000000001609,
+      "value": "<command_color=common_03>Customization</color> is a special enhancement only available to certain weapons. You can consume items to enhance these weapons further with this feature.\n\nAvailable customizations and effects vary according to each weapon."
+    },
+    {
+      "id": 912000000001610,
+      "value": "Weapons that have already been customized can have additional customizations unlocked by consuming items. The weapon can then switch between unlocked customizations.\n\n<command_color=common_02>*Switching between unlocked customizations incurs no item cost.</color>"
+    },
+    {
       "id": 912000000001701,
       "value": "<command_color=common_03>Duplicate weapons can be stored in the armory</color> and can also be <command_color=common_03>converted into weapon parts</color> used to increase the rarity of or overboost weapons.\n<command_color=common_02>*Turning on auto-convert will automatically convert any weapons sent to the armory.</color>"
     },
@@ -923,6 +943,10 @@
     {
       "id": 912000000002019,
       "value": "<command_color=common_03>Sub gear</color> will have their R. abilities reflected.\n*Character's appearance will not change.\n*50% of R. ability pts. will be reflected."
+    },
+    {
+      "id": 912000000002020,
+      "value": "Through <command_color=common_03>Switch Customization</color>, customizations for equipped weapons can be switched all at once.\n\n<command_color=common_02>*Locked customizations cannot be switched to.</color>"
     },
     {
       "id": 912000000002101,

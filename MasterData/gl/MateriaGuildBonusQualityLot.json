@@ -30,6 +30,12 @@
     "MateriaQualityLotGroupId": 101005
   },
   {
+    "Id": 101006,
+    "MateriaGuildBonusQualityLotGroupId": 1006,
+    "Level": 1,
+    "MateriaQualityLotGroupId": 6
+  },
+  {
     "Id": 201001,
     "MateriaGuildBonusQualityLotGroupId": 1001,
     "Level": 2,
@@ -58,6 +64,12 @@
     "MateriaGuildBonusQualityLotGroupId": 1005,
     "Level": 2,
     "MateriaQualityLotGroupId": 201005
+  },
+  {
+    "Id": 201006,
+    "MateriaGuildBonusQualityLotGroupId": 1006,
+    "Level": 2,
+    "MateriaQualityLotGroupId": 6
   },
   {
     "Id": 301001,
@@ -90,6 +102,12 @@
     "MateriaQualityLotGroupId": 301005
   },
   {
+    "Id": 301006,
+    "MateriaGuildBonusQualityLotGroupId": 1006,
+    "Level": 3,
+    "MateriaQualityLotGroupId": 6
+  },
+  {
     "Id": 401001,
     "MateriaGuildBonusQualityLotGroupId": 1001,
     "Level": 4,
@@ -118,5 +136,11 @@
     "MateriaGuildBonusQualityLotGroupId": 1005,
     "Level": 4,
     "MateriaQualityLotGroupId": 401005
+  },
+  {
+    "Id": 401006,
+    "MateriaGuildBonusQualityLotGroupId": 1006,
+    "Level": 4,
+    "MateriaQualityLotGroupId": 6
   }
 ]

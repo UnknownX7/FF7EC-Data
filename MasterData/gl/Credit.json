@@ -752,7 +752,7 @@
     "CreditTitleType": 0,
     "TitleLanguageId": 0,
     "ResourceId": 0,
-    "OrderNo": 7004,
+    "OrderNo": 7006,
     "NewlineCount": 1
   },
   {
@@ -761,17 +761,17 @@
     "CreditTitleType": 0,
     "TitleLanguageId": 0,
     "ResourceId": 0,
-    "OrderNo": 7005,
+    "OrderNo": 7007,
     "NewlineCount": 1
   },
   {
     "Id": 7006,
-    "CreditType": 1,
+    "CreditType": 3,
     "CreditTitleType": 0,
     "TitleLanguageId": 0,
     "ResourceId": 0,
-    "OrderNo": 7006,
-    "NewlineCount": 1
+    "OrderNo": 7008,
+    "NewlineCount": 0
   },
   {
     "Id": 7007,
@@ -779,7 +779,7 @@
     "CreditTitleType": 0,
     "TitleLanguageId": 0,
     "ResourceId": 0,
-    "OrderNo": 7007,
+    "OrderNo": 7010,
     "NewlineCount": 0
   },
   {
@@ -788,7 +788,34 @@
     "CreditTitleType": 0,
     "TitleLanguageId": 0,
     "ResourceId": 0,
-    "OrderNo": 7008,
+    "OrderNo": 7011,
+    "NewlineCount": 1
+  },
+  {
+    "Id": 7009,
+    "CreditType": 3,
+    "CreditTitleType": 0,
+    "TitleLanguageId": 0,
+    "ResourceId": 0,
+    "OrderNo": 7004,
+    "NewlineCount": 0
+  },
+  {
+    "Id": 7010,
+    "CreditType": 3,
+    "CreditTitleType": 0,
+    "TitleLanguageId": 0,
+    "ResourceId": 0,
+    "OrderNo": 7005,
+    "NewlineCount": 1
+  },
+  {
+    "Id": 7011,
+    "CreditType": 4,
+    "CreditTitleType": 0,
+    "TitleLanguageId": 0,
+    "ResourceId": 0,
+    "OrderNo": 7009,
     "NewlineCount": 1
   },
   {

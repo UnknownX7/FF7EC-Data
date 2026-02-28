@@ -247,7 +247,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 1013
   },
   {
     "Id": 1015,
@@ -347,7 +347,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 1022
   },
   {
     "Id": 1024,
@@ -1122,7 +1122,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 2013
   },
   {
     "Id": 2015,
@@ -1247,7 +1247,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 2020
   },
   {
     "Id": 2021,
@@ -1797,7 +1797,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 3014
   },
   {
     "Id": 3015,
@@ -1872,7 +1872,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 3020
   },
   {
     "Id": 3024,
@@ -2500,6 +2500,31 @@
     "UNK_22": 0
   },
   {
+    "Id": 3051,
+    "WeaponType": 3,
+    "CharacterId": 3,
+    "WeaponLevelGroupId": 1,
+    "BaseExp": 1000,
+    "EnhanceConsumptionGilCoefficient": 80,
+    "WeaponMateriaSupportId0": 0,
+    "WeaponMateriaSupportId1": 0,
+    "WeaponMateriaSupportId2": 0,
+    "PassiveSkillId0": 60801,
+    "PassiveSkillId1": 62301,
+    "WeaponRaritySettingGroupId": 2,
+    "WeaponReleaseSettingGroupId": 31,
+    "WeaponReleaseParameterGroupId": 2,
+    "WeaponUpgradeParameterGroupId": 2,
+    "WeaponUpgradeConsumptionGroupId": 2,
+    "ResourceId": 3051,
+    "NameLanguageId": 510000000003051,
+    "WeaponMedalItemId": 1003051,
+    "AutoWeaponSkillElementType": 1,
+    "WeaponArmourySettingGroupId": 1,
+    "WeaponEquipmentType": 1,
+    "UNK_22": 0
+  },
+  {
     "Id": 3052,
     "WeaponType": 3,
     "CharacterId": 3,
@@ -2523,6 +2548,31 @@
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
     "UNK_22": 0
+  },
+  {
+    "Id": 3053,
+    "WeaponType": 3,
+    "CharacterId": 3,
+    "WeaponLevelGroupId": 1,
+    "BaseExp": 1000,
+    "EnhanceConsumptionGilCoefficient": 80,
+    "WeaponMateriaSupportId0": 50201,
+    "WeaponMateriaSupportId1": 50201,
+    "WeaponMateriaSupportId2": 50801,
+    "PassiveSkillId0": 11201,
+    "PassiveSkillId1": 51401,
+    "WeaponRaritySettingGroupId": 1,
+    "WeaponReleaseSettingGroupId": 31,
+    "WeaponReleaseParameterGroupId": 1,
+    "WeaponUpgradeParameterGroupId": 1,
+    "WeaponUpgradeConsumptionGroupId": 1,
+    "ResourceId": 3053,
+    "NameLanguageId": 510000000003053,
+    "WeaponMedalItemId": 1003053,
+    "AutoWeaponSkillElementType": 2,
+    "WeaponArmourySettingGroupId": 1,
+    "WeaponEquipmentType": 0,
+    "UNK_22": 3053
   },
   {
     "Id": 4001,
@@ -2597,7 +2647,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 4003
   },
   {
     "Id": 4004,
@@ -2822,7 +2872,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 4016
   },
   {
     "Id": 4018,
@@ -3847,7 +3897,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 5027
   },
   {
     "Id": 5028,
@@ -4072,7 +4122,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 5038
   },
   {
     "Id": 5040,
@@ -4322,7 +4372,7 @@
     "AutoWeaponSkillElementType": 5,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 6005
   },
   {
     "Id": 6006,
@@ -4522,7 +4572,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 6016
   },
   {
     "Id": 6019,
@@ -5222,7 +5272,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 7010
   },
   {
     "Id": 7011,
@@ -5247,7 +5297,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 7011
   },
   {
     "Id": 7014,
@@ -5747,7 +5797,7 @@
     "AutoWeaponSkillElementType": 7,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 8005
   },
   {
     "Id": 8007,
@@ -5922,7 +5972,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 8014
   },
   {
     "Id": 8015,
@@ -6472,7 +6522,7 @@
     "AutoWeaponSkillElementType": 4,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 9010
   },
   {
     "Id": 9011,
@@ -6572,7 +6622,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 9016
   },
   {
     "Id": 9018,
@@ -6746,6 +6796,31 @@
     "WeaponMedalItemId": 1009028,
     "AutoWeaponSkillElementType": 3,
     "WeaponArmourySettingGroupId": 1,
+    "WeaponEquipmentType": 0,
+    "UNK_22": 0
+  },
+  {
+    "Id": 9029,
+    "WeaponType": 2,
+    "CharacterId": 9,
+    "WeaponLevelGroupId": 1,
+    "BaseExp": 1000,
+    "EnhanceConsumptionGilCoefficient": 80,
+    "WeaponMateriaSupportId0": 50203,
+    "WeaponMateriaSupportId1": 50202,
+    "WeaponMateriaSupportId2": 50202,
+    "PassiveSkillId0": 10301,
+    "PassiveSkillId1": 51501,
+    "WeaponRaritySettingGroupId": 1,
+    "WeaponReleaseSettingGroupId": 32,
+    "WeaponReleaseParameterGroupId": 1,
+    "WeaponUpgradeParameterGroupId": 1,
+    "WeaponUpgradeConsumptionGroupId": 1,
+    "ResourceId": 9029,
+    "NameLanguageId": 510000000009029,
+    "WeaponMedalItemId": 1009029,
+    "AutoWeaponSkillElementType": 4,
+    "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
     "UNK_22": 0
   },
@@ -7072,7 +7147,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 20013
   },
   {
     "Id": 20014,
@@ -7097,7 +7172,7 @@
     "AutoWeaponSkillElementType": 3,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 20014
   },
   {
     "Id": 20015,
@@ -7575,6 +7650,31 @@
     "UNK_22": 0
   },
   {
+    "Id": 20041,
+    "WeaponType": 3,
+    "CharacterId": 20,
+    "WeaponLevelGroupId": 1,
+    "BaseExp": 1000,
+    "EnhanceConsumptionGilCoefficient": 80,
+    "WeaponMateriaSupportId0": 0,
+    "WeaponMateriaSupportId1": 0,
+    "WeaponMateriaSupportId2": 0,
+    "PassiveSkillId0": 60801,
+    "PassiveSkillId1": 62701,
+    "WeaponRaritySettingGroupId": 2,
+    "WeaponReleaseSettingGroupId": 31,
+    "WeaponReleaseParameterGroupId": 2,
+    "WeaponUpgradeParameterGroupId": 2,
+    "WeaponUpgradeConsumptionGroupId": 2,
+    "ResourceId": 20041,
+    "NameLanguageId": 510000000020041,
+    "WeaponMedalItemId": 1020041,
+    "AutoWeaponSkillElementType": 1,
+    "WeaponArmourySettingGroupId": 1,
+    "WeaponEquipmentType": 1,
+    "UNK_22": 0
+  },
+  {
     "Id": 49001,
     "WeaponType": 0,
     "CharacterId": 49,
@@ -7797,7 +7897,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 49009
   },
   {
     "Id": 49010,
@@ -7897,7 +7997,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 49013
   },
   {
     "Id": 49015,
@@ -8547,7 +8647,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 50005
   },
   {
     "Id": 50006,
@@ -8747,7 +8847,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 50014
   },
   {
     "Id": 50015,
@@ -9422,7 +9522,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 51013
   },
   {
     "Id": 51015,
@@ -9572,7 +9672,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 51021
   },
   {
     "Id": 51022,
@@ -9972,7 +10072,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 52007
   },
   {
     "Id": 52008,
@@ -10097,7 +10197,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 52014
   },
   {
     "Id": 52015,
@@ -10697,7 +10797,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 56008
   },
   {
     "Id": 56009,
@@ -10772,7 +10872,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 56011
   },
   {
     "Id": 56012,
@@ -11272,7 +11372,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "UNK_22": 0
+    "UNK_22": 60004
   },
   {
     "Id": 60005,
@@ -11398,5 +11498,30 @@
     "WeaponArmourySettingGroupId": 2,
     "WeaponEquipmentType": 0,
     "UNK_22": 0
+  },
+  {
+    "Id": 60010,
+    "WeaponType": 3,
+    "CharacterId": 60,
+    "WeaponLevelGroupId": 1,
+    "BaseExp": 1000,
+    "EnhanceConsumptionGilCoefficient": 80,
+    "WeaponMateriaSupportId0": 50202,
+    "WeaponMateriaSupportId1": 50202,
+    "WeaponMateriaSupportId2": 50901,
+    "PassiveSkillId0": 11301,
+    "PassiveSkillId1": 51501,
+    "WeaponRaritySettingGroupId": 1,
+    "WeaponReleaseSettingGroupId": 12,
+    "WeaponReleaseParameterGroupId": 1,
+    "WeaponUpgradeParameterGroupId": 1,
+    "WeaponUpgradeConsumptionGroupId": 1,
+    "ResourceId": 60010,
+    "NameLanguageId": 510000000060010,
+    "WeaponMedalItemId": 1060010,
+    "AutoWeaponSkillElementType": 4,
+    "WeaponArmourySettingGroupId": 1,
+    "WeaponEquipmentType": 0,
+    "UNK_22": 60010
   }
 ]

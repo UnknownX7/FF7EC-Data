@@ -841,8 +841,20 @@
       "value": "{1} overspeed gauge by {0}% (Not applied while overspeed is active)"
     },
     {
+      "id": 504268,
+      "value": "Gear C. ability uses: {0}"
+    },
+    {
       "id": 504269,
       "value": "{4} overspeed gauge [Pot.: {3}%] {2} {0} {1} (Not applied while overspeed is active)"
+    },
+    {
+      "id": 504270,
+      "value": "Applies {3} {2} [Dur.: {4}s] [Ext.: +{5}s] [While active: damage received increased by {6}%] {0} {1}"
+    },
+    {
+      "id": 504271,
+      "value": "Gear C. ability uses: {3} {2} {0} {1}"
     }
   ]
 }
