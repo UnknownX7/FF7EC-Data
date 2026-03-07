@@ -740,6 +740,36 @@
     "DisplayConditionSetId": 617000002029
   },
   {
+    "Id": 203001,
+    "BoxGachaGroupId": 2030,
+    "NameLanguageId": 630000000000001,
+    "ConsumptionItemId": 2020301,
+    "ConsumptionItemCount": 10,
+    "ResourceId": 203001,
+    "OrderNo": 0,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 203002,
+    "BoxGachaGroupId": 2030,
+    "NameLanguageId": 630000000000002,
+    "ConsumptionItemId": 2020302,
+    "ConsumptionItemCount": 10,
+    "ResourceId": 203002,
+    "OrderNo": 1,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "Id": 203003,
+    "BoxGachaGroupId": 2030,
+    "NameLanguageId": 630000000000003,
+    "ConsumptionItemId": 2020303,
+    "ConsumptionItemCount": 10,
+    "ResourceId": 203003,
+    "OrderNo": 2,
+    "DisplayConditionSetId": 617000002030
+  },
+  {
     "Id": 300501,
     "BoxGachaGroupId": 3005,
     "NameLanguageId": 630000000000001,

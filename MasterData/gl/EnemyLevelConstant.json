@@ -5056,6 +5056,14 @@
     "FinalAttackSkillEnemyId": 0
   },
   {
+    "EnemyLevelConstantGroupId": 2509008,
+    "Level": 1,
+    "ResourceId": 2509008010,
+    "EnemySkillLevelId": 2509008010,
+    "BossCautionLanguageId": 130000002509001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
     "EnemyLevelConstantGroupId": 2509010,
     "Level": 1,
     "ResourceId": 2509010010,
@@ -6856,6 +6864,14 @@
     "FinalAttackSkillEnemyId": 0
   },
   {
+    "EnemyLevelConstantGroupId": 2528007,
+    "Level": 1,
+    "ResourceId": 2528007010,
+    "EnemySkillLevelId": 2528007010,
+    "BossCautionLanguageId": 130000002528007,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
     "EnemyLevelConstantGroupId": 2528101,
     "Level": 1,
     "ResourceId": 2528101010,
@@ -7397,6 +7413,38 @@
     "ResourceId": 2535003010,
     "EnemySkillLevelId": 2535001010,
     "BossCautionLanguageId": 130000002535002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2535101,
+    "Level": 1,
+    "ResourceId": 2535101010,
+    "EnemySkillLevelId": 2535101010,
+    "BossCautionLanguageId": 130000002535102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2535102,
+    "Level": 1,
+    "ResourceId": 2535102010,
+    "EnemySkillLevelId": 2535101010,
+    "BossCautionLanguageId": 130000002535102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2535103,
+    "Level": 1,
+    "ResourceId": 2535102010,
+    "EnemySkillLevelId": 2535101010,
+    "BossCautionLanguageId": 130000002535102,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2535104,
+    "Level": 1,
+    "ResourceId": 2535103010,
+    "EnemySkillLevelId": 2535101010,
+    "BossCautionLanguageId": 130000002535102,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -8692,6 +8740,14 @@
     "Level": 1,
     "ResourceId": 2558004010,
     "EnemySkillLevelId": 2558007010,
+    "BossCautionLanguageId": 130000002558001,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2558010,
+    "Level": 1,
+    "ResourceId": 2558010010,
+    "EnemySkillLevelId": 2558010010,
     "BossCautionLanguageId": 130000002558001,
     "FinalAttackSkillEnemyId": 0
   },

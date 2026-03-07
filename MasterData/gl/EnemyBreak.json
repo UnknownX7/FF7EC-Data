@@ -3918,5 +3918,25 @@
     "ResistElementId": 0,
     "ResistDamageId": 0,
     "EnemyBreakDurationExtensionGroupId": 2509010
+  },
+  {
+    "Id": 325096136,
+    "Duration": 5,
+    "EnemyBreakAtbRecoveryGroupId": 1,
+    "ResistBuffDebuffId": 0,
+    "ResistStatusConditionId": 0,
+    "ResistElementId": 0,
+    "ResistDamageId": 0,
+    "EnemyBreakDurationExtensionGroupId": 325096136
+  },
+  {
+    "Id": 325096137,
+    "Duration": 5,
+    "EnemyBreakAtbRecoveryGroupId": 1,
+    "ResistBuffDebuffId": 0,
+    "ResistStatusConditionId": 0,
+    "ResistElementId": 0,
+    "ResistDamageId": 0,
+    "EnemyBreakDurationExtensionGroupId": 325096137
   }
 ]

@@ -4310,6 +4310,16 @@
     "EffectCoefficient": 0
   },
   {
+    "Id": 3250931171,
+    "SkillStatusConditionType": 5,
+    "MinDurationSec": 10,
+    "MaxDurationSec": 10,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "IgnoreResist": true,
+    "EffectCoefficient": 0
+  },
+  {
     "Id": 3251212374,
     "SkillStatusConditionType": 7,
     "MinDurationSec": 60,
@@ -5740,6 +5750,26 @@
     "EffectCoefficient": 0
   },
   {
+    "Id": 3252810352,
+    "SkillStatusConditionType": 5,
+    "MinDurationSec": 10,
+    "MaxDurationSec": 10,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3252810362,
+    "SkillStatusConditionType": 5,
+    "MinDurationSec": 7,
+    "MaxDurationSec": 7,
+    "MinDuplicationDurationSec": 7,
+    "MaxDuplicationDurationSec": 7,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
     "Id": 3252811103,
     "SkillStatusConditionType": 5,
     "MinDurationSec": 5,
@@ -5894,6 +5924,16 @@
     "SkillStatusConditionType": 5,
     "MinDurationSec": 20,
     "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": true,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3252830164,
+    "SkillStatusConditionType": 5,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
     "MinDuplicationDurationSec": 0,
     "MaxDuplicationDurationSec": 0,
     "IgnoreResist": true,
@@ -6426,6 +6466,46 @@
     "MaxDurationSec": 999,
     "MinDuplicationDurationSec": 999,
     "MaxDuplicationDurationSec": 999,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3253511214,
+    "SkillStatusConditionType": 16,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3253511224,
+    "SkillStatusConditionType": 16,
+    "MinDurationSec": 120,
+    "MaxDurationSec": 120,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3253511234,
+    "SkillStatusConditionType": 16,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3253511244,
+    "SkillStatusConditionType": 16,
+    "MinDurationSec": 999,
+    "MaxDurationSec": 999,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
     "IgnoreResist": false,
     "EffectCoefficient": 0
   },
@@ -8686,6 +8766,36 @@
     "MaxDurationSec": 900,
     "MinDuplicationDurationSec": 900,
     "MaxDuplicationDurationSec": 900,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255810454,
+    "SkillStatusConditionType": 1,
+    "MinDurationSec": 600,
+    "MaxDurationSec": 600,
+    "MinDuplicationDurationSec": 600,
+    "MaxDuplicationDurationSec": 600,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255810455,
+    "SkillStatusConditionType": 2,
+    "MinDurationSec": 600,
+    "MaxDurationSec": 600,
+    "MinDuplicationDurationSec": 600,
+    "MaxDuplicationDurationSec": 600,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3255810456,
+    "SkillStatusConditionType": 16,
+    "MinDurationSec": 600,
+    "MaxDurationSec": 600,
+    "MinDuplicationDurationSec": 600,
+    "MaxDuplicationDurationSec": 600,
     "IgnoreResist": false,
     "EffectCoefficient": 0
   },

@@ -234,6 +234,18 @@
     "DisplayConditionSetId": 614000002029
   },
   {
+    "EventBaseId": 2030,
+    "Priority": 0,
+    "EventDetailId": 2030001,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventBaseId": 2030,
+    "Priority": 1,
+    "EventDetailId": 2030002,
+    "DisplayConditionSetId": 614000002030
+  },
+  {
     "EventBaseId": 3025,
     "Priority": 0,
     "EventDetailId": 3025001,

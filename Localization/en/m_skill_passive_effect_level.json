@@ -1333,6 +1333,14 @@
       "value": "Applies Phys. & Mag. ATB Conservation to self when interrupting enemy. (Phys. & Mag. Wpn./Gear C. Ability ATB Cost: -1 / Dur.: 15s/ Ext.: +15s)"
     },
     {
+      "id": 545000062401101,
+      "value": "All Allies' Mag. Defense +{1}%"
+    },
+    {
+      "id": 545000062401201,
+      "value": "Own Healing Pot. +{1}%"
+    },
+    {
       "id": 545000062501101,
       "value": "Applies Amp. Healing Ability to self when stream phase is activated (C./UC. Ability: Healing +30% (up to 1 time) / Dur.: 60s / Ext.: +0s)"
     },
@@ -1475,6 +1483,14 @@
     {
       "id": 545000161601201,
       "value": "Mag. Ability Dmg. to Wingeds +{1}%"
+    },
+    {
+      "id": 545000162001101,
+      "value": "Phys. Ability Dmg. to Weapons (Great Hunt) +{1}%"
+    },
+    {
+      "id": 545000162001201,
+      "value": "Mag. Ability Dmg. to Weapons (Great Hunt) +{1}%"
     }
   ]
 }
