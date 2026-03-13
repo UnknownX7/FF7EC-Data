@@ -1437,6 +1437,10 @@
       "value": "Virtuous Contract"
     },
     {
+      "id": 510000000020038,
+      "value": "Festive Sword"
+    },
+    {
       "id": 510000000020041,
       "value": "Divine Emissary"
     },
@@ -2029,8 +2033,24 @@
       "value": "Fire Recipe"
     },
     {
+      "id": 532000211200102,
+      "value": "Fire (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000211200103,
+      "value": "Fire (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
       "id": 532000211200104,
       "value": "Fire (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000211200302,
+      "value": "Fire Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000211200303,
+      "value": "Fire Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
     },
     {
       "id": 532000211200304,
@@ -2077,12 +2097,20 @@
       "value": "Thunder Recipe"
     },
     {
+      "id": 532000213200102,
+      "value": "Thunder (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
       "id": 532000213200103,
       "value": "Thunder (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
     },
     {
       "id": 532000213200104,
       "value": "Thunder (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
+      "id": 532000213200302,
+      "value": "Thunder Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
       "id": 532000213200303,
@@ -2121,8 +2149,24 @@
       "value": "Water (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
     },
     {
+      "id": 532000215200103,
+      "value": "Water (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000215200104,
+      "value": "Water (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
+    },
+    {
       "id": 532000215200202,
       "value": "Water Blow (<sprite=\"tmp_icon\" index=71>Circle) Recipe"
+    },
+    {
+      "id": 532000215200203,
+      "value": "Water Blow (<sprite=\"tmp_icon\" index=69>Triangle) Recipe"
+    },
+    {
+      "id": 532000215200204,
+      "value": "Water Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
       "id": 532000216200102,
@@ -2161,8 +2205,24 @@
       "value": "Fire Breach Recipe (Advanced)"
     },
     {
+      "id": 533000211200102,
+      "value": "Used to synthesize Fire (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000211200103,
+      "value": "Used to synthesize Fire (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
       "id": 533000211200104,
       "value": "Used to synthesize Fire (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000211200302,
+      "value": "Used to synthesize Fire Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000211200303,
+      "value": "Used to synthesize Fire Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
       "id": 533000211200304,
@@ -2177,12 +2237,24 @@
       "value": "Used to synthesize Blizzard (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
+      "id": 533000212200104,
+      "value": "Used to synthesize Blizzard (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
       "id": 533000212200302,
       "value": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
     },
     {
       "id": 533000212200303,
       "value": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000212200304,
+      "value": "Used to synthesize Blizzard Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000213200102,
+      "value": "Used to synthesize Thunder (<sprite=\"tmp_icon\" index=71>Circle) materia."
     },
     {
       "id": 533000213200103,
@@ -2193,6 +2265,10 @@
       "value": "Used to synthesize Thunder (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
+      "id": 533000213200302,
+      "value": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
       "id": 533000213200303,
       "value": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
@@ -2201,20 +2277,80 @@
       "value": "Used to synthesize Thunder Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
+      "id": 533000214200102,
+      "value": "Used to synthesize Quake (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000214200103,
+      "value": "Used to synthesize Quake (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
       "id": 533000214200104,
       "value": "Used to synthesize Quake (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000214200202,
+      "value": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000214200203,
+      "value": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
       "id": 533000214200204,
       "value": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
+      "id": 533000215200102,
+      "value": "Used to synthesize Water (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000215200103,
+      "value": "Used to synthesize Water (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000215200104,
+      "value": "Used to synthesize Water (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000215200202,
+      "value": "Used to synthesize Water Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
+      "id": 533000215200203,
+      "value": "Used to synthesize Water Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000215200204,
+      "value": "Used to synthesize Water Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000216200102,
+      "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
       "id": 533000216200103,
       "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=69>Triangle) materia."
     },
     {
+      "id": 533000216200104,
+      "value": "Used to synthesize Aero (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000216200202,
+      "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=71>Circle) materia."
+    },
+    {
       "id": 533000216200203,
       "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=69>Triangle) materia."
+    },
+    {
+      "id": 533000216200204,
+      "value": "Used to synthesize Aero Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
+    },
+    {
+      "id": 533000230000401,
+      "value": "Used to synthesize Faith materia."
     },
     {
       "id": 540000000400101,
@@ -6091,6 +6227,14 @@
     {
       "id": 802000101005713,
       "value": "5<sprite=\"tmp_icon\" index=196> Festive Rod Pack II"
+    },
+    {
+      "id": 802000101005716,
+      "value": "5<sprite=\"tmp_icon\" index=196> Festive Sword Pack I"
+    },
+    {
+      "id": 802000101005718,
+      "value": "5<sprite=\"tmp_icon\" index=196> Festive Sword Pack II"
     },
     {
       "id": 802000101006001,

@@ -1257,6 +1257,14 @@
       "value": "Force Gauge: Unyielding Weapon"
     },
     {
+      "id": 970003100000631,
+      "value": "Force Gauge: Weapon Revival"
+    },
+    {
+      "id": 970003100000641,
+      "value": "Force Gauge: Weapon Chain"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -2055,6 +2063,14 @@
     {
       "id": 971003100000621,
       "value": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. <command_color=common_03>The enemy's sigil resistance</color> is dependent on the amount the force gauge is filled—<command_color=common_03>if the gauge is high, then sigil resistance is high</color>; <command_color=common_03>if the gauge is low, then sigil resistance is low</color>."
+    },
+    {
+      "id": 971003100000631,
+      "value": "<command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. <command_color=common_03>The enemy's sigil resistance</color> is dependent on the amount the force gauge is filled—<command_color=common_03>if the gauge is high, then sigil resistance is high</color>; <command_color=common_03>if the gauge is low, then sigil resistance is low</color>. However, the gauge is <command_color=common_03>greatly restored when it falls below a certain amount</color>. "
+    },
+    {
+      "id": 971003100000641,
+      "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> will deplete the gauge. <command_color=common_03>Use of certain abilities</color> is dependent on the amount the gauge is filled."
     },
     {
       "id": 971003200000011,

@@ -5681,6 +5681,25 @@
     "ForceGaugeType": 3
   },
   {
+    "Id": 3253532011,
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 20,
+    "IsStopMin": false,
+    "IsStopMax": false,
+    "NameLanguageId": 548003253532011,
+    "DescriptionLanguageId": 2,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253532011,
+    "TutorialStepType": 262,
+    "SkillForceGaugeTriggerType": 0,
+    "SkillEnemyId": 0,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 2
+  },
+  {
     "Id": 3253560012,
     "InitialValue": 1000,
     "MaxValue": 1000,
@@ -5831,6 +5850,25 @@
     "RewardSetId": 0,
     "MaxRewardCount": 0,
     "ForceGaugeType": 1
+  },
+  {
+    "Id": 3253562012,
+    "InitialValue": 1000,
+    "MaxValue": 1000,
+    "TimeChangeValue": 20,
+    "IsStopMin": false,
+    "IsStopMax": false,
+    "NameLanguageId": 548003253562012,
+    "DescriptionLanguageId": 2,
+    "SkillForceGaugeChainEffectId": 0,
+    "SkillForceGaugeParameterEffectGroupId": 0,
+    "SkillForceGaugeTakenDamageEffectGroupId": 3253562012,
+    "TutorialStepType": 263,
+    "SkillForceGaugeTriggerType": 0,
+    "SkillEnemyId": 0,
+    "RewardSetId": 0,
+    "MaxRewardCount": 0,
+    "ForceGaugeType": 2
   },
   {
     "Id": 3253631011,

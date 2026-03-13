@@ -616,6 +616,20 @@
     "MagicalDamageCoefficient": 1000
   },
   {
+    "Id": 3250763851,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": 990,
+    "MagicalDamageCoefficient": 990
+  },
+  {
+    "Id": 3250763861,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": 990,
+    "MagicalDamageCoefficient": 990
+  },
+  {
     "Id": 3250860132,
     "TriggerCoefficient": 0,
     "CriticalDamageCoefficient": 0,
@@ -1125,6 +1139,13 @@
     "CriticalDamageCoefficient": 0,
     "PhysicalDamageCoefficient": 950,
     "MagicalDamageCoefficient": 0
+  },
+  {
+    "Id": 3253562014,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": 700,
+    "MagicalDamageCoefficient": 700
   },
   {
     "Id": 3253631013,

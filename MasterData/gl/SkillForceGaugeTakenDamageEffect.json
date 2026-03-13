@@ -2142,6 +2142,13 @@
     "EffectValue": -20000
   },
   {
+    "Id": 32535320111,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -18400
+  },
+  {
     "Id": 32535600121,
     "SkillForceGaugeTakenDamageCalcType": 2,
     "SkillForceGaugeTakenDamageEffectType": 4,
@@ -2196,6 +2203,13 @@
     "SkillForceGaugeTakenDamageEffectType": 4,
     "ParameterDetailType": 0,
     "EffectValue": -80000
+  },
+  {
+    "Id": 32535620121,
+    "SkillForceGaugeTakenDamageCalcType": 2,
+    "SkillForceGaugeTakenDamageEffectType": 4,
+    "ParameterDetailType": 0,
+    "EffectValue": -145500
   },
   {
     "Id": 32536310111,
