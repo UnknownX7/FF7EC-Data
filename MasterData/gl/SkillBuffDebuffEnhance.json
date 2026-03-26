@@ -159,5 +159,33 @@
     "EnhanceEffectLevel": 2,
     "EnhanceEffectLevelMax": 5,
     "EnhanceDurationSec": 70
+  },
+  {
+    "Id": 3256710012,
+    "BuffDebuffEnhanceType": 2,
+    "EnhanceEffectLevel": 1,
+    "EnhanceEffectLevelMax": 5,
+    "EnhanceDurationSec": 10
+  },
+  {
+    "Id": 3256710052,
+    "BuffDebuffEnhanceType": 2,
+    "EnhanceEffectLevel": 1,
+    "EnhanceEffectLevelMax": 5,
+    "EnhanceDurationSec": 30
+  },
+  {
+    "Id": 3256710092,
+    "BuffDebuffEnhanceType": 2,
+    "EnhanceEffectLevel": 1,
+    "EnhanceEffectLevelMax": 5,
+    "EnhanceDurationSec": 60
+  },
+  {
+    "Id": 3256710132,
+    "BuffDebuffEnhanceType": 2,
+    "EnhanceEffectLevel": 1,
+    "EnhanceEffectLevelMax": 5,
+    "EnhanceDurationSec": 999
   }
 ]

@@ -1265,6 +1265,10 @@
       "value": "Force Gauge: Weapon Chain"
     },
     {
+      "id": 970003100000651,
+      "value": "Force Gauge: Dark Rush"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -2071,6 +2075,10 @@
     {
       "id": 971003100000641,
       "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> will deplete the gauge. <command_color=common_03>Use of certain abilities</color> is dependent on the amount the gauge is filled."
+    },
+    {
+      "id": 971003100000651,
+      "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. <command_color=common_03>The frequency with which the enemy unleashes abilities</color> is dependent on the amount the force gauge is filled."
     },
     {
       "id": 971003200000011,

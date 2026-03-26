@@ -112,6 +112,14 @@
     "LockConditionSetId": 160000000003
   },
   {
+    "Id": 3041,
+    "OrderNo": 1,
+    "NameLanguageId": 863000003017003,
+    "EventAreaCategoryId": 304101,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 160000000003
+  },
+  {
     "Id": 11004,
     "OrderNo": 1,
     "NameLanguageId": 863000003017003,
@@ -166,5 +174,13 @@
     "EventAreaCategoryId": 14013,
     "DisplayConditionSetId": 0,
     "LockConditionSetId": 700001401300
+  },
+  {
+    "Id": 14015,
+    "OrderNo": 1,
+    "NameLanguageId": 863000003017003,
+    "EventAreaCategoryId": 14015,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 700001401500
   }
 ]
