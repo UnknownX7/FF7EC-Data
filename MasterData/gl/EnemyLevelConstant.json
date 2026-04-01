@@ -120,6 +120,14 @@
     "FinalAttackSkillEnemyId": 0
   },
   {
+    "EnemyLevelConstantGroupId": 1010013,
+    "Level": 1,
+    "ResourceId": 1010013010,
+    "EnemySkillLevelId": 1010013010,
+    "BossCautionLanguageId": 130000001010013,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
     "EnemyLevelConstantGroupId": 1012005,
     "Level": 1,
     "ResourceId": 1012002010,
@@ -736,6 +744,14 @@
     "FinalAttackSkillEnemyId": 0
   },
   {
+    "EnemyLevelConstantGroupId": 1901003,
+    "Level": 1,
+    "ResourceId": 1901003010,
+    "EnemySkillLevelId": 1901003010,
+    "BossCautionLanguageId": 130000001901003,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
     "EnemyLevelConstantGroupId": 1902001,
     "Level": 1,
     "ResourceId": 1902001010,
@@ -933,6 +949,14 @@
     "ResourceId": 1906331010,
     "EnemySkillLevelId": 1906331010,
     "BossCautionLanguageId": 130000001906331,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1920003,
+    "Level": 1,
+    "ResourceId": 1920003010,
+    "EnemySkillLevelId": 1920003010,
+    "BossCautionLanguageId": 130000001920003,
     "FinalAttackSkillEnemyId": 0
   },
   {
