@@ -6699,6 +6699,27 @@
     "MissionGroupEmptyBehaviorType": 0
   },
   {
+    "Id": 902404,
+    "MissionGroupType": 18,
+    "MissionBonusGroupId": 902404,
+    "DisplayConditionSetId": 270000902404,
+    "OpenConditionSetId": 270000902404,
+    "LockConditionSetId": 290000902404,
+    "ResourceId": 0,
+    "NameLanguageId": 700000000902401,
+    "ExpiredSendGiftStartDatetime": 1777514400000,
+    "ResetId": 0,
+    "SpecialTargetId": 0,
+    "RewardSkillSpecialId": 0,
+    "RewardSummonId": 0,
+    "SeasonPassItemId": 0,
+    "ExtraMissionBonusGroupId": 0,
+    "SeasonPassId": 0,
+    "IconResourceId": 0,
+    "OrderNo": 1,
+    "MissionGroupEmptyBehaviorType": 0
+  },
+  {
     "Id": 1000001,
     "MissionGroupType": 10,
     "MissionBonusGroupId": 0,

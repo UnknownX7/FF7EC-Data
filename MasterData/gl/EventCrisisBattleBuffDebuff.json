@@ -5782,5 +5782,461 @@
     "StageLevelIncreaseValue": 40,
     "Priority": 31,
     "Cost": 40
+  },
+  {
+    "Id": 150021011,
+    "BattleFieldEffectId": 150021011,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 18,
+    "Cost": 10
+  },
+  {
+    "Id": 150021012,
+    "BattleFieldEffectId": 150021012,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 37,
+    "Cost": 20
+  },
+  {
+    "Id": 150021013,
+    "BattleFieldEffectId": 150021013,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 49,
+    "Cost": 30
+  },
+  {
+    "Id": 150021014,
+    "BattleFieldEffectId": 150021014,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 54,
+    "Cost": 40
+  },
+  {
+    "Id": 150021021,
+    "BattleFieldEffectId": 150021021,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 4,
+    "Cost": 10
+  },
+  {
+    "Id": 150021022,
+    "BattleFieldEffectId": 150021022,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 14,
+    "Cost": 20
+  },
+  {
+    "Id": 150021023,
+    "BattleFieldEffectId": 150021023,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 23,
+    "Cost": 30
+  },
+  {
+    "Id": 150021024,
+    "BattleFieldEffectId": 150021024,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 44,
+    "Cost": 40
+  },
+  {
+    "Id": 150021031,
+    "BattleFieldEffectId": 150021031,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 7,
+    "Cost": 10
+  },
+  {
+    "Id": 150021041,
+    "BattleFieldEffectId": 150021041,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 3,
+    "Cost": 10
+  },
+  {
+    "Id": 150021042,
+    "BattleFieldEffectId": 150021042,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 11,
+    "Cost": 20
+  },
+  {
+    "Id": 150021043,
+    "BattleFieldEffectId": 150021043,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 22,
+    "Cost": 30
+  },
+  {
+    "Id": 150021044,
+    "BattleFieldEffectId": 150021044,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 35,
+    "Cost": 40
+  },
+  {
+    "Id": 150021051,
+    "BattleFieldEffectId": 150021051,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 8,
+    "Cost": 10
+  },
+  {
+    "Id": 150021052,
+    "BattleFieldEffectId": 150021052,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 15,
+    "Cost": 20
+  },
+  {
+    "Id": 150021053,
+    "BattleFieldEffectId": 150021053,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 26,
+    "Cost": 30
+  },
+  {
+    "Id": 150021054,
+    "BattleFieldEffectId": 150021054,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 56,
+    "Cost": 40
+  },
+  {
+    "Id": 150021061,
+    "BattleFieldEffectId": 150021061,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 19,
+    "Cost": 10
+  },
+  {
+    "Id": 150021062,
+    "BattleFieldEffectId": 150021062,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 40,
+    "Cost": 20
+  },
+  {
+    "Id": 150021063,
+    "BattleFieldEffectId": 150021063,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 53,
+    "Cost": 30
+  },
+  {
+    "Id": 150021064,
+    "BattleFieldEffectId": 150021064,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 55,
+    "Cost": 40
+  },
+  {
+    "Id": 150021071,
+    "BattleFieldEffectId": 150021071,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 45,
+    "Cost": 10
+  },
+  {
+    "Id": 150021081,
+    "BattleFieldEffectId": 150021081,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 27,
+    "Cost": 10
+  },
+  {
+    "Id": 150021082,
+    "BattleFieldEffectId": 150021082,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 39,
+    "Cost": 20
+  },
+  {
+    "Id": 150021083,
+    "BattleFieldEffectId": 150021083,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 41,
+    "Cost": 30
+  },
+  {
+    "Id": 150021084,
+    "BattleFieldEffectId": 150021084,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 51,
+    "Cost": 40
+  },
+  {
+    "Id": 150021091,
+    "BattleFieldEffectId": 150021091,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 43,
+    "Cost": 10
+  },
+  {
+    "Id": 150021101,
+    "BattleFieldEffectId": 150021101,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 16,
+    "Cost": 10
+  },
+  {
+    "Id": 150021102,
+    "BattleFieldEffectId": 150021102,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 38,
+    "Cost": 20
+  },
+  {
+    "Id": 150021103,
+    "BattleFieldEffectId": 150021103,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 52,
+    "Cost": 30
+  },
+  {
+    "Id": 150021104,
+    "BattleFieldEffectId": 150021104,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 57,
+    "Cost": 40
+  },
+  {
+    "Id": 150021111,
+    "BattleFieldEffectId": 150021111,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 17,
+    "Cost": 10
+  },
+  {
+    "Id": 150021112,
+    "BattleFieldEffectId": 150021112,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 28,
+    "Cost": 20
+  },
+  {
+    "Id": 150021113,
+    "BattleFieldEffectId": 150021113,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 42,
+    "Cost": 30
+  },
+  {
+    "Id": 150021114,
+    "BattleFieldEffectId": 150021114,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 50,
+    "Cost": 40
+  },
+  {
+    "Id": 150021121,
+    "BattleFieldEffectId": 150021121,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 6,
+    "Cost": 10
+  },
+  {
+    "Id": 150021122,
+    "BattleFieldEffectId": 150021122,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 13,
+    "Cost": 20
+  },
+  {
+    "Id": 150021123,
+    "BattleFieldEffectId": 150021123,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 25,
+    "Cost": 30
+  },
+  {
+    "Id": 150021124,
+    "BattleFieldEffectId": 150021124,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 34,
+    "Cost": 40
+  },
+  {
+    "Id": 150021131,
+    "BattleFieldEffectId": 150021131,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 29,
+    "Cost": 10
+  },
+  {
+    "Id": 150021132,
+    "BattleFieldEffectId": 150021132,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 46,
+    "Cost": 20
+  },
+  {
+    "Id": 150021141,
+    "BattleFieldEffectId": 150021141,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 31,
+    "Cost": 10
+  },
+  {
+    "Id": 150021142,
+    "BattleFieldEffectId": 150021142,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 48,
+    "Cost": 20
+  },
+  {
+    "Id": 150021151,
+    "BattleFieldEffectId": 150021151,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 2,
+    "Cost": 10
+  },
+  {
+    "Id": 150021152,
+    "BattleFieldEffectId": 150021152,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 10,
+    "Cost": 20
+  },
+  {
+    "Id": 150021153,
+    "BattleFieldEffectId": 150021153,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 21,
+    "Cost": 30
+  },
+  {
+    "Id": 150021154,
+    "BattleFieldEffectId": 150021154,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 33,
+    "Cost": 40
+  },
+  {
+    "Id": 150021161,
+    "BattleFieldEffectId": 150021161,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 1,
+    "Cost": 10
+  },
+  {
+    "Id": 150021162,
+    "BattleFieldEffectId": 150021162,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 9,
+    "Cost": 20
+  },
+  {
+    "Id": 150021163,
+    "BattleFieldEffectId": 150021163,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 20,
+    "Cost": 30
+  },
+  {
+    "Id": 150021164,
+    "BattleFieldEffectId": 150021164,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 32,
+    "Cost": 40
+  },
+  {
+    "Id": 150021171,
+    "BattleFieldEffectId": 150021171,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 30,
+    "Cost": 10
+  },
+  {
+    "Id": 150021172,
+    "BattleFieldEffectId": 150021172,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 47,
+    "Cost": 20
+  },
+  {
+    "Id": 150021181,
+    "BattleFieldEffectId": 150021181,
+    "ScoreCoefficientPermil": 500,
+    "StageLevelIncreaseValue": 10,
+    "Priority": 5,
+    "Cost": 10
+  },
+  {
+    "Id": 150021182,
+    "BattleFieldEffectId": 150021182,
+    "ScoreCoefficientPermil": 1000,
+    "StageLevelIncreaseValue": 20,
+    "Priority": 12,
+    "Cost": 20
+  },
+  {
+    "Id": 150021183,
+    "BattleFieldEffectId": 150021183,
+    "ScoreCoefficientPermil": 1500,
+    "StageLevelIncreaseValue": 30,
+    "Priority": 24,
+    "Cost": 30
+  },
+  {
+    "Id": 150021184,
+    "BattleFieldEffectId": 150021184,
+    "ScoreCoefficientPermil": 2000,
+    "StageLevelIncreaseValue": 40,
+    "Priority": 36,
+    "Cost": 40
   }
 ]
