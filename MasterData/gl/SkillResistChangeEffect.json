@@ -1960,6 +1960,14 @@
     "ResetOnInterrupt": true
   },
   {
+    "Id": 3250882012,
+    "ResistDamageId": 3250882012,
+    "ResistElementId": 0,
+    "ResistBuffDebuffId": 0,
+    "ResistStatusConditionId": 0,
+    "ResetOnInterrupt": true
+  },
+  {
     "Id": 3250930043,
     "ResistDamageId": 0,
     "ResistElementId": 0,
@@ -3754,6 +3762,38 @@
   {
     "Id": 3255930042,
     "ResistDamageId": 3255891011,
+    "ResistElementId": 0,
+    "ResistBuffDebuffId": 0,
+    "ResistStatusConditionId": 0,
+    "ResetOnInterrupt": false
+  },
+  {
+    "Id": 3255931012,
+    "ResistDamageId": 3255931012,
+    "ResistElementId": 0,
+    "ResistBuffDebuffId": 0,
+    "ResistStatusConditionId": 0,
+    "ResetOnInterrupt": false
+  },
+  {
+    "Id": 3255931022,
+    "ResistDamageId": 3255931022,
+    "ResistElementId": 0,
+    "ResistBuffDebuffId": 0,
+    "ResistStatusConditionId": 0,
+    "ResetOnInterrupt": false
+  },
+  {
+    "Id": 3255931032,
+    "ResistDamageId": 3255931032,
+    "ResistElementId": 0,
+    "ResistBuffDebuffId": 0,
+    "ResistStatusConditionId": 0,
+    "ResetOnInterrupt": false
+  },
+  {
+    "Id": 3255931042,
+    "ResistDamageId": 3255931042,
     "ResistElementId": 0,
     "ResistBuffDebuffId": 0,
     "ResistStatusConditionId": 0,

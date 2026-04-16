@@ -252,6 +252,18 @@
     "DisplayConditionSetId": 0
   },
   {
+    "EventBaseId": 2032,
+    "Priority": 0,
+    "EventDetailId": 2032001,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventBaseId": 2032,
+    "Priority": 1,
+    "EventDetailId": 2032002,
+    "DisplayConditionSetId": 614000002032
+  },
+  {
     "EventBaseId": 3025,
     "Priority": 0,
     "EventDetailId": 3025001,
@@ -286,5 +298,11 @@
     "Priority": 1,
     "EventDetailId": 3041002,
     "DisplayConditionSetId": 614000003041
+  },
+  {
+    "EventBaseId": 3047,
+    "Priority": 0,
+    "EventDetailId": 3047001,
+    "DisplayConditionSetId": 0
   }
 ]

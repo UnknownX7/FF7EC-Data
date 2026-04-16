@@ -216,6 +216,14 @@
     "MissionGroupId": 120203101
   },
   {
+    "EventBaseId": 2032,
+    "MissionGroupId": 120203201
+  },
+  {
+    "EventBaseId": 2032,
+    "MissionGroupId": 120203202
+  },
+  {
     "EventBaseId": 3001,
     "MissionGroupId": 1203001
   },
@@ -534,6 +542,14 @@
   {
     "EventBaseId": 3046,
     "MissionGroupId": 120304601
+  },
+  {
+    "EventBaseId": 3047,
+    "MissionGroupId": 120304701
+  },
+  {
+    "EventBaseId": 3047,
+    "MissionGroupId": 120304702
   },
   {
     "EventBaseId": 8001,
@@ -874,5 +890,9 @@
   {
     "EventBaseId": 14015,
     "MissionGroupId": 121401501
+  },
+  {
+    "EventBaseId": 14016,
+    "MissionGroupId": 121401601
   }
 ]

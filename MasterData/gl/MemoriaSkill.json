@@ -448,5 +448,25 @@
     "BaseSkillPoint": 1,
     "RequiredAnalysisLevel": 1,
     "TargetCharacterGroupId": 0
+  },
+  {
+    "Id": 15100191,
+    "MemoriaSkillGroupId": 1510019,
+    "TargetSkillId": 112101,
+    "MemoriaSkillType": 1,
+    "OrderNo": 1,
+    "BaseSkillPoint": 15,
+    "RequiredAnalysisLevel": 1,
+    "TargetCharacterGroupId": 0
+  },
+  {
+    "Id": 15100192,
+    "MemoriaSkillGroupId": 1510019,
+    "TargetSkillId": 120601,
+    "MemoriaSkillType": 1,
+    "OrderNo": 2,
+    "BaseSkillPoint": 5,
+    "RequiredAnalysisLevel": 1,
+    "TargetCharacterGroupId": 0
   }
 ]

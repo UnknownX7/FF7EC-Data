@@ -2140,5 +2140,47 @@
     "PickupLanguageId": 615000000000001,
     "ResourceId": 159,
     "GachaStampSheetTopGroupId": 159
+  },
+  {
+    "Id": 10160,
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010160,
+    "GachaStampLotGroupId": 1,
+    "TitleLanguageId": 610000000010091,
+    "DescriptionTemplateLanguageId": 611000000000002,
+    "LotRatioLanguageId": 612000000000001,
+    "StampLanguageId": 613000000000001,
+    "ComplementLanguageId": 614000000000001,
+    "PickupLanguageId": 615000000000001,
+    "ResourceId": 160,
+    "GachaStampSheetTopGroupId": 160
+  },
+  {
+    "Id": 10161,
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010160,
+    "GachaStampLotGroupId": 1,
+    "TitleLanguageId": 610000000010091,
+    "DescriptionTemplateLanguageId": 611000000000002,
+    "LotRatioLanguageId": 612000000000001,
+    "StampLanguageId": 613000000000002,
+    "ComplementLanguageId": 614000000000001,
+    "PickupLanguageId": 615000000000001,
+    "ResourceId": 161,
+    "GachaStampSheetTopGroupId": 161
+  },
+  {
+    "Id": 10162,
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010162,
+    "GachaStampLotGroupId": 1,
+    "TitleLanguageId": 610000000010162,
+    "DescriptionTemplateLanguageId": 611000000000002,
+    "LotRatioLanguageId": 612000000000001,
+    "StampLanguageId": 613000000000001,
+    "ComplementLanguageId": 614000000000001,
+    "PickupLanguageId": 615000000000001,
+    "ResourceId": 162,
+    "GachaStampSheetTopGroupId": 162
   }
 ]

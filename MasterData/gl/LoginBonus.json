@@ -4828,6 +4828,23 @@
     "OpenConditionSetId": 0
   },
   {
+    "Id": 3291,
+    "LoginBonusType": 3,
+    "ContinuousType": 1,
+    "DisplayPriority": 3291,
+    "LoginBonusSheetGroupId": 3291,
+    "NameLanguageId": 2,
+    "DescriptionLanguageId": 2,
+    "BackgroundResourceId": 3291,
+    "LayoutResourceId": 4,
+    "TriggerConditionSetId": 0,
+    "StartDatetime": 1776304800000,
+    "TriggerEndDatetime": 1777492799000,
+    "ReceiveEndDatetime": 1777492799000,
+    "ResetId": 0,
+    "OpenConditionSetId": 0
+  },
+  {
     "Id": 4001,
     "LoginBonusType": 3,
     "ContinuousType": 1,

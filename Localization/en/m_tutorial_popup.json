@@ -1269,6 +1269,10 @@
       "value": "Force Gauge: Dark Rush"
     },
     {
+      "id": 970003100000661,
+      "value": "Force Gauge: Obsessive Explosion"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -2079,6 +2083,10 @@
     {
       "id": 971003100000651,
       "value": "The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> will deplete the enemy's force gauge. <command_color=common_03>The frequency with which the enemy unleashes abilities</color> is dependent on the amount the force gauge is filled."
+    },
+    {
+      "id": 971003100000661,
+      "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>MATK</color>. The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
     },
     {
       "id": 971003200000011,
