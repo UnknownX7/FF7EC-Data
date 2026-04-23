@@ -2312,6 +2312,22 @@
     "IsStampProgress": false
   },
   {
+    "Id": 1016301,
+    "GachaId": 10163,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": true
+  },
+  {
+    "Id": 1016302,
+    "GachaId": 10163,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
     "Id": 2000101,
     "GachaId": 20001,
     "MaxCount": 0,
@@ -8266,6 +8282,86 @@
   {
     "Id": 2038402,
     "GachaId": 20384,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038501,
+    "GachaId": 20385,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038502,
+    "GachaId": 20385,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038701,
+    "GachaId": 20387,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038702,
+    "GachaId": 20387,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038801,
+    "GachaId": 20388,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038802,
+    "GachaId": 20388,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038901,
+    "GachaId": 20389,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2038902,
+    "GachaId": 20389,
+    "MaxCount": 0,
+    "Priority": 1,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2039001,
+    "GachaId": 20390,
+    "MaxCount": 0,
+    "Priority": 2,
+    "ResetId": 0,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 2039002,
+    "GachaId": 20390,
     "MaxCount": 0,
     "Priority": 1,
     "ResetId": 0,
@@ -15506,6 +15602,14 @@
   {
     "Id": 3095201,
     "GachaId": 30952,
+    "MaxCount": 1,
+    "Priority": 1,
+    "ResetId": 16,
+    "IsStampProgress": false
+  },
+  {
+    "Id": 3098301,
+    "GachaId": 30983,
     "MaxCount": 1,
     "Priority": 1,
     "ResetId": 16,

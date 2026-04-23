@@ -2370,6 +2370,21 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 1010163,
+    "MovieResourceId": 1010163,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 1010163,
+    "Priority": 26045005,
+    "DisplayConditionSetId": 170000010163,
+    "VisibleOpenConditionSetId": 170000010163,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 1030003,
     "MovieResourceId": 1030003,
     "LayoutResourceId": 1,
@@ -7290,6 +7305,21 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 4000033,
+    "MovieResourceId": 4000033,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 4000033,
+    "Priority": 26045006,
+    "DisplayConditionSetId": 671004000033,
+    "VisibleOpenConditionSetId": 671004000033,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 5000001,
     "MovieResourceId": 5000001,
     "LayoutResourceId": 1,
@@ -10530,6 +10560,21 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 6203202,
+    "MovieResourceId": 6203202,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 6203202,
+    "Priority": 26045004,
+    "DisplayConditionSetId": 671000002033,
+    "VisibleOpenConditionSetId": 671000002032,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 6300201,
     "MovieResourceId": 6300201,
     "LayoutResourceId": 1,
@@ -11730,6 +11775,21 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 6304702,
+    "MovieResourceId": 6304702,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 6304702,
+    "Priority": 26045003,
+    "DisplayConditionSetId": 783000304701,
+    "VisibleOpenConditionSetId": 613000003047,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
     "Id": 6700101,
     "MovieResourceId": 6700101,
     "LayoutResourceId": 1,
@@ -12637,6 +12697,36 @@
     "Priority": 26034002,
     "DisplayConditionSetId": 671006902102,
     "VisibleOpenConditionSetId": 671006902101,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
+    "Id": 6902201,
+    "MovieResourceId": 6902201,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 6902201,
+    "Priority": 26045002,
+    "DisplayConditionSetId": 671006902201,
+    "VisibleOpenConditionSetId": 671006902201,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 0
+  },
+  {
+    "Id": 6902202,
+    "MovieResourceId": 6902202,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 6902202,
+    "Priority": 26045001,
+    "DisplayConditionSetId": 671006902202,
+    "VisibleOpenConditionSetId": 671006902201,
     "TransitionType": 0,
     "TransitionId": 0,
     "EnableHomeBgm": false,

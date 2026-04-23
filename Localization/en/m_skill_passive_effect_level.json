@@ -1445,6 +1445,14 @@
       "value": "Phys. & Mag. Defense +{1}%"
     },
     {
+      "id": 545000063401101,
+      "value": "All allies' HP +{1}%"
+    },
+    {
+      "id": 545000063401201,
+      "value": "All allies' Phys. & Mag. Defense +{1}%"
+    },
+    {
       "id": 545000063501101,
       "value": "Applies Phys. & Mag. Dmg. Bonus to all allies when interrupting enemy. (Phys. & Mag. Dmg. Bonus: 15% of dmg. dealt when using Phys. & Mag. Ability / Dur.: 30s / Ext.: +30s)"
     },
@@ -1467,6 +1475,18 @@
     {
       "id": 545000063601201,
       "value": "Phys. & Mag. Defense +{1}%"
+    },
+    {
+      "id": 545000063701101,
+      "value": "Applies Veil to all allies when stream phase is activated (Pot: 4% of max. HP of the affected / Dur.: 30s / Ext.: +30s)"
+    },
+    {
+      "id": 545000063701102,
+      "value": "Applies Veil to all allies when stream phase is activated (Pot: 7% of max. HP of the affected / Dur.: 40s / Ext.: +40s)"
+    },
+    {
+      "id": 545000063701103,
+      "value": "Applies Veil to all allies when stream phase is activated (Pot: 10% of max. HP of the affected / Dur.: 50s / Ext.: +50s)"
     },
     {
       "id": 545000112101101,
