@@ -464,6 +464,22 @@
     "MateriaEvolveSettingGroupId": 2142010
   },
   {
+    "Id": 2143001,
+    "MateriaBaseCoefficientGroupId": 1,
+    "MateriaQualityGroupId": 1,
+    "MateriaLevelGroupId": 1,
+    "MateriaEnhanceGroupId": 1,
+    "MateriaEvolveSettingGroupId": 2143001
+  },
+  {
+    "Id": 2143002,
+    "MateriaBaseCoefficientGroupId": 1,
+    "MateriaQualityGroupId": 1,
+    "MateriaLevelGroupId": 1,
+    "MateriaEnhanceGroupId": 1,
+    "MateriaEvolveSettingGroupId": 2143002
+  },
+  {
     "Id": 2151001,
     "MateriaBaseCoefficientGroupId": 1,
     "MateriaQualityGroupId": 1,
@@ -878,5 +894,13 @@
     "MateriaLevelGroupId": 1,
     "MateriaEnhanceGroupId": 2,
     "MateriaEvolveSettingGroupId": 2603008
+  },
+  {
+    "Id": 2603010,
+    "MateriaBaseCoefficientGroupId": 1,
+    "MateriaQualityGroupId": 1,
+    "MateriaLevelGroupId": 1,
+    "MateriaEnhanceGroupId": 2,
+    "MateriaEvolveSettingGroupId": 2603010
   }
 ]

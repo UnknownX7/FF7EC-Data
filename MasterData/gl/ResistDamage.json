@@ -903,6 +903,20 @@
     "MagicalDamageCoefficient": 990
   },
   {
+    "Id": 3251333211,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": 900,
+    "MagicalDamageCoefficient": 0
+  },
+  {
+    "Id": 3251333221,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": 0,
+    "MagicalDamageCoefficient": 900
+  },
+  {
     "Id": 3251433031,
     "TriggerCoefficient": 0,
     "CriticalDamageCoefficient": 0,
@@ -957,6 +971,20 @@
     "CriticalDamageCoefficient": 0,
     "PhysicalDamageCoefficient": 0,
     "MagicalDamageCoefficient": 990
+  },
+  {
+    "Id": 3251433211,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": 900,
+    "MagicalDamageCoefficient": 0
+  },
+  {
+    "Id": 3251433221,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": 0,
+    "MagicalDamageCoefficient": 900
   },
   {
     "Id": 3251830071,
@@ -1314,6 +1342,174 @@
     "CriticalDamageCoefficient": 0,
     "PhysicalDamageCoefficient": 800,
     "MagicalDamageCoefficient": 800
+  },
+  {
+    "Id": 3256210332,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -175,
+    "MagicalDamageCoefficient": -175
+  },
+  {
+    "Id": 3256210342,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -200,
+    "MagicalDamageCoefficient": -200
+  },
+  {
+    "Id": 3256210352,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -250,
+    "MagicalDamageCoefficient": -250
+  },
+  {
+    "Id": 3256210362,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -300,
+    "MagicalDamageCoefficient": -300
+  },
+  {
+    "Id": 3256210372,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -175,
+    "MagicalDamageCoefficient": -175
+  },
+  {
+    "Id": 3256210382,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -200,
+    "MagicalDamageCoefficient": -200
+  },
+  {
+    "Id": 3256210392,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -250,
+    "MagicalDamageCoefficient": -250
+  },
+  {
+    "Id": 3256210402,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -300,
+    "MagicalDamageCoefficient": -300
+  },
+  {
+    "Id": 3256210412,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -175,
+    "MagicalDamageCoefficient": -175
+  },
+  {
+    "Id": 3256210422,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -200,
+    "MagicalDamageCoefficient": -200
+  },
+  {
+    "Id": 3256210432,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -250,
+    "MagicalDamageCoefficient": -250
+  },
+  {
+    "Id": 3256210442,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -300,
+    "MagicalDamageCoefficient": -300
+  },
+  {
+    "Id": 3256210452,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -130,
+    "MagicalDamageCoefficient": -130
+  },
+  {
+    "Id": 3256210462,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -160,
+    "MagicalDamageCoefficient": -160
+  },
+  {
+    "Id": 3256210472,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -200,
+    "MagicalDamageCoefficient": -200
+  },
+  {
+    "Id": 3256210482,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -250,
+    "MagicalDamageCoefficient": -250
+  },
+  {
+    "Id": 3256210492,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -130,
+    "MagicalDamageCoefficient": -130
+  },
+  {
+    "Id": 3256210502,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -135,
+    "MagicalDamageCoefficient": -135
+  },
+  {
+    "Id": 3256210512,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -140,
+    "MagicalDamageCoefficient": -140
+  },
+  {
+    "Id": 3256210522,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -150,
+    "MagicalDamageCoefficient": -150
+  },
+  {
+    "Id": 3256210532,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -125,
+    "MagicalDamageCoefficient": -125
+  },
+  {
+    "Id": 3256210542,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -175,
+    "MagicalDamageCoefficient": -175
+  },
+  {
+    "Id": 3256210552,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -200,
+    "MagicalDamageCoefficient": -200
+  },
+  {
+    "Id": 3256210562,
+    "TriggerCoefficient": 0,
+    "CriticalDamageCoefficient": 0,
+    "PhysicalDamageCoefficient": -250,
+    "MagicalDamageCoefficient": -250
   },
   {
     "Id": 3256630012,

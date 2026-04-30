@@ -3672,7 +3672,7 @@
     "WeaponSkillId": 10200399,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 20352,
@@ -3693,7 +3693,7 @@
     "WeaponSkillId": 10200399,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 20353,
@@ -3714,7 +3714,7 @@
     "WeaponSkillId": 10203501,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 20364,
@@ -5016,7 +5016,7 @@
     "WeaponSkillId": 10300499,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 30312,
@@ -5037,7 +5037,7 @@
     "WeaponSkillId": 10300499,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 30313,
@@ -5058,7 +5058,7 @@
     "WeaponSkillId": 10303101,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 30321,
@@ -5731,6 +5731,69 @@
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
     "PassiveSkillPoint2": 0
+  },
+  {
+    "Id": 30441,
+    "WeaponId": 3044,
+    "RarityType": 1,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 21,
+    "BaseMagicalAttack": 25,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 19,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 102,
+    "GrowthBaseMagicalAttack": 124,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 51,
+    "WeaponSkillId": 10301599,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 2
+  },
+  {
+    "Id": 30442,
+    "WeaponId": 3044,
+    "RarityType": 2,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 27,
+    "BaseMagicalAttack": 33,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 25,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 137,
+    "GrowthBaseMagicalAttack": 166,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 69,
+    "WeaponSkillId": 10301599,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 2
+  },
+  {
+    "Id": 30443,
+    "WeaponId": 3044,
+    "RarityType": 3,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 34,
+    "BaseMagicalAttack": 41,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 31,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 171,
+    "GrowthBaseMagicalAttack": 207,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 86,
+    "WeaponSkillId": 10304401,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 30451,
@@ -7998,7 +8061,7 @@
     "WeaponSkillId": 10401899,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 40342,
@@ -8019,7 +8082,7 @@
     "WeaponSkillId": 10401899,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 40343,
@@ -8040,7 +8103,7 @@
     "WeaponSkillId": 10403401,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 40351,
@@ -8125,6 +8188,69 @@
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
     "PassiveSkillPoint2": 0
+  },
+  {
+    "Id": 40371,
+    "WeaponId": 4037,
+    "RarityType": 1,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 16,
+    "BaseMagicalAttack": 19,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 32,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 81,
+    "GrowthBaseMagicalAttack": 97,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 88,
+    "WeaponSkillId": 10401199,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 2
+  },
+  {
+    "Id": 40372,
+    "WeaponId": 4037,
+    "RarityType": 2,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 22,
+    "BaseMagicalAttack": 26,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 43,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 108,
+    "GrowthBaseMagicalAttack": 128,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 117,
+    "WeaponSkillId": 10401199,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 2
+  },
+  {
+    "Id": 40373,
+    "WeaponId": 4037,
+    "RarityType": 3,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 27,
+    "BaseMagicalAttack": 32,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 53,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 135,
+    "GrowthBaseMagicalAttack": 161,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 147,
+    "WeaponSkillId": 10403701,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 40381,
@@ -11715,7 +11841,7 @@
     "WeaponSkillId": 10600999,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 60332,
@@ -11736,7 +11862,7 @@
     "WeaponSkillId": 10600999,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 60333,
@@ -11757,7 +11883,7 @@
     "WeaponSkillId": 10603301,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
-    "PassiveSkillPoint2": 0
+    "PassiveSkillPoint2": 2
   },
   {
     "Id": 60341,
@@ -12280,6 +12406,69 @@
     "GrowthBaseMagicalDefense": 0,
     "GrowthBaseHealingPower": 78,
     "WeaponSkillId": 10604301,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 0
+  },
+  {
+    "Id": 60441,
+    "WeaponId": 6044,
+    "RarityType": 1,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 19,
+    "BaseMagicalAttack": 19,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 22,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 92,
+    "GrowthBaseMagicalAttack": 95,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 60,
+    "WeaponSkillId": 10601299,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 0
+  },
+  {
+    "Id": 60442,
+    "WeaponId": 6044,
+    "RarityType": 2,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 25,
+    "BaseMagicalAttack": 25,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 29,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 123,
+    "GrowthBaseMagicalAttack": 128,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 80,
+    "WeaponSkillId": 10601299,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 0
+  },
+  {
+    "Id": 60443,
+    "WeaponId": 6044,
+    "RarityType": 3,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 31,
+    "BaseMagicalAttack": 32,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 36,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 154,
+    "GrowthBaseMagicalAttack": 159,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 101,
+    "WeaponSkillId": 10604401,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
     "PassiveSkillPoint2": 0
@@ -25909,6 +26098,27 @@
     "GrowthBaseMagicalDefense": 0,
     "GrowthBaseHealingPower": 98,
     "WeaponSkillId": 15203401,
+    "PassiveSkillPoint0": 0,
+    "PassiveSkillPoint1": 0,
+    "PassiveSkillPoint2": 0
+  },
+  {
+    "Id": 520364,
+    "WeaponId": 52036,
+    "RarityType": 101,
+    "BaseHp": 0,
+    "BasePhysicalAttack": 30,
+    "BaseMagicalAttack": 30,
+    "BasePhysicalDefense": 0,
+    "BaseMagicalDefense": 0,
+    "BaseHealingPower": 26,
+    "GrowthBaseHp": 0,
+    "GrowthBasePhysicalAttack": 150,
+    "GrowthBaseMagicalAttack": 150,
+    "GrowthBasePhysicalDefense": 0,
+    "GrowthBaseMagicalDefense": 0,
+    "GrowthBaseHealingPower": 70,
+    "WeaponSkillId": 15203601,
     "PassiveSkillPoint0": 0,
     "PassiveSkillPoint1": 0,
     "PassiveSkillPoint2": 0

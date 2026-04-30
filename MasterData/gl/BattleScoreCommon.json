@@ -214,5 +214,14 @@
     "TimeScoreBattleAdditionalScoreGroupId": 10112,
     "WeakElementHitCountScoreBattleAdditionalScoreGroupId": 20021,
     "NotesBreakCountScoreBattleAdditionalScoreGroupId": 30021
+  },
+  {
+    "Id": 4112,
+    "ScoreBattleRankDeathCountId": 1,
+    "TimeBaseSecond": 90,
+    "TimeScoreBattleRankCoefficientId": 10032,
+    "TimeScoreBattleAdditionalScoreGroupId": 10113,
+    "WeakElementHitCountScoreBattleAdditionalScoreGroupId": 20021,
+    "NotesBreakCountScoreBattleAdditionalScoreGroupId": 30021
   }
 ]

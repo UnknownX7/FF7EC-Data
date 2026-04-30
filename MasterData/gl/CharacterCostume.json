@@ -456,7 +456,7 @@
     "PanelRenderEnvironmentId": 2007,
     "ItemRarityType": 5,
     "ArmouryPoint": 100,
-    "SkillCharacterCostumeId": 0
+    "SkillCharacterCostumeId": 2007
   },
   {
     "Id": 2008,
@@ -609,7 +609,7 @@
     "PanelRenderEnvironmentId": 3012,
     "ItemRarityType": 5,
     "ArmouryPoint": 100,
-    "SkillCharacterCostumeId": 0
+    "SkillCharacterCostumeId": 3012
   },
   {
     "Id": 3013,
@@ -712,6 +712,23 @@
     "ItemRarityType": 5,
     "ArmouryPoint": 100,
     "SkillCharacterCostumeId": 0
+  },
+  {
+    "Id": 3019,
+    "CharacterId": 3,
+    "ResourceId": 3019,
+    "SetWeaponId": 3044,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 20508,
+    "PassiveSkillId1": 63801,
+    "PassiveSkillPoint0": 15,
+    "PassiveSkillPoint1": 10,
+    "NameLanguageId": 102000000003019,
+    "CharacterNovelCostumeId": 3019,
+    "PanelRenderEnvironmentId": 3019,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 100,
+    "SkillCharacterCostumeId": 3019
   },
   {
     "Id": 3020,
@@ -1085,7 +1102,24 @@
     "PanelRenderEnvironmentId": 4016,
     "ItemRarityType": 5,
     "ArmouryPoint": 100,
-    "SkillCharacterCostumeId": 0
+    "SkillCharacterCostumeId": 4016
+  },
+  {
+    "Id": 4017,
+    "CharacterId": 4,
+    "ResourceId": 4017,
+    "SetWeaponId": 4037,
+    "CharacterCostumeParameterId": 1,
+    "PassiveSkillId0": 20208,
+    "PassiveSkillId1": 63901,
+    "PassiveSkillPoint0": 15,
+    "PassiveSkillPoint1": 10,
+    "NameLanguageId": 102000000004017,
+    "CharacterNovelCostumeId": 4017,
+    "PanelRenderEnvironmentId": 4017,
+    "ItemRarityType": 5,
+    "ArmouryPoint": 100,
+    "SkillCharacterCostumeId": 4017
   },
   {
     "Id": 4018,
@@ -1289,7 +1323,7 @@
     "PanelRenderEnvironmentId": 5006,
     "ItemRarityType": 5,
     "ArmouryPoint": 100,
-    "SkillCharacterCostumeId": 0
+    "SkillCharacterCostumeId": 5006
   },
   {
     "Id": 5007,
@@ -1510,7 +1544,7 @@
     "PanelRenderEnvironmentId": 6011,
     "ItemRarityType": 5,
     "ArmouryPoint": 100,
-    "SkillCharacterCostumeId": 0
+    "SkillCharacterCostumeId": 6011
   },
   {
     "Id": 6012,

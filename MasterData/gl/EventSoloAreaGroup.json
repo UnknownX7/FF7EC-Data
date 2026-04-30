@@ -552,6 +552,22 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 3048,
+    "EventBaseId": 3048,
+    "OrderNo": 1,
+    "NameLanguageId": 851000000003048,
+    "ResourceId": 0,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 3049,
+    "EventBaseId": 3049,
+    "OrderNo": 1,
+    "NameLanguageId": 851000000003049,
+    "ResourceId": 0,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 5002,
     "EventBaseId": 5002,
     "OrderNo": 1,
@@ -956,6 +972,14 @@
     "EventBaseId": 14016,
     "OrderNo": 1,
     "NameLanguageId": 851000000014016,
+    "ResourceId": 0,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 14017,
+    "EventBaseId": 14017,
+    "OrderNo": 1,
+    "NameLanguageId": 851000000014017,
     "ResourceId": 0,
     "LockConditionSetId": 0
   },

@@ -689,6 +689,10 @@
       "value": "Refined Mythril"
     },
     {
+      "id": 551000000010114,
+      "value": "Pristine Mythril"
+    },
+    {
       "id": 551000000010131,
       "value": "Humacore Type B"
     },
@@ -1333,6 +1337,10 @@
       "value": "Custom Box - 5<sprite=\"tmp_icon\" index=196> Synth Catalysts"
     },
     {
+      "id": 551000000022021,
+      "value": "Custom Box - 5<sprite=\"tmp_icon\" index=196> Branding Stone"
+    },
+    {
       "id": 551000000022501,
       "value": "Lottery Box - Blue Crystals"
     },
@@ -1575,6 +1583,10 @@
     {
       "id": 551000000038073,
       "value": "Greater MATK Branding Stone"
+    },
+    {
+      "id": 551000000038081,
+      "value": "Conversion Branding Stone Fragment"
     },
     {
       "id": 551000000040001,
@@ -2177,6 +2189,22 @@
       "value": "FFXIII Series Crossover Gear Voucher"
     },
     {
+      "id": 551000000300088,
+      "value": "FFVII REBIRTH Crossover Wpn. Voucher"
+    },
+    {
+      "id": 551000000300089,
+      "value": "Gorgeous Dress Voucher"
+    },
+    {
+      "id": 551000000300090,
+      "value": "Elegant Dress Voucher"
+    },
+    {
+      "id": 551000000300091,
+      "value": "REBIRTH Crossover Gear Voucher"
+    },
+    {
       "id": 551000001000001,
       "value": "Mako Gem (1st Anniv.)"
     },
@@ -2589,6 +2617,10 @@
       "value": "Járngreipr Parts"
     },
     {
+      "id": 551000001003044,
+      "value": "Elegant Gloves Parts"
+    },
+    {
       "id": 551000001003045,
       "value": "Penance Gloves Parts"
     },
@@ -2743,6 +2775,10 @@
     {
       "id": 551000001004036,
       "value": "Mako Gem (Princess Guard)"
+    },
+    {
+      "id": 551000001004037,
+      "value": "Gorgeous Staff Parts"
     },
     {
       "id": 551000001004038,
@@ -3019,6 +3055,10 @@
     {
       "id": 551000001006043,
       "value": "Mako Gem (Rising Sun)"
+    },
+    {
+      "id": 551000001006044,
+      "value": "Abzu Cutter Parts"
     },
     {
       "id": 551000001007001,
@@ -3913,6 +3953,10 @@
       "value": "Desperado Rifle Parts"
     },
     {
+      "id": 551000001052036,
+      "value": "Mako Gem (Total Eclipse)"
+    },
+    {
       "id": 551000001056001,
       "value": "Type-90 Longsword Parts"
     },
@@ -4771,6 +4815,22 @@
     {
       "id": 551000002030473,
       "value": "Rose Petals"
+    },
+    {
+      "id": 551000002030481,
+      "value": "Abzu Certificate"
+    },
+    {
+      "id": 551000002030482,
+      "value": "Abzu Certificate α"
+    },
+    {
+      "id": 551000002030483,
+      "value": "Abzu Certificate β"
+    },
+    {
+      "id": 551000002030491,
+      "value": "Special Enhancement Materials Medal"
     },
     {
       "id": 551000002080021,
@@ -5641,6 +5701,10 @@
       "value": "Used to <command_color=common_03>uncap the level</color> of a weapon."
     },
     {
+      "id": 552000000010114,
+      "value": "Used for <command_color=common_03>Weapon LV Uncap</color>."
+    },
+    {
       "id": 552000000010131,
       "value": "Used to <command_color=common_03>uncap the level</color> of a weapon."
     },
@@ -6225,6 +6289,10 @@
       "value": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
     },
     {
+      "id": 552000000022021,
+      "value": "Used to obtain one type of item of your choice. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
+    },
+    {
       "id": 552000000022501,
       "value": "Used to obtain one type of item at random. Can be opened from <command_color=common_03>Item Boxes</color> in your inventory."
     },
@@ -6439,6 +6507,10 @@
     {
       "id": 552000000038073,
       "value": "Used for branding weapons to <command_color=common_03>apply random effects</color>."
+    },
+    {
+      "id": 552000000038081,
+      "value": "Traded for Branding Stone at the <command_color=common_03>Enhancement Exch.</color>."
     },
     {
       "id": 552000000040001,
@@ -7029,6 +7101,22 @@
       "value": "Traded for items at the <command_color=common_03>FFXIII Series Crossover Gear Exchange</color>."
     },
     {
+      "id": 552000000300088,
+      "value": "Traded for items at the <command_color=common_03>FFVII REBIRTH Crossover Wpn. Exch.</color>."
+    },
+    {
+      "id": 552000000300089,
+      "value": "Traded for items at the <command_color=common_03>Gorgeous Dress Exchange</color>."
+    },
+    {
+      "id": 552000000300090,
+      "value": "Traded for items at the <command_color=common_03>Elegant Dress Exchange</color>."
+    },
+    {
+      "id": 552000000300091,
+      "value": "Traded for items at the <command_color=common_03>REBIRTH Crossover Gear Exchange</color>."
+    },
+    {
       "id": 552000001000001,
       "value": "Traded for Mako Gems (Genji Blade) or Mako Gems (HP Shout) at the <command_color=common_03>Mako Gem Exchange</color>."
     },
@@ -7437,6 +7525,10 @@
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Járngreipr</color>."
     },
     {
+      "id": 552000001003044,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Elegant Gloves</color>."
+    },
+    {
       "id": 552000001003045,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Penance Gloves</color>."
     },
@@ -7591,6 +7683,10 @@
     {
       "id": 552000001004036,
       "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    {
+      "id": 552000001004037,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Gorgeous Staff</color>."
     },
     {
       "id": 552000001004038,
@@ -7867,6 +7963,10 @@
     {
       "id": 552000001006043,
       "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    {
+      "id": 552000001006044,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Abzu Cutter</color>."
     },
     {
       "id": 552000001007001,
@@ -8761,6 +8861,10 @@
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Desperado Rifle</color>."
     },
     {
+      "id": 552000001052036,
+      "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    {
       "id": 552000001056001,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Type-90 Longsword</color>."
     },
@@ -9618,6 +9722,22 @@
     },
     {
       "id": 552000002030473,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030481,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030482,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030483,
+      "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
+    },
+    {
+      "id": 552000002030491,
       "value": "Traded for items at the <command_color=common_03>event-exclusive Exchange</color>."
     },
     {

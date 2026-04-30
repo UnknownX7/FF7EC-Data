@@ -805,6 +805,21 @@
     "NameLanguageId": 402000000001802
   },
   {
+    "Id": 2001,
+    "BufDebuffType": 32,
+    "NameLanguageId": 402000000002001
+  },
+  {
+    "Id": 2002,
+    "BufDebuffType": 32,
+    "NameLanguageId": 402000000002002
+  },
+  {
+    "Id": 2003,
+    "BufDebuffType": 32,
+    "NameLanguageId": 402000000002003
+  },
+  {
     "Id": 2101,
     "BufDebuffType": 30,
     "NameLanguageId": 402000000002101
@@ -843,5 +858,10 @@
     "Id": 2205,
     "BufDebuffType": 31,
     "NameLanguageId": 402000000002205
+  },
+  {
+    "Id": 2501,
+    "BufDebuffType": 34,
+    "NameLanguageId": 402000000002501
   }
 ]

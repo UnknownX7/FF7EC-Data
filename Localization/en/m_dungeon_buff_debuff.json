@@ -645,6 +645,18 @@
       "value": "Multi-target Ability Pot."
     },
     {
+      "id": 402000000002001,
+      "value": "Limit Gauge Increase Amt."
+    },
+    {
+      "id": 402000000002002,
+      "value": "Summon Gauge Increase Amt."
+    },
+    {
+      "id": 402000000002003,
+      "value": "E. Ability Increase Amt."
+    },
+    {
       "id": 402000000002101,
       "value": "Sigils Destroyed"
     },
@@ -675,6 +687,10 @@
     {
       "id": 402000000002205,
       "value": "Unknown Overspeed Charge Time"
+    },
+    {
+      "id": 402000000002501,
+      "value": "Force Gauge Depletion Amt."
     }
   ]
 }

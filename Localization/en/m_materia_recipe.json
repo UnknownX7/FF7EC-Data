@@ -169,6 +169,14 @@
       "value": "Quake Blow (<sprite=\"tmp_icon\" index=67>Cross) Recipe"
     },
     {
+      "id": 532000214300101,
+      "value": "Quake Recipe (Advanced)"
+    },
+    {
+      "id": 532000214300201,
+      "value": "Quake Blow Recipe (Advanced)"
+    },
+    {
       "id": 532000215100101,
       "value": "Water Recipe"
     },
@@ -335,6 +343,10 @@
     {
       "id": 532000260300801,
       "value": "Water Breach Recipe (Advanced)"
+    },
+    {
+      "id": 532000260301001,
+      "value": "Earth Breach Recipe (Advanced)"
     },
     {
       "id": 533000210100101,
@@ -533,6 +545,14 @@
       "value": "Used to synthesize Quake Blow (<sprite=\"tmp_icon\" index=67>Cross) materia."
     },
     {
+      "id": 533000214300101,
+      "value": "Used to synthesize Quake materia.\n5<sprite=\"tmp_icon\" index=196> Materia synthesis guaranteed at synthesis max lv."
+    },
+    {
+      "id": 533000214300201,
+      "value": "Used to synthesize Quake Blow materia.\n5<sprite=\"tmp_icon\" index=196> Materia synthesis guaranteed at synthesis max lv."
+    },
+    {
       "id": 533000215100101,
       "value": "Used to synthesize Water materia."
     },
@@ -707,6 +727,10 @@
     {
       "id": 533000260300801,
       "value": "Used to synthesize Water Breach materia.\n5<sprite=\"tmp_icon\" index=196> Materia synthesis guaranteed at synthesis max lv."
+    },
+    {
+      "id": 533000260301001,
+      "value": "Used to synthesize Earth Breach materia.\n5<sprite=\"tmp_icon\" index=196> Materia synthesis guaranteed at synthesis max lv."
     }
   ]
 }

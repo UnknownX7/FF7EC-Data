@@ -532,6 +532,34 @@
     "ConsumptionGil": 0
   },
   {
+    "MateriaEvolveSettingGroupId": 2143001,
+    "EvolveCount": 0,
+    "LevelLimit": 5,
+    "MateriaIngredientGroupId": 221410011,
+    "ConsumptionGil": 3000
+  },
+  {
+    "MateriaEvolveSettingGroupId": 2143001,
+    "EvolveCount": 1,
+    "LevelLimit": 10,
+    "MateriaIngredientGroupId": 0,
+    "ConsumptionGil": 0
+  },
+  {
+    "MateriaEvolveSettingGroupId": 2143002,
+    "EvolveCount": 0,
+    "LevelLimit": 5,
+    "MateriaIngredientGroupId": 221410021,
+    "ConsumptionGil": 3000
+  },
+  {
+    "MateriaEvolveSettingGroupId": 2143002,
+    "EvolveCount": 1,
+    "LevelLimit": 10,
+    "MateriaIngredientGroupId": 0,
+    "ConsumptionGil": 0
+  },
+  {
     "MateriaEvolveSettingGroupId": 2151001,
     "EvolveCount": 0,
     "LevelLimit": 5,
@@ -988,6 +1016,13 @@
   },
   {
     "MateriaEvolveSettingGroupId": 2603008,
+    "EvolveCount": 0,
+    "LevelLimit": 5,
+    "MateriaIngredientGroupId": 0,
+    "ConsumptionGil": 300
+  },
+  {
+    "MateriaEvolveSettingGroupId": 2603010,
     "EvolveCount": 0,
     "LevelLimit": 5,
     "MateriaIngredientGroupId": 0,

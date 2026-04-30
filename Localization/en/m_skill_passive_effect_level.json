@@ -209,6 +209,10 @@
       "value": "All Allies' Wind Ability Dmg. +{1}%"
     },
     {
+      "id": 545000021101101,
+      "value": "Enemy Interrupted: All allies' Phys. Ability Dmg. +{1}%"
+    },
+    {
       "id": 545000021102101,
       "value": "Enemy Interrupted: All allies' Mag. Ability Dmg. +{1}%"
     },
@@ -1487,6 +1491,50 @@
     {
       "id": 545000063701103,
       "value": "Applies Veil to all allies when stream phase is activated (Pot: 10% of max. HP of the affected / Dur.: 50s / Ext.: +50s)"
+    },
+    {
+      "id": 545000063801101,
+      "value": "Earth Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000063801201,
+      "value": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000063801301,
+      "value": "HP +{1}%"
+    },
+    {
+      "id": 545000063901101,
+      "value": "All allies' HP +{1}%"
+    },
+    {
+      "id": 545000063901201,
+      "value": "Own Healing Pot. +{1}%"
+    },
+    {
+      "id": 545000064201101,
+      "value": "All allies' Buff/Debuff (Stats/Pot./Res.) Effect Duration +{1}%"
+    },
+    {
+      "id": 545000064201201,
+      "value": "All allies' Buff/Debuff (Stats/Pot./Res.) Effect Duration Extension +{1}%"
+    },
+    {
+      "id": 545000064301101,
+      "value": "Applies Enliven to all allies when battle begins (Effect Dur.: 30s / Effect Dur. Ext.: +30s)"
+    },
+    {
+      "id": 545000064301102,
+      "value": "Applies Enliven to all allies when battle begins (Effect Dur.: 40s / Effect Dur. Ext.: +40s)"
+    },
+    {
+      "id": 545000064301103,
+      "value": "Applies Enliven to all allies when battle begins (Effect Dur.: 50s / Effect Dur. Ext.: +50s)"
+    },
+    {
+      "id": 545000064301104,
+      "value": "Applies Enliven to all allies when battle begins (Effect Dur.: 60s / Effect Dur. Ext.: +60s)"
     },
     {
       "id": 545000112101101,
