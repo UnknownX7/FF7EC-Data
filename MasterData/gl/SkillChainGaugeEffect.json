@@ -97,5 +97,41 @@
     "BreakTimeSec": 20,
     "BreakTakenDamagePermil": 300,
     "SkillChainGaugeTakenDamageEffectId": 3256561092
+  },
+  {
+    "Id": 3256810333,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": -1,
+    "BreakTimeSec": 10,
+    "BreakTakenDamagePermil": 300,
+    "SkillChainGaugeTakenDamageEffectId": 3256810333
+  },
+  {
+    "Id": 3256810343,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": -1,
+    "BreakTimeSec": 10,
+    "BreakTakenDamagePermil": 300,
+    "SkillChainGaugeTakenDamageEffectId": 3256810343
+  },
+  {
+    "Id": 3256810353,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": -1,
+    "BreakTimeSec": 15,
+    "BreakTakenDamagePermil": 500,
+    "SkillChainGaugeTakenDamageEffectId": 3256810353
+  },
+  {
+    "Id": 3256810363,
+    "InitialValue": 0,
+    "MaxValue": 1000,
+    "TimeChangeValue": -1,
+    "BreakTimeSec": 20,
+    "BreakTakenDamagePermil": 1000,
+    "SkillChainGaugeTakenDamageEffectId": 3256810363
   }
 ]

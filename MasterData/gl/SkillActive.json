@@ -287,6 +287,13 @@
     "UseCountLimit": 2
   },
   {
+    "Id": 1080111,
+    "SkillBaseId": 1080111,
+    "ResourceId": 1080111,
+    "Cost": 4,
+    "UseCountLimit": 1
+  },
+  {
     "Id": 1090041,
     "SkillBaseId": 1090041,
     "ResourceId": 1090041,
@@ -9982,6 +9989,62 @@
     "UseCountLimit": 0
   },
   {
+    "Id": 10803001,
+    "SkillBaseId": 10803001,
+    "ResourceId": 10803001,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10803002,
+    "SkillBaseId": 10803002,
+    "ResourceId": 10803001,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10803003,
+    "SkillBaseId": 10803003,
+    "ResourceId": 10803003,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10803004,
+    "SkillBaseId": 10803004,
+    "ResourceId": 10803004,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10803101,
+    "SkillBaseId": 10803101,
+    "ResourceId": 10803101,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10803102,
+    "SkillBaseId": 10803102,
+    "ResourceId": 10803101,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10803103,
+    "SkillBaseId": 10803103,
+    "ResourceId": 10803103,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 10803104,
+    "SkillBaseId": 10803104,
+    "ResourceId": 10803104,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
     "Id": 10900101,
     "SkillBaseId": 10900101,
     "ResourceId": 10900101,
@@ -18056,6 +18119,34 @@
     "Id": 20800504,
     "SkillBaseId": 20800504,
     "ResourceId": 10800504,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 20803001,
+    "SkillBaseId": 20803001,
+    "ResourceId": 10803001,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 20803002,
+    "SkillBaseId": 20803002,
+    "ResourceId": 10803001,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 20803003,
+    "SkillBaseId": 20803003,
+    "ResourceId": 10803003,
+    "Cost": 4,
+    "UseCountLimit": 0
+  },
+  {
+    "Id": 20803004,
+    "SkillBaseId": 20803004,
+    "ResourceId": 10803004,
     "Cost": 4,
     "UseCountLimit": 0
   },

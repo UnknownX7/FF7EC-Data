@@ -1152,6 +1152,24 @@
     "DisplayConditionSetId": 12120304100001
   },
   {
+    "EventDisplayItemGroupId": 3042,
+    "Idx": 0,
+    "ItemId": 2030421,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventDisplayItemGroupId": 3042,
+    "Idx": 1,
+    "ItemId": 2030422,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventDisplayItemGroupId": 3042,
+    "Idx": 2,
+    "ItemId": 2030423,
+    "DisplayConditionSetId": 615000003042
+  },
+  {
     "EventDisplayItemGroupId": 3043,
     "Idx": 0,
     "ItemId": 2030431,
@@ -1471,6 +1489,12 @@
   },
   {
     "EventDisplayItemGroupId": 14017,
+    "Idx": 0,
+    "ItemId": 300013,
+    "DisplayConditionSetId": 0
+  },
+  {
+    "EventDisplayItemGroupId": 14018,
     "Idx": 0,
     "ItemId": 300013,
     "DisplayConditionSetId": 0

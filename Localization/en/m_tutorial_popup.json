@@ -1273,6 +1273,10 @@
       "value": "Force Gauge: Obsessive Explosion"
     },
     {
+      "id": 970003100000671,
+      "value": "Force Gauge: Immaculate"
+    },
+    {
       "id": 970003200000011,
       "value": "Status Ailment: Dread"
     },
@@ -2087,6 +2091,10 @@
     {
       "id": 971003100000661,
       "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>MATK</color>. The enemy's force gauge fills <command_color=common_03>over time</color>. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
+    },
+    {
+      "id": 971003100000671,
+      "value": "The more the enemy's force gauge is filled, the stronger their <command_color=common_03>PATK</color>, <command_color=common_03>PDEF</color>, and <command_color=common_03>MDEF</color>. The enemy's force gauge fills <command_color=common_03>over time, and as they use certain abilities</color>. When the gauge is full, a <command_color=common_03>powerful ability</color> is unleashed. <command_color=common_03>Certain enemy abilities will be canceled</color> when the gauge is reduced to 0. <command_color=common_03>Dealing damage</color> to the enemy will deplete the gauge."
     },
     {
       "id": 971003200000011,

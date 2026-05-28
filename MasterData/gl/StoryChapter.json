@@ -348,5 +348,15 @@
     "DisplayConditionSetId": 700003041500,
     "LockConditionSetId": 700003041500,
     "IsFinal": false
+  },
+  {
+    "Id": 603,
+    "StoryTitleId": 6,
+    "OrderNo": 3,
+    "NameLanguageId": 210000000000603,
+    "ResourceId": 101,
+    "DisplayConditionSetId": 700003042500,
+    "LockConditionSetId": 700003042500,
+    "IsFinal": true
   }
 ]

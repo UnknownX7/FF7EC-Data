@@ -4760,6 +4760,27 @@
     "StatusChangeGroupId": 0
   },
   {
+    "Id": 3256810292,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 325301128,
+    "StatusConditionGroupId": 0,
+    "StatusChangeGroupId": 325301128
+  },
+  {
+    "Id": 3256810334,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 20001,
+    "StatusConditionGroupId": 0,
+    "StatusChangeGroupId": 0
+  },
+  {
+    "Id": 3256880051,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 0,
+    "StatusConditionGroupId": 8,
+    "StatusChangeGroupId": 0
+  },
+  {
     "Id": 3257330051,
     "SkillCancelType": 1,
     "BuffDebuffGroupId": 10001,
