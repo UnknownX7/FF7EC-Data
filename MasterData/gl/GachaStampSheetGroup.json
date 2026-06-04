@@ -2336,5 +2336,33 @@
     "PickupLanguageId": 615000000000001,
     "ResourceId": 173,
     "GachaStampSheetTopGroupId": 173
+  },
+  {
+    "Id": 10174,
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010174,
+    "GachaStampLotGroupId": 1,
+    "TitleLanguageId": 610000000010174,
+    "DescriptionTemplateLanguageId": 611000000000002,
+    "LotRatioLanguageId": 612000000000001,
+    "StampLanguageId": 613000000000001,
+    "ComplementLanguageId": 614000000000001,
+    "PickupLanguageId": 615000000000001,
+    "ResourceId": 174,
+    "GachaStampSheetTopGroupId": 174
+  },
+  {
+    "Id": 10175,
+    "MaxSheetCount": 0,
+    "DisplayConditionSetId": 170000010174,
+    "GachaStampLotGroupId": 1,
+    "TitleLanguageId": 610000000010174,
+    "DescriptionTemplateLanguageId": 611000000000002,
+    "LotRatioLanguageId": 612000000000001,
+    "StampLanguageId": 613000000000002,
+    "ComplementLanguageId": 614000000000001,
+    "PickupLanguageId": 615000000000001,
+    "ResourceId": 175,
+    "GachaStampSheetTopGroupId": 175
   }
 ]

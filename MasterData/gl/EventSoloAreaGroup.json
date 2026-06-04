@@ -1368,6 +1368,22 @@
     "LockConditionSetId": 870001201502
   },
   {
+    "Id": 1201601,
+    "EventBaseId": 12016,
+    "OrderNo": 1,
+    "NameLanguageId": 862000012001001,
+    "ResourceId": 1201601,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 1201602,
+    "EventBaseId": 12016,
+    "OrderNo": 2,
+    "NameLanguageId": 862000012001002,
+    "ResourceId": 1201602,
+    "LockConditionSetId": 870001201602
+  },
+  {
     "Id": 1500101,
     "EventBaseId": 15001,
     "OrderNo": 1,

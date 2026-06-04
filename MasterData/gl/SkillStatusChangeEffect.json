@@ -5600,6 +5600,86 @@
     "EffectCount": 0
   },
   {
+    "Id": 160012014,
+    "SkillStatusChangeType": 27,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "EffectCoefficient": 200,
+    "EffectCount": 0
+  },
+  {
+    "Id": 160012015,
+    "SkillStatusChangeType": 47,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "EffectCoefficient": 2,
+    "EffectCount": 0
+  },
+  {
+    "Id": 160012024,
+    "SkillStatusChangeType": 27,
+    "MinDurationSec": 40,
+    "MaxDurationSec": 40,
+    "MinDuplicationDurationSec": 13,
+    "MaxDuplicationDurationSec": 13,
+    "EffectCoefficient": 200,
+    "EffectCount": 0
+  },
+  {
+    "Id": 160012025,
+    "SkillStatusChangeType": 47,
+    "MinDurationSec": 40,
+    "MaxDurationSec": 40,
+    "MinDuplicationDurationSec": 13,
+    "MaxDuplicationDurationSec": 13,
+    "EffectCoefficient": 2,
+    "EffectCount": 0
+  },
+  {
+    "Id": 160012034,
+    "SkillStatusChangeType": 27,
+    "MinDurationSec": 50,
+    "MaxDurationSec": 50,
+    "MinDuplicationDurationSec": 16,
+    "MaxDuplicationDurationSec": 16,
+    "EffectCoefficient": 250,
+    "EffectCount": 0
+  },
+  {
+    "Id": 160012035,
+    "SkillStatusChangeType": 47,
+    "MinDurationSec": 50,
+    "MaxDurationSec": 50,
+    "MinDuplicationDurationSec": 16,
+    "MaxDuplicationDurationSec": 16,
+    "EffectCoefficient": 2,
+    "EffectCount": 0
+  },
+  {
+    "Id": 160012044,
+    "SkillStatusChangeType": 27,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 20,
+    "MaxDuplicationDurationSec": 20,
+    "EffectCoefficient": 300,
+    "EffectCount": 0
+  },
+  {
+    "Id": 160012045,
+    "SkillStatusChangeType": 47,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 20,
+    "MaxDuplicationDurationSec": 20,
+    "EffectCoefficient": 2,
+    "EffectCount": 0
+  },
+  {
     "Id": 201043014,
     "SkillStatusChangeType": 5,
     "MinDurationSec": 10,

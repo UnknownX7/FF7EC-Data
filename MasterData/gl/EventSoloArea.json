@@ -1870,6 +1870,28 @@
     "IsDisplayBossChallenge": false
   },
   {
+    "Id": 1201611,
+    "EventSoloAreaGroupId": 1201601,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000012016001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 1201621,
+    "EventSoloAreaGroupId": 1201602,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 750001201621,
+    "NameLanguageId": 863000012016001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
     "Id": 1500111,
     "EventSoloAreaGroupId": 1500101,
     "OrderNo": 1,
