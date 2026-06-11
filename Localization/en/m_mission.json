@@ -305,6 +305,10 @@
       "value": "Raise Feathered Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
     {
+      "id": 701000110003023,
+      "value": "Raise Riding Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
       "id": 701000110003025,
       "value": "Raise Holy Flame Gloves's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
@@ -1531,6 +1535,18 @@
     {
       "id": 701000190900142,
       "value": "Consume {0} stamina in a battle in \"Critical Threat Reawakened: Behemoth Steward Hunt.\""
+    },
+    {
+      "id": 701000190900143,
+      "value": "Raise Neo Bahamut Greatsword to Lv. {0}."
+    },
+    {
+      "id": 701000190900144,
+      "value": "Clear {0} battle(s) in \"Critical Threat: Neo Bahamut Descends.\""
+    },
+    {
+      "id": 701000190900145,
+      "value": "Consume {0} stamina in a battle in \"Critical Threat: Neo Bahamut Descends.\""
     },
     {
       "id": 701000190900201,
@@ -8387,6 +8403,10 @@
     {
       "id": 702000902603005,
       "value": "Raise Memoria of DCFF7 Ep. 3 to Lv. {0}."
+    },
+    {
+      "id": 702000902604005,
+      "value": "Clear \"Escalation Challenge: Weiss the Immaculate\" Lv. {0}."
     },
     {
       "id": 702001203005005,

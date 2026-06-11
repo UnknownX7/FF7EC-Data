@@ -133,6 +133,20 @@
     "WeaponIngredientGroupId": 103301
   },
   {
+    "Id": 30231,
+    "WeaponEvolveGroupId": 3023,
+    "WeaponEvolveType": 1,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101101
+  },
+  {
+    "Id": 30233,
+    "WeaponEvolveGroupId": 3023,
+    "WeaponEvolveType": 3,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101301
+  },
+  {
     "Id": 30312,
     "WeaponEvolveGroupId": 3031,
     "WeaponEvolveType": 2,
