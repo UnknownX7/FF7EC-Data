@@ -31872,6 +31872,1918 @@
     "DescriptionLanguageId": 878000000000205
   },
   {
+    "Id": 61000101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1020,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 20,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61000301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1050,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 50,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61000401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1070,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 70,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61000501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1100,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 100,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61000601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1120,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 120,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61000701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1150,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 150,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61000801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1170,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 170,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61000901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61000902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1200,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61000903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 200,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1220,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 220,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1250,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001103,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 250,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1270,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 270,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1300,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 300,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1320,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 320,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1350,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 350,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1370,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 370,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1400,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 400,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1420,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 420,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61001901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61001902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1450,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61001903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 450,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1500,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 470,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1550,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002103,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 500,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1600,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 520,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1650,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 550,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1700,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 570,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1750,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 600,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1800,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 620,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1850,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 650,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1900,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 670,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61002901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61002902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1950,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61002903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 700,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2000,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 720,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2050,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003103,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 750,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2100,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 770,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2150,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 800,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2200,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 820,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2250,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 850,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2300,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 870,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2350,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 900,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2400,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 920,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61003901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61003902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2450,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61003903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 950,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2500,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 970,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2550,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004103,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2600,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1020,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2650,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1050,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2700,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1070,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2750,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1100,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2800,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1120,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2850,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1150,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2900,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1170,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61004901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61004902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 2950,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61004903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1200,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3000,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1220,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3060,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005103,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1250,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3130,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1270,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3200,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1300,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3260,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1320,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3330,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1350,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3400,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1370,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3460,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1400,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3530,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1420,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61005901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61005902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3600,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61005903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1450,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3660,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1470,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3730,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006103,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1500,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3800,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1520,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3860,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1550,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 3930,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1570,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4000,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1600,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4060,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1620,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4130,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1650,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4200,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1670,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61006901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61006902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4260,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61006903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1700,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4330,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1720,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007101,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007102,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4400,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007103,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1750,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007201,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007202,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4460,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007203,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1770,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007301,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007302,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4530,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007303,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1800,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007401,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007402,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4600,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007403,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1820,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007501,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007502,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4660,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007503,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1850,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007601,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007602,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4730,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007603,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1870,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007701,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007702,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4800,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007703,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1900,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007801,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007802,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4860,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007803,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1920,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61007901,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61007902,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 4930,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61007903,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 1950,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
+    "Id": 61008001,
+    "ArmourySkillType": 4,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 1000,
+    "NameLanguageId": 878000000000302,
+    "DescriptionLanguageId": 879000000000302
+  },
+  {
+    "Id": 61008002,
+    "ArmourySkillType": 3,
+    "ArmourySkillDetailType": 0,
+    "EffectValue": 5000,
+    "NameLanguageId": 878000000000301,
+    "DescriptionLanguageId": 879000000000301
+  },
+  {
+    "Id": 61008003,
+    "ArmourySkillType": 1,
+    "ArmourySkillDetailType": 7,
+    "EffectValue": 2000,
+    "NameLanguageId": 878000000000206,
+    "DescriptionLanguageId": 879000000000206
+  },
+  {
     "Id": 62000101,
     "ArmourySkillType": 4,
     "ArmourySkillDetailType": 0,
