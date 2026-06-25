@@ -110,6 +110,16 @@
     "EffectCount": 0
   },
   {
+    "Id": 10401811,
+    "SkillStatusChangeType": 28,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 60,
+    "MaxDuplicationDurationSec": 60,
+    "EffectCoefficient": 300,
+    "EffectCount": 0
+  },
+  {
     "Id": 10402212,
     "SkillStatusChangeType": 11,
     "MinDurationSec": 60,
@@ -217,6 +227,16 @@
     "MinDuplicationDurationSec": 60,
     "MaxDuplicationDurationSec": 60,
     "EffectCoefficient": 80,
+    "EffectCount": 0
+  },
+  {
+    "Id": 12001812,
+    "SkillStatusChangeType": 40,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 30,
+    "MaxDuplicationDurationSec": 30,
+    "EffectCoefficient": 600,
     "EffectCount": 0
   },
   {
@@ -6550,6 +6570,46 @@
     "EffectCount": 0
   },
   {
+    "Id": 220034014,
+    "SkillStatusChangeType": 34,
+    "MinDurationSec": 20,
+    "MaxDurationSec": 20,
+    "MinDuplicationDurationSec": 6,
+    "MaxDuplicationDurationSec": 6,
+    "EffectCoefficient": 250,
+    "EffectCount": 0
+  },
+  {
+    "Id": 220034024,
+    "SkillStatusChangeType": 34,
+    "MinDurationSec": 25,
+    "MaxDurationSec": 25,
+    "MinDuplicationDurationSec": 8,
+    "MaxDuplicationDurationSec": 8,
+    "EffectCoefficient": 250,
+    "EffectCount": 0
+  },
+  {
+    "Id": 220034034,
+    "SkillStatusChangeType": 34,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "EffectCoefficient": 300,
+    "EffectCount": 0
+  },
+  {
+    "Id": 220034044,
+    "SkillStatusChangeType": 34,
+    "MinDurationSec": 40,
+    "MaxDurationSec": 40,
+    "MinDuplicationDurationSec": 13,
+    "MaxDuplicationDurationSec": 13,
+    "EffectCoefficient": 350,
+    "EffectCount": 0
+  },
+  {
     "Id": 220038012,
     "SkillStatusChangeType": 11,
     "MinDurationSec": 20,
@@ -6707,6 +6767,46 @@
     "MinDuplicationDurationSec": 20,
     "MaxDuplicationDurationSec": 20,
     "EffectCoefficient": 350,
+    "EffectCount": 0
+  },
+  {
+    "Id": 256022014,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 30,
+    "MaxDurationSec": 30,
+    "MinDuplicationDurationSec": 10,
+    "MaxDuplicationDurationSec": 10,
+    "EffectCoefficient": 200,
+    "EffectCount": 0
+  },
+  {
+    "Id": 256022024,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 40,
+    "MaxDurationSec": 40,
+    "MinDuplicationDurationSec": 13,
+    "MaxDuplicationDurationSec": 13,
+    "EffectCoefficient": 200,
+    "EffectCount": 0
+  },
+  {
+    "Id": 256022034,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 50,
+    "MaxDurationSec": 50,
+    "MinDuplicationDurationSec": 16,
+    "MaxDuplicationDurationSec": 16,
+    "EffectCoefficient": 250,
+    "EffectCount": 0
+  },
+  {
+    "Id": 256022044,
+    "SkillStatusChangeType": 11,
+    "MinDurationSec": 60,
+    "MaxDurationSec": 60,
+    "MinDuplicationDurationSec": 20,
+    "MaxDuplicationDurationSec": 20,
+    "EffectCoefficient": 300,
     "EffectCount": 0
   },
   {

@@ -333,6 +333,15 @@
     "DescriptionLanguageId": 571000000010035
   },
   {
+    "Id": 10036,
+    "DisplayConditionSetId": 680000010036,
+    "NameLanguageId": 570000000010036,
+    "Weight": 1,
+    "ResourceId": 10036,
+    "ItemRarityType": 4,
+    "DescriptionLanguageId": 571000000010036
+  },
+  {
     "Id": 20001,
     "DisplayConditionSetId": 0,
     "NameLanguageId": 570000000020001,
@@ -1483,5 +1492,23 @@
     "ResourceId": 30054,
     "ItemRarityType": 4,
     "DescriptionLanguageId": 571000000030054
+  },
+  {
+    "Id": 30055,
+    "DisplayConditionSetId": 680000030055,
+    "NameLanguageId": 570000000030055,
+    "Weight": 1,
+    "ResourceId": 30055,
+    "ItemRarityType": 4,
+    "DescriptionLanguageId": 571000000030055
+  },
+  {
+    "Id": 30056,
+    "DisplayConditionSetId": 680000030056,
+    "NameLanguageId": 570000000030056,
+    "Weight": 1,
+    "ResourceId": 30056,
+    "ItemRarityType": 4,
+    "DescriptionLanguageId": 571000000030056
   }
 ]

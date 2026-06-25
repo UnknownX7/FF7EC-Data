@@ -108,7 +108,7 @@
     "Level": 1,
     "ResourceId": 1055010010,
     "EnemySkillLevelId": 1010010010,
-    "BossCautionLanguageId": 130000001010030,
+    "BossCautionLanguageId": 130000001010014,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -116,7 +116,7 @@
     "Level": 1,
     "ResourceId": 1055011010,
     "EnemySkillLevelId": 1010011010,
-    "BossCautionLanguageId": 130000001010030,
+    "BossCautionLanguageId": 130000001010014,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -125,6 +125,14 @@
     "ResourceId": 1010013010,
     "EnemySkillLevelId": 1010013010,
     "BossCautionLanguageId": 130000001010013,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 1010014,
+    "Level": 1,
+    "ResourceId": 1055014010,
+    "EnemySkillLevelId": 1010014010,
+    "BossCautionLanguageId": 130000001010014,
     "FinalAttackSkillEnemyId": 0
   },
   {
@@ -6648,6 +6656,30 @@
     "FinalAttackSkillEnemyId": 0
   },
   {
+    "EnemyLevelConstantGroupId": 2524005,
+    "Level": 1,
+    "ResourceId": 2524003010,
+    "EnemySkillLevelId": 2524005010,
+    "BossCautionLanguageId": 130000002524002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2524006,
+    "Level": 1,
+    "ResourceId": 2524004010,
+    "EnemySkillLevelId": 2524005010,
+    "BossCautionLanguageId": 130000002524002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2524007,
+    "Level": 1,
+    "ResourceId": 2524005010,
+    "EnemySkillLevelId": 2524005010,
+    "BossCautionLanguageId": 130000002524002,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
     "EnemyLevelConstantGroupId": 2524101,
     "Level": 1,
     "ResourceId": 2524101010,
@@ -6685,6 +6717,14 @@
     "ResourceId": 2524103010,
     "EnemySkillLevelId": 2524104010,
     "BossCautionLanguageId": 130000002524101,
+    "FinalAttackSkillEnemyId": 0
+  },
+  {
+    "EnemyLevelConstantGroupId": 2524107,
+    "Level": 1,
+    "ResourceId": 2524104010,
+    "EnemySkillLevelId": 2524105010,
+    "BossCautionLanguageId": 130000002524102,
     "FinalAttackSkillEnemyId": 0
   },
   {

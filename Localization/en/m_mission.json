@@ -509,6 +509,10 @@
       "value": "Raise Gelid Sword's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
     {
+      "id": 701000110020042,
+      "value": "Raise Wheel Edge's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
+    },
+    {
       "id": 701000110049002,
       "value": "Raise Edged Wings's rarity to <sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=197><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196><sprite=\"tmp_icon\" index=196>."
     },
@@ -1555,6 +1559,14 @@
     {
       "id": 701000190900145,
       "value": "Consume {0} stamina in a battle in \"Critical Threat: Neo Bahamut Descends.\""
+    },
+    {
+      "id": 701000190900146,
+      "value": "Clear {0} battle(s) in \"Critical Threat Reawakened: Sephiroth - The Arrival.\""
+    },
+    {
+      "id": 701000190900147,
+      "value": "Consume {0} stamina in a battle in \"Critical Threat Reawakened: Sephiroth - The Arrival.\""
     },
     {
       "id": 701000190900201,
@@ -6965,6 +6977,38 @@
       "value": "Clear battle in \"[1/Day] Synth Catalyst and Branding Stone Collection\" once."
     },
     {
+      "id": 701120305001006,
+      "value": "Consume {0} stamina in a battle in \"Reawakened: Beach Festival Fun!\"."
+    },
+    {
+      "id": 701120305001008,
+      "value": "Consume {0} stamina in any battle."
+    },
+    {
+      "id": 701120305001009,
+      "value": "Consume {0} stamina in any Co-op battle."
+    },
+    {
+      "id": 701120305001010,
+      "value": "Synthesize materia {0} time(s)."
+    },
+    {
+      "id": 701120305001011,
+      "value": "Upgrade materia {0} time(s)."
+    },
+    {
+      "id": 701120305001012,
+      "value": "Collect chocobo expedition rewards {0} time(s)."
+    },
+    {
+      "id": 701120305002001,
+      "value": "Clear {0} battle(s) in \"Reawakened: Beach Festival Fun!\"."
+    },
+    {
+      "id": 701120305002002,
+      "value": "Clear {0} battle(s) in \"Reawakened: Beach Festival Fun!\"."
+    },
+    {
       "id": 701120900501008,
       "value": "Deal a total of {0} or more damage in a single battle of a guild battle."
     },
@@ -8415,6 +8459,14 @@
     {
       "id": 702000902604005,
       "value": "Clear \"Escalation Challenge: Weiss the Immaculate\" Lv. {0}."
+    },
+    {
+      "id": 702000902701005,
+      "value": "Clear \"[1/Day] Watermelon Tonberry\" {0} time(s)."
+    },
+    {
+      "id": 702000902702005,
+      "value": "Clear \"Watermelon Tonberry EX 1\" {0} time(s)."
     },
     {
       "id": 702001203005005,

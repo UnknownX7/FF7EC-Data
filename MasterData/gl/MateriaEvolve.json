@@ -288,6 +288,30 @@
     "ActiveSkillId": 2122011
   },
   {
+    "Id": 21230011,
+    "MateriaId": 2123001,
+    "EvolveCount": 0,
+    "ActiveSkillId": 2121001
+  },
+  {
+    "Id": 21230012,
+    "MateriaId": 2123001,
+    "EvolveCount": 1,
+    "ActiveSkillId": 2121002
+  },
+  {
+    "Id": 21230031,
+    "MateriaId": 2123003,
+    "EvolveCount": 0,
+    "ActiveSkillId": 2121003
+  },
+  {
+    "Id": 21230032,
+    "MateriaId": 2123003,
+    "EvolveCount": 1,
+    "ActiveSkillId": 2121004
+  },
+  {
     "Id": 21310011,
     "MateriaId": 2131001,
     "EvolveCount": 0,
@@ -940,6 +964,12 @@
     "MateriaId": 2603005,
     "EvolveCount": 0,
     "ActiveSkillId": 2601005
+  },
+  {
+    "Id": 26030061,
+    "MateriaId": 2603006,
+    "EvolveCount": 0,
+    "ActiveSkillId": 2601006
   },
   {
     "Id": 26030081,

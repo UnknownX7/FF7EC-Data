@@ -972,6 +972,15 @@
     "DescriptionLanguageId": 866000000009024
   },
   {
+    "Id": 9124,
+    "ResorceId": 9024,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10051,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000009124,
+    "DescriptionLanguageId": 866000000009124
+  },
+  {
     "Id": 11001,
     "ResorceId": 11001,
     "DisplayRewardSetId": 340000003001,
@@ -1420,6 +1429,15 @@
     "GachaId2": 0,
     "CautionLanguageId": 867000000014018,
     "DescriptionLanguageId": 866000000014018
+  },
+  {
+    "Id": 14019,
+    "ResorceId": 14019,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10084,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000014019,
+    "DescriptionLanguageId": 866000000014019
   },
   {
     "Id": 15001,
@@ -1872,6 +1890,24 @@
     "DescriptionLanguageId": 866000000002034
   },
   {
+    "Id": 2035001,
+    "ResorceId": 2035,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10005,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000002035,
+    "DescriptionLanguageId": 866000000002035
+  },
+  {
+    "Id": 2035002,
+    "ResorceId": 2035,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10005,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000002035,
+    "DescriptionLanguageId": 866000000002035
+  },
+  {
     "Id": 3025001,
     "ResorceId": 3025,
     "DisplayRewardSetId": 340000003001,
@@ -1951,5 +1987,14 @@
     "GachaId2": 0,
     "CautionLanguageId": 867000000003048,
     "DescriptionLanguageId": 866000000003048
+  },
+  {
+    "Id": 3050001,
+    "ResorceId": 3050,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10179,
+    "GachaId2": 10180,
+    "CautionLanguageId": 867000000003050,
+    "DescriptionLanguageId": 866000000003050
   }
 ]

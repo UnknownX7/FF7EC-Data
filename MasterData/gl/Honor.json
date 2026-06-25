@@ -8459,6 +8459,17 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 1100326,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100326,
+    "OrderNo": 1100326,
+    "NotHaveDisplayConditionSetId": 611000003050,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 1200001,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -10549,6 +10560,28 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 1300118,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001300118,
+    "OrderNo": 1300118,
+    "NotHaveDisplayConditionSetId": 611000002035,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300119,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001300119,
+    "OrderNo": 1300119,
+    "NotHaveDisplayConditionSetId": 611000002035,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 1400101,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -11062,7 +11095,7 @@
     "ResourceId": 1400155,
     "NameLanguageId": 560000001400155,
     "OrderNo": 1400155,
-    "NotHaveDisplayConditionSetId": 611000009024,
+    "NotHaveDisplayConditionSetId": 614000009124,
     "LockLanguageId": 0
   },
   {
@@ -11073,7 +11106,7 @@
     "ResourceId": 1400156,
     "NameLanguageId": 560000001400156,
     "OrderNo": 1400156,
-    "NotHaveDisplayConditionSetId": 611000009024,
+    "NotHaveDisplayConditionSetId": 614000009124,
     "LockLanguageId": 0
   },
   {
@@ -11536,6 +11569,17 @@
     "NameLanguageId": 560000001600132,
     "OrderNo": 1600132,
     "NotHaveDisplayConditionSetId": 613000014018,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1600133,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001600133,
+    "OrderNo": 1600133,
+    "NotHaveDisplayConditionSetId": 613000014019,
     "LockLanguageId": 0
   },
   {

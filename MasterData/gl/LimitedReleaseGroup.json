@@ -492,6 +492,14 @@
     "LimitedReleaseTriggerSourceType": 2
   },
   {
+    "Id": 600,
+    "LimitedReleaseTriggerSourceType": 2
+  },
+  {
+    "Id": 601,
+    "LimitedReleaseTriggerSourceType": 2
+  },
+  {
     "Id": 1001,
     "LimitedReleaseTriggerSourceType": 11
   },
@@ -1197,6 +1205,10 @@
   },
   {
     "Id": 1179,
+    "LimitedReleaseTriggerSourceType": 11
+  },
+  {
+    "Id": 1180,
     "LimitedReleaseTriggerSourceType": 11
   }
 ]

@@ -13,6 +13,10 @@
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n\nUnanalyzable..."
     },
     {
+      "id": 130000001010014,
+      "value": "Immunities: All debuffs\n\nUnanalyzable..."
+    },
+    {
       "id": 130000001010030,
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=415>Enfeeble / <sprite=\"tmp_icon\" index=416>Stop / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=387>PDEF Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=389>MDEF Down\n<sprite=\"tmp_icon\" index=426>Single-Tgt. Phys. Dmg. Rcvd. Up <sprite=\"tmp_icon\" index=434>All-Tgt. Phys. Dmg. Rcvd. Up\n<sprite=\"tmp_icon\" index=426>Single-Tgt. Mag. Dmg. Rcvd. Up <sprite=\"tmp_icon\" index=434>All-Tgt. Mag. Dmg. Rcvd. Up\n \nUnable to read..."
     },
@@ -953,8 +957,16 @@
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog\n<sprite=\"tmp_icon\" index=426>Single-Tgt. Mag. Dmg. Rcvd. Up <sprite=\"tmp_icon\" index=434>All-Tgt. Mag. Dmg. Rcvd. Up\n \nIncapacitates a target during <command_color=emphasis>Watermelon Bash!!!</color> Destroying more sigils during <command_color=emphasis>Watermelon Challenge</color> increases the potency of <command_color=emphasis>Watermelon's Grudge</color>.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy."
     },
     {
+      "id": 130000002524002,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=427>Single-Tgt. Mag. Dmg. Rcvd. Up / <sprite=\"tmp_icon\" index=435>All-Tgt. Mag. Dmg. Rcvd. Up\n\nIncapacitates a target during [<command_color=emphasis>Watermelon Bash!!!</color>]. Destroying more sigils during [<command_color=emphasis>Watermelon Challenge</color>] increases the potency of [<command_color=emphasis>Watermelon's Grudge</color>]. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with [<command_color=emphasis>Amazing Green Fireworks</color>]. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with [<command_color=emphasis>Amazing Yellow Fireworks</color>].\n\n<command_color=common_03>Physical attacks</color> are effective against this enemy."
+    },
+    {
       "id": 130000002524101,
       "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down\n <sprite=\"tmp_icon\" index=426>Single-Tgt. Mag. Dmg. Rcvd. Up <sprite=\"tmp_icon\" index=434>All-Tgt. Mag. Dmg. Rcvd. Up\n \n<command_color=common_03>PATK</color> changes based on Force Gauge: <command_color=emphasis>Concentration</color>. The gauge can be depleted with damage, and the greater the <command_color=common_03>chain</color> of consecutive attacks, the more the gauge will be depleted.\n \n<command_color=common_03>Physical attacks</color> are effective against this enemy."
+    },
+    {
+      "id": 130000002524102,
+      "value": "Immunities: <sprite=\"tmp_icon\" index=395>Poison / <sprite=\"tmp_icon\" index=386>Darkness / <sprite=\"tmp_icon\" index=393>Silence / <sprite=\"tmp_icon\" index=392>Stun / <sprite=\"tmp_icon\" index=384>Fatigue / <sprite=\"tmp_icon\" index=385>Fog / <sprite=\"tmp_icon\" index=388>PATK Down / <sprite=\"tmp_icon\" index=390>MATK Down / <sprite=\"tmp_icon\" index=427>Single-Tgt. Mag. Dmg. Rcvd. Up / <sprite=\"tmp_icon\" index=435>All-Tgt. Mag. Dmg. Rcvd. Up\n\n<command_color=common_03>PATK</color> changes based on Force Gauge: [<command_color=emphasis>Concentration</color>]. The gauge can be depleted with damage, and the greater the <command_color=common_03>chain</color> of consecutive attacks, the more the gauge will be depleted. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=388>PATK Down</color> with [<command_color=emphasis>Amazing Green Fireworks</color>]. Inflicts <command_color=common_03><sprite=\"tmp_icon\" index=387>PDEF Down</color> and <command_color=common_03><sprite=\"tmp_icon\" index=389>MDEF Down</color> with [<command_color=emphasis>Amazing Yellow Fireworks</color>].\n\n<command_color=common_03>Physical attacks</color> are effective against this enemy.\n"
     },
     {
       "id": 130000002525001,

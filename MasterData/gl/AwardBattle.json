@@ -151,6 +151,11 @@
   },
   {
     "AwardId": 10000,
+    "EventBattleId": 2035112,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 10000,
     "EventBattleId": 3005110,
     "BossChallengeLevel": 0
   },
@@ -296,6 +301,11 @@
   },
   {
     "AwardId": 20000,
+    "EventBattleId": 203507,
+    "BossChallengeLevel": 0
+  },
+  {
+    "AwardId": 20000,
     "EventBattleId": 300505,
     "BossChallengeLevel": 0
   },
@@ -427,6 +437,11 @@
   {
     "AwardId": 30000,
     "EventBattleId": 14018002,
+    "BossChallengeLevel": 20
+  },
+  {
+    "AwardId": 30000,
+    "EventBattleId": 14019002,
     "BossChallengeLevel": 20
   }
 ]

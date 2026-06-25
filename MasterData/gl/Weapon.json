@@ -2572,7 +2572,7 @@
     "AutoWeaponSkillElementType": 6,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "WeaponEvolveGroupId": 0
+    "WeaponEvolveGroupId": 3046
   },
   {
     "Id": 3047,
@@ -3572,7 +3572,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "WeaponEvolveGroupId": 0
+    "WeaponEvolveGroupId": 4038
   },
   {
     "Id": 4039,
@@ -7947,7 +7947,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "WeaponEvolveGroupId": 0
+    "WeaponEvolveGroupId": 20034
   },
   {
     "Id": 20035,
@@ -8098,6 +8098,31 @@
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 1,
     "WeaponEvolveGroupId": 0
+  },
+  {
+    "Id": 20042,
+    "WeaponType": 0,
+    "CharacterId": 20,
+    "WeaponLevelGroupId": 1,
+    "BaseExp": 1000,
+    "EnhanceConsumptionGilCoefficient": 80,
+    "WeaponMateriaSupportId0": 50201,
+    "WeaponMateriaSupportId1": 50201,
+    "WeaponMateriaSupportId2": 50801,
+    "PassiveSkillId0": 10201,
+    "PassiveSkillId1": 20601,
+    "WeaponRaritySettingGroupId": 1,
+    "WeaponReleaseSettingGroupId": 31,
+    "WeaponReleaseParameterGroupId": 1,
+    "WeaponUpgradeParameterGroupId": 1,
+    "WeaponUpgradeConsumptionGroupId": 1,
+    "ResourceId": 20042,
+    "NameLanguageId": 510000000020042,
+    "WeaponMedalItemId": 1020042,
+    "AutoWeaponSkillElementType": 6,
+    "WeaponArmourySettingGroupId": 1,
+    "WeaponEquipmentType": 0,
+    "WeaponEvolveGroupId": 20042
   },
   {
     "Id": 49001,
@@ -11747,7 +11772,7 @@
     "AutoWeaponSkillElementType": 1,
     "WeaponArmourySettingGroupId": 1,
     "WeaponEquipmentType": 0,
-    "WeaponEvolveGroupId": 0
+    "WeaponEvolveGroupId": 56022
   },
   {
     "Id": 56023,

@@ -9335,6 +9335,66 @@
     "DamageCoefficient": 500
   },
   {
+    "Id": 3101036011,
+    "ElementType": 2,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101036011,
+    "ElementType": 3,
+    "DamageCoefficient": -2000
+  },
+  {
+    "Id": 3101036021,
+    "ElementType": 2,
+    "DamageCoefficient": -2000
+  },
+  {
+    "Id": 3101036021,
+    "ElementType": 3,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101036031,
+    "ElementType": 4,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101036031,
+    "ElementType": 6,
+    "DamageCoefficient": -2000
+  },
+  {
+    "Id": 3101036041,
+    "ElementType": 5,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101036041,
+    "ElementType": 7,
+    "DamageCoefficient": -2000
+  },
+  {
+    "Id": 3101036051,
+    "ElementType": 4,
+    "DamageCoefficient": -2000
+  },
+  {
+    "Id": 3101036051,
+    "ElementType": 6,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101036061,
+    "ElementType": 5,
+    "DamageCoefficient": -2000
+  },
+  {
+    "Id": 3101036061,
+    "ElementType": 7,
+    "DamageCoefficient": 1000
+  },
+  {
     "Id": 3101060391,
     "ElementType": 2,
     "DamageCoefficient": 1000
@@ -9601,6 +9661,36 @@
   },
   {
     "Id": 3101060591,
+    "ElementType": 7,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101066311,
+    "ElementType": 2,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101066311,
+    "ElementType": 3,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101066311,
+    "ElementType": 4,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101066311,
+    "ElementType": 5,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101066311,
+    "ElementType": 6,
+    "DamageCoefficient": 1000
+  },
+  {
+    "Id": 3101066311,
     "ElementType": 7,
     "DamageCoefficient": 1000
   },

@@ -1380,6 +1380,66 @@
     "MateriaDurationGroupId": 35
   },
   {
+    "Id": 21230010101,
+    "MateriaRecipeId": 212300101,
+    "QualityType": 1,
+    "MateriaDurationGroupId": 21
+  },
+  {
+    "Id": 21230010102,
+    "MateriaRecipeId": 212300101,
+    "QualityType": 2,
+    "MateriaDurationGroupId": 22
+  },
+  {
+    "Id": 21230010103,
+    "MateriaRecipeId": 212300101,
+    "QualityType": 3,
+    "MateriaDurationGroupId": 23
+  },
+  {
+    "Id": 21230010104,
+    "MateriaRecipeId": 212300101,
+    "QualityType": 4,
+    "MateriaDurationGroupId": 24
+  },
+  {
+    "Id": 21230010105,
+    "MateriaRecipeId": 212300101,
+    "QualityType": 5,
+    "MateriaDurationGroupId": 25
+  },
+  {
+    "Id": 21230030101,
+    "MateriaRecipeId": 212300301,
+    "QualityType": 1,
+    "MateriaDurationGroupId": 21
+  },
+  {
+    "Id": 21230030102,
+    "MateriaRecipeId": 212300301,
+    "QualityType": 2,
+    "MateriaDurationGroupId": 22
+  },
+  {
+    "Id": 21230030103,
+    "MateriaRecipeId": 212300301,
+    "QualityType": 3,
+    "MateriaDurationGroupId": 23
+  },
+  {
+    "Id": 21230030104,
+    "MateriaRecipeId": 212300301,
+    "QualityType": 4,
+    "MateriaDurationGroupId": 24
+  },
+  {
+    "Id": 21230030105,
+    "MateriaRecipeId": 212300301,
+    "QualityType": 5,
+    "MateriaDurationGroupId": 25
+  },
+  {
     "Id": 21310010101,
     "MateriaRecipeId": 213100101,
     "QualityType": 1,
@@ -4316,6 +4376,36 @@
   {
     "Id": 26030050105,
     "MateriaRecipeId": 260300501,
+    "QualityType": 5,
+    "MateriaDurationGroupId": 25
+  },
+  {
+    "Id": 26030060101,
+    "MateriaRecipeId": 260300601,
+    "QualityType": 1,
+    "MateriaDurationGroupId": 21
+  },
+  {
+    "Id": 26030060102,
+    "MateriaRecipeId": 260300601,
+    "QualityType": 2,
+    "MateriaDurationGroupId": 22
+  },
+  {
+    "Id": 26030060103,
+    "MateriaRecipeId": 260300601,
+    "QualityType": 3,
+    "MateriaDurationGroupId": 23
+  },
+  {
+    "Id": 26030060104,
+    "MateriaRecipeId": 260300601,
+    "QualityType": 4,
+    "MateriaDurationGroupId": 24
+  },
+  {
+    "Id": 26030060105,
+    "MateriaRecipeId": 260300601,
     "QualityType": 5,
     "MateriaDurationGroupId": 25
   },
