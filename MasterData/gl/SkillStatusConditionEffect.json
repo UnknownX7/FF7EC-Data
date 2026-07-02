@@ -7540,6 +7540,26 @@
     "EffectCoefficient": 0
   },
   {
+    "Id": 3253564053,
+    "SkillStatusConditionType": 16,
+    "MinDurationSec": 100,
+    "MaxDurationSec": 100,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
+    "Id": 3253564063,
+    "SkillStatusConditionType": 16,
+    "MinDurationSec": 300,
+    "MaxDurationSec": 300,
+    "MinDuplicationDurationSec": 0,
+    "MaxDuplicationDurationSec": 0,
+    "IgnoreResist": false,
+    "EffectCoefficient": 0
+  },
+  {
     "Id": 3253610252,
     "SkillStatusConditionType": 11,
     "MinDurationSec": 0,

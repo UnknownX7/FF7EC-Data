@@ -160,6 +160,22 @@
     "LimitedReleaseRemindGroupId": 0
   },
   {
+    "Id": 101011,
+    "NameLanguageId": 802000101001011,
+    "LimitedReleaseTriggerSourceType": 10,
+    "Seq": 11,
+    "ReleaseConditionSetId": 620000101011,
+    "OrderNo": 11,
+    "ResourceId": 101011,
+    "LimitedReleaseTargetType": 1,
+    "TargetId": 101001011,
+    "ReleaseDurationMinute": 2880,
+    "LimitedReleaseDirectionType": 2,
+    "LimitedReleaseGroupId": 101,
+    "ResetId": 0,
+    "LimitedReleaseRemindGroupId": 0
+  },
+  {
     "Id": 102000,
     "NameLanguageId": 802000101001020,
     "LimitedReleaseTriggerSourceType": 10,

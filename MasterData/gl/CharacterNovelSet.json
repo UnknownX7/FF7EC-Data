@@ -232,6 +232,14 @@
     "RegisterId": 1
   },
   {
+    "Id": 19050101,
+    "NameLanguageId": 100000000000101,
+    "CharacterNovelId": 1,
+    "CharacterNovelCostumeId": 1905,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
     "Id": 20010101,
     "NameLanguageId": 100000000000201,
     "CharacterNovelId": 2,
@@ -3936,6 +3944,14 @@
     "RegisterId": 10
   },
   {
+    "Id": 5019020101,
+    "NameLanguageId": 100000090250101,
+    "CharacterNovelId": 501,
+    "CharacterNovelCostumeId": 501902,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
     "Id": 5020010101,
     "NameLanguageId": 100000000050201,
     "CharacterNovelId": 502,
@@ -5224,6 +5240,78 @@
     "RegisterId": 1
   },
   {
+    "Id": 5380010102,
+    "NameLanguageId": 100000000053802,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 2
+  },
+  {
+    "Id": 5380010103,
+    "NameLanguageId": 100000000053803,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 3
+  },
+  {
+    "Id": 5380010104,
+    "NameLanguageId": 100000000053804,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 4
+  },
+  {
+    "Id": 5380010105,
+    "NameLanguageId": 100000000053805,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 5
+  },
+  {
+    "Id": 5380010106,
+    "NameLanguageId": 100000000053806,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 6
+  },
+  {
+    "Id": 5380010107,
+    "NameLanguageId": 100000000053807,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 7
+  },
+  {
+    "Id": 5380010108,
+    "NameLanguageId": 100000000053808,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 8
+  },
+  {
+    "Id": 5380010109,
+    "NameLanguageId": 100000000053809,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 9
+  },
+  {
+    "Id": 5380010110,
+    "NameLanguageId": 100000000053810,
+    "CharacterNovelId": 538,
+    "CharacterNovelCostumeId": 538001,
+    "VariationType": "default",
+    "RegisterId": 10
+  },
+  {
     "Id": 5390010101,
     "NameLanguageId": 100000000053901,
     "CharacterNovelId": 539,
@@ -5638,6 +5726,78 @@
     "CharacterNovelCostumeId": 550001,
     "VariationType": "default",
     "RegisterId": 1
+  },
+  {
+    "Id": 5500010102,
+    "NameLanguageId": 100000000055002,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 2
+  },
+  {
+    "Id": 5500010103,
+    "NameLanguageId": 100000000055003,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 3
+  },
+  {
+    "Id": 5500010104,
+    "NameLanguageId": 100000000055004,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 4
+  },
+  {
+    "Id": 5500010105,
+    "NameLanguageId": 100000000055005,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 5
+  },
+  {
+    "Id": 5500010106,
+    "NameLanguageId": 100000000055006,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 6
+  },
+  {
+    "Id": 5500010107,
+    "NameLanguageId": 100000000055007,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 7
+  },
+  {
+    "Id": 5500010108,
+    "NameLanguageId": 100000000055008,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 8
+  },
+  {
+    "Id": 5500010109,
+    "NameLanguageId": 100000000055009,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 9
+  },
+  {
+    "Id": 5500010110,
+    "NameLanguageId": 100000000055010,
+    "CharacterNovelId": 550,
+    "CharacterNovelCostumeId": 550001,
+    "VariationType": "default",
+    "RegisterId": 10
   },
   {
     "Id": 5510010101,
@@ -7612,6 +7772,30 @@
     "NameLanguageId": 100000000061001,
     "CharacterNovelId": 610,
     "CharacterNovelCostumeId": 610001,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 6190010101,
+    "NameLanguageId": 100000000061901,
+    "CharacterNovelId": 619,
+    "CharacterNovelCostumeId": 619001,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 6230010101,
+    "NameLanguageId": 100000000062301,
+    "CharacterNovelId": 623,
+    "CharacterNovelCostumeId": 623001,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 6240010101,
+    "NameLanguageId": 100000000062401,
+    "CharacterNovelId": 624,
+    "CharacterNovelCostumeId": 624001,
     "VariationType": "default",
     "RegisterId": 1
   },
