@@ -1491,7 +1491,7 @@
     "WeaponSkillId": 10102803,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 15,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 1028,
@@ -1500,7 +1500,7 @@
     "WeaponSkillId": 10102803,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 1028,
@@ -1509,7 +1509,7 @@
     "WeaponSkillId": 10102803,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 1028,
@@ -1518,7 +1518,7 @@
     "WeaponSkillId": 10102803,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 1028,
@@ -1527,7 +1527,7 @@
     "WeaponSkillId": 10102804,
     "AddPassiveSkillPoint0": 16,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 18
   },
   {
     "WeaponId": 1029,
@@ -5893,6 +5893,96 @@
     "AddPassiveSkillPoint0": 11,
     "AddPassiveSkillPoint1": 27,
     "AddPassiveSkillPoint2": 0
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 1,
+    "WeaponSkillId": 10300202,
+    "AddPassiveSkillPoint0": 2,
+    "AddPassiveSkillPoint1": 4,
+    "AddPassiveSkillPoint2": 0
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 2,
+    "WeaponSkillId": 10300202,
+    "AddPassiveSkillPoint0": 2,
+    "AddPassiveSkillPoint1": 12,
+    "AddPassiveSkillPoint2": 0
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 3,
+    "WeaponSkillId": 10300202,
+    "AddPassiveSkillPoint0": 6,
+    "AddPassiveSkillPoint1": 12,
+    "AddPassiveSkillPoint2": 0
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 4,
+    "WeaponSkillId": 10300202,
+    "AddPassiveSkillPoint0": 6,
+    "AddPassiveSkillPoint1": 20,
+    "AddPassiveSkillPoint2": 0
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 5,
+    "WeaponSkillId": 10300202,
+    "AddPassiveSkillPoint0": 10,
+    "AddPassiveSkillPoint1": 20,
+    "AddPassiveSkillPoint2": 0
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 6,
+    "WeaponSkillId": 10300203,
+    "AddPassiveSkillPoint0": 10,
+    "AddPassiveSkillPoint1": 20,
+    "AddPassiveSkillPoint2": 8
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 7,
+    "WeaponSkillId": 10300203,
+    "AddPassiveSkillPoint0": 10,
+    "AddPassiveSkillPoint1": 28,
+    "AddPassiveSkillPoint2": 8
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 8,
+    "WeaponSkillId": 10300203,
+    "AddPassiveSkillPoint0": 14,
+    "AddPassiveSkillPoint1": 28,
+    "AddPassiveSkillPoint2": 8
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 9,
+    "WeaponSkillId": 10300203,
+    "AddPassiveSkillPoint0": 14,
+    "AddPassiveSkillPoint1": 36,
+    "AddPassiveSkillPoint2": 8
+  },
+  {
+    "WeaponId": 3002,
+    "WeaponUpgradeType": 1,
+    "UpgradeCount": 10,
+    "WeaponSkillId": 10300204,
+    "AddPassiveSkillPoint0": 16,
+    "AddPassiveSkillPoint1": 36,
+    "AddPassiveSkillPoint2": 18
   },
   {
     "WeaponId": 3005,
@@ -16017,7 +16107,7 @@
     "WeaponSkillId": 10602303,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 15,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 6014,
@@ -16026,7 +16116,7 @@
     "WeaponSkillId": 10602303,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 6014,
@@ -16035,7 +16125,7 @@
     "WeaponSkillId": 10602303,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 6014,
@@ -16044,7 +16134,7 @@
     "WeaponSkillId": 10602303,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 6014,
@@ -16053,7 +16143,7 @@
     "WeaponSkillId": 10602304,
     "AddPassiveSkillPoint0": 16,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 18
   },
   {
     "WeaponId": 6015,
@@ -21651,7 +21741,7 @@
     "WeaponSkillId": 10802203,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 15,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 8022,
@@ -21660,7 +21750,7 @@
     "WeaponSkillId": 10802203,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 8022,
@@ -21669,7 +21759,7 @@
     "WeaponSkillId": 10802203,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 8022,
@@ -21678,7 +21768,7 @@
     "WeaponSkillId": 10802203,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 8022,
@@ -21687,7 +21777,7 @@
     "WeaponSkillId": 10802204,
     "AddPassiveSkillPoint0": 16,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 18
   },
   {
     "WeaponId": 8023,
@@ -28959,7 +29049,7 @@
     "WeaponSkillId": 14902403,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 15,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 49024,
@@ -28968,7 +29058,7 @@
     "WeaponSkillId": 14902403,
     "AddPassiveSkillPoint0": 10,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 49024,
@@ -28977,7 +29067,7 @@
     "WeaponSkillId": 14902403,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 21,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 49024,
@@ -28986,7 +29076,7 @@
     "WeaponSkillId": 14902403,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 49024,
@@ -28995,7 +29085,7 @@
     "WeaponSkillId": 14902404,
     "AddPassiveSkillPoint0": 16,
     "AddPassiveSkillPoint1": 27,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 18
   },
   {
     "WeaponId": 49026,
@@ -33324,7 +33414,7 @@
     "WeaponSkillId": 15100703,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 10,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 51007,
@@ -33333,7 +33423,7 @@
     "WeaponSkillId": 15100703,
     "AddPassiveSkillPoint0": 14,
     "AddPassiveSkillPoint1": 14,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 51007,
@@ -33342,7 +33432,7 @@
     "WeaponSkillId": 15100703,
     "AddPassiveSkillPoint0": 20,
     "AddPassiveSkillPoint1": 14,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 51007,
@@ -33351,7 +33441,7 @@
     "WeaponSkillId": 15100703,
     "AddPassiveSkillPoint0": 20,
     "AddPassiveSkillPoint1": 18,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 8
   },
   {
     "WeaponId": 51007,
@@ -33360,7 +33450,7 @@
     "WeaponSkillId": 15100704,
     "AddPassiveSkillPoint0": 22,
     "AddPassiveSkillPoint1": 18,
-    "AddPassiveSkillPoint2": 0
+    "AddPassiveSkillPoint2": 18
   },
   {
     "WeaponId": 51008,

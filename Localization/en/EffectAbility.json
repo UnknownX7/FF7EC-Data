@@ -887,6 +887,18 @@
     {
       "id": 504279,
       "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against water]"
+    },
+    {
+      "id": 504280,
+      "value": "Applies LB Ultimate to {0} {1} {2} (LB: Damage +{3}% during effect duration; also exploits weaknesses) [Dur.: {4}s] [Ext.: +{5}s]"
+    },
+    {
+      "id": 504281,
+      "value": "When used on the third Limit Combo strike, "
+    },
+    {
+      "id": 504282,
+      "value": "Applies LB Amp to {0} {1} {2} [LB: Damage +{4}% up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s]"
     }
   ]
 }

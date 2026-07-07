@@ -1474,5 +1474,41 @@
     "NameLanguageId": 200000000000603,
     "StorySectionType": 1,
     "SectionOrderNo": 1
+  },
+  {
+    "Id": 701,
+    "StoryChapterId": 701,
+    "OrderNo": 1,
+    "StoryMapPositionId": 101,
+    "NameLanguageId": 200000000000701,
+    "StorySectionType": 1,
+    "SectionOrderNo": 1
+  },
+  {
+    "Id": 702,
+    "StoryChapterId": 701,
+    "OrderNo": 2,
+    "StoryMapPositionId": 105,
+    "NameLanguageId": 200000000000702,
+    "StorySectionType": 1,
+    "SectionOrderNo": 2
+  },
+  {
+    "Id": 703,
+    "StoryChapterId": 701,
+    "OrderNo": 3,
+    "StoryMapPositionId": 101,
+    "NameLanguageId": 200000000000703,
+    "StorySectionType": 1,
+    "SectionOrderNo": 3
+  },
+  {
+    "Id": 704,
+    "StoryChapterId": 701,
+    "OrderNo": 4,
+    "StoryMapPositionId": 115,
+    "NameLanguageId": 200000000000704,
+    "StorySectionType": 1,
+    "SectionOrderNo": 4
   }
 ]

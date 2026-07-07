@@ -2229,6 +2229,14 @@
       "value": "Rider Jacket Voucher"
     },
     {
+      "id": 551000000300098,
+      "value": "Festival of Gratitude Medal"
+    },
+    {
+      "id": 551000000300099,
+      "value": "Festival of Gratitude Gear Voucher"
+    },
+    {
       "id": 551000000300100,
       "value": "Reawakened FFVII EC Summer Gear Voucher"
     },
@@ -2275,6 +2283,10 @@
     {
       "id": 551000001000011,
       "value": "Mako Gem (Special)"
+    },
+    {
+      "id": 551000001000012,
+      "value": "Mako Gem (Festival of Gratitude)"
     },
     {
       "id": 551000001001001,
@@ -2547,6 +2559,10 @@
     {
       "id": 551000001003001,
       "value": "Leather Glove Parts"
+    },
+    {
+      "id": 551000001003002,
+      "value": "Metal Knuckles Parts"
     },
     {
       "id": 551000001003005,
@@ -7281,6 +7297,14 @@
       "value": "Traded for items at the <command_color=common_03>Rider Jacket Exchange</color>."
     },
     {
+      "id": 552000000300098,
+      "value": "Traded for items at the <command_color=common_03>Festival of Gratitude Medal Exchange</color>."
+    },
+    {
+      "id": 552000000300099,
+      "value": "Traded for items at the <command_color=common_03>Festival of Gratitude Gear Exchange</color>."
+    },
+    {
       "id": 552000000300100,
       "value": "Traded for items at the <command_color=common_03>Reawakened Summer Gear Exchange</color>."
     },
@@ -7322,6 +7346,10 @@
     },
     {
       "id": 552000001000011,
+      "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
+    },
+    {
+      "id": 552000001000012,
       "value": "Traded for rare items at the <command_color=common_03>Mako Gem Exchange</color>."
     },
     {
@@ -7595,6 +7623,10 @@
     {
       "id": 552000001003001,
       "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Leather Gloves</color>."
+    },
+    {
+      "id": 552000001003002,
+      "value": "Used to <command_color=common_03>increase the rarity</color> of the weapon <command_color=common_03>Metal Knuckles</color>."
     },
     {
       "id": 552000001003005,

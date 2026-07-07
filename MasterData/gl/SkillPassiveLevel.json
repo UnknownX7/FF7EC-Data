@@ -1390,6 +1390,51 @@
     "PassivePoint": 20
   },
   {
+    "PassiveSkillId": 26201,
+    "Level": 1,
+    "PassivePoint": 1
+  },
+  {
+    "PassiveSkillId": 26201,
+    "Level": 2,
+    "PassivePoint": 10
+  },
+  {
+    "PassiveSkillId": 26201,
+    "Level": 3,
+    "PassivePoint": 20
+  },
+  {
+    "PassiveSkillId": 26502,
+    "Level": 1,
+    "PassivePoint": 1
+  },
+  {
+    "PassiveSkillId": 26502,
+    "Level": 2,
+    "PassivePoint": 10
+  },
+  {
+    "PassiveSkillId": 26502,
+    "Level": 3,
+    "PassivePoint": 20
+  },
+  {
+    "PassiveSkillId": 26701,
+    "Level": 1,
+    "PassivePoint": 1
+  },
+  {
+    "PassiveSkillId": 26701,
+    "Level": 2,
+    "PassivePoint": 10
+  },
+  {
+    "PassiveSkillId": 26701,
+    "Level": 3,
+    "PassivePoint": 20
+  },
+  {
     "PassiveSkillId": 30201,
     "Level": 1,
     "PassivePoint": 1
@@ -3440,6 +3485,16 @@
     "PassivePoint": 10
   },
   {
+    "PassiveSkillId": 65001,
+    "Level": 1,
+    "PassivePoint": 1
+  },
+  {
+    "PassiveSkillId": 65001,
+    "Level": 2,
+    "PassivePoint": 10
+  },
+  {
     "PassiveSkillId": 65301,
     "Level": 1,
     "PassivePoint": 1
@@ -3488,6 +3543,21 @@
     "PassiveSkillId": 65401,
     "Level": 4,
     "PassivePoint": 25
+  },
+  {
+    "PassiveSkillId": 65501,
+    "Level": 1,
+    "PassivePoint": 1
+  },
+  {
+    "PassiveSkillId": 65501,
+    "Level": 2,
+    "PassivePoint": 10
+  },
+  {
+    "PassiveSkillId": 65501,
+    "Level": 3,
+    "PassivePoint": 20
   },
   {
     "PassiveSkillId": 112101,
