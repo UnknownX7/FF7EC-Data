@@ -14,5 +14,13 @@
     "PointBoostRecoveryCount": 1,
     "PointBoostRecoveryResetId": 58000001,
     "EventDamageRankingBattleHighScoreRewardGroupId": 58000002
+  },
+  {
+    "EventCrisisBattleId": 15003,
+    "InitialCostLimit": 0,
+    "PointBoostMaxStockCount": 5,
+    "PointBoostRecoveryCount": 1,
+    "PointBoostRecoveryResetId": 58000001,
+    "EventDamageRankingBattleHighScoreRewardGroupId": 58000003
   }
 ]

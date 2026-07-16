@@ -1980,6 +1980,28 @@
     "IsDisplayBossChallenge": false
   },
   {
+    "Id": 1500311,
+    "EventSoloAreaGroupId": 1500301,
+    "OrderNo": 1,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 750001500321,
+    "NameLanguageId": 863000015001001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 1500312,
+    "EventSoloAreaGroupId": 1500301,
+    "OrderNo": 2,
+    "ResourceId": 0,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000015001002,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
     "Id": 3017011,
     "EventSoloAreaGroupId": 3017,
     "OrderNo": 1,

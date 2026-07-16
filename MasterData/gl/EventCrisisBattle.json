@@ -214,5 +214,17 @@
     "FixRankingDatetime": 1776391199000,
     "ExpiredSendGiftStartDatetime": 1776909599000,
     "ExpiredSendGiftEndDatetime": 1784771999000
+  },
+  {
+    "Id": 15003,
+    "EventBaseId": 15003,
+    "EventCrisisBattleRankingGroupId": 15003,
+    "EventCrisisBattleTotalPointRewardGroupId": 15003,
+    "EventCrisisBattleStageLevelRewardGroupId": 0,
+    "GroupCount": 12,
+    "FixScoreDatetime": 1784775599000,
+    "FixRankingDatetime": 1784858399000,
+    "ExpiredSendGiftStartDatetime": 1785376799000,
+    "ExpiredSendGiftEndDatetime": 1793325599000
   }
 ]
