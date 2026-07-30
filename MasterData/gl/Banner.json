@@ -1522,7 +1522,7 @@
   {
     "Id": 100000164,
     "TransitionType": 14,
-    "TransitionId": 26072031,
+    "TransitionId": 26073031,
     "DisplayConditionSetId": 270000500108,
     "ResourceId": 100000164,
     "Priority": 26073002,
@@ -1536,6 +1536,26 @@
     "DisplayConditionSetId": 671003000221,
     "ResourceId": 100000165,
     "Priority": 26072001,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000166,
+    "TransitionType": 14,
+    "TransitionId": 26081031,
+    "DisplayConditionSetId": 270000902801,
+    "ResourceId": 100000166,
+    "Priority": 26081004,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 100000167,
+    "TransitionType": 14,
+    "TransitionId": 26081032,
+    "DisplayConditionSetId": 170000010184,
+    "ResourceId": 100000167,
+    "Priority": 26081003,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },
@@ -3306,6 +3326,26 @@
     "DisplayConditionSetId": 170000010183,
     "ResourceId": 200010183,
     "Priority": 26074003,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010184,
+    "TransitionType": 12,
+    "TransitionId": 10184,
+    "DisplayConditionSetId": 170000010184,
+    "ResourceId": 200010184,
+    "Priority": 26081005,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 200010185,
+    "TransitionType": 12,
+    "TransitionId": 10185,
+    "DisplayConditionSetId": 170000010185,
+    "ResourceId": 200010185,
+    "Priority": 26081006,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },
@@ -5340,6 +5380,16 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 300003052,
+    "TransitionType": 2,
+    "TransitionId": 3052,
+    "DisplayConditionSetId": 613000003052,
+    "ResourceId": 300003052,
+    "Priority": 26081002,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
     "Id": 300007001,
     "TransitionType": 55,
     "TransitionId": 0,
@@ -6256,6 +6306,16 @@
     "DisplayConditionSetId": 671061401901,
     "ResourceId": 300014019,
     "Priority": 26071002,
+    "BannerLanguageId": 2,
+    "LockConditionSetId": 0
+  },
+  {
+    "Id": 300014020,
+    "TransitionType": 2,
+    "TransitionId": 14020,
+    "DisplayConditionSetId": 671061402001,
+    "ResourceId": 300014020,
+    "Priority": 26081001,
     "BannerLanguageId": 2,
     "LockConditionSetId": 0
   },
