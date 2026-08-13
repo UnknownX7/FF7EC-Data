@@ -1006,5 +1006,45 @@
     "DefaultStageLevel": 20,
     "AdditionalPoint": 0,
     "EventCrisisBattleModeType": 4
+  },
+  {
+    "EventSoloBattleId": 12017101,
+    "EventCrisisBattleBuffDebuffGroupId": 1201701,
+    "EventCrisisBattleFixedBuffDebuffGroupId": 12017101,
+    "DefaultStageLevel": 20,
+    "AdditionalPoint": 0,
+    "EventCrisisBattleModeType": 1
+  },
+  {
+    "EventSoloBattleId": 12017102,
+    "EventCrisisBattleBuffDebuffGroupId": 1201701,
+    "EventCrisisBattleFixedBuffDebuffGroupId": 12017102,
+    "DefaultStageLevel": 20,
+    "AdditionalPoint": 0,
+    "EventCrisisBattleModeType": 1
+  },
+  {
+    "EventSoloBattleId": 12017301,
+    "EventCrisisBattleBuffDebuffGroupId": 1201701,
+    "EventCrisisBattleFixedBuffDebuffGroupId": 0,
+    "DefaultStageLevel": 20,
+    "AdditionalPoint": 2000000,
+    "EventCrisisBattleModeType": 3
+  },
+  {
+    "EventSoloBattleId": 12017302,
+    "EventCrisisBattleBuffDebuffGroupId": 1201701,
+    "EventCrisisBattleFixedBuffDebuffGroupId": 0,
+    "DefaultStageLevel": 20,
+    "AdditionalPoint": 0,
+    "EventCrisisBattleModeType": 2
+  },
+  {
+    "EventSoloBattleId": 12017303,
+    "EventCrisisBattleBuffDebuffGroupId": 1201701,
+    "EventCrisisBattleFixedBuffDebuffGroupId": 0,
+    "DefaultStageLevel": 20,
+    "AdditionalPoint": 0,
+    "EventCrisisBattleModeType": 4
   }
 ]

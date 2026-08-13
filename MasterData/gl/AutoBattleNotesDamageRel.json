@@ -105,6 +105,26 @@
     "OrderNo": 3
   },
   {
+    "BattleId": 190010,
+    "SkillNotesId": 1101,
+    "OrderNo": 1
+  },
+  {
+    "BattleId": 190010,
+    "SkillNotesId": 3101,
+    "OrderNo": 2
+  },
+  {
+    "BattleId": 193010,
+    "SkillNotesId": 1101,
+    "OrderNo": 1
+  },
+  {
+    "BattleId": 193010,
+    "SkillNotesId": 3101,
+    "OrderNo": 2
+  },
+  {
     "BattleId": 279010,
     "SkillNotesId": 3101,
     "OrderNo": 1
@@ -1781,6 +1801,11 @@
   },
   {
     "BattleId": 62016001,
+    "SkillNotesId": 2101,
+    "OrderNo": 1
+  },
+  {
+    "BattleId": 62017001,
     "SkillNotesId": 2101,
     "OrderNo": 1
   },

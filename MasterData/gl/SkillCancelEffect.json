@@ -1645,6 +1645,20 @@
     "StatusChangeGroupId": 0
   },
   {
+    "Id": 3251230072,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 21100,
+    "StatusConditionGroupId": 0,
+    "StatusChangeGroupId": 0
+  },
+  {
+    "Id": 3251230083,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 100,
+    "StatusConditionGroupId": 0,
+    "StatusChangeGroupId": 0
+  },
+  {
     "Id": 3251231012,
     "SkillCancelType": 1,
     "BuffDebuffGroupId": 21100,
@@ -1940,6 +1954,20 @@
   },
   {
     "Id": 3251260421,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 20010,
+    "StatusConditionGroupId": 0,
+    "StatusChangeGroupId": 0
+  },
+  {
+    "Id": 3251260432,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 20010,
+    "StatusConditionGroupId": 0,
+    "StatusChangeGroupId": 0
+  },
+  {
+    "Id": 3251260441,
     "SkillCancelType": 1,
     "BuffDebuffGroupId": 20010,
     "StatusConditionGroupId": 0,
@@ -4890,6 +4918,20 @@
     "SkillCancelType": 1,
     "BuffDebuffGroupId": 0,
     "StatusConditionGroupId": 8,
+    "StatusChangeGroupId": 0
+  },
+  {
+    "Id": 3256930012,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 200,
+    "StatusConditionGroupId": 0,
+    "StatusChangeGroupId": 0
+  },
+  {
+    "Id": 3257010032,
+    "SkillCancelType": 1,
+    "BuffDebuffGroupId": 100,
+    "StatusConditionGroupId": 0,
     "StatusChangeGroupId": 0
   },
   {

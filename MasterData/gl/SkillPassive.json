@@ -469,11 +469,25 @@
     "NameLanguageId": 542000000026301
   },
   {
+    "Id": 26302,
+    "PassiveSkillEffectGroupId": 26302,
+    "ResourceId": 113,
+    "PassiveSkillCategoryType": 4,
+    "NameLanguageId": 542000000026302
+  },
+  {
     "Id": 26401,
     "PassiveSkillEffectGroupId": 26401,
     "ResourceId": 114,
     "PassiveSkillCategoryType": 4,
     "NameLanguageId": 542000000026401
+  },
+  {
+    "Id": 26402,
+    "PassiveSkillEffectGroupId": 26402,
+    "ResourceId": 114,
+    "PassiveSkillCategoryType": 4,
+    "NameLanguageId": 542000000026402
   },
   {
     "Id": 26502,
@@ -483,11 +497,32 @@
     "NameLanguageId": 542000000026502
   },
   {
+    "Id": 26601,
+    "PassiveSkillEffectGroupId": 26601,
+    "ResourceId": 116,
+    "PassiveSkillCategoryType": 4,
+    "NameLanguageId": 542000000026601
+  },
+  {
+    "Id": 26602,
+    "PassiveSkillEffectGroupId": 26602,
+    "ResourceId": 116,
+    "PassiveSkillCategoryType": 4,
+    "NameLanguageId": 542000000026602
+  },
+  {
     "Id": 26701,
     "PassiveSkillEffectGroupId": 26701,
     "ResourceId": 117,
     "PassiveSkillCategoryType": 4,
     "NameLanguageId": 542000000026701
+  },
+  {
+    "Id": 26702,
+    "PassiveSkillEffectGroupId": 26702,
+    "ResourceId": 117,
+    "PassiveSkillCategoryType": 4,
+    "NameLanguageId": 542000000026702
   },
   {
     "Id": 30201,
@@ -1559,6 +1594,20 @@
     "ResourceId": 112,
     "PassiveSkillCategoryType": 4,
     "NameLanguageId": 542000000065701
+  },
+  {
+    "Id": 65801,
+    "PassiveSkillEffectGroupId": 65801,
+    "ResourceId": 102,
+    "PassiveSkillCategoryType": 4,
+    "NameLanguageId": 542000000065801
+  },
+  {
+    "Id": 65901,
+    "PassiveSkillEffectGroupId": 65901,
+    "ResourceId": 301,
+    "PassiveSkillCategoryType": 4,
+    "NameLanguageId": 542000000065901
   },
   {
     "Id": 66001,

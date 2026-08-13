@@ -369,12 +369,28 @@
       "value": "All allies' Phys. Ability Dmg. +{1}%"
     },
     {
+      "id": 545000026302101,
+      "value": "All allies' Ice Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026302201,
+      "value": "All allies' Mag. Ability Dmg. +{1}%"
+    },
+    {
       "id": 545000026401101,
       "value": "All allies' Lightning Ability Dmg. +{1}%"
     },
     {
       "id": 545000026401201,
       "value": "All allies' Phys. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026402101,
+      "value": "All allies' Lightning Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026402201,
+      "value": "All allies' Mag. Ability Dmg. +{1}%"
     },
     {
       "id": 545000026502101,
@@ -385,12 +401,36 @@
       "value": "All allies' Mag. Ability Dmg. +{1}%"
     },
     {
+      "id": 545000026601101,
+      "value": "All allies' Water Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026601201,
+      "value": "All allies' Phys. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026602101,
+      "value": "All allies' Water Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026602201,
+      "value": "All allies' Mag. Ability Dmg. +{1}%"
+    },
+    {
       "id": 545000026701101,
       "value": "All allies' Wind Ability Dmg. +{1}%"
     },
     {
       "id": 545000026701201,
       "value": "All allies' Phys. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026702101,
+      "value": "All allies' Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000026702201,
+      "value": "All allies' Mag. Ability Dmg. +{1}%"
     },
     {
       "id": 545000030201101,
@@ -1731,6 +1771,22 @@
     {
       "id": 545000065701301,
       "value": "HP+{1}%"
+    },
+    {
+      "id": 545000065801101,
+      "value": "All allies' Mag. Attack +{1}%"
+    },
+    {
+      "id": 545000065801201,
+      "value": "Own HP+{1}%"
+    },
+    {
+      "id": 545000065901101,
+      "value": "Attack Stance Cmd. Gauge Max.: Mag. Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000065901201,
+      "value": "Buff/Debuff (Stats/Pot./Res.) Effect Duration +{1}%"
     },
     {
       "id": 545000066001101,

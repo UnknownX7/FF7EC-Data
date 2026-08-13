@@ -2240,6 +2240,20 @@
     "LockConditionSetId": 0
   },
   {
+    "Id": 30520103,
+    "EventBonusEffectCostumeGroupId": 305201,
+    "CostumeId": 4006,
+    "BonusCoefficientPermil": 200,
+    "LockConditionSetId": 782000305202
+  },
+  {
+    "Id": 30520104,
+    "EventBonusEffectCostumeGroupId": 305201,
+    "CostumeId": 7010,
+    "BonusCoefficientPermil": 200,
+    "LockConditionSetId": 782000305202
+  },
+  {
     "Id": 110010101,
     "EventBonusEffectCostumeGroupId": 1100101,
     "CostumeId": 3012,
