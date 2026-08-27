@@ -573588,6 +573588,15 @@
     "IsPickup": false
   },
   {
+    "Id": 16030200204201,
+    "RewardSetId": 160302002042,
+    "RewardId": 10020423,
+    "OrderNo": 1,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": false
+  },
+  {
     "Id": 16030200300101,
     "RewardSetId": 160302003001,
     "RewardId": 10030153,
@@ -573708,6 +573717,15 @@
     "Id": 16030200301401,
     "RewardSetId": 160302003014,
     "RewardId": 10030463,
+    "OrderNo": 1,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": false
+  },
+  {
+    "Id": 16030200301501,
+    "RewardSetId": 160302003015,
+    "RewardId": 10030023,
     "OrderNo": 1,
     "MinCount": 1,
     "MaxCount": 0,
@@ -573987,6 +574005,15 @@
     "Id": 16030200501501,
     "RewardSetId": 160302005015,
     "RewardId": 10050443,
+    "OrderNo": 1,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": false
+  },
+  {
+    "Id": 16030200504601,
+    "RewardSetId": 160302005046,
+    "RewardId": 10050463,
     "OrderNo": 1,
     "MinCount": 1,
     "MaxCount": 0,
@@ -764373,6 +764400,51 @@
     "Id": 40350006000101,
     "RewardSetId": 403500060001,
     "RewardId": 30350006,
+    "OrderNo": 0,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": true
+  },
+  {
+    "Id": 40350007000101,
+    "RewardSetId": 403500070001,
+    "RewardId": 30350007,
+    "OrderNo": 0,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": true
+  },
+  {
+    "Id": 40350008000101,
+    "RewardSetId": 403500080001,
+    "RewardId": 30350008,
+    "OrderNo": 0,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": true
+  },
+  {
+    "Id": 40350009000101,
+    "RewardSetId": 403500090001,
+    "RewardId": 30350009,
+    "OrderNo": 0,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": true
+  },
+  {
+    "Id": 40350010000101,
+    "RewardSetId": 403500100001,
+    "RewardId": 30350010,
+    "OrderNo": 0,
+    "MinCount": 1,
+    "MaxCount": 0,
+    "IsPickup": true
+  },
+  {
+    "Id": 40350011000101,
+    "RewardSetId": 403500110001,
+    "RewardId": 30350011,
     "OrderNo": 0,
     "MinCount": 1,
     "MaxCount": 0,

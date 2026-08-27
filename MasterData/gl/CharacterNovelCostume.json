@@ -693,6 +693,20 @@
     "BustUpResourceId": 1
   },
   {
+    "Id": 5901,
+    "CharacterNovelId": 5,
+    "ResourceId": 901,
+    "CostumeId": 901,
+    "BustUpResourceId": 1
+  },
+  {
+    "Id": 5902,
+    "CharacterNovelId": 5,
+    "ResourceId": 902,
+    "CostumeId": 902,
+    "BustUpResourceId": 1
+  },
+  {
     "Id": 6001,
     "CharacterNovelId": 6,
     "ResourceId": 1,
@@ -2697,6 +2711,13 @@
   {
     "Id": 273001,
     "CharacterNovelId": 273,
+    "ResourceId": 1,
+    "CostumeId": 1,
+    "BustUpResourceId": 1
+  },
+  {
+    "Id": 274001,
+    "CharacterNovelId": 274,
     "ResourceId": 1,
     "CostumeId": 1,
     "BustUpResourceId": 1
