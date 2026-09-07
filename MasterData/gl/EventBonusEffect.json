@@ -1040,6 +1040,36 @@
     "Priority": 97
   },
   {
+    "Id": 305301,
+    "EventBonusEffectGroupId": 3053,
+    "ItemId": 2030531,
+    "MaxEventBonusEffectCoefficientPermil": 3000,
+    "EventBonusEffectWeaponGroupId": 305301,
+    "EventBonusEffectCostumeGroupId": 305301,
+    "LockConditionSetId": 0,
+    "Priority": 99
+  },
+  {
+    "Id": 305302,
+    "EventBonusEffectGroupId": 3053,
+    "ItemId": 2030532,
+    "MaxEventBonusEffectCoefficientPermil": 3000,
+    "EventBonusEffectWeaponGroupId": 305301,
+    "EventBonusEffectCostumeGroupId": 305301,
+    "LockConditionSetId": 0,
+    "Priority": 98
+  },
+  {
+    "Id": 305303,
+    "EventBonusEffectGroupId": 3053,
+    "ItemId": 2030533,
+    "MaxEventBonusEffectCoefficientPermil": 3000,
+    "EventBonusEffectWeaponGroupId": 305301,
+    "EventBonusEffectCostumeGroupId": 305301,
+    "LockConditionSetId": 781000305302,
+    "Priority": 97
+  },
+  {
     "Id": 1100101,
     "EventBonusEffectGroupId": 11001,
     "ItemId": 2110011,

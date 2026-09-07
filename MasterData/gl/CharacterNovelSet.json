@@ -168,6 +168,14 @@
     "RegisterId": 1
   },
   {
+    "Id": 10230101,
+    "NameLanguageId": 100000000000101,
+    "CharacterNovelId": 1,
+    "CharacterNovelCostumeId": 1023,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
     "Id": 10240101,
     "NameLanguageId": 100000000000101,
     "CharacterNovelId": 1,
@@ -504,6 +512,14 @@
     "RegisterId": 1
   },
   {
+    "Id": 30270101,
+    "NameLanguageId": 100000000000301,
+    "CharacterNovelId": 3,
+    "CharacterNovelCostumeId": 3027,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
     "Id": 39010101,
     "NameLanguageId": 100000000000301,
     "CharacterNovelId": 3,
@@ -700,6 +716,14 @@
     "NameLanguageId": 100000000000401,
     "CharacterNovelId": 4,
     "CharacterNovelCostumeId": 4023,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 40250101,
+    "NameLanguageId": 100000000000401,
+    "CharacterNovelId": 4,
+    "CharacterNovelCostumeId": 4025,
     "VariationType": "default",
     "RegisterId": 1
   },
@@ -2496,10 +2520,26 @@
     "RegisterId": 1
   },
   {
+    "Id": 600070101,
+    "NameLanguageId": 100000000006001,
+    "CharacterNovelId": 60,
+    "CharacterNovelCostumeId": 60007,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
     "Id": 600080101,
     "NameLanguageId": 100000000006001,
     "CharacterNovelId": 60,
     "CharacterNovelCostumeId": 60008,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 600090101,
+    "NameLanguageId": 100000000006001,
+    "CharacterNovelId": 60,
+    "CharacterNovelCostumeId": 60009,
     "VariationType": "default",
     "RegisterId": 1
   },
@@ -3412,6 +3452,14 @@
     "NameLanguageId": 100000000023901,
     "CharacterNovelId": 239,
     "CharacterNovelCostumeId": 239001,
+    "VariationType": "default",
+    "RegisterId": 1
+  },
+  {
+    "Id": 2400010101,
+    "NameLanguageId": 100000000024001,
+    "CharacterNovelId": 240,
+    "CharacterNovelCostumeId": 240001,
     "VariationType": "default",
     "RegisterId": 1
   },

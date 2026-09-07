@@ -1793,6 +1793,82 @@
       "value": "All Allies' Summon Ability Dmg. +{1}%"
     },
     {
+      "id": 545000066101101,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000066101201,
+      "value": "HP+{1}%"
+    },
+    {
+      "id": 545000066201101,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000066201201,
+      "value": "HP+{1}%"
+    },
+    {
+      "id": 545000066301101,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000066301201,
+      "value": "HP+{1}%"
+    },
+    {
+      "id": 545000066401101,
+      "value": "Own Healing Pot. +{1}%"
+    },
+    {
+      "id": 545000066401201,
+      "value": "All allies' HP+{1}%"
+    },
+    {
+      "id": 545000066501101,
+      "value": "Applies Reprieve to all allies when interrupting enemies\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 25% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 1s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000066501102,
+      "value": "Applies Reprieve to all allies when interrupting enemies\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 50% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 3s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000066501103,
+      "value": "Applies Reprieve to all allies when interrupting enemies\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 75% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 5s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000066501104,
+      "value": "Applies Reprieve to all allies when interrupting enemies\n(Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 100% of target's max HP)\nWhen triggered: grants Invincible\n(Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000066601101,
+      "value": "Applies Reprieve to self when battle begins (Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 30% of target's max HP)\nWhen triggered: grants Invincible (Effect Dur.: 1s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000066601102,
+      "value": "Applies Reprieve to self when battle begins (Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 60% of target's max HP)\nWhen triggered: grants Invincible (Effect Dur.: 5s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000066601103,
+      "value": "Applies Reprieve to self when battle begins (Effect Dur.: 999s / Effect Dur. Ext.: +0s / When triggered: restores 100% of target's max HP)\nWhen triggered: grants Invincible (Effect Dur.: 10s / Effect Dur. Ext.: +0s)"
+    },
+    {
+      "id": 545000066601201,
+      "value": "All allies' Phys. & Mag. Attack +{1}%"
+    },
+    {
+      "id": 545000066701101,
+      "value": "Phys. & Mag. Attack Down Resist. +{0}%"
+    },
+    {
+      "id": 545000066701201,
+      "value": "Limit Break Damage +{1}%"
+    },
+    {
+      "id": 545000066701301,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
+    },
+    {
       "id": 545000112101101,
       "value": "Max. ATB +{0}"
     },
@@ -1819,6 +1895,10 @@
     {
       "id": 545000120701101,
       "value": "Wind Ability Dmg. +{1}%"
+    },
+    {
+      "id": 545000120801101,
+      "value": "Fire/Ice/Lightning/Earth/Water/Wind Ability Dmg. +{1}%"
     },
     {
       "id": 545000151101101,
@@ -1895,6 +1975,10 @@
     {
       "id": 545000162001201,
       "value": "Mag. Ability Dmg. to Weapons (Great Hunt) +{1}%"
+    },
+    {
+      "id": 545000170101101,
+      "value": "Limit Break Dmg. +{1}%"
     }
   ]
 }

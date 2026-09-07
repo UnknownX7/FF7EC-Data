@@ -396,6 +396,14 @@
     "PassiveSkillId": 66001
   },
   {
+    "PassiveSkillUsedType": 1,
+    "PassiveSkillId": 66501
+  },
+  {
+    "PassiveSkillUsedType": 1,
+    "PassiveSkillId": 66601
+  },
+  {
     "PassiveSkillUsedType": 2,
     "PassiveSkillId": 10101
   },
@@ -996,6 +1004,26 @@
     "PassiveSkillId": 65901
   },
   {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 66101
+  },
+  {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 66201
+  },
+  {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 66301
+  },
+  {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 66401
+  },
+  {
+    "PassiveSkillUsedType": 2,
+    "PassiveSkillId": 66701
+  },
+  {
     "PassiveSkillUsedType": 3,
     "PassiveSkillId": 112101
   },
@@ -1022,6 +1050,10 @@
   {
     "PassiveSkillUsedType": 3,
     "PassiveSkillId": 120701
+  },
+  {
+    "PassiveSkillUsedType": 3,
+    "PassiveSkillId": 120801
   },
   {
     "PassiveSkillUsedType": 3,
@@ -1062,5 +1094,9 @@
   {
     "PassiveSkillUsedType": 3,
     "PassiveSkillId": 162001
+  },
+  {
+    "PassiveSkillUsedType": 3,
+    "PassiveSkillId": 170101
   }
 ]

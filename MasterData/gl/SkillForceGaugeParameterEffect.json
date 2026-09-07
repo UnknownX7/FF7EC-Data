@@ -294,6 +294,20 @@
     "MaxValuePermil": 1500
   },
   {
+    "Id": 3256931011,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 2,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 1500
+  },
+  {
+    "Id": 3256931031,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 2,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 10000
+  },
+  {
     "Id": 31010606621,
     "SkillForceGaugeParameterEffectType": 1,
     "ParameterDetailType": 2,
@@ -348,6 +362,27 @@
     "ParameterDetailType": 2,
     "MinValuePermil": 1000,
     "MaxValuePermil": 3000
+  },
+  {
+    "Id": 31010663431,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 2,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 5000
+  },
+  {
+    "Id": 31010666121,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 3,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 10000
+  },
+  {
+    "Id": 31010666221,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 3,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 10000
   },
   {
     "Id": 31956300211,
@@ -1099,6 +1134,27 @@
     "MaxValuePermil": 50000
   },
   {
+    "Id": 32552630121,
+    "SkillForceGaugeParameterEffectType": 2,
+    "ParameterDetailType": 5,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 50000
+  },
+  {
+    "Id": 32552630221,
+    "SkillForceGaugeParameterEffectType": 2,
+    "ParameterDetailType": 5,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 50000
+  },
+  {
+    "Id": 32552630411,
+    "SkillForceGaugeParameterEffectType": 2,
+    "ParameterDetailType": 5,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 50000
+  },
+  {
     "Id": 32554600111,
     "SkillForceGaugeParameterEffectType": 1,
     "ParameterDetailType": 3,
@@ -1279,5 +1335,47 @@
     "ParameterDetailType": 5,
     "MinValuePermil": 1000,
     "MaxValuePermil": 3000
+  },
+  {
+    "Id": 32572301311,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 2,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 1500
+  },
+  {
+    "Id": 32572301312,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 3,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 1500
+  },
+  {
+    "Id": 32572301411,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 2,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 1750
+  },
+  {
+    "Id": 32572301412,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 3,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 1750
+  },
+  {
+    "Id": 32572301511,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 2,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 2000
+  },
+  {
+    "Id": 32572301512,
+    "SkillForceGaugeParameterEffectType": 1,
+    "ParameterDetailType": 3,
+    "MinValuePermil": 1000,
+    "MaxValuePermil": 2000
   }
 ]

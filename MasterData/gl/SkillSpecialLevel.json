@@ -84,8 +84,8 @@
     "SkillSpecialId": 100101,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210010101,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210010102,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -174,8 +174,8 @@
     "SkillSpecialId": 100102,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210010201,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210010202,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -264,8 +264,26 @@
     "SkillSpecialId": 100103,
     "Level": 10,
     "Cost": 900,
-    "DamageCoefficient": 1500,
+    "DamageCoefficient": 1000,
     "SkillEffectGroupId": 210010302,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
+    "SkillSpecialId": 100104,
+    "Level": 1,
+    "Cost": 7000,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210010401,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
+    "SkillSpecialId": 100105,
+    "Level": 1,
+    "Cost": 0,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210010501,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -714,8 +732,8 @@
     "SkillSpecialId": 100302,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210030201,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210030202,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -804,7 +822,7 @@
     "SkillSpecialId": 100303,
     "Level": 10,
     "Cost": 900,
-    "DamageCoefficient": 1500,
+    "DamageCoefficient": 1000,
     "SkillEffectGroupId": 210030302,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
@@ -984,8 +1002,8 @@
     "SkillSpecialId": 100402,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210040201,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210040202,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -1434,8 +1452,8 @@
     "SkillSpecialId": 100601,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210060101,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210060102,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -1796,8 +1814,8 @@
     "Cost": 800,
     "DamageCoefficient": 1000,
     "SkillEffectGroupId": 210070210,
-    "DescriptionLanguageId": 0,
-    "LevelUpDescriptionLanguageId": 0
+    "DescriptionLanguageId": 5662100702101,
+    "LevelUpDescriptionLanguageId": 5662100702102
   },
   {
     "SkillSpecialId": 100703,
@@ -2514,8 +2532,8 @@
     "SkillSpecialId": 102001,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210200101,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210200102,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -2604,8 +2622,8 @@
     "SkillSpecialId": 102002,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210200201,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210200202,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -3054,10 +3072,10 @@
     "SkillSpecialId": 105001,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210500101,
-    "DescriptionLanguageId": 0,
-    "LevelUpDescriptionLanguageId": 0
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210500102,
+    "DescriptionLanguageId": 5662105001101,
+    "LevelUpDescriptionLanguageId": 5662105001102
   },
   {
     "SkillSpecialId": 105002,
@@ -3144,8 +3162,8 @@
     "SkillSpecialId": 105002,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210500201,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210500202,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -3324,8 +3342,8 @@
     "SkillSpecialId": 105101,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210510101,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210510102,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -3504,7 +3522,7 @@
     "SkillSpecialId": 105103,
     "Level": 10,
     "Cost": 1200,
-    "DamageCoefficient": 1500,
+    "DamageCoefficient": 1000,
     "SkillEffectGroupId": 210510302,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
@@ -3594,8 +3612,8 @@
     "SkillSpecialId": 105201,
     "Level": 10,
     "Cost": 1800,
-    "DamageCoefficient": 3000,
-    "SkillEffectGroupId": 210520101,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 210520102,
     "DescriptionLanguageId": 0,
     "LevelUpDescriptionLanguageId": 0
   },
@@ -5497,6 +5515,51 @@
     "SkillEffectGroupId": 240030105,
     "DescriptionLanguageId": 5662400301051,
     "LevelUpDescriptionLanguageId": 5662400301052
+  },
+  {
+    "SkillSpecialId": 400401,
+    "Level": 1,
+    "Cost": 7000,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 240040101,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
+    "SkillSpecialId": 400401,
+    "Level": 2,
+    "Cost": 7000,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 240040102,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
+    "SkillSpecialId": 400401,
+    "Level": 3,
+    "Cost": 7000,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 240040103,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
+    "SkillSpecialId": 400401,
+    "Level": 4,
+    "Cost": 7000,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 240040104,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
+  },
+  {
+    "SkillSpecialId": 400401,
+    "Level": 5,
+    "Cost": 7000,
+    "DamageCoefficient": 1000,
+    "SkillEffectGroupId": 240040105,
+    "DescriptionLanguageId": 0,
+    "LevelUpDescriptionLanguageId": 0
   },
   {
     "SkillSpecialId": 921001,

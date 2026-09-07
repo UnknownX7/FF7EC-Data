@@ -89,6 +89,10 @@
       "value": "The Sable"
     },
     {
+      "id": 102000000001023,
+      "value": "Planet's Keeper"
+    },
+    {
       "id": 102000000001024,
       "value": "Polygon Cloud"
     },
@@ -213,6 +217,10 @@
       "value": "Golden Flower Kimono"
     },
     {
+      "id": 102000000003027,
+      "value": "Zangan's Initiate"
+    },
+    {
       "id": 102000000004002,
       "value": "Prism Dress"
     },
@@ -299,6 +307,10 @@
     {
       "id": 102000000004023,
       "value": "Festive Dress"
+    },
+    {
+      "id": 102000000004025,
+      "value": "Ancient Festival Garb"
     },
     {
       "id": 102000000005002,
@@ -793,8 +805,16 @@
       "value": "Omega Style"
     },
     {
+      "id": 102000000060007,
+      "value": "Planet's Chosen"
+    },
+    {
       "id": 102000000060008,
       "value": "Polygon Sephiroth"
+    },
+    {
+      "id": 102000000060009,
+      "value": "Executioner"
     },
     {
       "id": 104000000000060,
@@ -975,6 +995,14 @@
     {
       "id": 510000000001053,
       "value": "Neo Bahamut Greatsword"
+    },
+    {
+      "id": 510000000001054,
+      "value": "Blue Glitter"
+    },
+    {
+      "id": 510000000001055,
+      "value": "Salvation Sword"
     },
     {
       "id": 510000000002001,
@@ -1261,6 +1289,10 @@
       "value": "Festive Gloves"
     },
     {
+      "id": 510000000003055,
+      "value": "Master's Knuckles"
+    },
+    {
       "id": 510000000004001,
       "value": "Guard Stick"
     },
@@ -1427,6 +1459,10 @@
     {
       "id": 510000000004046,
       "value": "Festive Rod"
+    },
+    {
+      "id": 510000000004048,
+      "value": "Cetra Relic"
     },
     {
       "id": 510000000005001,
@@ -1999,6 +2035,10 @@
     {
       "id": 510000000009030,
       "value": "Grinding Gear"
+    },
+    {
+      "id": 510000000009031,
+      "value": "Mythic Skipper"
     },
     {
       "id": 510000000020001,
@@ -2807,6 +2847,10 @@
     {
       "id": 510000000060012,
       "value": "Omega Wing"
+    },
+    {
+      "id": 510000000060014,
+      "value": "Kusanagi"
     },
     {
       "id": 530000002101001,
@@ -5617,6 +5661,10 @@
       "value": "Reawakened FFVII EC Summer Gear Voucher"
     },
     {
+      "id": 551000000300101,
+      "value": "3rd Anniv. Gear Voucher"
+    },
+    {
       "id": 551000000300102,
       "value": "Festival of Gratitude Crossover Gear Voucher"
     },
@@ -5675,6 +5723,10 @@
     {
       "id": 551000001001047,
       "value": "Mako Gem (Ragnarok)"
+    },
+    {
+      "id": 551000001001054,
+      "value": "Mako Gem (Blue Glitter)"
     },
     {
       "id": 551000001002036,
@@ -6114,6 +6166,18 @@
     },
     {
       "id": 551000002020353,
+      "value": "Gold Victory Draw Ticket"
+    },
+    {
+      "id": 551000002020361,
+      "value": "Victory Draw Ticket"
+    },
+    {
+      "id": 551000002020362,
+      "value": "Silver Victory Draw Ticket"
+    },
+    {
+      "id": 551000002020363,
       "value": "Gold Victory Draw Ticket"
     },
     {
@@ -6585,6 +6649,22 @@
       "value": "Blastuar Certificate β"
     },
     {
+      "id": 551000002030531,
+      "value": "Sephiroth Certificate"
+    },
+    {
+      "id": 551000002030532,
+      "value": "Sephiroth Certificate α"
+    },
+    {
+      "id": 551000002030533,
+      "value": "Sephiroth Certificate β"
+    },
+    {
+      "id": 551000002030534,
+      "value": "Event 5<sprite=\"tmp_icon\" index=196> Materia Voucher"
+    },
+    {
       "id": 551000002080021,
       "value": "Heart Cookies"
     },
@@ -6773,6 +6853,10 @@
       "value": "The Sixth Clash Wpn. Voucher"
     },
     {
+      "id": 551000002130141,
+      "value": "Boss Rush Medal"
+    },
+    {
       "id": 551000004001011,
       "value": "Army of One's Memory"
     },
@@ -6783,6 +6867,10 @@
     {
       "id": 551000004003011,
       "value": "Shadow Flare's Memory"
+    },
+    {
+      "id": 551000004004011,
+      "value": "Super Nova's Memory"
     },
     {
       "id": 556000001510001,
@@ -6863,6 +6951,14 @@
     {
       "id": 556000001510022,
       "value": "Memoria of Neo Bahamut"
+    },
+    {
+      "id": 556000001510026,
+      "value": "Memoria of Final Conflict"
+    },
+    {
+      "id": 556000001510027,
+      "value": "Memoria of 3rd Anniv."
     },
     {
       "id": 560000000100002,
@@ -8053,6 +8149,14 @@
       "value": "Sister Ray"
     },
     {
+      "id": 560000000310025,
+      "value": "Holy"
+    },
+    {
+      "id": 560000000310026,
+      "value": "The Answer"
+    },
+    {
       "id": 560000000320000,
       "value": "Key to Victory"
     },
@@ -8289,6 +8393,10 @@
       "value": "Tseng"
     },
     {
+      "id": 560000000350027,
+      "value": "FFVII"
+    },
+    {
       "id": 560000000410011,
       "value": "Scorpion Sentinel"
     },
@@ -8379,6 +8487,14 @@
     {
       "id": 560000000410124,
       "value": "Heretic Hojo"
+    },
+    {
+      "id": 560000000410132,
+      "value": "Sephiroth Reborn"
+    },
+    {
+      "id": 560000000410133,
+      "value": "Safer Sephiroth"
     },
     {
       "id": 560000000420011,
@@ -8819,6 +8935,10 @@
     {
       "id": 560000000700102,
       "value": "Clim"
+    },
+    {
+      "id": 560000000700105,
+      "value": "Omnislash"
     },
     {
       "id": 560000000700201,
@@ -10033,6 +10153,22 @@
       "value": "Beach Festival"
     },
     {
+      "id": 560000001100330,
+      "value": "Mythic"
+    },
+    {
+      "id": 560000001100331,
+      "value": "Skipper"
+    },
+    {
+      "id": 560000001100332,
+      "value": "Final Conflict"
+    },
+    {
+      "id": 560000001100333,
+      "value": "One-Winged Angel"
+    },
+    {
       "id": 560000001200001,
       "value": "Mako Reactor 1: Full Clear"
     },
@@ -10817,6 +10953,38 @@
       "value": "Heartless Angel"
     },
     {
+      "id": 560000001300120,
+      "value": "Majeure"
+    },
+    {
+      "id": 560000001300121,
+      "value": "For the Planet"
+    },
+    {
+      "id": 560000001300122,
+      "value": "Weapon Majeure Crash Type-0 Fire"
+    },
+    {
+      "id": 560000001300123,
+      "value": "Weapon Majeure Crash Type-0 Ice"
+    },
+    {
+      "id": 560000001300124,
+      "value": "Weapon Majeure Crash Type-0 Lightning"
+    },
+    {
+      "id": 560000001300125,
+      "value": "Weapon Majeure Crash Type-0 Earth"
+    },
+    {
+      "id": 560000001300126,
+      "value": "Weapon Majeure Crash Type-0 Water"
+    },
+    {
+      "id": 560000001300127,
+      "value": "Weapon Majeure Crash Type-0 Wind"
+    },
+    {
       "id": 560000001400101,
       "value": "Guild Battle #1: Highest Rank"
     },
@@ -11025,6 +11193,14 @@
       "value": "Guild Battle #26: High Rank"
     },
     {
+      "id": 560000001400161,
+      "value": "Guild Battle #27: Highest Rank"
+    },
+    {
+      "id": 560000001400162,
+      "value": "Guild Battle #27: High Rank"
+    },
+    {
       "id": 560000001500101,
       "value": "Chaos of the Corrupted: Bottom Level Crusher"
     },
@@ -11067,6 +11243,10 @@
     {
       "id": 560000001500111,
       "value": "The Sixth Clash: Bottom Level Crusher"
+    },
+    {
+      "id": 560000001500112,
+      "value": "Rancorous Assault: Depths Crusher"
     },
     {
       "id": 560000001510001,
@@ -11215,6 +11395,10 @@
     {
       "id": 560000001600134,
       "value": "Blasting"
+    },
+    {
+      "id": 560000001600135,
+      "value": "Safer"
     },
     {
       "id": 560000001700101,
@@ -11897,6 +12081,10 @@
       "value": "Dreams of Space"
     },
     {
+      "id": 570000000010038,
+      "value": "SOLDIERs Assemble"
+    },
+    {
       "id": 570000000020001,
       "value": "Murasame Battle Garb"
     },
@@ -12419,6 +12607,14 @@
     {
       "id": 570000000030058,
       "value": "Fireworks at the Beach"
+    },
+    {
+      "id": 570000000030059,
+      "value": "Safer Sephiroth"
+    },
+    {
+      "id": 570000000030060,
+      "value": "Battle to Save the Planet"
     },
     {
       "id": 872000000100101,

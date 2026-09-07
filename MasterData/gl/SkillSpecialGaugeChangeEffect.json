@@ -1,5 +1,12 @@
 [
   {
+    "Id": 10402512,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 500,
+    "FixedValue": 0
+  },
+  {
     "Id": 10701012,
     "SkillSpecialGaugeChangeType": 1,
     "TargetSkillSpecialType": 2,
@@ -18,6 +25,34 @@
     "SkillSpecialGaugeChangeType": 1,
     "TargetSkillSpecialType": 0,
     "PermilValue": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 101055015,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 101055025,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 101055035,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 101055045,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 1000,
     "FixedValue": 0
   },
   {
@@ -675,6 +710,90 @@
     "Id": 3254111062,
     "SkillSpecialGaugeChangeType": 1,
     "TargetSkillSpecialType": 0,
+    "PermilValue": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257210014,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257210024,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257210034,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257211014,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 200,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257211024,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257211034,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 500,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257212112,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 0,
+    "PermilValue": 300,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257212122,
+    "SkillSpecialGaugeChangeType": 2,
+    "TargetSkillSpecialType": 0,
+    "PermilValue": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257230192,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257230202,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257230212,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
+    "PermilValue": 1000,
+    "FixedValue": 0
+  },
+  {
+    "Id": 3257262011,
+    "SkillSpecialGaugeChangeType": 1,
+    "TargetSkillSpecialType": 1,
     "PermilValue": 1000,
     "FixedValue": 0
   },

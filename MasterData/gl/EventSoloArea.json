@@ -352,6 +352,28 @@
     "IsDisplayBossChallenge": false
   },
   {
+    "Id": 2036,
+    "EventSoloAreaGroupId": 2036,
+    "OrderNo": 1,
+    "ResourceId": 2036,
+    "DisplayConditionSetId": 611000002036,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000002036001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 2037,
+    "EventSoloAreaGroupId": 2037,
+    "OrderNo": 1,
+    "ResourceId": 2037,
+    "DisplayConditionSetId": 611000002037,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000002037001,
+    "EventAreaCategoryId": 0,
+    "IsDisplayBossChallenge": false
+  },
+  {
     "Id": 3001,
     "EventSoloAreaGroupId": 3001,
     "OrderNo": 1,
@@ -1045,6 +1067,17 @@
     "IsDisplayBossChallenge": true
   },
   {
+    "Id": 14021,
+    "EventSoloAreaGroupId": 14021,
+    "OrderNo": 1,
+    "ResourceId": 14021,
+    "DisplayConditionSetId": 613000014021,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017002,
+    "EventAreaCategoryId": 14021,
+    "IsDisplayBossChallenge": true
+  },
+  {
     "Id": 130071,
     "EventSoloAreaGroupId": 13007,
     "OrderNo": 1,
@@ -1174,6 +1207,17 @@
     "LockConditionSetId": 750000130132,
     "NameLanguageId": 863000000130132,
     "EventAreaCategoryId": 1301301,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 130141,
+    "EventSoloAreaGroupId": 13014,
+    "OrderNo": 1,
+    "ResourceId": 13014,
+    "DisplayConditionSetId": 0,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000000130141,
+    "EventAreaCategoryId": 1301401,
     "IsDisplayBossChallenge": false
   },
   {
@@ -2813,6 +2857,17 @@
     "LockConditionSetId": 0,
     "NameLanguageId": 863000003017002,
     "EventAreaCategoryId": 305201,
+    "IsDisplayBossChallenge": false
+  },
+  {
+    "Id": 3053011,
+    "EventSoloAreaGroupId": 3053,
+    "OrderNo": 1,
+    "ResourceId": 3053,
+    "DisplayConditionSetId": 611000003053,
+    "LockConditionSetId": 0,
+    "NameLanguageId": 863000003017002,
+    "EventAreaCategoryId": 305301,
     "IsDisplayBossChallenge": false
   },
   {

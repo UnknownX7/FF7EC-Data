@@ -1,5 +1,10 @@
 [
   {
+    "BattleFieldEffectGroupId": 1000,
+    "BattleFieldEffectId": 1001,
+    "OrderNo": 0
+  },
+  {
     "BattleFieldEffectGroupId": 8002001,
     "BattleFieldEffectId": 8002001001,
     "OrderNo": 0
@@ -1980,6 +1985,26 @@
     "OrderNo": 3
   },
   {
+    "BattleFieldEffectGroupId": 14021101,
+    "BattleFieldEffectId": 1402110101,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 14021101,
+    "BattleFieldEffectId": 1402110102,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 14021101,
+    "BattleFieldEffectId": 1402110103,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 14021101,
+    "BattleFieldEffectId": 1402110104,
+    "OrderNo": 3
+  },
+  {
     "BattleFieldEffectGroupId": 30101001,
     "BattleFieldEffectId": 3010100101,
     "OrderNo": 0
@@ -3545,6 +3570,156 @@
     "OrderNo": 2
   },
   {
+    "BattleFieldEffectGroupId": 52037101,
+    "BattleFieldEffectId": 5203710101,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037101,
+    "BattleFieldEffectId": 5203710102,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037102,
+    "BattleFieldEffectId": 5203710201,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037102,
+    "BattleFieldEffectId": 5203710202,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037103,
+    "BattleFieldEffectId": 5203710301,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037103,
+    "BattleFieldEffectId": 5203710302,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037104,
+    "BattleFieldEffectId": 5203710401,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037104,
+    "BattleFieldEffectId": 5203710402,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037105,
+    "BattleFieldEffectId": 5203710501,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037105,
+    "BattleFieldEffectId": 5203710502,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037106,
+    "BattleFieldEffectId": 5203710601,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037106,
+    "BattleFieldEffectId": 5203710602,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037107,
+    "BattleFieldEffectId": 5203710701,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037107,
+    "BattleFieldEffectId": 5203710702,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037107,
+    "BattleFieldEffectId": 5203710703,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 52037108,
+    "BattleFieldEffectId": 5203710801,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037108,
+    "BattleFieldEffectId": 5203710802,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037108,
+    "BattleFieldEffectId": 5203710803,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 52037109,
+    "BattleFieldEffectId": 5203710901,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037109,
+    "BattleFieldEffectId": 5203710902,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037109,
+    "BattleFieldEffectId": 5203710903,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 52037110,
+    "BattleFieldEffectId": 5203711001,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037110,
+    "BattleFieldEffectId": 5203711002,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037110,
+    "BattleFieldEffectId": 5203711003,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 52037111,
+    "BattleFieldEffectId": 5203711101,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037111,
+    "BattleFieldEffectId": 5203711102,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037111,
+    "BattleFieldEffectId": 5203711103,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 52037112,
+    "BattleFieldEffectId": 5203711201,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 52037112,
+    "BattleFieldEffectId": 5203711202,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 52037112,
+    "BattleFieldEffectId": 5203711203,
+    "OrderNo": 2
+  },
+  {
     "BattleFieldEffectGroupId": 53029101,
     "BattleFieldEffectId": 5302910101,
     "OrderNo": 0
@@ -3998,6 +4173,16 @@
     "BattleFieldEffectGroupId": 53050101,
     "BattleFieldEffectId": 5305010104,
     "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 53053101,
+    "BattleFieldEffectId": 5305310101,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 53053101,
+    "BattleFieldEffectId": 5305310102,
+    "OrderNo": 1
   },
   {
     "BattleFieldEffectGroupId": 58001001,
@@ -4873,5 +5058,195 @@
     "BattleFieldEffectGroupId": 63013030,
     "BattleFieldEffectId": 6301303003,
     "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014001,
+    "BattleFieldEffectId": 6301400101,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014001,
+    "BattleFieldEffectId": 6301400102,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014001,
+    "BattleFieldEffectId": 6301400103,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014001,
+    "BattleFieldEffectId": 6301400104,
+    "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 63014002,
+    "BattleFieldEffectId": 6301400201,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014002,
+    "BattleFieldEffectId": 6301400202,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014002,
+    "BattleFieldEffectId": 6301400203,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014002,
+    "BattleFieldEffectId": 6301400204,
+    "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 63014003,
+    "BattleFieldEffectId": 6301400301,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014003,
+    "BattleFieldEffectId": 6301400302,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014003,
+    "BattleFieldEffectId": 6301400303,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014003,
+    "BattleFieldEffectId": 6301400304,
+    "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 63014004,
+    "BattleFieldEffectId": 6301400401,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014004,
+    "BattleFieldEffectId": 6301400402,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014004,
+    "BattleFieldEffectId": 6301400403,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014004,
+    "BattleFieldEffectId": 6301400404,
+    "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 63014005,
+    "BattleFieldEffectId": 6301400501,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014005,
+    "BattleFieldEffectId": 6301400502,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014005,
+    "BattleFieldEffectId": 6301400503,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014005,
+    "BattleFieldEffectId": 6301400504,
+    "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 63014006,
+    "BattleFieldEffectId": 6301400601,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014006,
+    "BattleFieldEffectId": 6301400602,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014006,
+    "BattleFieldEffectId": 6301400603,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014006,
+    "BattleFieldEffectId": 6301400604,
+    "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 63014007,
+    "BattleFieldEffectId": 6301400701,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014007,
+    "BattleFieldEffectId": 6301400702,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014007,
+    "BattleFieldEffectId": 6301400703,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014007,
+    "BattleFieldEffectId": 6301400704,
+    "OrderNo": 3
+  },
+  {
+    "BattleFieldEffectGroupId": 63014008,
+    "BattleFieldEffectId": 6301400801,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014008,
+    "BattleFieldEffectId": 6301400802,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014008,
+    "BattleFieldEffectId": 6301400803,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014009,
+    "BattleFieldEffectId": 6301400901,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014009,
+    "BattleFieldEffectId": 6301400902,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014009,
+    "BattleFieldEffectId": 6301400903,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014010,
+    "BattleFieldEffectId": 6301401001,
+    "OrderNo": 0
+  },
+  {
+    "BattleFieldEffectGroupId": 63014010,
+    "BattleFieldEffectId": 6301401002,
+    "OrderNo": 1
+  },
+  {
+    "BattleFieldEffectGroupId": 63014010,
+    "BattleFieldEffectId": 6301401003,
+    "OrderNo": 2
+  },
+  {
+    "BattleFieldEffectGroupId": 63014010,
+    "BattleFieldEffectId": 6301401004,
+    "OrderNo": 3
   }
 ]

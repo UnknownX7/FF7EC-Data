@@ -248,6 +248,18 @@
     "MissionGroupId": 120203502
   },
   {
+    "EventBaseId": 2036,
+    "MissionGroupId": 120203601
+  },
+  {
+    "EventBaseId": 2036,
+    "MissionGroupId": 120203602
+  },
+  {
+    "EventBaseId": 2037,
+    "MissionGroupId": 120203701
+  },
+  {
     "EventBaseId": 3001,
     "MissionGroupId": 1203001
   },
@@ -620,6 +632,14 @@
     "MissionGroupId": 120305202
   },
   {
+    "EventBaseId": 3053,
+    "MissionGroupId": 120305301
+  },
+  {
+    "EventBaseId": 3053,
+    "MissionGroupId": 120305302
+  },
+  {
     "EventBaseId": 3054,
     "MissionGroupId": 120305401
   },
@@ -868,6 +888,14 @@
     "MissionGroupId": 120902602
   },
   {
+    "EventBaseId": 9027,
+    "MissionGroupId": 120902701
+  },
+  {
+    "EventBaseId": 9027,
+    "MissionGroupId": 120902702
+  },
+  {
     "EventBaseId": 9124,
     "MissionGroupId": 120912401
   },
@@ -956,6 +984,10 @@
     "MissionGroupId": 121301301
   },
   {
+    "EventBaseId": 13014,
+    "MissionGroupId": 121301401
+  },
+  {
     "EventBaseId": 14001,
     "MissionGroupId": 121400101
   },
@@ -1034,5 +1066,9 @@
   {
     "EventBaseId": 14020,
     "MissionGroupId": 121402001
+  },
+  {
+    "EventBaseId": 14021,
+    "MissionGroupId": 121402101
   }
 ]

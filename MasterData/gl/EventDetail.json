@@ -1017,6 +1017,15 @@
     "DescriptionLanguageId": 866000000009026
   },
   {
+    "Id": 9027,
+    "ResorceId": 9027,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10051,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000009027,
+    "DescriptionLanguageId": 866000000009027
+  },
+  {
     "Id": 9124,
     "ResorceId": 9024,
     "DisplayRewardSetId": 340000003001,
@@ -1323,6 +1332,15 @@
     "DescriptionLanguageId": 866000000013013
   },
   {
+    "Id": 13014,
+    "ResorceId": 13014,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10005,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000013014,
+    "DescriptionLanguageId": 866000000013014
+  },
+  {
     "Id": 14001,
     "ResorceId": 14001,
     "DisplayRewardSetId": 340000003001,
@@ -1501,6 +1519,15 @@
     "GachaId2": 0,
     "CautionLanguageId": 867000000014020,
     "DescriptionLanguageId": 866000000014020
+  },
+  {
+    "Id": 14021,
+    "ResorceId": 14021,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10084,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000014021,
+    "DescriptionLanguageId": 866000000014021
   },
   {
     "Id": 15001,
@@ -1980,6 +2007,24 @@
     "DescriptionLanguageId": 866000000002035
   },
   {
+    "Id": 2036001,
+    "ResorceId": 2036,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10005,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000002036,
+    "DescriptionLanguageId": 866000000002036
+  },
+  {
+    "Id": 2037001,
+    "ResorceId": 2037,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10005,
+    "GachaId2": 0,
+    "CautionLanguageId": 867000000002037,
+    "DescriptionLanguageId": 866000000002037
+  },
+  {
     "Id": 3025001,
     "ResorceId": 3025,
     "DisplayRewardSetId": 340000003001,
@@ -2077,5 +2122,14 @@
     "GachaId2": 0,
     "CautionLanguageId": 867000000003052,
     "DescriptionLanguageId": 866000000003052
+  },
+  {
+    "Id": 3053001,
+    "ResorceId": 3053,
+    "DisplayRewardSetId": 340000003001,
+    "GachaId1": 10187,
+    "GachaId2": 10188,
+    "CautionLanguageId": 867000000003053,
+    "DescriptionLanguageId": 866000000003053
   }
 ]

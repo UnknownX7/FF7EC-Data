@@ -110,11 +110,19 @@
     },
     {
       "id": 5662100701101,
-      "value": "Deal 1,000% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+      "value": "Deal 1,000% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases Pot. per dice roll (up to x6).\nApplies Phys. ATB Conservation Effect when used on the third Limit Combo strike. [Rng.: All Allies] [Phys. Weapon/Gear C. Ability ATB Cost: -1] [Dur.: 40s] [Ext.: +13s].\nApplies Mag. ATB Conservation Effect when used on the third Limit Combo strike. [Rng.: All Allies] [Mag. Weapon/Gear C. Ability ATB Cost: -1] [Dur.: 40s] [Ext.: +13s]."
     },
     {
       "id": 5662100701102,
-      "value": "Deal <color=#A5D47F>1,000%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases STR per dice roll (up to x6)."
+      "value": "Deal <color=#A5D47F>1,000%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, increases Pot. per dice roll (up to x6).\n<color=#A5D47F>Applies Phys. ATB Conservation Effect when used on the third Limit Combo strike. [Rng.: All Allies] [Phys. Weapon/Gear C. Ability ATB Cost: -1] [Dur.: 40s] [Ext.: +13s].\nApplies Mag. ATB Conservation Effect when used on the third Limit Combo strike. [Rng.: All Allies] [Mag. Weapon/Gear C. Ability ATB Cost: -1] [Dur.: 40s] [Ext.: +13s].</color>"
+    },
+    {
+      "id": 5662100702101,
+      "value": "Deal 960% Phys./Mag. Non-elem. damage [Rng.: Single Enemy].\nAlso, PDEF is decreased. [Pot: Mid] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +30s] [Max. Pot.: Mid].\nMDEF is decreased. [Pot: Mid] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +30s] [Max. Pot.: Mid].\nStatus Ailment: Enfeeble is applied when used on the third Limit Combo strike. [Rng.: Single Enemy] [Dur.: 60s] [Ext.: +60s] [Ignores Resist.]."
+    },
+    {
+      "id": 5662100702102,
+      "value": "Deal 960% Phys./Mag. Non-elem. damage [Rng.: Single Enemy].\nAlso, PDEF is decreased. [Pot: Mid] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +30s] [Max. Pot.: Mid].\nMDEF is decreased. [Pot: Mid] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +30s] [Max. Pot.: Mid].\n<color=#A5D47F>Status Ailment: Enfeeble is applied when used on the third Limit Combo strike. [Rng.: Single Enemy] [Dur.: 60s] [Ext.: +60s] [Ignores Resist.].</color>"
     },
     {
       "id": 5662100801011,
@@ -186,11 +194,11 @@
     },
     {
       "id": 5662100801101,
-      "value": "Deal 4,500% Phys./Mag. Non-elem. dmg. [Rng.: All Enemies].\nAlso, PATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.].\nMATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.]."
+      "value": "Deal 4,500% Phys./Mag. Non-elem. damage [Rng.: All Enemies].\nAlso, PATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.].\nMATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.].\nPDEF is decreased when used on the third Limit Combo strike. [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.].\nMDEF is decreased when used on the third Limit Combo strike. [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.]."
     },
     {
       "id": 5662100801102,
-      "value": "Deal <color=#A5D47F>4,500%</color> Phys./Mag. Non-elem. dmg. [Rng.: All Enemies].\nAlso, PATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: <color=#A5D47F>20</color>s] [Ext.: +<color=#A5D47F>20</color>s] [Max. Pot.: High] [Ignores Resist.].\nMATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: <color=#A5D47F>20</color>s] [Ext.: +<color=#A5D47F>20</color>s] [Max. Pot.: High] [Ignores Resist.]."
+      "value": "Deal <color=#A5D47F>4,500%</color> Phys./Mag. Non-elem. damage [Rng.: All Enemies].\nAlso, PATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: <color=#A5D47F>20</color>s] [Ext.: +<color=#A5D47F>20</color>s] [Max. Pot.: High] [Ignores Resist.].\nMATK is decreased. [Pot: High] [Rng.: All Enemies] [Dur.: <color=#A5D47F>20</color>s] [Ext.: +<color=#A5D47F>20</color>s] [Max. Pot.: High] [Ignores Resist.].\n<color=#A5D47F>PDEF is decreased when used on the third Limit Combo strike.  [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.].\nMDEF is decreased when used on the third Limit Combo strike. [Pot: High] [Rng.: All Enemies] [Dur.: 20s] [Ext.: +20s] [Max. Pot.: High] [Ignores Resist.].</color>"
     },
     {
       "id": 5662104903011,
@@ -211,6 +219,14 @@
     {
       "id": 5662104903032,
       "value": "Deal <color=#A5D47F>1,100</color>% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, When Buff (Stats/Pot./Res.) is granted to Self, x2 damage."
+    },
+    {
+      "id": 5662105001101,
+      "value": "Deal 3,000% Phys./Mag. Non-elem. damage [Range: Single Enemy].\nAlso, PDEF is decreased when used on the third Limit Combo strike. [Pot: High] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +10s] [Max. Pot.: High] [Ignores Resist.].\nMDEF is decreased when used on the third Limit Combo strike. [Pot: High] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +10s] [Max. Pot.: High] [Ignores Resist.]."
+    },
+    {
+      "id": 5662105001102,
+      "value": "Deal <color=#A5D47F>3,000%</color> Phys./Mag. Non-elem. damage [Range: Single Enemy].\n<color=#A5D47F>Also, PDEF is decreased when used on the third Limit Combo strike. [Pot: High] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +10s] [Max. Pot.: High] [Ignores Resist.].\nMDEF is decreased when used on the third Limit Combo strike. [Pot: High] [Rng.: Single Enemy] [Dur.: 30s] [Ext.: +10s] [Max. Pot.: High] [Ignores Resist.].</color>"
     },
     {
       "id": 5662400201011,

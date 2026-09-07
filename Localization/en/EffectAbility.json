@@ -638,7 +638,7 @@
     },
     {
       "id": 504201,
-      "value": "Applied {3} {4} {5}{1} {2} {0}{6}"
+      "value": "{0} Applied {3} {4} {5}{1} {2} {6}"
     },
     {
       "id": 504202,
@@ -670,7 +670,7 @@
     },
     {
       "id": 504209,
-      "value": "{3} is increased.\n[Pot.: +{4}%]{1} {2} [Dur.: {5}s] [Ext.: +{6}s] {0}"
+      "value": "{0} {3} is increased.\n[Pot.: +{4}%]{1} {2} [Dur.: {5}s] [Ext.: +{6}s]"
     },
     {
       "id": 504210,
@@ -718,35 +718,35 @@
     },
     {
       "id": 504221,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to fire)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to fire)"
     },
     {
       "id": 504222,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to ice)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to ice)"
     },
     {
       "id": 504223,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to lightning)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to lightning)"
     },
     {
       "id": 504224,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to earth)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to earth)"
     },
     {
       "id": 504225,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to wind)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to wind)"
     },
     {
       "id": 504226,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to water)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to water)"
     },
     {
       "id": 504227,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to light)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to light)"
     },
     {
       "id": 504228,
-      "value": "Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {0} {1} (Cannot be applied to target's weak/resistant to dark)"
+      "value": "{0} Applies {3} +{4}%\n{2} [Dur.: {5}s] [Ext.: +{6}s] {1} (Cannot be applied to target's weak/resistant to dark)"
     },
     {
       "id": 504229,
@@ -822,19 +822,19 @@
     },
     {
       "id": 504263,
-      "value": "Applies {3} ATB Conservation Effect {2} [{3} Weapon/Gear C. Ability ATB Cost: -{4}] [Dur.: {5}s] [Ext.: +{6}s] {0} {1}"
+      "value": "{0} Applies {3} ATB Conservation Effect\n{2} [{3} Weapon/Gear C. Ability ATB Cost: -{4}] [Dur.: {5}s] [Ext.: +{6}s] {1}"
     },
     {
       "id": 504264,
-      "value": "Applies {3}\n{2} [{5} C./UC. Ability: Damage +{6}% up to {4} time(s)] [Dur.: {7}s] [Ext.: +{8}s] {0} {1}"
+      "value": "{0}  Applies {3} {2} [{5} C./UC. Ability: Damage +{6}% up to {4} time(s)] [Dur.: {7}s] [Ext.: +{8}s] {1}"
     },
     {
       "id": 504265,
-      "value": "Applies Amp. Critical Rate\n{2} [C./UC. Ability: Critical Rate x{4} up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s] {0} {1}"
+      "value": "{0} Applies Amp. Critical Rate\n{2} [C./UC. Ability: Critical Rate x{4} up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s] {1}"
     },
     {
       "id": 504266,
-      "value": "Applies Amp. Healing Abilities\n{2} [C./UC. Ability: Healing +{4}% up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s] {0} {1}"
+      "value": "{0} Applies Amp. Healing Abilities\n{2} [C./UC. Ability: Healing +{4}% up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s] {1}"
     },
     {
       "id": 504267,
@@ -846,11 +846,11 @@
     },
     {
       "id": 504269,
-      "value": "{4} overspeed gauge [Pot.: {3}%] {2} {0} {1} (Not applied while overspeed is active)"
+      "value": "{0} {4} overspeed gauge [Pot.: {3}%] {2} {1} (Not applied while overspeed is active)"
     },
     {
       "id": 504270,
-      "value": "Applies {3} {2} [Dur.: {4}s] [Ext.: +{5}s] [While active: damage received increased by {6}%] {0} {1}"
+      "value": "{0} Applies {3} {2} [Dur.: {4}s] [Ext.: +{5}s] [While active: damage received increased by {6}%] {1}"
     },
     {
       "id": 504271,
@@ -858,39 +858,39 @@
     },
     {
       "id": 504272,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against fire]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against fire]"
     },
     {
       "id": 504273,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against ice]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against ice]"
     },
     {
       "id": 504274,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against lightning]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against lightning]"
     },
     {
       "id": 504275,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against wind]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against wind]"
     },
     {
       "id": 504276,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against earth]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against earth]"
     },
     {
       "id": 504277,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against light]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against light]"
     },
     {
       "id": 504278,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against dark]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against dark]"
     },
     {
       "id": 504279,
-      "value": "Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {0} {1} [Can only be applied to targets weak against water]"
+      "value": "{0} Applies {3} {2} [Pot.: {4}%] [Dur.: {5}s] [Ext.: +{6}s] {1} [Can only be applied to targets weak against water]"
     },
     {
       "id": 504280,
-      "value": "Applies LB Ultimate to {0} {1} {2} (LB: Damage +{3}% during effect duration; also exploits weaknesses) [Dur.: {4}s] [Ext.: +{5}s]"
+      "value": "{0} Applies LB Ultimate. (LB: Damage +{3}% during effect duration; also hits target's weakness) {1} {2} [Dur.: {4}s] [Ext.: +{5}s]"
     },
     {
       "id": 504281,
@@ -898,7 +898,7 @@
     },
     {
       "id": 504282,
-      "value": "Applies LB Amp to {0} {1} {2} [LB: Damage +{4}% up to {3} time(s)] [Dur.: {5}s] [Ext.: +{6}s]"
+      "value": "{0} Applies LB Amp. [LB: Damage +{4}% up to {3} time(s)] {1} {2} [Dur.: {5}s] [Ext.: +{6}s]"
     }
   ]
 }

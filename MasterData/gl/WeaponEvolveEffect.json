@@ -102,6 +102,18 @@
     "TargetId": 21701
   },
   {
+    "Id": 10551,
+    "WeaponEvolveId": 10551,
+    "WeaponEvolveEffectType": 1,
+    "TargetId": 10551
+  },
+  {
+    "Id": 10553,
+    "WeaponEvolveId": 10553,
+    "WeaponEvolveEffectType": 3,
+    "TargetId": 66601
+  },
+  {
     "Id": 20132,
     "WeaponEvolveId": 20132,
     "WeaponEvolveEffectType": 1,
@@ -294,6 +306,18 @@
     "TargetId": 21201
   },
   {
+    "Id": 30552,
+    "WeaponEvolveId": 30552,
+    "WeaponEvolveEffectType": 1,
+    "TargetId": 30552
+  },
+  {
+    "Id": 30553,
+    "WeaponEvolveId": 30553,
+    "WeaponEvolveEffectType": 3,
+    "TargetId": 66601
+  },
+  {
     "Id": 40032,
     "WeaponEvolveId": 40032,
     "WeaponEvolveEffectType": 1,
@@ -406,6 +430,18 @@
     "WeaponEvolveId": 40463,
     "WeaponEvolveEffectType": 3,
     "TargetId": 62501
+  },
+  {
+    "Id": 40482,
+    "WeaponEvolveId": 40482,
+    "WeaponEvolveEffectType": 1,
+    "TargetId": 40482
+  },
+  {
+    "Id": 40483,
+    "WeaponEvolveId": 40483,
+    "WeaponEvolveEffectType": 3,
+    "TargetId": 66601
   },
   {
     "Id": 50273,
@@ -1108,5 +1144,17 @@
     "WeaponEvolveId": 600123,
     "WeaponEvolveEffectType": 3,
     "TargetId": 21301
+  },
+  {
+    "Id": 600141,
+    "WeaponEvolveId": 600141,
+    "WeaponEvolveEffectType": 1,
+    "TargetId": 600141
+  },
+  {
+    "Id": 600143,
+    "WeaponEvolveId": 600143,
+    "WeaponEvolveEffectType": 3,
+    "TargetId": 66601
   }
 ]

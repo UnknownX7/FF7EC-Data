@@ -119,6 +119,20 @@
     "WeaponIngredientGroupId": 101302
   },
   {
+    "Id": 10551,
+    "WeaponEvolveGroupId": 1055,
+    "WeaponEvolveType": 1,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101101
+  },
+  {
+    "Id": 10553,
+    "WeaponEvolveGroupId": 1055,
+    "WeaponEvolveType": 3,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101301
+  },
+  {
     "Id": 20132,
     "WeaponEvolveGroupId": 2013,
     "WeaponEvolveType": 2,
@@ -343,6 +357,20 @@
     "WeaponIngredientGroupId": 101301
   },
   {
+    "Id": 30552,
+    "WeaponEvolveGroupId": 3055,
+    "WeaponEvolveType": 2,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101202
+  },
+  {
+    "Id": 30553,
+    "WeaponEvolveGroupId": 3055,
+    "WeaponEvolveType": 3,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101302
+  },
+  {
     "Id": 40032,
     "WeaponEvolveGroupId": 4003,
     "WeaponEvolveType": 2,
@@ -471,6 +499,20 @@
   {
     "Id": 40463,
     "WeaponEvolveGroupId": 4046,
+    "WeaponEvolveType": 3,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101302
+  },
+  {
+    "Id": 40482,
+    "WeaponEvolveGroupId": 4048,
+    "WeaponEvolveType": 2,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101202
+  },
+  {
+    "Id": 40483,
+    "WeaponEvolveGroupId": 4048,
     "WeaponEvolveType": 3,
     "ConsumptionGil": 500000,
     "WeaponIngredientGroupId": 101302
@@ -1290,6 +1332,20 @@
   {
     "Id": 600123,
     "WeaponEvolveGroupId": 60012,
+    "WeaponEvolveType": 3,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101301
+  },
+  {
+    "Id": 600141,
+    "WeaponEvolveGroupId": 60014,
+    "WeaponEvolveType": 1,
+    "ConsumptionGil": 500000,
+    "WeaponIngredientGroupId": 101101
+  },
+  {
+    "Id": 600143,
+    "WeaponEvolveGroupId": 60014,
     "WeaponEvolveType": 3,
     "ConsumptionGil": 500000,
     "WeaponIngredientGroupId": 101301

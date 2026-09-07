@@ -3256,6 +3256,28 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 310025,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000310025,
+    "OrderNo": 310025,
+    "NotHaveDisplayConditionSetId": 240190310025,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 310026,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000310026,
+    "OrderNo": 310026,
+    "NotHaveDisplayConditionSetId": 240190310025,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 320000,
     "PositionType": 4,
     "HonorCategoryId": 0,
@@ -3905,6 +3927,17 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 350027,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000350027,
+    "OrderNo": 310027,
+    "NotHaveDisplayConditionSetId": 240190310025,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 410011,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -4155,6 +4188,28 @@
     "NameLanguageId": 560000000410124,
     "OrderNo": 410124,
     "NotHaveDisplayConditionSetId": 240190310023,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 410132,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 410132,
+    "NameLanguageId": 560000000410132,
+    "OrderNo": 410132,
+    "NotHaveDisplayConditionSetId": 240190310025,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 410133,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 410133,
+    "NameLanguageId": 560000000410133,
+    "OrderNo": 410133,
+    "NotHaveDisplayConditionSetId": 240190310025,
     "LockLanguageId": 0
   },
   {
@@ -5364,6 +5419,17 @@
     "ResourceId": 10003,
     "NameLanguageId": 560000000700102,
     "OrderNo": 700102,
+    "NotHaveDisplayConditionSetId": 0,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 700105,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000000700105,
+    "OrderNo": 700105,
     "NotHaveDisplayConditionSetId": 0,
     "LockLanguageId": 0
   },
@@ -8712,6 +8778,50 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 1100330,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100330,
+    "OrderNo": 1100330,
+    "NotHaveDisplayConditionSetId": 611000003053,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100331,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001100331,
+    "OrderNo": 1100331,
+    "NotHaveDisplayConditionSetId": 611000003053,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100332,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1100332,
+    "NameLanguageId": 560000001100332,
+    "OrderNo": 1100332,
+    "NotHaveDisplayConditionSetId": 611000003053,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1100333,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1100333,
+    "NameLanguageId": 560000001100333,
+    "OrderNo": 1100333,
+    "NotHaveDisplayConditionSetId": 611000003053,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 1200001,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -10868,6 +10978,94 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 1300120,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001300120,
+    "OrderNo": 1300120,
+    "NotHaveDisplayConditionSetId": 611000002036,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300121,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001300121,
+    "OrderNo": 1300121,
+    "NotHaveDisplayConditionSetId": 611000002036,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300122,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300122,
+    "NameLanguageId": 560000001300122,
+    "OrderNo": 1300122,
+    "NotHaveDisplayConditionSetId": 611000002037,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300123,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300123,
+    "NameLanguageId": 560000001300123,
+    "OrderNo": 1300123,
+    "NotHaveDisplayConditionSetId": 611000002037,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300124,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300124,
+    "NameLanguageId": 560000001300124,
+    "OrderNo": 1300124,
+    "NotHaveDisplayConditionSetId": 611000002037,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300125,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300125,
+    "NameLanguageId": 560000001300125,
+    "OrderNo": 1300125,
+    "NotHaveDisplayConditionSetId": 611000002037,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300126,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300126,
+    "NameLanguageId": 560000001300126,
+    "OrderNo": 1300126,
+    "NotHaveDisplayConditionSetId": 611000002037,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1300127,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1300127,
+    "NameLanguageId": 560000001300127,
+    "OrderNo": 1300127,
+    "NotHaveDisplayConditionSetId": 611000002037,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 1400101,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -11440,6 +11638,28 @@
     "LockLanguageId": 0
   },
   {
+    "Id": 1400161,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1400161,
+    "NameLanguageId": 560000001400161,
+    "OrderNo": 1400161,
+    "NotHaveDisplayConditionSetId": 611000009027,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1400162,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1400162,
+    "NameLanguageId": 560000001400162,
+    "OrderNo": 1400162,
+    "NotHaveDisplayConditionSetId": 611000009027,
+    "LockLanguageId": 0
+  },
+  {
     "Id": 1500101,
     "PositionType": 5,
     "HonorCategoryId": 2,
@@ -11558,6 +11778,17 @@
     "NameLanguageId": 560000001500111,
     "OrderNo": 1500111,
     "NotHaveDisplayConditionSetId": 860001500111,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1500112,
+    "PositionType": 5,
+    "HonorCategoryId": 2,
+    "ItemRarityType": 1,
+    "ResourceId": 1500112,
+    "NameLanguageId": 560000001500112,
+    "OrderNo": 1500112,
+    "NotHaveDisplayConditionSetId": 860001500112,
     "LockLanguageId": 0
   },
   {
@@ -11965,6 +12196,17 @@
     "NameLanguageId": 560000001600134,
     "OrderNo": 1600134,
     "NotHaveDisplayConditionSetId": 613000014020,
+    "LockLanguageId": 0
+  },
+  {
+    "Id": 1600135,
+    "PositionType": 3,
+    "HonorCategoryId": 0,
+    "ItemRarityType": 1,
+    "ResourceId": 10003,
+    "NameLanguageId": 560000001600135,
+    "OrderNo": 1600135,
+    "NotHaveDisplayConditionSetId": 613000014021,
     "LockLanguageId": 0
   },
   {

@@ -21,6 +21,20 @@
     "ResourceId": 100103
   },
   {
+    "Id": 100104,
+    "SkillSpecialType": 1,
+    "ContentId": 1,
+    "SkillBaseId": 100104,
+    "ResourceId": 100104
+  },
+  {
+    "Id": 100105,
+    "SkillSpecialType": 1,
+    "ContentId": 100,
+    "SkillBaseId": 100105,
+    "ResourceId": 100105
+  },
+  {
     "Id": 100201,
     "SkillSpecialType": 1,
     "ContentId": 2,
@@ -446,6 +460,13 @@
     "ContentId": 400301,
     "SkillBaseId": 400301,
     "ResourceId": 400301
+  },
+  {
+    "Id": 400401,
+    "SkillSpecialType": 3,
+    "ContentId": 400401,
+    "SkillBaseId": 400401,
+    "ResourceId": 400401
   },
   {
     "Id": 921001,
