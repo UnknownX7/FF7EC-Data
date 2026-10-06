@@ -13875,6 +13875,21 @@
     "MaxDisplayCount": 0
   },
   {
+    "Id": 7000001,
+    "MovieResourceId": 7000001,
+    "LayoutResourceId": 1,
+    "ImageResourceId": 7000001,
+    "Priority": 26101001,
+    "DisplayConditionSetId": 671007000001,
+    "VisibleOpenConditionSetId": 671007000001,
+    "TransitionType": 0,
+    "TransitionId": 0,
+    "EnableHomeBgm": false,
+    "ButtonLanguageId": 2,
+    "ResetId": 0,
+    "MaxDisplayCount": 1
+  },
+  {
     "Id": 61100101,
     "MovieResourceId": 61100101,
     "LayoutResourceId": 1,
